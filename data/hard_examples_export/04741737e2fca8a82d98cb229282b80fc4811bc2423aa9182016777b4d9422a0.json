@@ -116,5 +116,17 @@
     }
   ],
   "raw_content": "{\n  \"id\" : 39692,\n  \"date\" : \"2022-04-14T06:00:00\",\n  \"date_gmt\" : \"2022-04-14T12:00:00\",\n  \"modified_gmt\" : \"2022-04-14T12:00:00\",\n  \"link\" : \"https://www.claycountycourier.com/chs-prom-2022/\",\n  \"title\" : {\n    \"rendered\" : \"CHS Prom 2022\"\n  },\n  \"content\" : {\n    \"rendered\" : \"<p><b>Photo/Tonya Lunsford</b></p>\\n<p><b>Photo/Amy Jordan</b></p>\\n<p><b>Photo/Amy Jordan</b></p>\\n<p><b>Photo/Marka Woods</b></p>\\n<p><b>Photo/Tonya Lunsford</b></p>\\n<p><b>Photo/Marka Woods</b></p>\\n<p><b>Photo/Pam Lowe</b></p>\\n<p><b>Photo/Pam Lowe</b></p>\\n\"\n  },\n  \"excerpt\" : {\n    \"rendered\" : \"<p> Photo/Tonya Lunsford Photo/Amy Jordan Photo/Amy Jordan Photo/Marka Woods Photo/Tonya Lunsford Photo/Marka Woods Photo/Pam Lowe Photo/Pam Lowe .</p>\\n\"\n  },\n  \"author\" : 5,\n  \"featured_media\" : 39700,\n  \"class_list\" : [ \"post-39692\", \"post\", \"type-post\", \"status-publish\", \"format-standard\", \"has-post-thumbnail\", \"hentry\", \"category-lifestyle\" ]\n}",
-  "markdown_content": "**Photo/Tonya Lunsford**\n\n**Photo/Amy Jordan**\n\n**Photo/Amy Jordan**\n\n**Photo/Marka Woods**\n\n**Photo/Tonya Lunsford**\n\n**Photo/Marka Woods**\n\n**Photo/Pam Lowe**\n\n**Photo/Pam Lowe**"
+  "markdown_content": "**Photo/Tonya Lunsford**\n\n**Photo/Amy Jordan**\n\n**Photo/Amy Jordan**\n\n**Photo/Marka Woods**\n\n**Photo/Tonya Lunsford**\n\n**Photo/Marka Woods**\n\n**Photo/Pam Lowe**\n\n**Photo/Pam Lowe**",
+  "removed_blocks": [],
+  "edited_blocks": [],
+  "block_comments": [],
+  "label_status": "not_started",
+  "doc_comment": "",
+  "labeler": "chunshui@prorata.ai",
+  "cleaned_content": "**Photo/Tonya Lunsford**\n\n**Photo/Amy Jordan**\n\n**Photo/Amy Jordan**\n\n**Photo/Marka Woods**\n\n**Photo/Tonya Lunsford**\n\n**Photo/Marka Woods**\n\n**Photo/Pam Lowe**\n\n**Photo/Pam Lowe**",
+  "total_blocks": 8,
+  "kept_blocks": 8,
+  "removed_blocks_count": 0,
+  "edited_blocks_count": 0,
+  "block_comments_count": 0
 }

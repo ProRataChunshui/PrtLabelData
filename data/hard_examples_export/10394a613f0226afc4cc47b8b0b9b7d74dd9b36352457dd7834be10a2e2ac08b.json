@@ -113,5 +113,17 @@
     }
   ],
   "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Scroll.in</title>\r\n    <link>https://scroll.in</link>\r\n    <description>A digital daily of things that matter.</description>\r\n    <docs>http://www.rssboard.org/rss-specification</docs>\r\n    <generator>python-feedgen</generator>\r\n    <image>\r\n      <title>Scroll.in</title>\r\n      <url>http://s3-ap-southeast-1.amazonaws.com/scroll-feeds/scroll_logo_small.png</url>\r\n      <link>https://scroll.in</link>\r\n      <width>-1</width>\r\n      <height>-1</height>\r\n    </image>\r\n    <item>\r\n      <title>How they see Modi</title>\r\n      <link>http://scroll.in/article/664531/how-they-see-modi?utm_source=rss&amp;utm_medium=prorata</link>\r\n      <description>Who is the real NaMo?</description>\r\n      <enclosure url=\"https://sc0.blr1.digitaloceanspaces.com/large/664531-177d81a5-eeb1-4cba-8e6b-32d647a64731.jpg\" length=\"0\" type=\"image/jpeg\" />\r\n      <pubDate>Fri, 16 May 2014 01:15:11 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">http://scroll.in/article/664531/how-they-see-modi?utm_source=rss&amp;utm_medium=prorata</guid>\r\n      <dc:creator>Scroll Staff</dc:creator>\r\n      <dc:date>2014-05-16T01:15:11Z</dc:date>\r\n      <content:encoded><![CDATA[<p><figure><img src=\"https://sc0.blr1.digitaloceanspaces.com/large/664531-177d81a5-eeb1-4cba-8e6b-32d647a64731.jpg\" /></figure></p><p style=\"text-align: center;\"><img src=\"https://s3-ap-southeast-1.amazonaws.com/scrollstorage/1400163199-385_modi-meme-final.jpg\"/></p>]]></content:encoded>\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
-  "markdown_content": "![](https://sc0.blr1.digitaloceanspaces.com/large/664531-177d81a5-eeb1-4cba-8e6b-32d647a64731.jpg)\n\n![](https://s3-ap-southeast-1.amazonaws.com/scrollstorage/1400163199-385_modi-meme-final.jpg)"
+  "markdown_content": "![](https://sc0.blr1.digitaloceanspaces.com/large/664531-177d81a5-eeb1-4cba-8e6b-32d647a64731.jpg)\n\n![](https://s3-ap-southeast-1.amazonaws.com/scrollstorage/1400163199-385_modi-meme-final.jpg)",
+  "removed_blocks": [],
+  "edited_blocks": [],
+  "block_comments": [],
+  "label_status": "not_started",
+  "doc_comment": "",
+  "labeler": "chunshui@prorata.ai",
+  "cleaned_content": "![](https://sc0.blr1.digitaloceanspaces.com/large/664531-177d81a5-eeb1-4cba-8e6b-32d647a64731.jpg)\n\n![](https://s3-ap-southeast-1.amazonaws.com/scrollstorage/1400163199-385_modi-meme-final.jpg)",
+  "total_blocks": 2,
+  "kept_blocks": 2,
+  "removed_blocks_count": 0,
+  "edited_blocks_count": 0,
+  "block_comments_count": 0
 }

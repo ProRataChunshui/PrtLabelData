@@ -261,5 +261,17 @@
     }
   ],
   "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Dazed</title>\r\n    <link>https://dazeddigital.com/feed/rss/gist</link>\r\n    <description>Youth and pop culture provocateurs since 1991. Fearless fashion, music, art, film, politics and ideas from today's bleeding edge. Declare Independence.</description>\r\n    <item>\r\n      <title>EXCLUSIVE: Nightwave Mix</title>\r\n      <link>https://www.dazeddigital.com/music/article/13357/1/exclusive-nightwave-mix</link>\r\n      <description>We get an exclusive mix from the Svetlana Industries signing and DJ featuring the likes of AFX, Ludacris, and Machinedrum for one hell of a ride</description>\r\n      <pubDate>Mon, 07 May 2012 08:39:00 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">https://www.dazeddigital.com/music/article/13357/1/exclusive-nightwave-mix</guid>\r\n      <dc:creator>Flora Yin-Wong</dc:creator>\r\n      <dc:date>2012-05-07T08:39:00Z</dc:date>\r\n      <media:text type=\"html\">Dazed fave Nightwave, known for her eclectic high-energy DJ sets and solo productions out on electronic labels like Svetlana Industries, Unknown to the Unknown and Seed, has made us an exclusive mix featuring everything from Luda to DJ Rashad and anthems from DJ Pierre. Check it out here spanning everything from 2-step, juke, house and hip hop...\r\nTRACKLISTINGLudacris - Child Of The Night ft Nate DoggJane 3 - Screensaver (Big Dope P Remix)Manny - I'm PassinNightwave - Jazz312DJ Rashad vs Julio Bashmore - Battle For The MiddleDJ Assault - Big KnotsStarski&amp;amp;Clutch - East To WestPatrice and Friends - Don't You Touch MyBig Dope P - Kapongo Dance (Julius Sylvest VIP Mix)DJ Rashad - Madnezz 2010DJ Pierre - Haterz Knock'Em OutNightwave - For YouTraxman - Footworkin On AirEprom - Regis Chillbin (Machinedrum Remix)DJ Spinn - Freekin' YouMachinedrum - U Don't Survive (Chrissy Murderbot Remix)AFX - 4Drexciya - Hydro Theory (Phillip D Kick Footwork Edit)\r\n\r\n\r\nExclusive Nightwave Mix by Dazed &amp;amp; Confused on  Mixcloud</media:text>\r\n      <media:embed url=\"https://www.mixcloud.com/widget/iframe/?feed=http://www.mixcloud.com/dazed%2Fexclusive-nightwave-mix\" />\r\n      <media:content type=\"image/jpeg\" isDefault=\"true\" url=\"https://images-prod.dazeddigital.com/630/azure/dazed-prod/890/5/895102.jpg\" />\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
-  "markdown_content": "We get an exclusive mix from the Svetlana Industries signing and DJ featuring the likes of AFX, Ludacris, and Machinedrum for one hell of a ride"
+  "markdown_content": "We get an exclusive mix from the Svetlana Industries signing and DJ featuring the likes of AFX, Ludacris, and Machinedrum for one hell of a ride",
+  "removed_blocks": [],
+  "edited_blocks": [],
+  "block_comments": [],
+  "label_status": "not_started",
+  "doc_comment": "",
+  "labeler": "chunshui@prorata.ai",
+  "cleaned_content": "We get an exclusive mix from the Svetlana Industries signing and DJ featuring the likes of AFX, Ludacris, and Machinedrum for one hell of a ride",
+  "total_blocks": 1,
+  "kept_blocks": 1,
+  "removed_blocks_count": 0,
+  "edited_blocks_count": 0,
+  "block_comments_count": 0
 }

@@ -1,1 +1,150 @@
-{"document_id": "00fc6fceb15d5c5155822b560bc895a953387d7191ce8ae0f3440f22e1a458ed", "document_metadata": {"id": "00fc6fceb15d5c5155822b560bc895a953387d7191ce8ae0f3440f22e1a458ed", "date": 20241028, "publisher_id": "8c5a5ab2-3096-47b0-a09a-3d4bbb93bcfe", "image": "https://www.gbnews.com/media-library/watch-nigel-farage-takes-aim-at-kamala-harris-for-her-attacks-on-donald-trump.jpg?id=54016821&width=980", "date_year": 2024, "date_month": 10, "url2": "https://www.gbnews.com/politics/us/us-election-fbi-conspiracy-theory-extremists-donald-trump-poll-polling-lead", "domain": "www.gbnews.com", "crawl_date": "2025-03-21T22:06:50.004636Z", "date_day": 28, "title": "US election: FBI warns of 'conspiracy theory extremists' as Trump takes crucial polling lead", "published_date": "2024-10-28T21:41:52Z", "url": "https://www.gbnews.com/politics/us/us-election-fbi-conspiracy-theory-extremists-donald-trump-poll-polling-lead", "dir": "8c5a5ab2-3096-47b0-a09a-3d4bbb93bcfe", "contentType": "web", "metadataVersion": 1, "source": "GB News", "favicon": "https://www.google.com/s2/favicons?sz=128&domain=www.gbnews.com", "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=www.gbnews.com", "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=www.gbnews.com", "first_words": "So-called conspiracy theory extremists could move to disrupt next week's US election, the FBI has warned. In a \"Joint Intelligence Bulletin\", both the FBI and the Department of Homeland Security (DHS) have raised fears about violence as Americans head to the polls. In the bulletin, the two offices have warned state and local law enforcement agencies across the US that domestic violent extremists are looking to terrorise the public and disrupt voting - both on November 5's election day and on inauguration day on January 20. Their report has also pointed to potential targets: candidates, elected officials,", "updateVersion": "07192025_run1_publisher_groupid", "reason": "update_publisher_metadata_v2", "has_markdown": true, "markdown_input_text_type": "processedText", "markdown_converter_type": "markdownify-with-preprocessing", "has_chunks": true}, "publisher_metadata": null, "content_metadata": null, "ingest_metadata_from_chunks": null, "chunks": [{"content": "So-called conspiracy theory extremists could move to disrupt next week's US election, the FBI has warned.\nIn a “Joint Intelligence Bulletin“, both the FBI and the Department of Homeland Security (DHS) have raised fears about violence as Americans head to the polls.\nIn the bulletin, the two offices have warned state and local law enforcement agencies across the US that domestic violent extremists are looking to terrorise the public and disrupt voting - both on November 5's election day and on inauguration day on January 20.", "content_original": "So-called conspiracy theory extremists could move to disrupt next week's US election, the FBI has warned.\nIn a “Joint Intelligence Bulletin“, both the FBI and the Department of Homeland Security (DHS) have raised fears about violence as Americans head to the polls.\nIn the bulletin, the two offices have warned state and local law enforcement agencies across the US that domestic violent extremists are looking to terrorise the public and disrupt voting - both on November 5's election day and on inauguration day on January 20.", "include": true, "schema_version": "2.0", "chunk_metadata": {"id": "00fc6fceb15d5c5155822b560bc895a953387d7191ce8ae0f3440f22e1a458ed-0", "idx": 0}}, {"content": "Their report has also pointed to potential targets: candidates, elected officials, election workers, members of the media and judges involved in election cases.\nWhile the threats could include physical attacks and violence at polling places, ballot boxes, voter registration locations, rallies and campaign events.\nThe report was unearthed by a government transparency campaign group called Property of the People - and has prompted an official statement from the DHS.", "content_original": "Their report has also pointed to potential targets: candidates, elected officials, election workers, members of the media and judges involved in election cases.\nWhile the threats could include physical attacks and violence at polling places, ballot boxes, voter registration locations, rallies and campaign events.\nThe report was unearthed by a government transparency campaign group called Property of the People - and has prompted an official statement from the DHS.", "include": true, "schema_version": "2.0", "chunk_metadata": {"id": "00fc6fceb15d5c5155822b560bc895a953387d7191ce8ae0f3440f22e1a458ed-1", "idx": 1}}, {"content": "A spokeswoman for the department said: “The United States remains in a heightened, dynamic threat environment and we continue to share information with our law enforcement partners about the threats posed by domestic violent extremists in the context of the 2024 election.\n“Violence has no place in our politics, and DHS continues to work with our partners to evaluate and mitigate emerging threats that may arise from domestic or foreign actors.“", "content_original": "A spokeswoman for the department said: “The United States remains in a heightened, dynamic threat environment and we continue to share information with our law enforcement partners about the threats posed by domestic violent extremists in the context of the 2024 election.\n“Violence has no place in our politics, and DHS continues to work with our partners to evaluate and mitigate emerging threats that may arise from domestic or foreign actors.“", "include": true, "schema_version": "2.0", "chunk_metadata": {"id": "00fc6fceb15d5c5155822b560bc895a953387d7191ce8ae0f3440f22e1a458ed-2", "idx": 2}}, {"content": "But the warnings came just hours before an early voting ballot box in Washington state was set alight in a suspected arson.\nThe FBI is investigating the blaze, local media have said - with politicians urging voters to check whether their ballots had gone through.\nWashington Secretary of State Steve Hobbs said: “I strongly denounce any acts of terror that aim to disrupt lawful and fair elections in Washington state... Despite this incident, I have complete confidence in our county elections officials' ability to keep Washington's elections safe and secure for all voters.“", "content_original": "But the warnings came just hours before an early voting ballot box in Washington state was set alight in a suspected arson.\nThe FBI is investigating the blaze, local media have said - with politicians urging voters to check whether their ballots had gone through.\nWashington Secretary of State Steve Hobbs said: “I strongly denounce any acts of terror that aim to disrupt lawful and fair elections in Washington state... Despite this incident, I have complete confidence in our county elections officials' ability to keep Washington's elections safe and secure for all voters.“", "include": true, "schema_version": "2.0", "chunk_metadata": {"id": "00fc6fceb15d5c5155822b560bc895a953387d7191ce8ae0f3440f22e1a458ed-3", "idx": 3}}, {"content": "In Washington, Democratic candidate Kamala Harris enjoys a sturdy lead - but nationwide, the numbers make for nervous reading for the Vice President.\nPolling aggregates across the US have tipped her Republican rival Donald Trump to return to the White House.\nIn simulations conducted by pollsters at FiveThirtyEight, Harris had been leading from early August to October 17.\nBut now, Trump has surged ahead, winning in 54 out of 100 election projections.", "content_original": "In Washington, Democratic candidate Kamala Harris enjoys a sturdy lead - but nationwide, the numbers make for nervous reading for the Vice President.\nPolling aggregates across the US have tipped her Republican rival Donald Trump to return to the White House.\nIn simulations conducted by pollsters at FiveThirtyEight, Harris had been leading from early August to October 17.\nBut now, Trump has surged ahead, winning in 54 out of 100 election projections.", "include": true, "schema_version": "2.0", "chunk_metadata": {"id": "00fc6fceb15d5c5155822b560bc895a953387d7191ce8ae0f3440f22e1a458ed-4", "idx": 4}}], "ingest_metadata": [{"_id": "dcf43339-94cd-462d-8b82-c0756d0d374b", "timestamp": "2025-10-09T10:27:37.870000", "success": true, "failure_reason": null, "publisher_id": "8c5a5ab2-3096-47b0-a09a-3d4bbb93bcfe", "version": "2.3", "date": "2025-10-09", "chunking": {"service": "PrtDocumentInference", "chunkingStrategy": "llm_semantic_batch", "llmPromptVersion": "v1.0.1", "batchId": "0d2d6017-8fff-4a4c-ab01-cd92b988d2f2", "chunkingRequestId": "de418037-23ea-447b-9fc0-87909a6fc546", "totalChunks": 3, "processingTime": 1324512, "processingTimestamp": "2025-10-09T10:27:34.113550+00:00", "tokenUsage": {"total_tokens": 1997, "prompt_tokens": 1527, "completion_tokens": 470, "model_version": "gemini-2.5-flash-lite"}, "has_existing_chunks": true, "chunks_count": 3}, "context_generating": {"strategy": "none"}, "embedding": {"provider": "voyage", "model": "voyage-3-large", "dimension": 2048, "data_type": "binary"}, "indexing": {"chunks_success_count": 3, "chunks_failed_count": 0, "index_names": ["publishers_index_v2"]}, "document_id": "00fc6fceb15d5c5155822b560bc895a953387d7191ce8ae0f3440f22e1a458ed"}], "raw_content": null, "markdown_content": "So-called conspiracy theory extremists could move to disrupt next week's US election, the FBI has warned.\nIn a \"Joint Intelligence Bulletin\", both the FBI and the Department of Homeland Security (DHS) have raised fears about violence as Americans head to the polls.\nIn the bulletin, the two offices have warned state and local law enforcement agencies across the US that domestic violent extremists are looking to terrorise the public and disrupt voting - both on November 5's election day and on inauguration day on January 20.\nTheir report has also pointed to potential targets: candidates, elected officials, election workers, members of the media and judges involved in election cases.\nWhile the threats could include physical attacks and violence at polling places, ballot boxes, voter registration locations, rallies and campaign events.\nThe report was unearthed by a government transparency campaign group called Property of the People - and has prompted an official statement from the DHS.\nA spokeswoman for the department said: \"The United States remains in a heightened, dynamic threat environment and we continue to share information with our law enforcement partners about the threats posed by domestic violent extremists in the context of the 2024 election.\nREAD MORE ON THE RACE FOR THE WHITE HOUSE:\n\"Violence has no place in our politics, and DHS continues to work with our partners to evaluate and mitigate emerging threats that may arise from domestic or foreign actors.\"\nBut the warnings came just hours before an early voting ballot box in Washington state was set alight in a suspected arson.\nThe FBI is investigating the blaze, local media have said - with politicians urging voters to check whether their ballots had gone through.\nWashington Secretary of State Steve Hobbs said: \"I strongly denounce any acts of terror that aim to disrupt lawful and fair elections in Washington state... Despite this incident, I have complete confidence in our county elections officials' ability to keep Washington's elections safe and secure for all voters.\"\nIn Washington, Democratic candidate Kamala Harris enjoys a sturdy lead - but nationwide, the numbers make for nervous reading for the Vice President.\nPolling aggregates across the US have tipped her Republican rival Donald Trump to return to the White House.\nIn simulations conducted by pollsters at FiveThirtyEight, Harris had been leading from early August to October 17.\nBut now, Trump has surged ahead, winning in 54 out of 100 election projections.", "errors": {"raw_content": "502 Server Error: Bad Gateway for url: http://localhost:8893/v1/rawcontent/00fc6fceb15d5c5155822b560bc895a953387d7191ce8ae0f3440f22e1a458ed/text"}}
+{
+  "document_id": "00fc6fceb15d5c5155822b560bc895a953387d7191ce8ae0f3440f22e1a458ed",
+  "document_metadata": {
+    "id": "00fc6fceb15d5c5155822b560bc895a953387d7191ce8ae0f3440f22e1a458ed",
+    "date": 20241028,
+    "publisher_id": "8c5a5ab2-3096-47b0-a09a-3d4bbb93bcfe",
+    "image": "https://www.gbnews.com/media-library/watch-nigel-farage-takes-aim-at-kamala-harris-for-her-attacks-on-donald-trump.jpg?id=54016821&width=980",
+    "date_year": 2024,
+    "date_month": 10,
+    "url2": "https://www.gbnews.com/politics/us/us-election-fbi-conspiracy-theory-extremists-donald-trump-poll-polling-lead",
+    "domain": "www.gbnews.com",
+    "crawl_date": "2025-03-21T22:06:50.004636Z",
+    "date_day": 28,
+    "title": "US election: FBI warns of 'conspiracy theory extremists' as Trump takes crucial polling lead",
+    "published_date": "2024-10-28T21:41:52Z",
+    "url": "https://www.gbnews.com/politics/us/us-election-fbi-conspiracy-theory-extremists-donald-trump-poll-polling-lead",
+    "dir": "8c5a5ab2-3096-47b0-a09a-3d4bbb93bcfe",
+    "contentType": "web",
+    "metadataVersion": 1,
+    "source": "GB News",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=www.gbnews.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=www.gbnews.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=www.gbnews.com",
+    "first_words": "So-called conspiracy theory extremists could move to disrupt next week's US election, the FBI has warned. In a \"Joint Intelligence Bulletin\", both the FBI and the Department of Homeland Security (DHS) have raised fears about violence as Americans head to the polls. In the bulletin, the two offices have warned state and local law enforcement agencies across the US that domestic violent extremists are looking to terrorise the public and disrupt voting - both on November 5's election day and on inauguration day on January 20. Their report has also pointed to potential targets: candidates, elected officials,",
+    "updateVersion": "07192025_run1_publisher_groupid",
+    "reason": "update_publisher_metadata_v2",
+    "has_markdown": true,
+    "markdown_input_text_type": "processedText",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_chunks": true
+  },
+  "publisher_metadata": null,
+  "content_metadata": null,
+  "ingest_metadata_from_chunks": null,
+  "chunks": [
+    {
+      "content": "So-called conspiracy theory extremists could move to disrupt next week's US election, the FBI has warned.\nIn a “Joint Intelligence Bulletin“, both the FBI and the Department of Homeland Security (DHS) have raised fears about violence as Americans head to the polls.\nIn the bulletin, the two offices have warned state and local law enforcement agencies across the US that domestic violent extremists are looking to terrorise the public and disrupt voting - both on November 5's election day and on inauguration day on January 20.",
+      "content_original": "So-called conspiracy theory extremists could move to disrupt next week's US election, the FBI has warned.\nIn a “Joint Intelligence Bulletin“, both the FBI and the Department of Homeland Security (DHS) have raised fears about violence as Americans head to the polls.\nIn the bulletin, the two offices have warned state and local law enforcement agencies across the US that domestic violent extremists are looking to terrorise the public and disrupt voting - both on November 5's election day and on inauguration day on January 20.",
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "00fc6fceb15d5c5155822b560bc895a953387d7191ce8ae0f3440f22e1a458ed-0",
+        "idx": 0
+      }
+    },
+    {
+      "content": "Their report has also pointed to potential targets: candidates, elected officials, election workers, members of the media and judges involved in election cases.\nWhile the threats could include physical attacks and violence at polling places, ballot boxes, voter registration locations, rallies and campaign events.\nThe report was unearthed by a government transparency campaign group called Property of the People - and has prompted an official statement from the DHS.",
+      "content_original": "Their report has also pointed to potential targets: candidates, elected officials, election workers, members of the media and judges involved in election cases.\nWhile the threats could include physical attacks and violence at polling places, ballot boxes, voter registration locations, rallies and campaign events.\nThe report was unearthed by a government transparency campaign group called Property of the People - and has prompted an official statement from the DHS.",
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "00fc6fceb15d5c5155822b560bc895a953387d7191ce8ae0f3440f22e1a458ed-1",
+        "idx": 1
+      }
+    },
+    {
+      "content": "A spokeswoman for the department said: “The United States remains in a heightened, dynamic threat environment and we continue to share information with our law enforcement partners about the threats posed by domestic violent extremists in the context of the 2024 election.\n“Violence has no place in our politics, and DHS continues to work with our partners to evaluate and mitigate emerging threats that may arise from domestic or foreign actors.“",
+      "content_original": "A spokeswoman for the department said: “The United States remains in a heightened, dynamic threat environment and we continue to share information with our law enforcement partners about the threats posed by domestic violent extremists in the context of the 2024 election.\n“Violence has no place in our politics, and DHS continues to work with our partners to evaluate and mitigate emerging threats that may arise from domestic or foreign actors.“",
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "00fc6fceb15d5c5155822b560bc895a953387d7191ce8ae0f3440f22e1a458ed-2",
+        "idx": 2
+      }
+    },
+    {
+      "content": "But the warnings came just hours before an early voting ballot box in Washington state was set alight in a suspected arson.\nThe FBI is investigating the blaze, local media have said - with politicians urging voters to check whether their ballots had gone through.\nWashington Secretary of State Steve Hobbs said: “I strongly denounce any acts of terror that aim to disrupt lawful and fair elections in Washington state... Despite this incident, I have complete confidence in our county elections officials' ability to keep Washington's elections safe and secure for all voters.“",
+      "content_original": "But the warnings came just hours before an early voting ballot box in Washington state was set alight in a suspected arson.\nThe FBI is investigating the blaze, local media have said - with politicians urging voters to check whether their ballots had gone through.\nWashington Secretary of State Steve Hobbs said: “I strongly denounce any acts of terror that aim to disrupt lawful and fair elections in Washington state... Despite this incident, I have complete confidence in our county elections officials' ability to keep Washington's elections safe and secure for all voters.“",
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "00fc6fceb15d5c5155822b560bc895a953387d7191ce8ae0f3440f22e1a458ed-3",
+        "idx": 3
+      }
+    },
+    {
+      "content": "In Washington, Democratic candidate Kamala Harris enjoys a sturdy lead - but nationwide, the numbers make for nervous reading for the Vice President.\nPolling aggregates across the US have tipped her Republican rival Donald Trump to return to the White House.\nIn simulations conducted by pollsters at FiveThirtyEight, Harris had been leading from early August to October 17.\nBut now, Trump has surged ahead, winning in 54 out of 100 election projections.",
+      "content_original": "In Washington, Democratic candidate Kamala Harris enjoys a sturdy lead - but nationwide, the numbers make for nervous reading for the Vice President.\nPolling aggregates across the US have tipped her Republican rival Donald Trump to return to the White House.\nIn simulations conducted by pollsters at FiveThirtyEight, Harris had been leading from early August to October 17.\nBut now, Trump has surged ahead, winning in 54 out of 100 election projections.",
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "00fc6fceb15d5c5155822b560bc895a953387d7191ce8ae0f3440f22e1a458ed-4",
+        "idx": 4
+      }
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "dcf43339-94cd-462d-8b82-c0756d0d374b",
+      "timestamp": "2025-10-09T10:27:37.870000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "8c5a5ab2-3096-47b0-a09a-3d4bbb93bcfe",
+      "version": "2.3",
+      "date": "2025-10-09",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.1",
+        "batchId": "0d2d6017-8fff-4a4c-ab01-cd92b988d2f2",
+        "chunkingRequestId": "de418037-23ea-447b-9fc0-87909a6fc546",
+        "totalChunks": 3,
+        "processingTime": 1324512,
+        "processingTimestamp": "2025-10-09T10:27:34.113550+00:00",
+        "tokenUsage": {
+          "total_tokens": 1997,
+          "prompt_tokens": 1527,
+          "completion_tokens": 470,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "has_existing_chunks": true,
+        "chunks_count": 3
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 3,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "00fc6fceb15d5c5155822b560bc895a953387d7191ce8ae0f3440f22e1a458ed"
+    }
+  ],
+  "raw_content": null,
+  "markdown_content": "So-called conspiracy theory extremists could move to disrupt next week's US election, the FBI has warned.\nIn a \"Joint Intelligence Bulletin\", both the FBI and the Department of Homeland Security (DHS) have raised fears about violence as Americans head to the polls.\nIn the bulletin, the two offices have warned state and local law enforcement agencies across the US that domestic violent extremists are looking to terrorise the public and disrupt voting - both on November 5's election day and on inauguration day on January 20.\nTheir report has also pointed to potential targets: candidates, elected officials, election workers, members of the media and judges involved in election cases.\nWhile the threats could include physical attacks and violence at polling places, ballot boxes, voter registration locations, rallies and campaign events.\nThe report was unearthed by a government transparency campaign group called Property of the People - and has prompted an official statement from the DHS.\nA spokeswoman for the department said: \"The United States remains in a heightened, dynamic threat environment and we continue to share information with our law enforcement partners about the threats posed by domestic violent extremists in the context of the 2024 election.\nREAD MORE ON THE RACE FOR THE WHITE HOUSE:\n\"Violence has no place in our politics, and DHS continues to work with our partners to evaluate and mitigate emerging threats that may arise from domestic or foreign actors.\"\nBut the warnings came just hours before an early voting ballot box in Washington state was set alight in a suspected arson.\nThe FBI is investigating the blaze, local media have said - with politicians urging voters to check whether their ballots had gone through.\nWashington Secretary of State Steve Hobbs said: \"I strongly denounce any acts of terror that aim to disrupt lawful and fair elections in Washington state... Despite this incident, I have complete confidence in our county elections officials' ability to keep Washington's elections safe and secure for all voters.\"\nIn Washington, Democratic candidate Kamala Harris enjoys a sturdy lead - but nationwide, the numbers make for nervous reading for the Vice President.\nPolling aggregates across the US have tipped her Republican rival Donald Trump to return to the White House.\nIn simulations conducted by pollsters at FiveThirtyEight, Harris had been leading from early August to October 17.\nBut now, Trump has surged ahead, winning in 54 out of 100 election projections.",
+  "errors": {
+    "raw_content": "502 Server Error: Bad Gateway for url: http://localhost:8893/v1/rawcontent/00fc6fceb15d5c5155822b560bc895a953387d7191ce8ae0f3440f22e1a458ed/text"
+  },
+  "removed_blocks": [],
+  "edited_blocks": [],
+  "block_comments": [],
+  "label_status": "not_started",
+  "doc_comment": "",
+  "labeler": "chunshui@prorata.ai",
+  "cleaned_content": "So-called conspiracy theory extremists could move to disrupt next week's US election, the FBI has warned.\nIn a \"Joint Intelligence Bulletin\", both the FBI and the Department of Homeland Security (DHS) have raised fears about violence as Americans head to the polls.\nIn the bulletin, the two offices have warned state and local law enforcement agencies across the US that domestic violent extremists are looking to terrorise the public and disrupt voting - both on November 5's election day and on inauguration day on January 20.\nTheir report has also pointed to potential targets: candidates, elected officials, election workers, members of the media and judges involved in election cases.\nWhile the threats could include physical attacks and violence at polling places, ballot boxes, voter registration locations, rallies and campaign events.\nThe report was unearthed by a government transparency campaign group called Property of the People - and has prompted an official statement from the DHS.\nA spokeswoman for the department said: \"The United States remains in a heightened, dynamic threat environment and we continue to share information with our law enforcement partners about the threats posed by domestic violent extremists in the context of the 2024 election.\nREAD MORE ON THE RACE FOR THE WHITE HOUSE:\n\"Violence has no place in our politics, and DHS continues to work with our partners to evaluate and mitigate emerging threats that may arise from domestic or foreign actors.\"\nBut the warnings came just hours before an early voting ballot box in Washington state was set alight in a suspected arson.\nThe FBI is investigating the blaze, local media have said - with politicians urging voters to check whether their ballots had gone through.\nWashington Secretary of State Steve Hobbs said: \"I strongly denounce any acts of terror that aim to disrupt lawful and fair elections in Washington state... Despite this incident, I have complete confidence in our county elections officials' ability to keep Washington's elections safe and secure for all voters.\"\nIn Washington, Democratic candidate Kamala Harris enjoys a sturdy lead - but nationwide, the numbers make for nervous reading for the Vice President.\nPolling aggregates across the US have tipped her Republican rival Donald Trump to return to the White House.\nIn simulations conducted by pollsters at FiveThirtyEight, Harris had been leading from early August to October 17.\nBut now, Trump has surged ahead, winning in 54 out of 100 election projections.",
+  "total_blocks": 1,
+  "kept_blocks": 1,
+  "removed_blocks_count": 0,
+  "edited_blocks_count": 0,
+  "block_comments_count": 0
+}

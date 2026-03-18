@@ -43,8 +43,8 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
 .panel-tab { padding: 6px 16px; font-size: 12px; font-weight: 600; cursor: pointer; color: #888; border-bottom: 2px solid transparent; margin-bottom: -2px; }
 .panel-tab:hover { color: #333; }
 .panel-tab.active { color: #1976d2; border-bottom-color: #1976d2; }
-.tab-content { display: none; flex: 1; overflow-y: auto; }
-.tab-content.active { display: block; flex: 1; }
+.tab-content { display: none; flex: 1; flex-direction: column; overflow: hidden; }
+.tab-content.active { display: flex; flex: 1; }
 
 .panel-nav { width: 220px; min-width: 180px; background: #f8f9fa; border-right: 1px solid #ddd; overflow-y: auto; font-size: 12px; flex-shrink: 0; }
 .panel-left { flex: 55 0 0; min-width: 200px; background: #fff; display: flex; flex-direction: column; }
@@ -70,7 +70,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
 .nav-publisher-docs.open { display: block; }
 .nav-toggle-all { padding: 6px 8px; font-size: 11px; color: #1565c0; cursor: pointer; border-bottom: 1px solid #ddd; }
 .nav-toggle-all:hover { background: #e3f2fd; }
-.panel-header { font-size: 14px; font-weight: 600; color: #555; margin-bottom: 10px; padding-bottom: 6px; border-bottom: 1px solid #eee; display: flex; justify-content: space-between; align-items: center; position: sticky; top: 0; background: inherit; z-index: 10; padding-top: 4px; }
+.panel-header { font-size: 14px; font-weight: 600; color: #555; padding: 4px 8px 6px; border-bottom: 1px solid #eee; display: flex; justify-content: space-between; align-items: center; background: #fff; z-index: 10; flex-shrink: 0; }
 .panel-header .actions { display: flex; gap: 6px; }
 .panel-header button { font-size: 11px; padding: 3px 8px; background: #eee; border: 1px solid #ccc; border-radius: 3px; cursor: pointer; }
 .panel-header button:hover { background: #ddd; }
@@ -256,15 +256,15 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
           <button onclick="removeAll()">✗ Remove All</button>
         </div>
       </div>
-      <div id="blocksContainer"></div>
+      <div id="blocksContainer" style="flex:1; overflow-y:auto;"></div>
     </div>
     <div class="tab-content" id="tabContentRawHtml" style="flex:1; display:none; flex-direction:column;">
       <div class="panel-header"><span>Raw HTML (Rendered)</span></div>
       <iframe id="rawHtmlFrame" style="flex:1; border:none; width:100%;"></iframe>
     </div>
-    <div class="tab-content" id="tabContentChunks" style="flex:1; display:none; flex-direction:column; overflow-y:auto;">
+    <div class="tab-content" id="tabContentChunks" style="flex:1; display:none; flex-direction:column;">
       <div class="panel-header"><span>Current Chunks <span id="chunkCountTab"></span></span></div>
-      <div id="chunksRenderContainer" style="padding:8px;"></div>
+      <div id="chunksRenderContainer" style="flex:1; overflow-y:auto; padding:8px;"></div>
     </div>
   </div>
   <div class="resizer" id="panelResizer"></div>
@@ -482,14 +482,14 @@ function switchTab(tab) {
   const rawEl = document.getElementById('tabContentRawHtml');
   const chunksEl = document.getElementById('tabContentChunks');
 
-  blocksEl.style.display = tab === 'blocks' ? 'block' : 'none';
+  blocksEl.style.display = tab === 'blocks' ? 'flex' : 'none';
   rawEl.style.display = tab === 'rawhtml' ? 'flex' : 'none';
   chunksEl.style.display = tab === 'chunks' ? 'flex' : 'none';
 
   if (tab === 'rawhtml') {
     const doc = documents[currentIdx];
     const frame = document.getElementById('rawHtmlFrame');
-    frame.srcdoc = doc.raw_html || '<p>(no raw HTML available)</p>';
+    frame.srcdoc = doc.raw_html || '<p style="color:#999; padding:20px;">No raw document content available for this document.</p>';
   }
   if (tab === 'chunks') {
     renderChunksTab();
@@ -646,6 +646,42 @@ function parseAndLoad(text) {
     const blocks = splitMarkdownToBlocks(content);
     const rawHtml = obj.raw_content || obj.raw_html || '';
     const chunks = obj.chunks || [];
+    // Restore label states from exported data if present
+    const blockStates = blocks.map(() => true);
+    const blockEdits = blocks.map(() => null);
+    const blockComments = blocks.map(() => '');
+    let labelStatus = 'not_started';
+    let docComment = '';
+
+    if (obj.removed_blocks || obj.edited_blocks || obj.label_status) {
+      // Mark removed blocks
+      if (obj.removed_blocks) {
+        for (const rb of obj.removed_blocks) {
+          if (rb.block_id >= 0 && rb.block_id < blocks.length) {
+            blockStates[rb.block_id] = false;
+          }
+        }
+      }
+      // Restore edited blocks
+      if (obj.edited_blocks) {
+        for (const eb of obj.edited_blocks) {
+          if (eb.block_id >= 0 && eb.block_id < blocks.length) {
+            blockEdits[eb.block_id] = eb.edited_text;
+          }
+        }
+      }
+      // Restore block comments
+      if (obj.block_comments) {
+        for (const bc of obj.block_comments) {
+          if (bc.block_id >= 0 && bc.block_id < blocks.length) {
+            blockComments[bc.block_id] = bc.comment || '';
+          }
+        }
+      }
+      labelStatus = obj.label_status || 'not_started';
+      docComment = obj.doc_comment || '';
+    }
+
     return {
       doc_id: obj.doc_id || obj.document_id || docMeta.id || '',
       original_content: content,
@@ -656,13 +692,13 @@ function parseAndLoad(text) {
       title: obj.title || docMeta.title || '',
       domain: obj.domain || docMeta.domain || '',
       blocks,
-      blockStates: blocks.map(() => true),
-      blockEdits: blocks.map(() => null),
-      blockComments: blocks.map(() => ''),
-      docComment: '',
+      blockStates,
+      blockEdits,
+      blockComments,
+      docComment,
       editingBlock: -1,
       commentingBlock: -1,
-      labelStatus: 'not_started',  // not_started, labeling, finished
+      labelStatus,
       meta: obj
     };
   });
@@ -1098,6 +1134,9 @@ function renderDoc() {
 
   // Render blocks
   const container = document.getElementById('blocksContainer');
+  if (!doc.blocks.length) {
+    container.innerHTML = '<p style="color:#999; padding:20px;">No markdown content available for this document.</p>';
+  } else {
   container.innerHTML = doc.blocks.map((block, i) => {
     const kept = doc.blockStates[i];
     const focused = i === focusedBlock;
@@ -1153,6 +1192,7 @@ function renderDoc() {
       ${commentArea}
     </div>`;
   }).join('');
+  }
 
   // Preview - use edited text if available
   const cleanedMd = doc.blocks
@@ -1164,6 +1204,16 @@ function renderDoc() {
     .join('\n\n');
   document.getElementById('previewContent').innerHTML = marked.parse(cleanedMd);
   document.getElementById('previewStats').textContent = `(${cleanedMd.trim() ? cleanedMd.trim().split(/\s+/).length : 0} words)`;
+
+  // Update Raw HTML and Chunks if their tabs are active
+  const rawEl = document.getElementById('tabContentRawHtml');
+  if (rawEl.style.display !== 'none') {
+    document.getElementById('rawHtmlFrame').srcdoc = doc.raw_html || '<p style="color:#999; padding:20px;">No raw document content available for this document.</p>';
+  }
+  const chunksEl = document.getElementById('tabContentChunks');
+  if (chunksEl.style.display !== 'none') {
+    renderChunksTab();
+  }
 }
 
 function handleBlockClick(event, idx) {

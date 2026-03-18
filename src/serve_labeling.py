@@ -51,34 +51,59 @@ def load_folder(folder_name: str):
         return {"error": f"Folder not found: {folder_name}"}
 
     docs = []
+
+    # Load from JSONL files
+    for f in sorted(folder.glob("*.jsonl")):
+        with open(f) as fh:
+            for line in fh:
+                line = line.strip()
+                if not line:
+                    continue
+                docs.append(json.loads(line))
+
+    # Load from individual JSON files
     for f in sorted(folder.glob("*.json")):
         with open(f) as fh:
             obj = json.load(fh)
-        meta = obj.get("document_metadata") or {}
-        # Extract chunk content from export, or look up from llm_semantic
-        doc_id = obj.get("document_id") or meta.get("id", "")
-        raw_chunks = obj.get("chunks") or []
-        chunk_texts = [c.get("content", "") if isinstance(c, dict) else str(c) for c in raw_chunks]
+        docs.append(_normalize_doc(obj))
 
-        # If no chunks in export, try chunks directory
-        if not chunk_texts and doc_id and _CHUNKS_DIR:
-            chunk_file = Path(_CHUNKS_DIR) / f"{doc_id}.json"
-            if chunk_file.exists():
-                with open(chunk_file) as cf:
-                    chunk_data = json.load(cf)
-                chunk_texts = [str(c) for c in chunk_data.get("chunks", [])]
-
-        docs.append({
-            "doc_id": doc_id,
-            "original_content": obj.get("markdown_content") or "",
-            "raw_content": obj.get("raw_content") or "",
-            "chunks": chunk_texts,
-            "url": meta.get("url", ""),
-            "publisher": meta.get("source", ""),
-            "title": meta.get("title", ""),
-            "domain": meta.get("domain", ""),
-        })
     return docs
+
+
+def _normalize_doc(obj: dict) -> dict:
+    """Normalize a JSON export document, preserving label fields."""
+    meta = obj.get("document_metadata") or {}
+    doc_id = obj.get("doc_id") or obj.get("document_id") or meta.get("id", "")
+    raw_chunks = obj.get("chunks") or []
+    chunk_texts = [c.get("content", "") if isinstance(c, dict) else str(c) for c in raw_chunks]
+
+    # If no chunks in export, try chunks directory
+    if not chunk_texts and doc_id and _CHUNKS_DIR:
+        chunk_file = Path(_CHUNKS_DIR) / f"{doc_id}.json"
+        if chunk_file.exists():
+            with open(chunk_file) as cf:
+                chunk_data = json.load(cf)
+            chunk_texts = [str(c) for c in chunk_data.get("chunks", [])]
+
+    doc = {
+        "doc_id": doc_id,
+        "original_content": obj.get("original_content") or obj.get("markdown_content") or "",
+        "raw_content": obj.get("raw_content") or "",
+        "chunks": chunk_texts,
+        "url": obj.get("url") or meta.get("url", ""),
+        "publisher": obj.get("publisher") or meta.get("source", ""),
+        "title": obj.get("title") or meta.get("title", ""),
+        "domain": obj.get("domain") or meta.get("domain", ""),
+    }
+
+    # Pass through label fields if present
+    for key in ("removed_blocks", "edited_blocks", "block_comments",
+                "label_status", "doc_comment", "labeler",
+                "cleaned_content", "total_blocks", "kept_blocks"):
+        if key in obj:
+            doc[key] = obj[key]
+
+    return doc
 
 
 # Serve static files

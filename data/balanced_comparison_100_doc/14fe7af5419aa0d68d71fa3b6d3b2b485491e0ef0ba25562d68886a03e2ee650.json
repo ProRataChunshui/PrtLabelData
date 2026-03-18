@@ -1,1 +1,114 @@
-{"document_id": "14fe7af5419aa0d68d71fa3b6d3b2b485491e0ef0ba25562d68886a03e2ee650", "document_metadata": {"id": "14fe7af5419aa0d68d71fa3b6d3b2b485491e0ef0ba25562d68886a03e2ee650", "date": 20250218, "publisher_id": "df8bd6e4-9123-46c5-9a39-99b244261ea7", "image": "https://www.registerpublications.com/wp-content/uploads/sites/141/2025/02/251332-ohiocountycommunityfoundation1.jpg", "date_year": 2025, "date_month": 2, "crawl_date": "2025-06-04T00:39:10.606785172Z", "date_day": 18, "modified_date": "2025-02-17T02:06:13Z", "title": "Education Center receives funds for ‘bridging digital divide’", "url": "https://www.registerpublications.com/education-center-receives-funds-for-bridging-digital-divide/", "raw_type": "html", "url2": "https://www.registerpublications.com/education-center-receives-funds-for-bridging-digital-divide/", "domain": "registerpublications.com", "lang": "unknown", "published_date": "2025-02-18T11:00:00Z", "raw_path": "crawl_20250604003910.html", "dir": "df8bd6e4-9123-46c5-9a39-99b244261ea7", "contentType": "web", "metadataVersion": 1, "source": "Register Publications", "favicon": "https://www.google.com/s2/favicons?sz=128&domain=registerpublications.com", "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=registerpublications.com", "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=registerpublications.com", "first_words": "Information Submitted RISING SUN – Ohio County Community Foundation received a \\$49,500 technology grant on behalf of the Education Center of Rising Sun. With the partnership and support, the foundation and Education Center are working to bridge the digital divide, with funding and capacity-building support from Managed Health Services – MHS and MHS Serves. The funding has provided new computers and screens to the Education Center as well as a “smart board” to use for presentations and teaching. The Education Center has obtained software through Teknimedia. This software provides 17 different basic computer skills courses, including keyboarding, internet, email, and", "updateVersion": "06212025_run1_title", "reason": "update_content_metadata_v2", "has_markdown": true, "markdown_input_text_type": "processedText", "markdown_converter_type": "markdownify-with-preprocessing", "has_chunks": true}, "publisher_metadata": null, "content_metadata": null, "ingest_metadata_from_chunks": null, "chunks": [{"content": "Ohio County Community Foundation received a $49,500 technology grant on behalf of the Education Center of Rising Sun. With the partnership and support, the foundation and Education Center are working to bridge the digital divide, with funding and capacity-building support from Managed Health Services – MHS and MHS Serves. The funding has provided new computers and screens to the Education Center as well as a “smart board” to use for presentations and teaching. The Education Center has obtained software through Teknimedia. This software provides 17 different basic computer skills courses, including keyboarding, internet, email, and Microsoft Office. These are designed for all age groups. They are structured for either e-learning or in-class instruction. “I am excited to be able to provide this learning to senior citizens, those looking to enter the employment field or those who need to sharpen up their computer skills,” said Debbie Thomason, director of the Education Center. “This is an exciting opportunity to have these courses available in Rising Sun.” If you are interested in sharpening your computer skills or simply learning for the first time, visit the Education Center of Rising Sun, 591 Smart Drive, call 812-438-2437 or email at dthomason@occfrisingsun.com. All individuals who complete courses will receive a certificate of achievement.", "content_original": "Ohio County Community Foundation received a $49,500 technology grant on behalf of the Education Center of Rising Sun. With the partnership and support, the foundation and Education Center are working to bridge the digital divide, with funding and capacity-building support from Managed Health Services – MHS and MHS Serves. The funding has provided new computers and screens to the Education Center as well as a “smart board” to use for presentations and teaching. The Education Center has obtained software through Teknimedia. This software provides 17 different basic computer skills courses, including keyboarding, internet, email, and Microsoft Office. These are designed for all age groups. They are structured for either e-learning or in-class instruction. “I am excited to be able to provide this learning to senior citizens, those looking to enter the employment field or those who need to sharpen up their computer skills,” said Debbie Thomason, director of the Education Center. “This is an exciting opportunity to have these courses available in Rising Sun.” If you are interested in sharpening your computer skills or simply learning for the first time, visit the Education Center of Rising Sun, 591 Smart Drive, call 812-438-2437 or email at dthomason@occfrisingsun.com. All individuals who complete courses will receive a certificate of achievement.", "include": true, "schema_version": "2.0", "chunk_metadata": {"id": "14fe7af5419aa0d68d71fa3b6d3b2b485491e0ef0ba25562d68886a03e2ee650-0", "idx": 0}}], "ingest_metadata": [{"_id": "2a3f761f-bc6b-45db-8213-004532df8066", "timestamp": "2025-10-11T19:28:59.087000", "success": true, "failure_reason": null, "publisher_id": "df8bd6e4-9123-46c5-9a39-99b244261ea7", "version": "2.3", "date": "2025-10-11", "chunking": {"service": "PrtDocumentInference", "chunkingStrategy": "llm_semantic_batch", "llmPromptVersion": "v1.0.1", "batchId": "5f6d0287-1240-4989-88dc-f826bbfa9ea4", "chunkingRequestId": "87f774fc-ab7f-435e-b438-9c232a19eb1d", "totalChunks": 1, "processingTime": 23030182, "processingTimestamp": "2025-10-11T19:28:49.096860+00:00", "tokenUsage": {"total_tokens": 1615, "prompt_tokens": 1331, "completion_tokens": 284, "model_version": "gemini-2.5-flash-lite"}, "has_existing_chunks": true, "chunks_count": 1}, "context_generating": {"strategy": "none"}, "embedding": {"provider": "voyage", "model": "voyage-3-large", "dimension": 2048, "data_type": "binary"}, "indexing": {"chunks_success_count": 1, "chunks_failed_count": 0, "index_names": ["publishers_index_v2"]}, "document_id": "14fe7af5419aa0d68d71fa3b6d3b2b485491e0ef0ba25562d68886a03e2ee650"}], "raw_content": null, "markdown_content": "\\\\*\\\\*Information Submitted\\\\*\\\\* RISING SUN – Ohio County Community Foundation received a \\$49,500 technology grant on behalf of the Education Center of Rising Sun. With the partnership and support, the foundation and Education Center are working to bridge the digital divide, with funding and capacity-building support from Managed Health Services – MHS and MHS Serves. The funding has provided new computers and screens to the Education Center as well as a “smart board” to use for presentations and teaching. The Education Center has obtained software through Teknimedia. This software provides 17 different basic computer skills courses, including keyboarding, internet, email, and Microsoft Office. These are designed for all age groups. They are structured for either e-learning or in-class instruction. “I am excited to be able to provide this learning to senior citizens, those looking to enter the employment field or those who need to sharpen up their computer skills,” said Debbie Thomason, director of the Education Center. “This is an exciting opportunity to have these courses available in Rising Sun.” If you are interested in sharpening your computer skills or simply learning for the first time, visit the Education Center of Rising Sun, 591 Smart Drive, call 812-438-2437 or email at dthomason@occfrisingsun.com. All individuals who complete courses will receive a certificate of achievement.", "errors": {"raw_content": "404 Client Error: Not Found for url: http://localhost:8893/v1/rawcontent/14fe7af5419aa0d68d71fa3b6d3b2b485491e0ef0ba25562d68886a03e2ee650/text"}}
+{
+  "document_id": "14fe7af5419aa0d68d71fa3b6d3b2b485491e0ef0ba25562d68886a03e2ee650",
+  "document_metadata": {
+    "id": "14fe7af5419aa0d68d71fa3b6d3b2b485491e0ef0ba25562d68886a03e2ee650",
+    "date": 20250218,
+    "publisher_id": "df8bd6e4-9123-46c5-9a39-99b244261ea7",
+    "image": "https://www.registerpublications.com/wp-content/uploads/sites/141/2025/02/251332-ohiocountycommunityfoundation1.jpg",
+    "date_year": 2025,
+    "date_month": 2,
+    "crawl_date": "2025-06-04T00:39:10.606785172Z",
+    "date_day": 18,
+    "modified_date": "2025-02-17T02:06:13Z",
+    "title": "Education Center receives funds for ‘bridging digital divide’",
+    "url": "https://www.registerpublications.com/education-center-receives-funds-for-bridging-digital-divide/",
+    "raw_type": "html",
+    "url2": "https://www.registerpublications.com/education-center-receives-funds-for-bridging-digital-divide/",
+    "domain": "registerpublications.com",
+    "lang": "unknown",
+    "published_date": "2025-02-18T11:00:00Z",
+    "raw_path": "crawl_20250604003910.html",
+    "dir": "df8bd6e4-9123-46c5-9a39-99b244261ea7",
+    "contentType": "web",
+    "metadataVersion": 1,
+    "source": "Register Publications",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=registerpublications.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=registerpublications.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=registerpublications.com",
+    "first_words": "Information Submitted RISING SUN – Ohio County Community Foundation received a \\$49,500 technology grant on behalf of the Education Center of Rising Sun. With the partnership and support, the foundation and Education Center are working to bridge the digital divide, with funding and capacity-building support from Managed Health Services – MHS and MHS Serves. The funding has provided new computers and screens to the Education Center as well as a “smart board” to use for presentations and teaching. The Education Center has obtained software through Teknimedia. This software provides 17 different basic computer skills courses, including keyboarding, internet, email, and",
+    "updateVersion": "06212025_run1_title",
+    "reason": "update_content_metadata_v2",
+    "has_markdown": true,
+    "markdown_input_text_type": "processedText",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_chunks": true
+  },
+  "publisher_metadata": null,
+  "content_metadata": null,
+  "ingest_metadata_from_chunks": null,
+  "chunks": [
+    {
+      "content": "Ohio County Community Foundation received a $49,500 technology grant on behalf of the Education Center of Rising Sun. With the partnership and support, the foundation and Education Center are working to bridge the digital divide, with funding and capacity-building support from Managed Health Services – MHS and MHS Serves. The funding has provided new computers and screens to the Education Center as well as a “smart board” to use for presentations and teaching. The Education Center has obtained software through Teknimedia. This software provides 17 different basic computer skills courses, including keyboarding, internet, email, and Microsoft Office. These are designed for all age groups. They are structured for either e-learning or in-class instruction. “I am excited to be able to provide this learning to senior citizens, those looking to enter the employment field or those who need to sharpen up their computer skills,” said Debbie Thomason, director of the Education Center. “This is an exciting opportunity to have these courses available in Rising Sun.” If you are interested in sharpening your computer skills or simply learning for the first time, visit the Education Center of Rising Sun, 591 Smart Drive, call 812-438-2437 or email at dthomason@occfrisingsun.com. All individuals who complete courses will receive a certificate of achievement.",
+      "content_original": "Ohio County Community Foundation received a $49,500 technology grant on behalf of the Education Center of Rising Sun. With the partnership and support, the foundation and Education Center are working to bridge the digital divide, with funding and capacity-building support from Managed Health Services – MHS and MHS Serves. The funding has provided new computers and screens to the Education Center as well as a “smart board” to use for presentations and teaching. The Education Center has obtained software through Teknimedia. This software provides 17 different basic computer skills courses, including keyboarding, internet, email, and Microsoft Office. These are designed for all age groups. They are structured for either e-learning or in-class instruction. “I am excited to be able to provide this learning to senior citizens, those looking to enter the employment field or those who need to sharpen up their computer skills,” said Debbie Thomason, director of the Education Center. “This is an exciting opportunity to have these courses available in Rising Sun.” If you are interested in sharpening your computer skills or simply learning for the first time, visit the Education Center of Rising Sun, 591 Smart Drive, call 812-438-2437 or email at dthomason@occfrisingsun.com. All individuals who complete courses will receive a certificate of achievement.",
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "14fe7af5419aa0d68d71fa3b6d3b2b485491e0ef0ba25562d68886a03e2ee650-0",
+        "idx": 0
+      }
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "2a3f761f-bc6b-45db-8213-004532df8066",
+      "timestamp": "2025-10-11T19:28:59.087000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "df8bd6e4-9123-46c5-9a39-99b244261ea7",
+      "version": "2.3",
+      "date": "2025-10-11",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.1",
+        "batchId": "5f6d0287-1240-4989-88dc-f826bbfa9ea4",
+        "chunkingRequestId": "87f774fc-ab7f-435e-b438-9c232a19eb1d",
+        "totalChunks": 1,
+        "processingTime": 23030182,
+        "processingTimestamp": "2025-10-11T19:28:49.096860+00:00",
+        "tokenUsage": {
+          "total_tokens": 1615,
+          "prompt_tokens": 1331,
+          "completion_tokens": 284,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "has_existing_chunks": true,
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "14fe7af5419aa0d68d71fa3b6d3b2b485491e0ef0ba25562d68886a03e2ee650"
+    }
+  ],
+  "raw_content": null,
+  "markdown_content": "\\\\*\\\\*Information Submitted\\\\*\\\\* RISING SUN – Ohio County Community Foundation received a \\$49,500 technology grant on behalf of the Education Center of Rising Sun. With the partnership and support, the foundation and Education Center are working to bridge the digital divide, with funding and capacity-building support from Managed Health Services – MHS and MHS Serves. The funding has provided new computers and screens to the Education Center as well as a “smart board” to use for presentations and teaching. The Education Center has obtained software through Teknimedia. This software provides 17 different basic computer skills courses, including keyboarding, internet, email, and Microsoft Office. These are designed for all age groups. They are structured for either e-learning or in-class instruction. “I am excited to be able to provide this learning to senior citizens, those looking to enter the employment field or those who need to sharpen up their computer skills,” said Debbie Thomason, director of the Education Center. “This is an exciting opportunity to have these courses available in Rising Sun.” If you are interested in sharpening your computer skills or simply learning for the first time, visit the Education Center of Rising Sun, 591 Smart Drive, call 812-438-2437 or email at dthomason@occfrisingsun.com. All individuals who complete courses will receive a certificate of achievement.",
+  "errors": {
+    "raw_content": "404 Client Error: Not Found for url: http://localhost:8893/v1/rawcontent/14fe7af5419aa0d68d71fa3b6d3b2b485491e0ef0ba25562d68886a03e2ee650/text"
+  },
+  "removed_blocks": [],
+  "edited_blocks": [],
+  "block_comments": [],
+  "label_status": "not_started",
+  "doc_comment": "",
+  "labeler": "chunshui@prorata.ai",
+  "cleaned_content": "\\\\*\\\\*Information Submitted\\\\*\\\\* RISING SUN – Ohio County Community Foundation received a \\$49,500 technology grant on behalf of the Education Center of Rising Sun. With the partnership and support, the foundation and Education Center are working to bridge the digital divide, with funding and capacity-building support from Managed Health Services – MHS and MHS Serves. The funding has provided new computers and screens to the Education Center as well as a “smart board” to use for presentations and teaching. The Education Center has obtained software through Teknimedia. This software provides 17 different basic computer skills courses, including keyboarding, internet, email, and Microsoft Office. These are designed for all age groups. They are structured for either e-learning or in-class instruction. “I am excited to be able to provide this learning to senior citizens, those looking to enter the employment field or those who need to sharpen up their computer skills,” said Debbie Thomason, director of the Education Center. “This is an exciting opportunity to have these courses available in Rising Sun.” If you are interested in sharpening your computer skills or simply learning for the first time, visit the Education Center of Rising Sun, 591 Smart Drive, call 812-438-2437 or email at dthomason@occfrisingsun.com. All individuals who complete courses will receive a certificate of achievement.",
+  "total_blocks": 1,
+  "kept_blocks": 1,
+  "removed_blocks_count": 0,
+  "edited_blocks_count": 0,
+  "block_comments_count": 0
+}

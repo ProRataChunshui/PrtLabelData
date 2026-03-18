@@ -117,5 +117,17 @@
     }
   ],
   "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Standardized Rss</title>\r\n    <link>https://www.kens5.com/</link>\r\n    <description>KENS Standardized Rss Feed</description>\r\n    <item>\r\n      <title>Get Crafty with Kid Create | Great Day SA</title>\r\n      <link>https://www.kens5.com/article/entertainment/television/great-day-sa/get-crafty-with-kid-create-great-day-sa/273-4dbd02d9-097b-4205-b9dd-b933702cc4ea</link>\r\n      <description>Art projects to celebrate the Fall season!</description>\r\n      <guid isPermaLink=\"false\">4dbd02d9-097b-4205-b9dd-b933702cc4ea</guid>\r\n      <content:encoded><![CDATA[<p>Kid Create Studios offers classes, camps, and even parties to fill all of your kiddo's creative needs! For more information visit:</p><p>kidcreate.com/san-antonio</p>]]></content:encoded>\r\n      <media:thumbnail url=\"https://media.tegna-media.com/assets/KENS/images/7708a352-1049-44eb-85f1-11e41a82dbba/20250925T162713/7708a352-1049-44eb-85f1-11e41a82dbba.jpg\" />\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
-  "markdown_content": "Kid Create Studios offers classes, camps, and even parties to fill all of your kiddo's creative needs! For more information visit:\n\nkidcreate.com/san-antonio"
+  "markdown_content": "Kid Create Studios offers classes, camps, and even parties to fill all of your kiddo's creative needs! For more information visit:\n\nkidcreate.com/san-antonio",
+  "removed_blocks": [],
+  "edited_blocks": [],
+  "block_comments": [],
+  "label_status": "not_started",
+  "doc_comment": "",
+  "labeler": "chunshui@prorata.ai",
+  "cleaned_content": "Kid Create Studios offers classes, camps, and even parties to fill all of your kiddo's creative needs! For more information visit:\n\nkidcreate.com/san-antonio",
+  "total_blocks": 2,
+  "kept_blocks": 2,
+  "removed_blocks_count": 0,
+  "edited_blocks_count": 0,
+  "block_comments_count": 0
 }

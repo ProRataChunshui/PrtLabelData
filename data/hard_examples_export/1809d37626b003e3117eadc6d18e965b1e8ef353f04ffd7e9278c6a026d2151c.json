@@ -9,7 +9,7 @@
     "date_month": 10,
     "crawl_date": "2026-02-05T10:09:16.286965869Z",
     "date_day": 12,
-    "title": "Magazine mecca HYMAG archive is under threat \u2013 and needs your help",
+    "title": "Magazine mecca HYMAG archive is under threat – and needs your help",
     "url": "https://www.dazeddigital.com/fashion/article/50744/1/magazine-cultural-archive-vogue-arena-print-hymag-crowdfunder-funding-tories",
     "url2": "https://www.dazeddigital.com/fashion/article/50744/1/magazine-cultural-archive-vogue-arena-print-hymag-crowdfunder-funding-tories",
     "domain": "www.dazeddigital.com",
@@ -36,7 +36,7 @@
     "favicon": "https://www.google.com/s2/favicons?sz=128&domain=www.dazeddigital.com",
     "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=www.dazeddigital.com",
     "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=www.dazeddigital.com",
-    "first_words": "Home of the world\u2019s biggest mag collection, the cultural institution is fighting to keep its doors open amid the coronavirus pandemic",
+    "first_words": "Home of the world’s biggest mag collection, the cultural institution is fighting to keep its doors open amid the coronavirus pandemic",
     "has_chunks": true,
     "has_denoised_markdown": true
   },
@@ -54,7 +54,7 @@
     "network_ids": []
   },
   "content_metadata": {
-    "document_title_txt": "Magazine mecca HYMAG archive is under threat \u2013 and needs your help",
+    "document_title_txt": "Magazine mecca HYMAG archive is under threat – and needs your help",
     "document_authors_txt": [
       "Emma Elizabeth Davidson"
     ],
@@ -103,8 +103,8 @@
         "hash": "8b931cc73701830493bd784af016456eb784848e6d7689f3bb9416d553e75743",
         "sim_hash": "5663547862962690210"
       },
-      "content_original": "Home of the world\u2019s biggest mag collection, the cultural institution is fighting to keep its doors open amid the coronavirus pandemic",
-      "content": "Home of the world\u2019s biggest mag collection, the cultural institution is fighting to keep its doors open amid the coronavirus pandemic"
+      "content_original": "Home of the world’s biggest mag collection, the cultural institution is fighting to keep its doors open amid the coronavirus pandemic",
+      "content": "Home of the world’s biggest mag collection, the cultural institution is fighting to keep its doors open amid the coronavirus pandemic"
     }
   ],
   "ingest_metadata": [
@@ -214,6 +214,18 @@
       "document_id": "1809d37626b003e3117eadc6d18e965b1e8ef353f04ffd7e9278c6a026d2151c"
     }
   ],
-  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Dazed</title>\r\n    <link>https://dazeddigital.com/feed/rss/gist</link>\r\n    <description>Youth and pop culture provocateurs since 1991. Fearless fashion, music, art, film, politics and ideas from today's bleeding edge. Declare Independence.</description>\r\n    <item>\r\n      <title>Magazine mecca HYMAG archive is under threat \u2013 and needs your help</title>\r\n      <link>https://www.dazeddigital.com/fashion/article/50744/1/magazine-cultural-archive-vogue-arena-print-hymag-crowdfunder-funding-tories</link>\r\n      <description>Home of the world\u2019s biggest mag collection, the cultural institution is fighting to keep its doors open amid the coronavirus pandemic</description>\r\n      <pubDate>Mon, 12 Oct 2020 14:09:00 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">https://www.dazeddigital.com/fashion/article/50744/1/magazine-cultural-archive-vogue-arena-print-hymag-crowdfunder-funding-tories</guid>\r\n      <dc:creator>Emma Elizabeth Davidson</dc:creator>\r\n      <dc:date>2020-10-12T14:09:00Z</dc:date>\r\n      <media:credit scheme=\"urn:ebu\">@hymag_</media:credit>\r\n      <media:keywords>Magazines, Culture</media:keywords>\r\n      <media:text type=\"html\">Walking through the doors of London cultural archive HYMAG is like stepping into magazine mecca.\u00a0\r\nWith the largest collection of mags in the world, its shelves are piled high with landmark issues of pretty much every publication going \u2013 from iconic, now defunct titles including\u00a0Blitz, Sleazenation, Spare Rib, and Ray-Gun, right through to Vogue, The Face, and\u2026 well, a little periodical you might know as Dazed &amp;amp; Confused.\r\nIn today\u2019s edition of The Tories Are Failing Literally Fucking Everyone, however, comes news that the archive is currently under threat. Thanks in no small part to the government\u2019s lack of funding for those in the arts and culture sector throughout the coronavirus pandemic, HYMAG could be forced to close its doors and sell off its entire archive after it received no financial help whatsoever.</media:text>\r\n      <media:text type=\"html\">All is not lost, though. Like many institutions struggling to stay afloat in the shitshow that is 2020, it has now launched a Crowdfunder with the aim of preserving its vast catalogue of printed materials, which are not only a resource for creatives, academics, researchers, and students, but a vital documentation of cultural history as seen through countless different lenses.\u00a0\r\nWith HYMAG\u2019s target set at \u00a3250,000, the money raised will go to the maintenance, conservation, and storage of over 150,000 magazines (casual), offering reduced and subsidised fees for students and those on low income, and launching its huge online platform, which is set to land in 2021.\u00a0\r\nHead here for more information and to donate, and watch a short video about the HYMAG archive below.</media:text>\r\n      <media:embed url=\"https://instagram.com/p/CEo_Ln7AsZt/\" />\r\n      <media:content type=\"image/jpeg\" isDefault=\"true\" url=\"https://images-prod.dazeddigital.com/420/azure/dazed-prod/1290/7/1297418.jpg\" />\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
-  "markdown_content": "Home of the world\u2019s biggest mag collection, the cultural institution is fighting to keep its doors open amid the coronavirus pandemic"
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Dazed</title>\r\n    <link>https://dazeddigital.com/feed/rss/gist</link>\r\n    <description>Youth and pop culture provocateurs since 1991. Fearless fashion, music, art, film, politics and ideas from today's bleeding edge. Declare Independence.</description>\r\n    <item>\r\n      <title>Magazine mecca HYMAG archive is under threat – and needs your help</title>\r\n      <link>https://www.dazeddigital.com/fashion/article/50744/1/magazine-cultural-archive-vogue-arena-print-hymag-crowdfunder-funding-tories</link>\r\n      <description>Home of the world’s biggest mag collection, the cultural institution is fighting to keep its doors open amid the coronavirus pandemic</description>\r\n      <pubDate>Mon, 12 Oct 2020 14:09:00 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">https://www.dazeddigital.com/fashion/article/50744/1/magazine-cultural-archive-vogue-arena-print-hymag-crowdfunder-funding-tories</guid>\r\n      <dc:creator>Emma Elizabeth Davidson</dc:creator>\r\n      <dc:date>2020-10-12T14:09:00Z</dc:date>\r\n      <media:credit scheme=\"urn:ebu\">@hymag_</media:credit>\r\n      <media:keywords>Magazines, Culture</media:keywords>\r\n      <media:text type=\"html\">Walking through the doors of London cultural archive HYMAG is like stepping into magazine mecca. \r\nWith the largest collection of mags in the world, its shelves are piled high with landmark issues of pretty much every publication going – from iconic, now defunct titles including Blitz, Sleazenation, Spare Rib, and Ray-Gun, right through to Vogue, The Face, and… well, a little periodical you might know as Dazed &amp;amp; Confused.\r\nIn today’s edition of The Tories Are Failing Literally Fucking Everyone, however, comes news that the archive is currently under threat. Thanks in no small part to the government’s lack of funding for those in the arts and culture sector throughout the coronavirus pandemic, HYMAG could be forced to close its doors and sell off its entire archive after it received no financial help whatsoever.</media:text>\r\n      <media:text type=\"html\">All is not lost, though. Like many institutions struggling to stay afloat in the shitshow that is 2020, it has now launched a Crowdfunder with the aim of preserving its vast catalogue of printed materials, which are not only a resource for creatives, academics, researchers, and students, but a vital documentation of cultural history as seen through countless different lenses. \r\nWith HYMAG’s target set at £250,000, the money raised will go to the maintenance, conservation, and storage of over 150,000 magazines (casual), offering reduced and subsidised fees for students and those on low income, and launching its huge online platform, which is set to land in 2021. \r\nHead here for more information and to donate, and watch a short video about the HYMAG archive below.</media:text>\r\n      <media:embed url=\"https://instagram.com/p/CEo_Ln7AsZt/\" />\r\n      <media:content type=\"image/jpeg\" isDefault=\"true\" url=\"https://images-prod.dazeddigital.com/420/azure/dazed-prod/1290/7/1297418.jpg\" />\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "Home of the world’s biggest mag collection, the cultural institution is fighting to keep its doors open amid the coronavirus pandemic",
+  "removed_blocks": [],
+  "edited_blocks": [],
+  "block_comments": [],
+  "label_status": "not_started",
+  "doc_comment": "",
+  "labeler": "chunshui@prorata.ai",
+  "cleaned_content": "Home of the world’s biggest mag collection, the cultural institution is fighting to keep its doors open amid the coronavirus pandemic",
+  "total_blocks": 1,
+  "kept_blocks": 1,
+  "removed_blocks_count": 0,
+  "edited_blocks_count": 0,
+  "block_comments_count": 0
 }
