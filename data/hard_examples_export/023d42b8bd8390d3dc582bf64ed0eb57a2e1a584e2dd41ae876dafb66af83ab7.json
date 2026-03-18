@@ -1,0 +1,265 @@
+{
+  "document_id": "023d42b8bd8390d3dc582bf64ed0eb57a2e1a584e2dd41ae876dafb66af83ab7",
+  "document_metadata": {
+    "id": "023d42b8bd8390d3dc582bf64ed0eb57a2e1a584e2dd41ae876dafb66af83ab7",
+    "date": 20120507,
+    "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "image": "https://images-prod.dazeddigital.com/630/azure/dazed-prod/890/5/895102.jpg",
+    "date_year": 2012,
+    "date_month": 5,
+    "crawl_date": "2026-02-05T11:14:39.663756603Z",
+    "date_day": 7,
+    "title": "EXCLUSIVE: Nightwave Mix",
+    "url": "https://www.dazeddigital.com/music/article/13357/1/exclusive-nightwave-mix",
+    "url2": "https://www.dazeddigital.com/music/article/13357/1/exclusive-nightwave-mix",
+    "domain": "www.dazeddigital.com",
+    "lang": "unknown",
+    "published_date": "2012-05-07T08:39:00Z",
+    "authors": [
+      "Flora Yin-Wong"
+    ],
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2026-02-05T11:14:39.663000",
+    "published_date_parsed": "2012-05-07T08:39:00",
+    "rawType": "xml",
+    "publisherId": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "documentId": "023d42b8bd8390d3dc582bf64ed0eb57a2e1a584e2dd41ae876dafb66af83ab7",
+    "rawcontent_created": "2026-02-05T11:16:16.464000",
+    "source": "Dazed",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=www.dazeddigital.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=www.dazeddigital.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=www.dazeddigital.com",
+    "first_words": "We get an exclusive mix from the Svetlana Industries signing and DJ featuring the likes of AFX, Ludacris, and Machinedrum for one hell of a ride",
+    "has_chunks": true,
+    "has_denoised_markdown": true
+  },
+  "publisher_metadata": {
+    "id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "group_id": "c64289fd-a8ce-4f8b-8375-f1d15bc04f6d",
+    "name": "Dazed",
+    "domain": "dazeddigital.com",
+    "location": "Global",
+    "country": "Global",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "EXCLUSIVE: Nightwave Mix",
+    "document_authors_txt": [
+      "Flora Yin-Wong"
+    ],
+    "hash": "91de5fa4e1a8a5fb3fea51a9d7d2c4c517f742893a3cab2bed929f3057bc9c81"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2026-02-05",
+    "chunking": {
+      "service": "PrtDocumentInference",
+      "chunkingStrategy": "llm_semantic_batch",
+      "llmPromptVersion": "v1.0.3",
+      "batchId": "aad2cdcc-4668-4d5d-87a6-7bb9b38ae032",
+      "chunkingRequestId": "66bcf9f9-af9e-4260-b200-f65442d22a84",
+      "totalChunks": 1,
+      "processingTime": 2716135,
+      "processingTimestamp": "2026-02-05T12:06:39.447914+00:00",
+      "tokenUsage": {
+        "total_tokens": 1168,
+        "prompt_tokens": 1130,
+        "completion_tokens": 38,
+        "model_version": "gemini-2.5-flash-lite"
+      },
+      "wasRepaired": false,
+      "repairMetadata": null,
+      "has_existing_chunks": true,
+      "chunks_count": 1
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "023d42b8bd8390d3dc582bf64ed0eb57a2e1a584e2dd41ae876dafb66af83ab7-0",
+        "idx": 0,
+        "hash": "fb11f4bfa31715c5ec2dce84578008dc63128134c41aa6514fa64ca563bef695",
+        "sim_hash": "2722527833461428913"
+      },
+      "content_original": "We get an exclusive mix from the Svetlana Industries signing and DJ featuring the likes of AFX, Ludacris, and Machinedrum for one hell of a ride",
+      "content": "We get an exclusive mix from the Svetlana Industries signing and DJ featuring the likes of AFX, Ludacris, and Machinedrum for one hell of a ride"
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "0b74ec7d-f3ee-4bd5-bb47-89612f3dd5d8",
+      "timestamp": "2025-10-24T16:04:46.068000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2025-10-24",
+      "chunking": {
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "023d42b8bd8390d3dc582bf64ed0eb57a2e1a584e2dd41ae876dafb66af83ab7"
+    },
+    {
+      "_id": "2f326efe-62a5-43c5-90d5-42c9e5f4902a",
+      "timestamp": "2026-02-05T11:16:24.205000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "strategy": "markdown",
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "023d42b8bd8390d3dc582bf64ed0eb57a2e1a584e2dd41ae876dafb66af83ab7"
+    },
+    {
+      "_id": "3894ebf3-b886-4108-8494-c6962195ac3c",
+      "timestamp": "2026-02-05T12:04:30.273000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.3",
+        "batchId": "a8e920c1-80d4-4960-953b-20540250f26c",
+        "chunkingRequestId": "35f10754-7d3f-4293-918e-8690ef195f95",
+        "totalChunks": 1,
+        "processingTime": 2574114,
+        "processingTimestamp": "2026-02-05T12:04:17.252570+00:00",
+        "tokenUsage": {
+          "total_tokens": 1168,
+          "prompt_tokens": 1130,
+          "completion_tokens": 38,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "wasRepaired": false,
+        "repairMetadata": null,
+        "has_existing_chunks": true,
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "023d42b8bd8390d3dc582bf64ed0eb57a2e1a584e2dd41ae876dafb66af83ab7"
+    },
+    {
+      "_id": "52707457-29db-4df1-bae0-1e7c22d5eeb7",
+      "timestamp": "2026-02-05T12:11:14.730000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.3",
+        "batchId": "aad2cdcc-4668-4d5d-87a6-7bb9b38ae032",
+        "chunkingRequestId": "66bcf9f9-af9e-4260-b200-f65442d22a84",
+        "totalChunks": 1,
+        "processingTime": 2716135,
+        "processingTimestamp": "2026-02-05T12:06:39.447914+00:00",
+        "tokenUsage": {
+          "total_tokens": 1168,
+          "prompt_tokens": 1130,
+          "completion_tokens": 38,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "wasRepaired": false,
+        "repairMetadata": null,
+        "has_existing_chunks": true,
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "023d42b8bd8390d3dc582bf64ed0eb57a2e1a584e2dd41ae876dafb66af83ab7"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Dazed</title>\r\n    <link>https://dazeddigital.com/feed/rss/gist</link>\r\n    <description>Youth and pop culture provocateurs since 1991. Fearless fashion, music, art, film, politics and ideas from today's bleeding edge. Declare Independence.</description>\r\n    <item>\r\n      <title>EXCLUSIVE: Nightwave Mix</title>\r\n      <link>https://www.dazeddigital.com/music/article/13357/1/exclusive-nightwave-mix</link>\r\n      <description>We get an exclusive mix from the Svetlana Industries signing and DJ featuring the likes of AFX, Ludacris, and Machinedrum for one hell of a ride</description>\r\n      <pubDate>Mon, 07 May 2012 08:39:00 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">https://www.dazeddigital.com/music/article/13357/1/exclusive-nightwave-mix</guid>\r\n      <dc:creator>Flora Yin-Wong</dc:creator>\r\n      <dc:date>2012-05-07T08:39:00Z</dc:date>\r\n      <media:text type=\"html\">Dazed fave Nightwave, known for her eclectic high-energy DJ sets and solo productions out on electronic labels like Svetlana Industries, Unknown to the Unknown and Seed, has made us an exclusive mix featuring everything from Luda to DJ Rashad and anthems from DJ Pierre. Check it out here spanning everything from 2-step, juke, house and hip hop...\r\nTRACKLISTINGLudacris - Child Of The Night ft Nate DoggJane 3 - Screensaver (Big Dope P Remix)Manny - I'm PassinNightwave - Jazz312DJ Rashad vs Julio Bashmore - Battle For The MiddleDJ Assault - Big KnotsStarski&amp;amp;Clutch - East To WestPatrice and Friends - Don't You Touch MyBig Dope P - Kapongo Dance (Julius Sylvest VIP Mix)DJ Rashad - Madnezz 2010DJ Pierre - Haterz Knock'Em OutNightwave - For YouTraxman - Footworkin On AirEprom - Regis Chillbin (Machinedrum Remix)DJ Spinn - Freekin' YouMachinedrum - U Don't Survive (Chrissy Murderbot Remix)AFX - 4Drexciya - Hydro Theory (Phillip D Kick Footwork Edit)\r\n\r\n\r\nExclusive Nightwave Mix by Dazed &amp;amp; Confused on  Mixcloud</media:text>\r\n      <media:embed url=\"https://www.mixcloud.com/widget/iframe/?feed=http://www.mixcloud.com/dazed%2Fexclusive-nightwave-mix\" />\r\n      <media:content type=\"image/jpeg\" isDefault=\"true\" url=\"https://images-prod.dazeddigital.com/630/azure/dazed-prod/890/5/895102.jpg\" />\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "We get an exclusive mix from the Svetlana Industries signing and DJ featuring the likes of AFX, Ludacris, and Machinedrum for one hell of a ride"
+}

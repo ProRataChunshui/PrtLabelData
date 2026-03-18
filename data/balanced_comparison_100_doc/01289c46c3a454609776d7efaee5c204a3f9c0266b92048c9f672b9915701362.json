@@ -1,0 +1,253 @@
+{
+  "document_id": "01289c46c3a454609776d7efaee5c204a3f9c0266b92048c9f672b9915701362",
+  "document_metadata": {
+    "id": "01289c46c3a454609776d7efaee5c204a3f9c0266b92048c9f672b9915701362",
+    "date": 20251114,
+    "publisher_id": "b1ac76c0-2bc8-4c26-b6fd-de0bea74194e",
+    "date_year": 2025,
+    "date_month": 11,
+    "crawl_date": "2025-11-14T21:45:02.575698078Z",
+    "date_day": 14,
+    "title": "PERENNIAL LAND - The Data Forest Immersive Installation Opens At Morris Museum",
+    "url": "https://www.broadwayworld.com/article/PERENNIAL-LAND-The-Data-Forest-Immersive-Installation-Opens-At-Morris-Museum-20251114",
+    "url2": "https://www.broadwayworld.com/article/PERENNIAL-LAND-The-Data-Forest-Immersive-Installation-Opens-At-Morris-Museum-20251114",
+    "domain": "www.broadwayworld.com",
+    "lang": "en",
+    "published_date": "2025-11-14T21:31:57Z",
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "b1ac76c0-2bc8-4c26-b6fd-de0bea74194e",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2025-11-14T21:45:02.575000",
+    "published_date_parsed": "2025-11-14T21:31:57",
+    "rawType": "xml",
+    "publisherId": "b1ac76c0-2bc8-4c26-b6fd-de0bea74194e",
+    "documentId": "01289c46c3a454609776d7efaee5c204a3f9c0266b92048c9f672b9915701362",
+    "rawcontent_created": "2025-11-14T21:45:02.893000",
+    "source": "Broadway World",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=www.broadwayworld.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=www.broadwayworld.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=www.broadwayworld.com",
+    "first_words": "Morris Museum will present \"Perennial Land - The Data Forest\", an experiential installation by Laia Cabrera and Isabelle Duverger that combines the beauty of various forest environments with the importance of data-driven insights into a human's impact on nature. Stepping into a space transformed into a multi-climate forest, tech and tools about resources and equity are seamlessly integrated into the environment like trees. We want to push aside the modern habit of thinking of nature-culture divide, decolonize technology and highlight the ways landscape contributes to social, political and psychic ideas of space. The vulnerability of the environment is directly",
+    "has_chunks": true
+  },
+  "publisher_metadata": {
+    "id": "b1ac76c0-2bc8-4c26-b6fd-de0bea74194e",
+    "group_id": "08eaa08e-ac94-4308-bddf-398673f5cb35",
+    "name": "Broadway World",
+    "domain": "broadwayworld.com",
+    "location": "United States",
+    "country": "United States",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": [
+      "186d72ec-3dbe-4c75-97a5-578fb5e2fd06"
+    ]
+  },
+  "content_metadata": {
+    "document_title_txt": "PERENNIAL LAND - The Data Forest Immersive Installation Opens At Morris Museum",
+    "document_authors_txt": [],
+    "hash": "f517fb717734450d2c1bca32479a0d05aca8682a55839e21053296f2b945ad42"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2025-11-15",
+    "chunking": {
+      "service": "PrtDocumentInference",
+      "chunkingStrategy": "llm_semantic_batch",
+      "llmPromptVersion": "v1.0.1",
+      "batchId": "c224a0e1-a8ed-4241-85c9-31565174eaac",
+      "chunkingRequestId": "41bab451-2ef2-4603-83e4-91a76a2066f6",
+      "totalChunks": 3,
+      "processingTime": 14615945,
+      "processingTimestamp": "2025-11-15T01:49:17.331953+00:00",
+      "tokenUsage": {
+        "total_tokens": 1529,
+        "prompt_tokens": 1324,
+        "completion_tokens": 205,
+        "model_version": "gemini-2.5-flash-lite"
+      },
+      "has_existing_chunks": true,
+      "chunks_count": 3
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "01289c46c3a454609776d7efaee5c204a3f9c0266b92048c9f672b9915701362-1",
+        "idx": 1,
+        "hash": "4f46b8a07e203eb8cf20837e20076d6dc86bda8e08172679269c26c19a32092b",
+        "sim_hash": "16756007347479332514"
+      },
+      "content_original": "Stepping into a space transformed into a multi-climate forest, tech and tools about resources and equity are seamlessly integrated into the environment like trees. We want to push aside the modern habit of thinking of nature-culture divide, decolonize technology and highlight the ways landscape contributes to social, political and psychic ideas of space. The vulnerability of the environment is directly related to that of certain communities.",
+      "content": "Stepping into a space transformed into a multi-climate forest, tech and tools about resources and equity are seamlessly integrated into the environment like trees. We want to push aside the modern habit of thinking of nature-culture divide, decolonize technology and highlight the ways landscape contributes to social, political and psychic ideas of space. The vulnerability of the environment is directly related to that of certain communities."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "01289c46c3a454609776d7efaee5c204a3f9c0266b92048c9f672b9915701362-1",
+        "idx": 1,
+        "hash": "4f46b8a07e203eb8cf20837e20076d6dc86bda8e08172679269c26c19a32092b",
+        "sim_hash": "16756007347479332514"
+      },
+      "content_original": "Stepping into a space transformed into a multi-climate forest, tech and tools about resources and equity are seamlessly integrated into the environment like trees. We want to push aside the modern habit of thinking of nature-culture divide, decolonize technology and highlight the ways landscape contributes to social, political and psychic ideas of space. The vulnerability of the environment is directly related to that of certain communities.",
+      "content": "Stepping into a space transformed into a multi-climate forest, tech and tools about resources and equity are seamlessly integrated into the environment like trees. We want to push aside the modern habit of thinking of nature-culture divide, decolonize technology and highlight the ways landscape contributes to social, political and psychic ideas of space. The vulnerability of the environment is directly related to that of certain communities."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "01289c46c3a454609776d7efaee5c204a3f9c0266b92048c9f672b9915701362-1",
+        "idx": 1,
+        "hash": "4f46b8a07e203eb8cf20837e20076d6dc86bda8e08172679269c26c19a32092b",
+        "sim_hash": "16756007347479332514"
+      },
+      "content_original": "Stepping into a space transformed into a multi-climate forest, tech and tools about resources and equity are seamlessly integrated into the environment like trees. We want to push aside the modern habit of thinking of nature-culture divide, decolonize technology and highlight the ways landscape contributes to social, political and psychic ideas of space. The vulnerability of the environment is directly related to that of certain communities.",
+      "content": "Stepping into a space transformed into a multi-climate forest, tech and tools about resources and equity are seamlessly integrated into the environment like trees. We want to push aside the modern habit of thinking of nature-culture divide, decolonize technology and highlight the ways landscape contributes to social, political and psychic ideas of space. The vulnerability of the environment is directly related to that of certain communities."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "01289c46c3a454609776d7efaee5c204a3f9c0266b92048c9f672b9915701362-2",
+        "idx": 2,
+        "hash": "eef0addcfe8901b7768e8159d32fcea41761b29de730dfc93d00381b74c3c14f",
+        "sim_hash": "3748863586759701176"
+      },
+      "content_original": "The event is on view at the Morris Museum, a Smithsonian Affiliate in Morristown, NJ, from November 7, 2025, to April 5, 2026, the exhibition is created and directed by Laia Cabrera and Isabelle Duverger, with original music by Nana Simopoulos and curation by Bryant Smal.",
+      "content": "The event is on view at the Morris Museum, a Smithsonian Affiliate in Morristown, NJ, from November 7, 2025, to April 5, 2026, the exhibition is created and directed by Laia Cabrera and Isabelle Duverger, with original music by Nana Simopoulos and curation by Bryant Smal."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "01289c46c3a454609776d7efaee5c204a3f9c0266b92048c9f672b9915701362-0",
+        "idx": 0,
+        "hash": "113cd2ef5a7b12e248b3f6ed3d97c77ce320e1ff4ae3750e3afb1f9a11877f41",
+        "sim_hash": "13068308340811301679"
+      },
+      "content_original": "Morris Museum will present \u201cPerennial Land - The Data Forest\u201c, an experiential installation by Laia Cabrera and Isabelle Duverger that combines the beauty of various forest environments with the importance of data-driven insights into a human's impact on nature.",
+      "content": "Morris Museum will present \u201cPerennial Land - The Data Forest\u201c, an experiential installation by Laia Cabrera and Isabelle Duverger that combines the beauty of various forest environments with the importance of data-driven insights into a human's impact on nature."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "01289c46c3a454609776d7efaee5c204a3f9c0266b92048c9f672b9915701362-0",
+        "idx": 0,
+        "hash": "113cd2ef5a7b12e248b3f6ed3d97c77ce320e1ff4ae3750e3afb1f9a11877f41",
+        "sim_hash": "13068308340811301679"
+      },
+      "content_original": "Morris Museum will present \u201cPerennial Land - The Data Forest\u201c, an experiential installation by Laia Cabrera and Isabelle Duverger that combines the beauty of various forest environments with the importance of data-driven insights into a human's impact on nature.",
+      "content": "Morris Museum will present \u201cPerennial Land - The Data Forest\u201c, an experiential installation by Laia Cabrera and Isabelle Duverger that combines the beauty of various forest environments with the importance of data-driven insights into a human's impact on nature."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "01289c46c3a454609776d7efaee5c204a3f9c0266b92048c9f672b9915701362-2",
+        "idx": 2,
+        "hash": "eef0addcfe8901b7768e8159d32fcea41761b29de730dfc93d00381b74c3c14f",
+        "sim_hash": "3748863586759701176"
+      },
+      "content_original": "The event is on view at the Morris Museum, a Smithsonian Affiliate in Morristown, NJ, from November 7, 2025, to April 5, 2026, the exhibition is created and directed by Laia Cabrera and Isabelle Duverger, with original music by Nana Simopoulos and curation by Bryant Smal.",
+      "content": "The event is on view at the Morris Museum, a Smithsonian Affiliate in Morristown, NJ, from November 7, 2025, to April 5, 2026, the exhibition is created and directed by Laia Cabrera and Isabelle Duverger, with original music by Nana Simopoulos and curation by Bryant Smal."
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "7050ece2-d5b0-460f-9e95-c057a3611bc5",
+      "timestamp": "2025-11-15T01:53:43.731000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "b1ac76c0-2bc8-4c26-b6fd-de0bea74194e",
+      "version": "2.3",
+      "date": "2025-11-15",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.1",
+        "batchId": "c224a0e1-a8ed-4241-85c9-31565174eaac",
+        "chunkingRequestId": "41bab451-2ef2-4603-83e4-91a76a2066f6",
+        "totalChunks": 3,
+        "processingTime": 14615945,
+        "processingTimestamp": "2025-11-15T01:49:17.331953+00:00",
+        "tokenUsage": {
+          "total_tokens": 1529,
+          "prompt_tokens": 1324,
+          "completion_tokens": 205,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "has_existing_chunks": true,
+        "chunks_count": 3
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 3,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "01289c46c3a454609776d7efaee5c204a3f9c0266b92048c9f672b9915701362"
+    },
+    {
+      "_id": "a9c1fdc3-3655-4f07-a1f6-0215aa1e7998",
+      "timestamp": "2025-11-14T21:50:18.969000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "b1ac76c0-2bc8-4c26-b6fd-de0bea74194e",
+      "version": "2.3",
+      "date": "2025-11-14",
+      "chunking": {
+        "strategy": "simple",
+        "chunks_count": 2
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "none",
+        "model": "none",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 2,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "01289c46c3a454609776d7efaee5c204a3f9c0266b92048c9f672b9915701362"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:dc=\"http://purl.org/dc/elements/1.1/\" version=\"2.0\">\r\n  <channel>\r\n    <title>BroadwayWorld.com Featured Content</title>\r\n    <link />\r\n    <description>Latest BroadwayWorld.com News, Reviews, and More...</description>\r\n    <image>\r\n      <title>BroadwayWorld.com Featured Content</title>\r\n      <url>https://cloudimages.broadwayworld.com/2014/images/newbroadwayworld-logo-trans6-265-compressed.png</url>\r\n      <link />\r\n      <width>-1</width>\r\n      <height>-1</height>\r\n    </image>\r\n    <item>\r\n      <title>PERENNIAL LAND - The Data Forest Immersive Installation Opens At Morris Museum</title>\r\n      <link>https://www.broadwayworld.com/article/PERENNIAL-LAND-The-Data-Forest-Immersive-Installation-Opens-At-Morris-Museum-20251114</link>\r\n      <description>&lt;p&gt;Morris Museum will present &amp;quot;Perennial Land - The Data Forest&amp;quot;, an experiential installation by Laia Cabrera and Isabelle Duverger that combines the beauty of various forest environments with the importance of data-driven insights into a human&amp;#39;s impact on nature.&lt;/p&gt;\r\n&lt;p&gt;Stepping into a space transformed into a multi-climate forest, tech and tools about resources and equity are seamlessly integrated into the environment like trees. We want to push aside the modern habit of thinking of nature-culture divide, decolonize technology and highlight the ways landscape contributes to social, political and psychic ideas of space. The vulnerability of the environment is directly related to that of certain communities.&lt;/p&gt;\r\n&lt;p&gt;The event is on view at the Morris Museum, a Smithsonian Affiliate in Morristown, NJ, from November 7, 2025, to April 5, 2026, the exhibition is created and directed by Laia Cabrera and Isabelle Duverger, with original music by Nana Simopoulos and curation by Bryant Smal.&lt;/p&gt;\r\n&lt;p&gt;Morris Museum: 6 Normandy Heights Rd, Morristown, NJ&lt;br /&gt;\r\nWednesday to Sunday 11 AM - 5 PM&lt;br /&gt;\r\nGet Tickets: &lt;a href=\"https://laiacabrera.us14.list-manage.com/track/click?u=f1ca068874b17f51388ab85ca&amp;amp;id=04dc88d22f&amp;amp;e=9ab0d67e8a\" target=\"_blank\"&gt;morrismuseum.org&lt;/a&gt; / More Infos: &lt;a href=\"https://laiacabrera.us14.list-manage.com/track/click?u=f1ca068874b17f51388ab85ca&amp;amp;id=94a6a4ef57&amp;amp;e=9ab0d67e8a\" target=\"_blank\"&gt;laiacabreraco.com/perennialland&lt;/a&gt;&lt;/p&gt;\r\n&lt;figure class=\"image\"&gt;&lt;img alt=\"Poster Perennial Land at Morris Museum\" height=\"446\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgG4KFiMK2ZrKWIQNebIsqKozbcMH_E4PVJEdG9jXHty7ig7jXGGoRvLODZmEte6VzmZD5RSs8DLN3RnAfpmc4SW3yxSXE4lhU2ZrigZSc0jQVAfxS6MRPROgA8_iM8J6CvWI2SJLOhKFJSrwUDMwzgsklKSwf_1LYNxFO6uIjDcX4NL0YKSpkEWiakuM/w640-h446/PERENNIAL_LAND_poster.jpg\" width=\"640\" /&gt;\r\n&lt;figcaption&gt;November 7, 2025 - April 5, 2026&lt;/figcaption&gt;\r\n&lt;/figure&gt;</description>\r\n      <pubDate>Fri, 14 Nov 2025 21:31:57 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">https://www.broadwayworld.com/article/PERENNIAL-LAND-The-Data-Forest-Immersive-Installation-Opens-At-Morris-Museum-20251114</guid>\r\n      <dc:date>2025-11-14T21:31:57Z</dc:date>\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "Morris Museum will present \"Perennial Land - The Data Forest\", an experiential installation by Laia Cabrera and Isabelle Duverger that combines the beauty of various forest environments with the importance of data-driven insights into a human's impact on nature.\n\nStepping into a space transformed into a multi-climate forest, tech and tools about resources and equity are seamlessly integrated into the environment like trees. We want to push aside the modern habit of thinking of nature-culture divide, decolonize technology and highlight the ways landscape contributes to social, political and psychic ideas of space. The vulnerability of the environment is directly related to that of certain communities.\n\nThe event is on view at the Morris Museum, a Smithsonian Affiliate in Morristown, NJ, from November 7, 2025, to April 5, 2026, the exhibition is created and directed by Laia Cabrera and Isabelle Duverger, with original music by Nana Simopoulos and curation by Bryant Smal.\n\nMorris Museum: 6 Normandy Heights Rd, Morristown, NJ  \nWednesday to Sunday 11 AM - 5 PM  \nGet Tickets: [morrismuseum.org](https://laiacabrera.us14.list-manage.com/track/click?u=f1ca068874b17f51388ab85ca&id=04dc88d22f&e=9ab0d67e8a) / More Infos: [laiacabreraco.com/perennialland](https://laiacabrera.us14.list-manage.com/track/click?u=f1ca068874b17f51388ab85ca&id=94a6a4ef57&e=9ab0d67e8a)\n\n![Poster Perennial Land at Morris Museum](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgG4KFiMK2ZrKWIQNebIsqKozbcMH_E4PVJEdG9jXHty7ig7jXGGoRvLODZmEte6VzmZD5RSs8DLN3RnAfpmc4SW3yxSXE4lhU2ZrigZSc0jQVAfxS6MRPROgA8_iM8J6CvWI2SJLOhKFJSrwUDMwzgsklKSwf_1LYNxFO6uIjDcX4NL0YKSpkEWiakuM/w640-h446/PERENNIAL_LAND_poster.jpg)\nNovember 7, 2025 - April 5, 2026"
+}

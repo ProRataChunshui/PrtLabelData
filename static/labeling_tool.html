@@ -1,0 +1,1304 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cleaning Ground Truth Labeling Tool</title>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script>
+marked.setOptions({ gfm: true, breaks: false });
+</script>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f5f5; height: 100vh; display: flex; flex-direction: column; }
+
+/* Header */
+.header { background: #1a1a2e; color: #fff; padding: 10px 20px; display: flex; align-items: center; gap: 15px; flex-wrap: wrap; }
+.header h1 { font-size: 16px; font-weight: 600; white-space: nowrap; }
+.header .nav-group { display: flex; align-items: center; gap: 8px; }
+.header button { background: #16213e; border: 1px solid #0f3460; color: #e0e0e0; padding: 5px 12px; border-radius: 4px; cursor: pointer; font-size: 13px; }
+.header button:hover { background: #0f3460; }
+.header button:disabled { opacity: 0.4; cursor: default; }
+.header .doc-info { font-size: 13px; color: #a0a0a0; }
+.doc-meta-bar { background: #f0f4f8; padding: 6px 20px; font-size: 12px; color: #555; display: none; border-bottom: 1px solid #ddd; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+.doc-meta-bar a { color: #1565c0; text-decoration: none; }
+.doc-meta-bar a:hover { text-decoration: underline; }
+.doc-meta-bar .meta-label { font-weight: 600; color: #333; margin-right: 4px; }
+.doc-meta-bar .meta-sep { margin: 0 10px; color: #ccc; }
+.header .progress-bar { flex: 1; min-width: 100px; height: 6px; background: #333; border-radius: 3px; overflow: hidden; }
+.header .progress-fill { height: 100%; background: #4caf50; transition: width 0.3s; }
+.header select { background: #16213e; border: 1px solid #0f3460; color: #e0e0e0; padding: 4px 8px; border-radius: 4px; font-size: 13px; }
+
+/* Drop zone */
+.drop-zone { display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; border: 3px dashed #ccc; border-radius: 12px; margin: 40px; color: #888; font-size: 18px; cursor: pointer; transition: all 0.2s; }
+.drop-zone:hover, .drop-zone.drag-over { border-color: #4caf50; color: #4caf50; background: #f0fff0; }
+.drop-zone input { display: none; }
+.drop-zone .subtitle { font-size: 13px; margin-top: 8px; }
+
+/* Main panels */
+.main { display: flex; flex: 1; overflow: hidden; }
+.panel { overflow-y: auto; padding: 12px; }
+/* Tabs */
+.panel-tabs { display: flex; border-bottom: 2px solid #ddd; background: #f8f8f8; }
+.panel-tab { padding: 6px 16px; font-size: 12px; font-weight: 600; cursor: pointer; color: #888; border-bottom: 2px solid transparent; margin-bottom: -2px; }
+.panel-tab:hover { color: #333; }
+.panel-tab.active { color: #1976d2; border-bottom-color: #1976d2; }
+.tab-content { display: none; flex: 1; overflow-y: auto; }
+.tab-content.active { display: block; flex: 1; }
+
+.panel-nav { width: 220px; min-width: 180px; background: #f8f9fa; border-right: 1px solid #ddd; overflow-y: auto; font-size: 12px; flex-shrink: 0; }
+.panel-left { flex: 55 0 0; min-width: 200px; background: #fff; display: flex; flex-direction: column; }
+.panel-right { flex: 45 0 0; min-width: 200px; background: #fafafa; }
+.resizer { width: 5px; cursor: col-resize; background: #ddd; flex-shrink: 0; transition: background 0.15s; }
+.resizer:hover, .resizer.dragging { background: #2196f3; }
+
+/* Nav panel */
+.nav-publisher { padding: 4px 8px; font-weight: 600; color: #333; cursor: pointer; background: #eef1f5; border-bottom: 1px solid #ddd; display: flex; justify-content: space-between; align-items: center; }
+.nav-publisher:hover { background: #dde4ed; }
+.nav-publisher .badge { background: #90a4ae; color: #fff; border-radius: 8px; padding: 0 6px; font-size: 10px; font-weight: 400; }
+.nav-doc { padding: 3px 8px 3px 16px; cursor: pointer; border-bottom: 1px solid #f0f0f0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; color: #555; }
+.nav-doc:hover { background: #e3f2fd; }
+.nav-doc.active { background: #1976d2; color: #fff; }
+.nav-doc.labeled { border-left: 3px solid #4caf50; background: #e8f5e9; }
+.nav-doc.in-progress { border-left: 3px solid #ff9800; background: #fff8e1; }
+.nav-doc.labeled::after { content: '✓'; float: right; color: #4caf50; font-weight: 700; }
+.nav-doc.in-progress::after { content: '●'; float: right; color: #ff9800; font-weight: 700; }
+.nav-doc .nav-title { font-size: 11px; }
+.nav-doc .nav-id { font-size: 9px; color: #999; font-family: monospace; }
+.nav-doc.active .nav-id { color: #bbdefb; }
+.nav-publisher-docs { display: none; }
+.nav-publisher-docs.open { display: block; }
+.nav-toggle-all { padding: 6px 8px; font-size: 11px; color: #1565c0; cursor: pointer; border-bottom: 1px solid #ddd; }
+.nav-toggle-all:hover { background: #e3f2fd; }
+.panel-header { font-size: 14px; font-weight: 600; color: #555; margin-bottom: 10px; padding-bottom: 6px; border-bottom: 1px solid #eee; display: flex; justify-content: space-between; align-items: center; position: sticky; top: 0; background: inherit; z-index: 10; padding-top: 4px; }
+.panel-header .actions { display: flex; gap: 6px; }
+.panel-header button { font-size: 11px; padding: 3px 8px; background: #eee; border: 1px solid #ccc; border-radius: 3px; cursor: pointer; }
+.panel-header button:hover { background: #ddd; }
+
+/* Blocks */
+.block { border: 1px solid #e0e0e0; border-left: 4px solid #4caf50; border-radius: 4px; margin-bottom: 6px; cursor: pointer; transition: all 0.15s; position: relative; }
+.block:hover { box-shadow: 0 1px 4px rgba(0,0,0,0.1); }
+.block.removed { border-left-color: #f44336; opacity: 0.45; }
+.block.removed .block-content { text-decoration: line-through; }
+.block.focused { outline: 2px solid #2196f3; outline-offset: 1px; }
+.block-header { display: flex; align-items: center; gap: 6px; padding: 4px 8px; background: #f8f8f8; border-bottom: 1px solid #eee; font-size: 11px; }
+.block.removed .block-header { background: #fff5f5; }
+.block-badge { display: inline-block; padding: 1px 6px; border-radius: 3px; font-size: 10px; font-weight: 600; color: #fff; }
+.badge-header { background: #9c27b0; }
+.badge-paragraph { background: #2196f3; }
+.badge-list { background: #ff9800; }
+.badge-code { background: #607d8b; }
+.badge-table { background: #009688; }
+.badge-blockquote { background: #795548; }
+.badge-hr { background: #9e9e9e; }
+.badge-html { background: #e91e63; }
+.block-lines { color: #999; font-size: 10px; }
+.block-status { margin-left: auto; font-size: 10px; font-weight: 600; }
+.block.removed .block-status { color: #f44336; }
+.block:not(.removed) .block-status { color: #4caf50; }
+.block-content { padding: 6px 10px; font-size: 12px; line-height: 1.5; font-family: 'SF Mono', 'Fira Code', monospace; white-space: pre-wrap; word-break: break-word; max-height: 150px; overflow-y: auto; color: #333; }
+.block-edit-area { width: 100%; min-height: 120px; max-height: 600px; padding: 6px 10px; font-size: 12px; line-height: 1.5; font-family: 'SF Mono', 'Fira Code', monospace; white-space: pre-wrap; word-break: break-word; border: none; border-top: 1px dashed #4caf50; background: #f0fff0; resize: vertical; outline: none; color: #333; overflow-y: auto; }
+.block-edit-area:focus { background: #e8f5e9; }
+.block-edit-wrapper { position: relative; }
+.block-edit-label { font-size: 10px; color: #4caf50; font-weight: 600; padding: 2px 10px; background: #f0fff0; border-top: 1px solid #e0e0e0; display: flex; align-items: center; gap: 8px; }
+.block-edit-actions { display: flex; gap: 4px; margin-left: auto; }
+.block-edit-actions button { font-size: 9px; padding: 1px 5px; background: #e8f5e9; border: 1px solid #a5d6a7; border-radius: 2px; cursor: pointer; color: #2e7d32; }
+.block-edit-actions button:hover { background: #c8e6c9; }
+/* Labeler name */
+.labeler-input { background: #16213e; border: 1px solid #0f3460; color: #e0e0e0; padding: 4px 8px; border-radius: 4px; font-size: 12px; width: 100px; }
+.labeler-input:focus { outline: 1px solid #4caf50; }
+/* Doc comment */
+/* Labeling status */
+.label-status { display: flex; align-items: center; gap: 6px; font-size: 11px; }
+.label-status .status-badge { padding: 2px 8px; border-radius: 10px; font-weight: 600; font-size: 10px; }
+.status-not_started { background: #eee; color: #999; }
+.status-labeling { background: #fff3e0; color: #e65100; }
+.status-finished { background: #e8f5e9; color: #2e7d32; }
+.btn-finish { padding: 4px 14px; background: #4caf50; color: #fff; border: none; border-radius: 4px; cursor: pointer; font-size: 12px; font-weight: 700; box-shadow: 0 1px 3px rgba(76,175,80,0.4); }
+.btn-finish:hover { background: #388e3c; box-shadow: 0 2px 6px rgba(76,175,80,0.5); }
+.btn-unfinish { padding: 4px 14px; background: #ff9800; color: #fff; border: none; border-radius: 4px; cursor: pointer; font-size: 12px; font-weight: 600; }
+.btn-unfinish:hover { background: #f57c00; }
+@keyframes finishFlash { 0% { background: #fff; } 50% { background: #c8e6c9; } 100% { background: #fff; } }
+.finish-flash { animation: finishFlash 0.6s ease; }
+.doc-comment-bar { padding: 4px 20px; background: #fff8e1; border-bottom: 1px solid #ffe082; display: none; }
+.doc-comment-input { width: 100%; padding: 4px 8px; border: 1px solid #ffe082; border-radius: 3px; font-size: 12px; background: #fff; resize: none; }
+.doc-comment-input:focus { outline: 1px solid #ffa000; }
+/* Block comment */
+.block-comment { padding: 3px 10px; border-top: 1px dashed #90caf9; background: #e3f2fd; }
+.block-comment-input { width: 100%; padding: 2px 6px; border: 1px solid #90caf9; border-radius: 2px; font-size: 11px; background: #fff; }
+.block-comment-input:focus { outline: 1px solid #1976d2; }
+.btn-comment { font-size: 10px; padding: 1px 6px; background: #e3f2fd; border: 1px solid #90caf9; border-radius: 3px; cursor: pointer; color: #1565c0; }
+.btn-comment:hover { background: #bbdefb; }
+.btn-comment.has-comment { background: #1976d2; color: #fff; border-color: #1976d2; }
+/* Diff view */
+.diff-view { padding: 6px 10px; font-size: 12px; line-height: 1.6; font-family: 'SF Mono', 'Fira Code', monospace; white-space: pre-wrap; word-break: break-word; background: #fafafa; border-top: 1px solid #e0e0e0; max-height: 200px; overflow-y: auto; }
+.diff-del { background: #ffcdd2; text-decoration: line-through; color: #c62828; }
+.diff-ins { background: #c8e6c9; color: #2e7d32; }
+.diff-label { font-size: 10px; color: #757575; font-weight: 600; padding: 2px 10px; background: #f5f5f5; border-top: 1px solid #e0e0e0; }
+
+/* Chunk render */
+.chunk-card { border: 1px solid #ddd; border-left: 4px solid #9c27b0; border-radius: 4px; margin-bottom: 8px; }
+.chunk-card-header { padding: 4px 8px; background: #f3e5f9; font-size: 11px; font-weight: 600; color: #6a1b9a; border-bottom: 1px solid #e1bee7; }
+.chunk-card-body { padding: 8px 10px; font-size: 13px; line-height: 1.6; }
+.chunk-card-body p { margin-bottom: 6px; }
+.chunk-card-body h1, .chunk-card-body h2, .chunk-card-body h3 { margin: 4px 0; }
+.chunk-card-body ul, .chunk-card-body ol { padding-left: 20px; margin-bottom: 6px; }
+.chunk-card-body table { border-collapse: collapse; margin-bottom: 6px; }
+.chunk-card-body td, .chunk-card-body th { border: 1px solid #ddd; padding: 3px 6px; }
+.btn-edit { font-size: 10px; padding: 1px 6px; background: #e3f2fd; border: 1px solid #90caf9; border-radius: 3px; cursor: pointer; color: #1565c0; }
+.btn-edit:hover { background: #bbdefb; }
+.btn-edit.active { background: #4caf50; color: #fff; border-color: #4caf50; }
+.btn-reset { font-size: 10px; padding: 1px 6px; background: #fff3e0; border: 1px solid #ffcc80; border-radius: 3px; cursor: pointer; color: #e65100; margin-left: 4px; }
+.btn-reset:hover { background: #ffe0b2; }
+.block.edited { border-left-color: #ff9800; }
+.block.edited .block-status-edited { color: #ff9800; font-size: 10px; font-weight: 600; margin-left: 6px; }
+.block-rendered { padding: 6px 10px; font-size: 13px; line-height: 1.5; }
+.block-rendered h1, .block-rendered h2, .block-rendered h3 { margin: 0; }
+.block-rendered p { margin: 0; }
+.block-rendered ul, .block-rendered ol { margin: 0; padding-left: 20px; }
+.block-rendered table { border-collapse: collapse; font-size: 12px; }
+.block-rendered td, .block-rendered th { border: 1px solid #ddd; padding: 3px 6px; }
+
+/* View toggle */
+.view-toggle { font-size: 11px; padding: 2px 8px; cursor: pointer; background: #eee; border: 1px solid #ccc; border-radius: 3px; }
+.view-toggle:hover { background: #ddd; }
+
+/* Preview panel */
+.preview-content { font-size: 14px; line-height: 1.6; padding: 10px; }
+.preview-content h1 { font-size: 22px; margin-bottom: 8px; }
+.preview-content h2 { font-size: 18px; margin-bottom: 6px; margin-top: 12px; }
+.preview-content h3 { font-size: 16px; margin-bottom: 4px; margin-top: 10px; }
+.preview-content p { margin-bottom: 8px; }
+.preview-content ul, .preview-content ol { margin-bottom: 8px; padding-left: 24px; }
+.preview-content table { border-collapse: collapse; margin-bottom: 8px; }
+.preview-content td, .preview-content th { border: 1px solid #ddd; padding: 4px 8px; }
+.preview-content blockquote { border-left: 3px solid #ccc; padding-left: 12px; color: #555; margin-bottom: 8px; }
+.preview-content pre { background: #f4f4f4; padding: 8px; border-radius: 4px; overflow-x: auto; margin-bottom: 8px; }
+.preview-content code { background: #f4f4f4; padding: 1px 4px; border-radius: 2px; font-size: 13px; }
+
+/* Keyboard hints */
+.keyboard-hints { font-size: 11px; color: #888; padding: 8px 12px; background: #f0f0f0; border-top: 1px solid #ddd; display: flex; gap: 15px; flex-wrap: wrap; }
+.keyboard-hints kbd { background: #fff; border: 1px solid #ccc; border-radius: 3px; padding: 1px 5px; font-family: monospace; font-size: 11px; }
+</style>
+</head>
+<body>
+
+<div class="header" id="header" style="display:none;">
+  <h1>Cleaning GT Labeler</h1>
+  <span style="color:#a0a0a0; font-size:11px;">Labeler:</span>
+  <input type="text" id="labelerName" class="labeler-input" placeholder="Your name" value="" onchange="onLabelerChange()">
+  <div class="nav-group">
+    <button onclick="prevDoc()" id="btnPrev" title="← Left Arrow">◀ Prev</button>
+    <select id="docSelect" onchange="goToDoc(this.value)"></select>
+    <button onclick="nextDoc()" id="btnNext" title="→ Right Arrow">Next ▶</button>
+  </div>
+  <span class="doc-info" id="docInfo"></span>
+  <div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
+  <span class="doc-info" id="progressText"></span>
+  <button onclick="exportLabels()">⬇ Export JSONL</button>
+  <button onclick="showLandingPage()">📂 Load Data</button>
+  <button onclick="clearSession()" style="background:#5a1a1a;">Clear Session</button>
+</div>
+<div class="doc-meta-bar" id="docMetaBar">
+  <span class="meta-label">Title:</span><span id="metaTitle">-</span>
+  <span class="meta-sep">|</span>
+  <span class="meta-label">Publisher:</span><span id="metaPublisher">-</span>
+  <span class="meta-sep">|</span>
+  <span class="meta-label">URL:</span><a id="metaUrl" href="#" target="_blank">-</a>
+  <span class="meta-sep">|</span>
+  <span class="meta-label">Domain:</span><span id="metaDomain">-</span>
+</div>
+<div class="doc-comment-bar" id="docCommentBar">
+  <div style="display:flex; align-items:center; gap:12px;">
+    <div class="label-status">
+      <span>Status:</span>
+      <span class="status-badge" id="statusBadge">not started</span>
+      <button class="btn-finish" id="btnFinish" onclick="markFinished()">✓ Mark Finished</button>
+      <button class="btn-unfinish" id="btnUnfinish" onclick="markLabeling()" style="display:none;">↩ Reopen</button>
+    </div>
+    <span style="color:#ccc;">|</span>
+    <span style="font-size:11px; font-weight:600; color:#f57f17;">💬 Doc Comment:</span>
+    <textarea class="doc-comment-input" id="docCommentInput" rows="1" placeholder="Add a comment about this document..." oninput="onDocCommentInput()" onclick="event.stopPropagation()" style="flex:1;"></textarea>
+  </div>
+</div>
+
+<div class="drop-zone" id="dropZone">
+  <div>📂 Load documents to label</div>
+  <div style="margin-top:16px;">
+    <div style="font-size:14px; font-weight:600; margin-bottom:8px;">Server Folders:</div>
+    <div style="display:flex; align-items:center; gap:8px;">
+      <select id="folderSelect" style="padding:8px 12px; border:1px solid #ccc; border-radius:4px; font-size:14px; min-width:300px;">
+        <option value="">Loading folders...</option>
+      </select>
+      <button onclick="loadFromFolder()" style="padding:8px 16px; background:#4caf50; color:#fff; border:none; border-radius:4px; cursor:pointer; font-size:14px;">Load Folder</button>
+    </div>
+  </div>
+
+</div>
+
+<div class="main" id="mainPanels" style="display:none;">
+  <div class="panel-nav" id="panelNav">
+    <div class="nav-toggle-all" onclick="toggleAllPublishers()">▼ Expand All / ▲ Collapse All</div>
+    <div id="navTree"></div>
+  </div>
+  <div class="panel panel-left" id="panelLeft">
+    <div class="panel-tabs">
+      <div class="panel-tab active" id="tabBlocks" onclick="switchTab('blocks')">Blocks <span id="blockCount"></span></div>
+      <div class="panel-tab" id="tabRawHtml" onclick="switchTab('rawhtml')">Raw HTML</div>
+      <div class="panel-tab" id="tabChunks" onclick="switchTab('chunks')">Chunks</div>
+    </div>
+    <div class="tab-content active" id="tabContentBlocks">
+      <div class="panel-header">
+        <span>Original Blocks</span>
+        <div class="actions">
+          <button onclick="toggleView()" id="viewToggle">Show Rendered</button>
+          <button onclick="keepAll()">✓ Keep All</button>
+          <button onclick="removeAll()">✗ Remove All</button>
+        </div>
+      </div>
+      <div id="blocksContainer"></div>
+    </div>
+    <div class="tab-content" id="tabContentRawHtml" style="flex:1; display:none; flex-direction:column;">
+      <div class="panel-header"><span>Raw HTML (Rendered)</span></div>
+      <iframe id="rawHtmlFrame" style="flex:1; border:none; width:100%;"></iframe>
+    </div>
+    <div class="tab-content" id="tabContentChunks" style="flex:1; display:none; flex-direction:column; overflow-y:auto;">
+      <div class="panel-header"><span>Current Chunks <span id="chunkCountTab"></span></span></div>
+      <div id="chunksRenderContainer" style="padding:8px;"></div>
+    </div>
+  </div>
+  <div class="resizer" id="panelResizer"></div>
+  <div class="panel panel-right" id="panelRight">
+    <div class="panel-header">
+      <span>Cleaned Preview <span id="previewStats"></span></span>
+    </div>
+    <div class="preview-content" id="previewContent"></div>
+  </div>
+</div>
+
+<div class="keyboard-hints" id="keyHints" style="display:none;">
+  <span><kbd>←</kbd><kbd>→</kbd> Navigate docs</span>
+  <span><kbd>↑</kbd><kbd>↓</kbd> Navigate blocks</span>
+  <span><kbd>Enter</kbd><kbd>Space</kbd> Toggle block</span>
+  <span><kbd>Ctrl+Z</kbd> Undo</span>
+  <span><kbd>Ctrl+Shift+Z</kbd> Redo</span>
+  <span><kbd>Shift+Click</kbd> Range select</span>
+</div>
+
+<script>
+// ── State ──────────────────────────────────────────────────
+let documents = [];
+let currentIdx = 0;
+let undoStack = [];
+let redoStack = [];
+let focusedBlock = -1;
+let lastClickedBlock = -1;
+let showRaw = true;
+let fileName = '';
+
+// ── Block Parser ───────────────────────────────────────────
+function splitMarkdownToBlocks(text) {
+  const lines = text.split('\n');
+  const blocks = [];
+  let current = [];
+  let currentType = 'paragraph';
+  let startLine = 0;
+  let inCodeFence = false;
+
+  function flush() {
+    if (current.length === 0) return;
+    const t = current.join('\n').trim();
+    if (t) {
+      blocks.push({ id: blocks.length, type: currentType, text: current.join('\n'), startLine, endLine: startLine + current.length - 1 });
+    }
+    current = [];
+    currentType = 'paragraph';
+  }
+
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+    const trimmed = line.trim();
+
+    // Code fence toggle
+    if (trimmed.startsWith('```')) {
+      if (inCodeFence) {
+        current.push(line);
+        inCodeFence = false;
+        flush();
+        startLine = i + 1;
+        continue;
+      } else {
+        flush();
+        startLine = i;
+        inCodeFence = true;
+        currentType = 'code';
+        current.push(line);
+        continue;
+      }
+    }
+    if (inCodeFence) { current.push(line); continue; }
+
+    // Blank line
+    if (trimmed === '') {
+      flush();
+      startLine = i + 1;
+      continue;
+    }
+
+    // Header
+    if (/^#{1,6}\s/.test(trimmed)) {
+      flush();
+      startLine = i;
+      blocks.push({ id: blocks.length, type: 'header', text: line, startLine: i, endLine: i });
+      startLine = i + 1;
+      continue;
+    }
+
+    // HR
+    if (/^(\*{3,}|-{3,}|_{3,})$/.test(trimmed)) {
+      flush();
+      blocks.push({ id: blocks.length, type: 'hr', text: line, startLine: i, endLine: i });
+      startLine = i + 1;
+      continue;
+    }
+
+    // Blockquote
+    if (trimmed.startsWith('>')) {
+      if (currentType !== 'blockquote') { flush(); startLine = i; currentType = 'blockquote'; }
+      current.push(line);
+      continue;
+    }
+
+    // List item
+    if (/^(\s*[-*+]\s|\s*\d+[.)]\s)/.test(line)) {
+      if (currentType !== 'list') { flush(); startLine = i; currentType = 'list'; }
+      current.push(line);
+      continue;
+    }
+
+    // Table row
+    if (trimmed.includes('|') && (trimmed.startsWith('|') || trimmed.endsWith('|'))) {
+      if (currentType !== 'table') { flush(); startLine = i; currentType = 'table'; }
+      current.push(line);
+      continue;
+    }
+
+    // HTML-like content
+    if (/^<[a-zA-Z\/]/.test(trimmed) || /^\{/.test(trimmed) || /^var\s|^function\s|^window\.|^document\./.test(trimmed)) {
+      if (currentType !== 'html') { flush(); startLine = i; currentType = 'html'; }
+      current.push(line);
+      continue;
+    }
+
+    // Default: paragraph (but continue current type if it's a continuation)
+    if (currentType === 'list' || currentType === 'table' || currentType === 'html' || currentType === 'blockquote') {
+      // Check if it's a continuation (indented for lists, etc.)
+      if (currentType === 'list' && /^\s{2,}/.test(line)) {
+        current.push(line);
+        continue;
+      }
+      flush();
+      startLine = i;
+    }
+    currentType = 'paragraph';
+    current.push(line);
+  }
+  flush();
+  return blocks;
+}
+
+// ── File Loading ───────────────────────────────────────────
+const dropZone = document.getElementById('dropZone');
+dropZone.addEventListener('dragover', e => { e.preventDefault(); dropZone.classList.add('drag-over'); });
+dropZone.addEventListener('dragleave', () => dropZone.classList.remove('drag-over'));
+dropZone.addEventListener('drop', e => { e.preventDefault(); dropZone.classList.remove('drag-over'); handleFile(e.dataTransfer.files[0]); });
+
+// ── Navigation Panel ───────────────────────────────────────
+let navExpanded = {};
+
+function buildNavTree() {
+  // Group documents by publisher, sort docs by doc_id within each
+  const groups = {};
+  documents.forEach((doc, idx) => {
+    const pub = doc.publisher || '(unknown)';
+    if (!groups[pub]) groups[pub] = [];
+    groups[pub].push({ idx, doc });
+  });
+
+  // Sort publishers alphabetically, sort docs by doc_id
+  const sortedPubs = Object.keys(groups).sort();
+  sortedPubs.forEach(pub => {
+    groups[pub].sort((a, b) => a.doc.doc_id.localeCompare(b.doc.doc_id));
+  });
+
+  const container = document.getElementById('navTree');
+  let html = '';
+  for (const pub of sortedPubs) {
+    const docs = groups[pub];
+    const isOpen = navExpanded[pub] !== false; // default open
+    const finCount = docs.filter(d => d.doc.labelStatus === 'finished').length;
+    const progCount = docs.filter(d => d.doc.labelStatus === 'labeling').length;
+    const statusSummary = finCount ? ` ✓${finCount}` : '';
+    const progSummary = progCount ? ` ●${progCount}` : '';
+    html += `<div class="nav-publisher" onclick="togglePublisher('${pub.replace(/'/g, "\\'")}')">
+      <span>${isOpen ? '▼' : '▶'} ${pub}</span>
+      <span class="badge">${finCount}/${docs.length}</span>
+    </div>`;
+    html += `<div class="nav-publisher-docs ${isOpen ? 'open' : ''}" id="nav-pub-${pub.replace(/[^a-zA-Z0-9]/g, '_')}">`;
+    for (const { idx, doc } of docs) {
+      const isActive = idx === currentIdx;
+      const isLabeled = doc.labelStatus === 'finished';
+      const isInProgress = doc.labelStatus === 'labeling';
+      const title = doc.title || doc.doc_id.substring(0, 20) + '...';
+      html += `<div class="nav-doc ${isActive ? 'active' : ''} ${isLabeled ? 'labeled' : ''} ${isInProgress ? 'in-progress' : ''}"
+                    onclick="goToDoc(${idx})" title="${doc.doc_id}">
+        <div class="nav-title">${title.length > 28 ? title.substring(0, 28) + '...' : title}</div>
+        <div class="nav-id">${doc.doc_id.substring(0, 16)}...</div>
+      </div>`;
+    }
+    html += '</div>';
+  }
+  container.innerHTML = html;
+}
+
+function togglePublisher(pub) {
+  navExpanded[pub] = navExpanded[pub] === false ? true : false;
+  buildNavTree();
+}
+
+function toggleAllPublishers() {
+  const allOpen = Object.values(navExpanded).every(v => v !== false);
+  const pubs = new Set(documents.map(d => d.publisher || '(unknown)'));
+  pubs.forEach(p => { navExpanded[p] = allOpen ? false : true; });
+  buildNavTree();
+}
+
+function switchTab(tab) {
+  document.getElementById('tabBlocks').classList.toggle('active', tab === 'blocks');
+  document.getElementById('tabRawHtml').classList.toggle('active', tab === 'rawhtml');
+  document.getElementById('tabChunks').classList.toggle('active', tab === 'chunks');
+
+  const blocksEl = document.getElementById('tabContentBlocks');
+  const rawEl = document.getElementById('tabContentRawHtml');
+  const chunksEl = document.getElementById('tabContentChunks');
+
+  blocksEl.style.display = tab === 'blocks' ? 'block' : 'none';
+  rawEl.style.display = tab === 'rawhtml' ? 'flex' : 'none';
+  chunksEl.style.display = tab === 'chunks' ? 'flex' : 'none';
+
+  if (tab === 'rawhtml') {
+    const doc = documents[currentIdx];
+    const frame = document.getElementById('rawHtmlFrame');
+    frame.srcdoc = doc.raw_html || '<p>(no raw HTML available)</p>';
+  }
+  if (tab === 'chunks') {
+    renderChunksTab();
+  }
+}
+
+function renderChunksTab() {
+  const doc = documents[currentIdx];
+  const chunks = doc.chunks || [];
+  document.getElementById('chunkCountTab').textContent = `(${chunks.length} chunks)`;
+  const container = document.getElementById('chunksRenderContainer');
+  if (!chunks.length) {
+    container.innerHTML = '<p style="color:#999; padding:20px;">No chunks available for this document.</p>';
+    return;
+  }
+  container.innerHTML = chunks.map((chunk, i) => {
+    const rendered = marked.parse(chunk);
+    const wordCount = chunk.trim().split(/\s+/).length;
+    return `<div class="chunk-card">
+      <div class="chunk-card-header">Chunk ${i + 1} / ${chunks.length} — ${wordCount} words</div>
+      <div class="chunk-card-body">${rendered}</div>
+    </div>`;
+  }).join('');
+}
+
+function showLandingPage() {
+  document.getElementById('dropZone').style.display = 'flex';
+  document.getElementById('mainPanels').style.display = 'none';
+  document.getElementById('docMetaBar').style.display = 'none';
+  document.getElementById('keyHints').style.display = 'none';
+  loadFolderList();
+}
+
+// ── Server Folder Loading ──────────────────────────────────
+async function loadFolderList() {
+  try {
+    const resp = await fetch('/api/folders');
+    if (!resp.ok) return;
+    const folders = await resp.json();
+    const sel = document.getElementById('folderSelect');
+    sel.innerHTML = '<option value="">-- Select a folder --</option>' +
+      folders.map(f => `<option value="${f.name}">${f.name} (${f.doc_count} docs)</option>`).join('');
+  } catch(e) {
+    // Server not available, hide folder picker
+    document.getElementById('folderSelect').innerHTML = '<option value="">(server not available)</option>';
+  }
+}
+
+async function loadFromFolder() {
+  const folder = document.getElementById('folderSelect').value;
+  if (!folder) return;
+  try {
+    const resp = await fetch(`/api/folders/${encodeURIComponent(folder)}`);
+    if (!resp.ok) throw new Error('Failed to load folder');
+    const docs = await resp.json();
+    if (docs.error) { alert(docs.error); return; }
+    // Always load fresh from server (not cache)
+    fileName = folder;
+    const text = docs.map(d => JSON.stringify(d)).join('\n');
+    await saveFileContent(fileName, text);
+    localStorage.setItem('labeling_last_file', fileName);
+    localStorage.setItem('labeling_last_folder', folder);
+    parseAndLoad(text);
+  } catch(e) {
+    alert('Error loading folder: ' + e.message);
+  }
+}
+
+// Load folder list on page init
+loadFolderList();
+
+// ── IndexedDB for storing file content ─────────────────────
+function openDB() {
+  return new Promise((resolve, reject) => {
+    const req = indexedDB.open('LabelingToolDB', 1);
+    req.onupgradeneeded = e => { e.target.result.createObjectStore('files'); };
+    req.onsuccess = e => resolve(e.target.result);
+    req.onerror = e => reject(e.target.error);
+  });
+}
+
+async function saveFileContent(name, text) {
+  const db = await openDB();
+  return new Promise((resolve, reject) => {
+    const tx = db.transaction('files', 'readwrite');
+    tx.objectStore('files').put(text, name);
+    tx.oncomplete = () => resolve();
+    tx.onerror = e => reject(e.target.error);
+  });
+}
+
+async function loadFileContent(name) {
+  const db = await openDB();
+  return new Promise((resolve, reject) => {
+    const tx = db.transaction('files', 'readonly');
+    const req = tx.objectStore('files').get(name);
+    req.onsuccess = () => resolve(req.result);
+    req.onerror = e => reject(e.target.error);
+  });
+}
+
+function handleFile(file) {
+  if (!file) return;
+  fileName = file.name;
+  const reader = new FileReader();
+  reader.onload = async e => {
+    const text = e.target.result;
+    await saveFileContent(fileName, text);
+    localStorage.setItem('labeling_last_file', fileName);
+    localStorage.setItem('labeling_last_format', 'jsonl');
+    parseAndLoad(text);
+  };
+  reader.readAsText(file);
+}
+
+async function handleMultiJsonFiles(files) {
+  if (!files || files.length === 0) return;
+  fileName = `export_${files.length}_files`;
+  const docs = [];
+  for (const file of files) {
+    const text = await file.text();
+    try {
+      const obj = JSON.parse(text);
+      docs.push(obj);
+    } catch(e) { console.warn('Skip invalid JSON:', file.name); }
+  }
+  // Convert export format to internal JSONL-like format
+  const lines = docs.map(obj => {
+    const meta = obj.document_metadata || {};
+    return JSON.stringify({
+      doc_id: obj.document_id || meta.id || '',
+      original_content: obj.markdown_content || obj.raw_content || '',
+      url: meta.url || '',
+      publisher: meta.source || '',
+      title: meta.title || '',
+      domain: meta.domain || '',
+      document_metadata: meta,
+    });
+  });
+  const text = lines.join('\n');
+  await saveFileContent(fileName, text);
+  localStorage.setItem('labeling_last_file', fileName);
+  localStorage.setItem('labeling_last_format', 'jsonl');
+  parseAndLoad(text);
+}
+
+function parseAndLoad(text) {
+  const lines = text.split('\n').filter(l => l.trim());
+  documents = lines.map(l => {
+    const obj = JSON.parse(l);
+    // Support both JSONL format and export JSON format
+    const content = obj.original_content || obj.markdown_content || obj.raw_content || obj.content || '';
+    const docMeta = obj.document_metadata || {};
+    const blocks = splitMarkdownToBlocks(content);
+    const rawHtml = obj.raw_content || obj.raw_html || '';
+    const chunks = obj.chunks || [];
+    return {
+      doc_id: obj.doc_id || obj.document_id || docMeta.id || '',
+      original_content: content,
+      raw_html: rawHtml,
+      chunks: chunks,
+      url: obj.url || docMeta.url || '',
+      publisher: obj.publisher || docMeta.source || '',
+      title: obj.title || docMeta.title || '',
+      domain: obj.domain || docMeta.domain || '',
+      blocks,
+      blockStates: blocks.map(() => true),
+      blockEdits: blocks.map(() => null),
+      blockComments: blocks.map(() => ''),
+      docComment: '',
+      editingBlock: -1,
+      commentingBlock: -1,
+      labelStatus: 'not_started',  // not_started, labeling, finished
+      meta: obj
+    };
+  });
+
+  // Restore labels from localStorage
+  loadSession();
+
+  currentIdx = 0;
+  document.getElementById('dropZone').style.display = 'none';
+  document.getElementById('header').style.display = 'flex';
+  document.getElementById('docMetaBar').style.display = 'block';
+  document.getElementById('mainPanels').style.display = 'flex';
+  document.getElementById('keyHints').style.display = 'flex';
+  populateDocSelect();
+  buildNavTree();
+  renderDoc();
+}
+
+async function resumeLastSession() {
+  const lastFile = localStorage.getItem('labeling_last_file');
+  if (!lastFile) return;
+  const text = await loadFileContent(lastFile);
+  if (text) {
+    fileName = lastFile;
+    parseAndLoad(text);
+  } else {
+    alert('Stored file content not found. Please reload the file.');
+  }
+}
+
+// On page load, restore labeler name and auto-load last folder
+window.addEventListener('DOMContentLoaded', async () => {
+  const savedLabeler = localStorage.getItem('labeling_labeler');
+  if (savedLabeler) document.getElementById('labelerName').value = savedLabeler;
+
+  const lastFolder = localStorage.getItem('labeling_last_folder');
+  if (lastFolder) {
+    try {
+      const resp = await fetch(`/api/folders/${encodeURIComponent(lastFolder)}`);
+      if (resp.ok) {
+        const docs = await resp.json();
+        if (!docs.error && docs.length) {
+          fileName = lastFolder;
+          const text = docs.map(d => JSON.stringify(d)).join('\n');
+          await saveFileContent(fileName, text);
+          parseAndLoad(text);
+          return;
+        }
+      }
+    } catch(e) {}
+  }
+  // Fallback: show folder picker
+  loadFolderList();
+});
+
+// ── Session Persistence ────────────────────────────────────
+function sessionKey() { return 'cleaning_gt_' + fileName; }
+
+function saveSession() {
+  const labeler = document.getElementById('labelerName').value;
+  localStorage.setItem('labeling_labeler', labeler);
+  const data = documents.map(d => ({ doc_id: d.doc_id, blockStates: d.blockStates, blockEdits: d.blockEdits, blockComments: d.blockComments, docComment: d.docComment, labelStatus: d.labelStatus }));
+  try { localStorage.setItem(sessionKey(), JSON.stringify(data)); } catch(e) {}
+}
+
+function loadSession() {
+  try {
+    const saved = JSON.parse(localStorage.getItem(sessionKey()));
+    if (!saved) return;
+    const map = {};
+    saved.forEach(s => { map[s.doc_id] = s; });
+    documents.forEach(d => {
+      const s = map[d.doc_id];
+      if (s && s.blockStates && s.blockStates.length === d.blockStates.length) {
+        d.blockStates = s.blockStates;
+        d.blockEdits = s.blockEdits || d.blocks.map(() => null);
+        d.blockComments = s.blockComments || d.blocks.map(() => '');
+        d.docComment = s.docComment || '';
+        d.labelStatus = s.labelStatus || (s.labeled ? 'labeling' : 'not_started');
+      }
+    });
+  } catch(e) {}
+}
+
+function clearSession() {
+  if (!confirm('Clear all labels for this file?')) return;
+  localStorage.removeItem(sessionKey());
+  documents.forEach(d => { d.blockStates = d.blocks.map(() => true); d.blockEdits = d.blocks.map(() => null); d.blockComments = d.blocks.map(() => ''); d.docComment = ''; d.labelStatus = 'not_started'; });
+  renderDoc();
+}
+
+// ── Navigation ─────────────────────────────────────────────
+function populateDocSelect() {
+  const sel = document.getElementById('docSelect');
+  sel.innerHTML = documents.map((d, i) => `<option value="${i}">${d.doc_id || 'Doc ' + i}</option>`).join('');
+}
+
+function goToDoc(idx) {
+  currentIdx = parseInt(idx);
+  focusedBlock = -1;
+  undoStack = [];
+  redoStack = [];
+  renderDoc();
+}
+
+function prevDoc() { if (currentIdx > 0) goToDoc(currentIdx - 1); }
+function nextDoc() { if (currentIdx < documents.length - 1) goToDoc(currentIdx + 1); }
+
+// ── Block Toggle ───────────────────────────────────────────
+function toggleBlock(idx) {
+  const doc = documents[currentIdx];
+  undoStack.push({ idx, old: doc.blockStates[idx] });
+  redoStack = [];
+  doc.blockStates[idx] = !doc.blockStates[idx];
+  if (doc.labelStatus === 'not_started') doc.labelStatus = 'labeling';
+  saveSession();
+  renderDoc();
+}
+
+function toggleRange(fromIdx, toIdx) {
+  const doc = documents[currentIdx];
+  const start = Math.min(fromIdx, toIdx);
+  const end = Math.max(fromIdx, toIdx);
+  const newState = !doc.blockStates[start];
+  for (let i = start; i <= end; i++) {
+    undoStack.push({ idx: i, old: doc.blockStates[i] });
+    doc.blockStates[i] = newState;
+  }
+  redoStack = [];
+  if (doc.labelStatus === 'not_started') doc.labelStatus = 'labeling';
+  saveSession();
+  renderDoc();
+}
+
+function undo() {
+  if (undoStack.length === 0) return;
+  const action = undoStack.pop();
+  const doc = documents[currentIdx];
+  redoStack.push({ idx: action.idx, old: doc.blockStates[action.idx] });
+  doc.blockStates[action.idx] = action.old;
+  saveSession();
+  renderDoc();
+}
+
+function redo() {
+  if (redoStack.length === 0) return;
+  const action = redoStack.pop();
+  const doc = documents[currentIdx];
+  undoStack.push({ idx: action.idx, old: doc.blockStates[action.idx] });
+  doc.blockStates[action.idx] = action.old;
+  saveSession();
+  renderDoc();
+}
+
+function keepAll() {
+  const doc = documents[currentIdx];
+  doc.blocks.forEach((_, i) => { undoStack.push({ idx: i, old: doc.blockStates[i] }); doc.blockStates[i] = true; });
+  redoStack = [];
+  saveSession();
+  renderDoc();
+}
+
+function removeAll() {
+  const doc = documents[currentIdx];
+  doc.blocks.forEach((_, i) => { undoStack.push({ idx: i, old: doc.blockStates[i] }); doc.blockStates[i] = false; });
+  redoStack = [];
+  if (doc.labelStatus === 'not_started') doc.labelStatus = 'labeling';
+  saveSession();
+  renderDoc();
+}
+
+function toggleView() {
+  showRaw = !showRaw;
+  document.getElementById('viewToggle').textContent = showRaw ? 'Show Rendered' : 'Show Raw';
+  renderDoc();
+}
+
+function toggleEdit(idx, event) {
+  event.stopPropagation();
+  const doc = documents[currentIdx];
+  if (doc.editingBlock === idx) {
+    doc.editingBlock = -1;
+  } else {
+    doc.editingBlock = idx;
+    // Initialize edit text from existing edit or original
+    if (doc.blockEdits[idx] === null) {
+      doc.blockEdits[idx] = doc.blocks[idx].text;
+    }
+  }
+  renderDoc();
+  // Focus the textarea and auto-size if opening
+  if (doc.editingBlock === idx) {
+    const ta = document.getElementById('edit-area-' + idx);
+    if (ta) {
+      autoResizeTextarea(ta);
+      ta.focus();
+      ta.setSelectionRange(ta.value.length, ta.value.length);
+    }
+  }
+}
+
+function autoResizeTextarea(ta) {
+  ta.style.height = 'auto';
+  ta.style.height = Math.min(Math.max(ta.scrollHeight + 4, 120), 600) + 'px';
+}
+
+function onEditInput(idx) {
+  const doc = documents[currentIdx];
+  const ta = document.getElementById('edit-area-' + idx);
+  if (ta) {
+    doc.blockEdits[idx] = ta.value;
+    doc.blockStates[idx] = true; // edited blocks are always kept
+    if (doc.labelStatus === 'not_started') doc.labelStatus = 'labeling';
+    autoResizeTextarea(ta);
+    saveSession();
+    updatePreview();
+  }
+}
+
+function quickEditNewlines(idx) {
+  const ta = document.getElementById('edit-area-' + idx);
+  if (!ta) return;
+  // Replace single newlines with double newlines (paragraph breaks)
+  // But don't expand already-double newlines
+  ta.value = ta.value.replace(/\n{3,}/g, '\n\n').replace(/(?<!\n)\n(?!\n)/g, '\n\n');
+  onEditInput(idx);
+}
+
+function quickEditStripUrls(idx) {
+  const ta = document.getElementById('edit-area-' + idx);
+  if (!ta) return;
+  // [text](url) → text
+  ta.value = ta.value.replace(/\[([^\]]*)\]\([^)]+\)/g, '$1');
+  // Remove bare URLs
+  ta.value = ta.value.replace(/https?:\/\/[^\s)>"]+/g, '');
+  onEditInput(idx);
+}
+
+function quickEditUnescape(idx) {
+  const ta = document.getElementById('edit-area-' + idx);
+  if (!ta) return;
+  ta.value = ta.value.replace(/\\\*/g, '*').replace(/\\#/g, '#').replace(/\\\[/g, '[').replace(/\\\]/g, ']').replace(/\\\(/g, '(').replace(/\\\)/g, ')');
+  onEditInput(idx);
+}
+
+function onLabelerChange() {
+  localStorage.setItem('labeling_labeler', document.getElementById('labelerName').value);
+}
+
+function markFinished() {
+  const doc = documents[currentIdx];
+  doc.labelStatus = 'finished';
+  saveSession();
+
+  // Flash effect
+  document.getElementById('panelLeft').classList.add('finish-flash');
+  setTimeout(() => document.getElementById('panelLeft').classList.remove('finish-flash'), 600);
+
+  renderDoc();
+
+  // Auto-advance to next unfinished doc after a short delay
+  setTimeout(() => {
+    const nextUnfinished = documents.findIndex((d, i) => i > currentIdx && d.labelStatus !== 'finished');
+    if (nextUnfinished >= 0) {
+      goToDoc(nextUnfinished);
+    }
+  }, 800);
+}
+
+function markLabeling() {
+  const doc = documents[currentIdx];
+  doc.labelStatus = 'labeling';
+  saveSession();
+  renderDoc();
+}
+
+function onDocCommentInput() {
+  const doc = documents[currentIdx];
+  doc.docComment = document.getElementById('docCommentInput').value;
+  if (doc.labelStatus === 'not_started') doc.labelStatus = 'labeling';
+  saveSession();
+}
+
+function toggleBlockComment(idx, event) {
+  event.stopPropagation();
+  const doc = documents[currentIdx];
+  doc.commentingBlock = doc.commentingBlock === idx ? -1 : idx;
+  renderDoc();
+  if (doc.commentingBlock === idx) {
+    const input = document.getElementById('block-comment-' + idx);
+    if (input) input.focus();
+  }
+}
+
+function onBlockCommentInput(idx) {
+  const doc = documents[currentIdx];
+  const input = document.getElementById('block-comment-' + idx);
+  if (input) {
+    doc.blockComments[idx] = input.value;
+    if (doc.labelStatus === 'not_started') doc.labelStatus = 'labeling';
+    saveSession();
+  }
+}
+
+function computeDiff(oldText, newText) {
+  // Simple word-level diff using LCS
+  const oldWords = oldText.split(/(\s+)/);
+  const newWords = newText.split(/(\s+)/);
+  const m = oldWords.length, n = newWords.length;
+
+  // Build LCS table
+  const dp = Array.from({length: m + 1}, () => new Uint16Array(n + 1));
+  for (let i = 1; i <= m; i++)
+    for (let j = 1; j <= n; j++)
+      dp[i][j] = oldWords[i-1] === newWords[j-1] ? dp[i-1][j-1] + 1 : Math.max(dp[i-1][j], dp[i][j-1]);
+
+  // Backtrack to build diff
+  const parts = [];
+  let i = m, j = n;
+  while (i > 0 || j > 0) {
+    if (i > 0 && j > 0 && oldWords[i-1] === newWords[j-1]) {
+      parts.unshift({type: 'same', text: oldWords[i-1]});
+      i--; j--;
+    } else if (j > 0 && (i === 0 || dp[i][j-1] >= dp[i-1][j])) {
+      parts.unshift({type: 'ins', text: newWords[j-1]});
+      j--;
+    } else {
+      parts.unshift({type: 'del', text: oldWords[i-1]});
+      i--;
+    }
+  }
+
+  return parts.map(p => {
+    const escaped = escapeHtml(p.text);
+    if (p.type === 'del') return `<span class="diff-del">${escaped}</span>`;
+    if (p.type === 'ins') return `<span class="diff-ins">${escaped}</span>`;
+    return escaped;
+  }).join('');
+}
+
+function confirmEdit(idx) {
+  const doc = documents[currentIdx];
+  doc.editingBlock = -1;
+  if (doc.labelStatus === 'not_started') doc.labelStatus = 'labeling';
+  saveSession();
+  renderDoc();
+}
+
+function resetEdit(idx, event) {
+  event.stopPropagation();
+  const doc = documents[currentIdx];
+  doc.blockEdits[idx] = null;
+  doc.editingBlock = -1;
+  if (doc.labelStatus === 'not_started') doc.labelStatus = 'labeling';
+  saveSession();
+  renderDoc();
+}
+
+function updatePreview() {
+  const doc = documents[currentIdx];
+  const cleanedMd = doc.blocks
+    .map((b, i) => {
+      if (!doc.blockStates[i]) return null;
+      return doc.blockEdits[i] !== null ? doc.blockEdits[i] : b.text;
+    })
+    .filter(t => t !== null)
+    .join('\n\n');
+  document.getElementById('previewContent').innerHTML = marked.parse(cleanedMd);
+  document.getElementById('previewStats').textContent = `(${cleanedMd.trim() ? cleanedMd.trim().split(/\s+/).length : 0} words)`;
+}
+
+// ── Rendering ──────────────────────────────────────────────
+function badgeClass(type) {
+  const map = { header: 'badge-header', paragraph: 'badge-paragraph', list: 'badge-list', code: 'badge-code', table: 'badge-table', blockquote: 'badge-blockquote', hr: 'badge-hr', html: 'badge-html' };
+  return map[type] || 'badge-paragraph';
+}
+
+function renderDoc() {
+  const doc = documents[currentIdx];
+  document.getElementById('docSelect').value = currentIdx;
+  document.getElementById('btnPrev').disabled = currentIdx === 0;
+  document.getElementById('btnNext').disabled = currentIdx === documents.length - 1;
+
+  // Update nav tree active state
+  buildNavTree();
+  // Scroll active nav item into view
+  const activeNav = document.querySelector('.nav-doc.active');
+  if (activeNav) activeNav.scrollIntoView({ block: 'nearest' });
+
+  // Doc info
+  const meta = doc.meta;
+  let infoStr = `Doc: ${doc.doc_id.substring(0, 16)}...`;
+  if (meta.category) infoStr += ` | ${meta.category}`;
+  if (meta.delta !== undefined) infoStr += ` | Δ=${meta.delta}`;
+  document.getElementById('docInfo').textContent = infoStr;
+
+  // Doc comment and status
+  const commentBar = document.getElementById('docCommentBar');
+  commentBar.style.display = 'block';
+  document.getElementById('docCommentInput').value = doc.docComment || '';
+
+  // Status badge
+  const status = doc.labelStatus || 'not_started';
+  const badge = document.getElementById('statusBadge');
+  badge.className = 'status-badge status-' + status;
+  badge.textContent = status === 'not_started' ? 'Not Started' : status === 'labeling' ? 'In Progress' : 'Finished';
+  document.getElementById('btnFinish').style.display = status === 'finished' ? 'none' : 'inline-block';
+  document.getElementById('btnUnfinish').style.display = status === 'finished' ? 'inline-block' : 'none';
+
+  // Metadata bar (URL, publisher, title)
+  const metaBar = document.getElementById('docMetaBar');
+  if (doc.url || doc.publisher || doc.title) {
+    metaBar.style.display = 'block';
+    document.getElementById('metaTitle').textContent = doc.title || '-';
+    document.getElementById('metaPublisher').textContent = doc.publisher || '-';
+    const urlEl = document.getElementById('metaUrl');
+    if (doc.url) { urlEl.href = doc.url; urlEl.textContent = doc.url; } else { urlEl.href = '#'; urlEl.textContent = '-'; }
+    document.getElementById('metaDomain').textContent = doc.domain || '-';
+  } else {
+    metaBar.style.display = 'none';
+  }
+
+  // Progress
+  const finished = documents.filter(d => d.labelStatus === 'finished').length;
+  const labeling = documents.filter(d => d.labelStatus === 'labeling').length;
+  const labeled = finished + labeling;
+  document.getElementById('progressFill').style.width = (finished / documents.length * 100) + '%';
+  document.getElementById('progressText').textContent = `${finished} done / ${labeling} in progress / ${documents.length} total`;
+
+  // Block count
+  const keptCount = doc.blockStates.filter(s => s).length;
+  document.getElementById('blockCount').textContent = `(${keptCount}/${doc.blocks.length} kept)`;
+
+  // Render blocks
+  const container = document.getElementById('blocksContainer');
+  container.innerHTML = doc.blocks.map((block, i) => {
+    const kept = doc.blockStates[i];
+    const focused = i === focusedBlock;
+    const isEditing = doc.editingBlock === i;
+    const hasEdit = doc.blockEdits[i] !== null && doc.blockEdits[i] !== block.text;
+    const typeLabel = block.type.toUpperCase();
+    const contentHtml = showRaw
+      ? `<div class="block-content">${escapeHtml(block.text)}</div>`
+      : `<div class="block-rendered">${marked.parse(block.text)}</div>`;
+    const editedText = doc.blockEdits[i];
+    const diffHtml = hasEdit ? `<div class="diff-label">Changes:</div><div class="diff-view">${computeDiff(block.text, editedText)}</div>` : '';
+    const editArea = isEditing
+      ? `<div class="block-edit-wrapper">
+           <div class="block-edit-label">
+             <span>✏️ Ground Truth:</span>
+             <div class="block-edit-actions">
+               <button onclick="quickEditNewlines(${i}); event.stopPropagation();" title="Convert escaped \\n to real newlines">Fix \\n</button>
+               <button onclick="quickEditStripUrls(${i}); event.stopPropagation();" title="Remove URLs but keep link text: [text](url) → text">Strip URLs</button>
+               <button onclick="quickEditUnescape(${i}); event.stopPropagation();" title="Unescape \\* → * and \\# → #">Unescape</button>
+               <button onclick="confirmEdit(${i}); event.stopPropagation();" style="background:#4caf50;color:#fff;border-color:#388e3c;">✓ Confirm</button>
+             </div>
+           </div>
+           <textarea class="block-edit-area" id="edit-area-${i}" oninput="onEditInput(${i})" onclick="event.stopPropagation()">${escapeHtml(editedText || block.text)}</textarea>
+           ${diffHtml}
+         </div>`
+      : (hasEdit ? diffHtml : '');
+    const editedTag = hasEdit ? '<span class="block-status-edited">EDITED</span>' : '';
+    const isCommenting = doc.commentingBlock === i;
+    const hasComment = doc.blockComments[i] && doc.blockComments[i].trim();
+    const commentArea = isCommenting
+      ? `<div class="block-comment">
+           <input class="block-comment-input" id="block-comment-${i}" type="text"
+                  placeholder="Add comment for this block..."
+                  value="${escapeHtml(doc.blockComments[i] || '')}"
+                  oninput="onBlockCommentInput(${i})" onclick="event.stopPropagation()">
+         </div>`
+      : (hasComment ? `<div class="block-comment" style="font-size:10px;color:#1565c0;cursor:pointer;" onclick="toggleBlockComment(${i}, event)">💬 ${escapeHtml(doc.blockComments[i])}</div>` : '');
+    return `<div class="block ${kept ? '' : 'removed'} ${focused ? 'focused' : ''} ${hasEdit ? 'edited' : ''}"
+                 data-idx="${i}"
+                 onclick="handleBlockClick(event, ${i})"
+                 id="block-${i}">
+      <div class="block-header">
+        <span class="block-badge ${badgeClass(block.type)}">${typeLabel}</span>
+        <span class="block-lines">L${block.startLine + 1}–${block.endLine + 1}</span>
+        <button class="btn-edit ${isEditing ? 'active' : ''}" onclick="toggleEdit(${i}, event)">✏️ Edit</button>
+        <button class="btn-comment ${hasComment ? 'has-comment' : ''}" onclick="toggleBlockComment(${i}, event)">💬</button>
+        ${hasEdit ? `<button class="btn-reset" onclick="resetEdit(${i}, event)">↩ Reset</button>` : ''}
+        <span class="block-status">${kept ? 'KEEP' : 'REMOVE'}</span>
+        ${editedTag}
+      </div>
+      ${contentHtml}
+      ${editArea}
+      ${commentArea}
+    </div>`;
+  }).join('');
+
+  // Preview - use edited text if available
+  const cleanedMd = doc.blocks
+    .map((b, i) => {
+      if (!doc.blockStates[i]) return null;
+      return doc.blockEdits[i] !== null ? doc.blockEdits[i] : b.text;
+    })
+    .filter(t => t !== null)
+    .join('\n\n');
+  document.getElementById('previewContent').innerHTML = marked.parse(cleanedMd);
+  document.getElementById('previewStats').textContent = `(${cleanedMd.trim() ? cleanedMd.trim().split(/\s+/).length : 0} words)`;
+}
+
+function handleBlockClick(event, idx) {
+  if (event.shiftKey && lastClickedBlock >= 0) {
+    toggleRange(lastClickedBlock, idx);
+  } else {
+    toggleBlock(idx);
+  }
+  focusedBlock = idx;
+  lastClickedBlock = idx;
+}
+
+function escapeHtml(text) {
+  return text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+// ── Export ──────────────────────────────────────────────────
+function exportLabels() {
+  const rows = documents.map(doc => {
+    const cleanedParts = [];
+    const editedBlocks = [];
+    const removedBlocks = [];
+    doc.blocks.forEach((b, i) => {
+      if (!doc.blockStates[i]) {
+        removedBlocks.push({ block_id: b.id, type: b.type, startLine: b.startLine, endLine: b.endLine, text: b.text });
+        return;
+      }
+      const editedText = doc.blockEdits[i];
+      const finalText = editedText !== null ? editedText : b.text;
+      cleanedParts.push(finalText);
+      if (editedText !== null && editedText !== b.text) {
+        editedBlocks.push({ block_id: b.id, type: b.type, original_text: b.text, edited_text: editedText });
+      }
+    });
+    const cleanedContent = cleanedParts.join('\n\n');
+    const blockComments = doc.blockComments
+      .map((c, i) => c ? { block_id: i, type: doc.blocks[i].type, comment: c } : null)
+      .filter(c => c);
+    return JSON.stringify({
+      doc_id: doc.doc_id,
+      labeler: document.getElementById('labelerName').value || '',
+      url: doc.url || '',
+      publisher: doc.publisher || '',
+      title: doc.title || '',
+      original_content: doc.original_content,
+      cleaned_content: cleanedContent,
+      doc_comment: doc.docComment || '',
+      total_blocks: doc.blocks.length,
+      kept_blocks: cleanedParts.length,
+      removed_blocks_count: removedBlocks.length,
+      edited_blocks_count: editedBlocks.length,
+      block_comments_count: blockComments.length,
+      removed_blocks: removedBlocks,
+      edited_blocks: editedBlocks,
+      block_comments: blockComments,
+      label_status: doc.labelStatus
+    });
+  }).join('\n');
+
+  const blob = new Blob([rows], { type: 'application/jsonl' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  const ts = new Date().toISOString().replace(/[:.]/g, '').slice(0, 15);
+  a.href = url;
+  a.download = `cleaning_gt_${fileName.replace('.jsonl', '')}_${ts}.jsonl`;
+  a.click();
+  URL.revokeObjectURL(url);
+}
+
+// ── Keyboard Shortcuts ─────────────────────────────────────
+document.addEventListener('keydown', e => {
+  if (documents.length === 0) return;
+  if (e.target.tagName === 'SELECT' || e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+
+  if (e.key === 'ArrowLeft') { e.preventDefault(); prevDoc(); }
+  else if (e.key === 'ArrowRight') { e.preventDefault(); nextDoc(); }
+  else if (e.key === 'ArrowUp') {
+    e.preventDefault();
+    if (focusedBlock > 0) focusedBlock--;
+    else focusedBlock = 0;
+    renderDoc();
+    document.getElementById('block-' + focusedBlock)?.scrollIntoView({ block: 'nearest' });
+  }
+  else if (e.key === 'ArrowDown') {
+    e.preventDefault();
+    const max = documents[currentIdx].blocks.length - 1;
+    if (focusedBlock < max) focusedBlock++;
+    else focusedBlock = max;
+    renderDoc();
+    document.getElementById('block-' + focusedBlock)?.scrollIntoView({ block: 'nearest' });
+  }
+  else if ((e.key === 'Enter' || e.key === ' ') && focusedBlock >= 0) {
+    e.preventDefault();
+    toggleBlock(focusedBlock);
+    lastClickedBlock = focusedBlock;
+  }
+  else if (e.key === 'z' && (e.ctrlKey || e.metaKey) && e.shiftKey) { e.preventDefault(); redo(); }
+  else if (e.key === 'z' && (e.ctrlKey || e.metaKey)) { e.preventDefault(); undo(); }
+});
+
+// ── Resizable Split ───────────────────────────────────────
+(function() {
+  const resizer = document.getElementById('panelResizer');
+  const left = document.getElementById('panelLeft');
+  const right = document.getElementById('panelRight');
+  const container = document.getElementById('mainPanels');
+  let isResizing = false;
+
+  resizer.addEventListener('mousedown', e => {
+    isResizing = true;
+    resizer.classList.add('dragging');
+    document.body.style.cursor = 'col-resize';
+    document.body.style.userSelect = 'none';
+    e.preventDefault();
+  });
+
+  document.addEventListener('mousemove', e => {
+    if (!isResizing) return;
+    const rect = container.getBoundingClientRect();
+    const offset = e.clientX - rect.left;
+    const total = rect.width;
+    const pct = Math.max(20, Math.min(80, (offset / total) * 100));
+    left.style.flex = `${pct} 0 0`;
+    right.style.flex = `${100 - pct} 0 0`;
+  });
+
+  document.addEventListener('mouseup', () => {
+    if (isResizing) {
+      isResizing = false;
+      resizer.classList.remove('dragging');
+      document.body.style.cursor = '';
+      document.body.style.userSelect = '';
+    }
+  });
+})();
+</script>
+</body>
+</html>

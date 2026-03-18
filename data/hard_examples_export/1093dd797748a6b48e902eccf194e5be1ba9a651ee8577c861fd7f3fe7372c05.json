@@ -1,0 +1,395 @@
+{
+  "document_id": "1093dd797748a6b48e902eccf194e5be1ba9a651ee8577c861fd7f3fe7372c05",
+  "document_metadata": {
+    "id": "1093dd797748a6b48e902eccf194e5be1ba9a651ee8577c861fd7f3fe7372c05",
+    "date": 20250521,
+    "publisher_id": "aca90e5c-6c15-4c16-af70-2bffb0ac71ef",
+    "image": "https://yourmileagemayvary.com/wp-content/uploads/2025/05/Screen-Shot-2025-05-20-at-7.04.32-PM-e1747782316957.png",
+    "date_year": 2025,
+    "date_month": 5,
+    "crawl_date": "2025-12-18T08:12:42.874296432Z",
+    "date_day": 21,
+    "modified_date": "2025-05-21T05:24:49Z",
+    "title": "Europe This Summer? Know EU\u2019s New Carry-On, Personal Bag & Liquids Policies",
+    "url": "https://yourmileagemayvary.com/2025/05/21/europe-this-summer-know-eus-new-carry-on-personal-bag-liquids-policies/",
+    "url2": "https://yourmileagemayvary.com/2025/05/21/europe-this-summer-know-eus-new-carry-on-personal-bag-liquids-policies/",
+    "domain": "yourmileagemayvary.com",
+    "lang": "unknown",
+    "published_date": "2025-05-21T16:13:56Z",
+    "authors": [
+      "SharonKurheg"
+    ],
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "aca90e5c-6c15-4c16-af70-2bffb0ac71ef",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2025-12-18T08:12:42.874000",
+    "published_date_parsed": "2025-05-21T16:13:56",
+    "rawType": "json",
+    "publisherId": "aca90e5c-6c15-4c16-af70-2bffb0ac71ef",
+    "documentId": "1093dd797748a6b48e902eccf194e5be1ba9a651ee8577c861fd7f3fe7372c05",
+    "rawcontent_created": "2025-12-18T08:12:48.277000",
+    "source": "Your Mileage May Vary",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=yourmileagemayvary.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=yourmileagemayvary.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=yourmileagemayvary.com",
+    "first_words": "The United States, as we know, is a patchwork quilt of laws. What may be the rule in one state may be very different in another state, and it\u2019s possible that neither \u201cBut it\u2019s legal where I live\u201d nor \u201cI didn\u2019t know it was illegal here\u201d will help you if you get caught doing something that shouldn\u2019t be done where you are. Over in Europe, the European Union, which was established in the late 20th century, is still fine tuning itself after originally being 20-something different countries. As an example, you may be old enough to remember when each",
+    "has_chunks": true
+  },
+  "publisher_metadata": {
+    "id": "aca90e5c-6c15-4c16-af70-2bffb0ac71ef",
+    "group_id": "49416528-8952-487f-8cdc-7944964eb709",
+    "name": "Your Mileage May Vary",
+    "domain": "yourmileagemayvary.com",
+    "location": "Global",
+    "country": "Global",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": [
+      "04a628b2-cc4e-4315-9f29-fca5337fdf41"
+    ]
+  },
+  "content_metadata": {
+    "document_title_txt": "Europe This Summer? Know EU\u2019s New Carry-On, Personal Bag & Liquids Policies",
+    "document_authors_txt": [
+      "SharonKurheg"
+    ],
+    "hash": "1605143b15c4bf6272af0495060b4559d97f676c57743feacf06531491989733"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2025-12-19",
+    "chunking": {
+      "strategy": "simple",
+      "chunks_count": 6
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "none",
+      "model": "none",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "1093dd797748a6b48e902eccf194e5be1ba9a651ee8577c861fd7f3fe7372c05-5",
+        "idx": 5,
+        "hash": "78d3936f78565d15a37727e7be87008d50643f4e7ce4d34d39472443cdbc200d",
+        "sim_hash": "13645690902398643275"
+      },
+      "content_original": "***Like this post? Please share it! We have plenty more just like it and would love it if you decided to hang around and sign up to get emailed notifications of when we post.***\n\n***Whether you\u2019ve read our articles before or this is the first time you\u2019re stopping by, we\u2019re really glad you\u2019re here and hope you come back to visit again!***\n\n***This post first appeared on*** [***Your Mileage May Vary***](https://yourmileagemayvary.com/)",
+      "content": "***Like this post? Please share it! We have plenty more just like it and would love it if you decided to hang around and sign up to get emailed notifications of when we post.***\n\n***Whether you\u2019ve read our articles before or this is the first time you\u2019re stopping by, we\u2019re really glad you\u2019re here and hope you come back to visit again!***\n\n***This post first appeared on*** [***Your Mileage May Vary***](https://yourmileagemayvary.com/)"
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "1093dd797748a6b48e902eccf194e5be1ba9a651ee8577c861fd7f3fe7372c05-3",
+        "idx": 3,
+        "hash": "4107a3a1d9967414cade477530e81a510432c27009139806666dcdce7e98b508",
+        "sim_hash": "17584845582833120217"
+      },
+      "content_original": "# Why all the changes?\n\n**[Back in September](/2024/09/02/reminder-new-rule-for-carry-on-bags-now-in-effect-in-the-eu/)**, the liquid rule was said to be temporary until a \u201ctech issue\u201d with the equipment could be fixed.\n\nFrom CNT:\n\n> A report by the European Commission, which was sent to the European Civil Aviation Conference (ECAC) last May, outlined there was a \u201ctechnical issue\u201d with the scanners that prevented the software from reliably detecting harmful substances with content over more than 330ml.\n\nI\u2019d bet dollars to doughnuts that the inconsistency was an issue, as well. Unless all airports had the new CT scanners, it would be more difficult for PAX to keep track of \u201cthe rule\u201d for the airport in question (that\u2019s what TSA suggested as well, when asked why we don\u2019t have \u201clooser\u201d rules for liquids for the airports that have CT scanners. It\u2019s too confusing.).\n\nHaving set measurements for luggage also makes for consistency (\\*cough\\* a very German thing \\*cough\\* I keed! I keed!) across the board for the EU countries. So that might be involved, as well.",
+      "content": "# Why all the changes?\n\n**[Back in September](/2024/09/02/reminder-new-rule-for-carry-on-bags-now-in-effect-in-the-eu/)**, the liquid rule was said to be temporary until a \u201ctech issue\u201d with the equipment could be fixed.\n\nFrom CNT:\n\n> A report by the European Commission, which was sent to the European Civil Aviation Conference (ECAC) last May, outlined there was a \u201ctechnical issue\u201d with the scanners that prevented the software from reliably detecting harmful substances with content over more than 330ml.\n\nI\u2019d bet dollars to doughnuts that the inconsistency was an issue, as well. Unless all airports had the new CT scanners, it would be more difficult for PAX to keep track of \u201cthe rule\u201d for the airport in question (that\u2019s what TSA suggested as well, when asked why we don\u2019t have \u201clooser\u201d rules for liquids for the airports that have CT scanners. It\u2019s too confusing.).\n\nHaving set measurements for luggage also makes for consistency (\\*cough\\* a very German thing \\*cough\\* I keed! I keed!) across the board for the EU countries. So that might be involved, as well."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "1093dd797748a6b48e902eccf194e5be1ba9a651ee8577c861fd7f3fe7372c05-2",
+        "idx": 2,
+        "hash": "4e5214ab9ed20933b8899a58e89e7449f4f22ecb264f64fc854b1a5d2f45f0af",
+        "sim_hash": "17764989584431743675"
+      },
+      "content_original": "That converts to 22.05 pounds.\n\n# Updated liquid rules\n\nIf you\u2019ve been reading travel news over the past year or so, you know that some airports in the EU had new CT technology that allowed passengers to bring liquids of any size in their carry-ons, and they didn\u2019t have to be all together in one bag. Not all airports in the EU had already switched to the \u201clooser\u201d rules about liquids (roughly 350 of the new scanners were in use across 13 EU countries such as Germany, Ireland, Italy, Lithuania, Malta, the Netherlands, and Sweden), but as of September 1, those which had were now back to the \u201cold\u201d rule of 100ml containers in a 1-liter bag.\n\nThis newest rule is the same as the old one: passengers planning to fly from an EU airport will be restricted to carry-on limits of 100ml containers of liquids, gels, and creams, and only as many as can fit into a 20cm x 20cm bag. These liquids are then placed into a tray, separate from your luggage and other items.\n\n# Why all the changes?",
+      "content": "That converts to 22.05 pounds.\n\n# Updated liquid rules\n\nIf you\u2019ve been reading travel news over the past year or so, you know that some airports in the EU had new CT technology that allowed passengers to bring liquids of any size in their carry-ons, and they didn\u2019t have to be all together in one bag. Not all airports in the EU had already switched to the \u201clooser\u201d rules about liquids (roughly 350 of the new scanners were in use across 13 EU countries such as Germany, Ireland, Italy, Lithuania, Malta, the Netherlands, and Sweden), but as of September 1, those which had were now back to the \u201cold\u201d rule of 100ml containers in a 1-liter bag.\n\nThis newest rule is the same as the old one: passengers planning to fly from an EU airport will be restricted to carry-on limits of 100ml containers of liquids, gels, and creams, and only as many as can fit into a 20cm x 20cm bag. These liquids are then placed into a tray, separate from your luggage and other items.\n\n# Why all the changes?"
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "1093dd797748a6b48e902eccf194e5be1ba9a651ee8577c861fd7f3fe7372c05-3",
+        "idx": 3,
+        "hash": "4107a3a1d9967414cade477530e81a510432c27009139806666dcdce7e98b508",
+        "sim_hash": "17584845582833120217"
+      },
+      "content_original": "# Why all the changes?\n\n**[Back in September](/2024/09/02/reminder-new-rule-for-carry-on-bags-now-in-effect-in-the-eu/)**, the liquid rule was said to be temporary until a \u201ctech issue\u201d with the equipment could be fixed.\n\nFrom CNT:\n\n> A report by the European Commission, which was sent to the European Civil Aviation Conference (ECAC) last May, outlined there was a \u201ctechnical issue\u201d with the scanners that prevented the software from reliably detecting harmful substances with content over more than 330ml.\n\nI\u2019d bet dollars to doughnuts that the inconsistency was an issue, as well. Unless all airports had the new CT scanners, it would be more difficult for PAX to keep track of \u201cthe rule\u201d for the airport in question (that\u2019s what TSA suggested as well, when asked why we don\u2019t have \u201clooser\u201d rules for liquids for the airports that have CT scanners. It\u2019s too confusing.).\n\nHaving set measurements for luggage also makes for consistency (\\*cough\\* a very German thing \\*cough\\* I keed! I keed!) across the board for the EU countries. So that might be involved, as well.",
+      "content": "# Why all the changes?\n\n**[Back in September](/2024/09/02/reminder-new-rule-for-carry-on-bags-now-in-effect-in-the-eu/)**, the liquid rule was said to be temporary until a \u201ctech issue\u201d with the equipment could be fixed.\n\nFrom CNT:\n\n> A report by the European Commission, which was sent to the European Civil Aviation Conference (ECAC) last May, outlined there was a \u201ctechnical issue\u201d with the scanners that prevented the software from reliably detecting harmful substances with content over more than 330ml.\n\nI\u2019d bet dollars to doughnuts that the inconsistency was an issue, as well. Unless all airports had the new CT scanners, it would be more difficult for PAX to keep track of \u201cthe rule\u201d for the airport in question (that\u2019s what TSA suggested as well, when asked why we don\u2019t have \u201clooser\u201d rules for liquids for the airports that have CT scanners. It\u2019s too confusing.).\n\nHaving set measurements for luggage also makes for consistency (\\*cough\\* a very German thing \\*cough\\* I keed! I keed!) across the board for the EU countries. So that might be involved, as well."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "1093dd797748a6b48e902eccf194e5be1ba9a651ee8577c861fd7f3fe7372c05-5",
+        "idx": 5,
+        "hash": "78d3936f78565d15a37727e7be87008d50643f4e7ce4d34d39472443cdbc200d",
+        "sim_hash": "13645690902398643275"
+      },
+      "content_original": "***Like this post? Please share it! We have plenty more just like it and would love it if you decided to hang around and sign up to get emailed notifications of when we post.***\n\n***Whether you\u2019ve read our articles before or this is the first time you\u2019re stopping by, we\u2019re really glad you\u2019re here and hope you come back to visit again!***\n\n***This post first appeared on*** [***Your Mileage May Vary***](https://yourmileagemayvary.com/)",
+      "content": "***Like this post? Please share it! We have plenty more just like it and would love it if you decided to hang around and sign up to get emailed notifications of when we post.***\n\n***Whether you\u2019ve read our articles before or this is the first time you\u2019re stopping by, we\u2019re really glad you\u2019re here and hope you come back to visit again!***\n\n***This post first appeared on*** [***Your Mileage May Vary***](https://yourmileagemayvary.com/)"
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "1093dd797748a6b48e902eccf194e5be1ba9a651ee8577c861fd7f3fe7372c05-4",
+        "idx": 4,
+        "hash": "857729176c56b16cd1695af21ed69ac1ac5753884d68a59446eb792749513fe9",
+        "sim_hash": "2633892841017949330"
+      },
+      "content_original": "# How does this affect me?\n\nIf you\u2019re just flying between the U.S. and an EU country, especially on a U.S. carrier, it shouldn\u2019t. But once you\u2019re in the EU and plan to fly from one EU country to another, that\u2019s when you\u2019ll need to make sure your bags are small enough and don\u2019t weigh too much.\n\nSure am glad I still have my **[lightest carry-on in the world](/2025/02/18/my-experience-with-the-worlds-lightest-carry-on-bag/)**.\n\n***Want to comment on this post? Great!*** [***Read this first to help ensure it gets approved.***](https://yourmileagemayvary.com/2020/08/01/to-allow-or-remove-comments-that-is-the-question/)\n\n***Want to sponsor a post, write something for Your Mileage May Vary, or put ads on our site?*** [***Click here for more info***](https://yourmileagemayvary.com/2020/08/01/to-allow-or-remove-comments-that-is-the-question/)***.***",
+      "content": "# How does this affect me?\n\nIf you\u2019re just flying between the U.S. and an EU country, especially on a U.S. carrier, it shouldn\u2019t. But once you\u2019re in the EU and plan to fly from one EU country to another, that\u2019s when you\u2019ll need to make sure your bags are small enough and don\u2019t weigh too much.\n\nSure am glad I still have my **[lightest carry-on in the world](/2025/02/18/my-experience-with-the-worlds-lightest-carry-on-bag/)**.\n\n***Want to comment on this post? Great!*** [***Read this first to help ensure it gets approved.***](https://yourmileagemayvary.com/2020/08/01/to-allow-or-remove-comments-that-is-the-question/)\n\n***Want to sponsor a post, write something for Your Mileage May Vary, or put ads on our site?*** [***Click here for more info***](https://yourmileagemayvary.com/2020/08/01/to-allow-or-remove-comments-that-is-the-question/)***.***"
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "1093dd797748a6b48e902eccf194e5be1ba9a651ee8577c861fd7f3fe7372c05-3",
+        "idx": 3,
+        "hash": "4107a3a1d9967414cade477530e81a510432c27009139806666dcdce7e98b508",
+        "sim_hash": "17584845582833120217"
+      },
+      "content_original": "# Why all the changes?\n\n**[Back in September](/2024/09/02/reminder-new-rule-for-carry-on-bags-now-in-effect-in-the-eu/)**, the liquid rule was said to be temporary until a \u201ctech issue\u201d with the equipment could be fixed.\n\nFrom CNT:\n\n> A report by the European Commission, which was sent to the European Civil Aviation Conference (ECAC) last May, outlined there was a \u201ctechnical issue\u201d with the scanners that prevented the software from reliably detecting harmful substances with content over more than 330ml.\n\nI\u2019d bet dollars to doughnuts that the inconsistency was an issue, as well. Unless all airports had the new CT scanners, it would be more difficult for PAX to keep track of \u201cthe rule\u201d for the airport in question (that\u2019s what TSA suggested as well, when asked why we don\u2019t have \u201clooser\u201d rules for liquids for the airports that have CT scanners. It\u2019s too confusing.).\n\nHaving set measurements for luggage also makes for consistency (\\*cough\\* a very German thing \\*cough\\* I keed! I keed!) across the board for the EU countries. So that might be involved, as well.",
+      "content": "# Why all the changes?\n\n**[Back in September](/2024/09/02/reminder-new-rule-for-carry-on-bags-now-in-effect-in-the-eu/)**, the liquid rule was said to be temporary until a \u201ctech issue\u201d with the equipment could be fixed.\n\nFrom CNT:\n\n> A report by the European Commission, which was sent to the European Civil Aviation Conference (ECAC) last May, outlined there was a \u201ctechnical issue\u201d with the scanners that prevented the software from reliably detecting harmful substances with content over more than 330ml.\n\nI\u2019d bet dollars to doughnuts that the inconsistency was an issue, as well. Unless all airports had the new CT scanners, it would be more difficult for PAX to keep track of \u201cthe rule\u201d for the airport in question (that\u2019s what TSA suggested as well, when asked why we don\u2019t have \u201clooser\u201d rules for liquids for the airports that have CT scanners. It\u2019s too confusing.).\n\nHaving set measurements for luggage also makes for consistency (\\*cough\\* a very German thing \\*cough\\* I keed! I keed!) across the board for the EU countries. So that might be involved, as well."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "1093dd797748a6b48e902eccf194e5be1ba9a651ee8577c861fd7f3fe7372c05-1",
+        "idx": 1,
+        "hash": "89b3de098c8c97b7570c4cf063b0c301b42e4025444cc2681158f4f2c478fb94",
+        "sim_hash": "17644516780620889779"
+      },
+      "content_original": "Anyway, in September of last year, the EU officially consolidated the maximum measurements allowed for traveling within the EU with major European airlines. They also updated the \u201c100ml\u201d rule (that\u2019s the equivalent of our 3-1-1 bag), due to what appeared to be travelers\u2019 ongoing confusion.\n\n# Maximum dimensions for personal bags\n\nPersonal bags can\u2019t be larger than 40 x 30 x 15 centimeters.\n\nThat converts to 15.75 x 11.8 x 5.9 inches.\n\nThis includes handles, potentially wheels, etc.\n\n# Maximum dimensions for carry-on bag\n\nCarry-on bags can\u2019t be larger than 55 x 40 x 20 centimeters.\n\nThat converts to 21.65 x 15.75 x 7.87 inches.\n\nThis includes handles and wheels.\n\n# Maximum weight for non-checked bags\n\nThe overhead compartments on European planes tend to be smaller than those in the U.S., and the EU has concerns of them falling if they hold too much weight. So besides size limitations, they also have weight limitations.\n\nThe weight of your carry-on bag plus your personal item is not allowed to exceed 10 kilograms.",
+      "content": "Anyway, in September of last year, the EU officially consolidated the maximum measurements allowed for traveling within the EU with major European airlines. They also updated the \u201c100ml\u201d rule (that\u2019s the equivalent of our 3-1-1 bag), due to what appeared to be travelers\u2019 ongoing confusion.\n\n# Maximum dimensions for personal bags\n\nPersonal bags can\u2019t be larger than 40 x 30 x 15 centimeters.\n\nThat converts to 15.75 x 11.8 x 5.9 inches.\n\nThis includes handles, potentially wheels, etc.\n\n# Maximum dimensions for carry-on bag\n\nCarry-on bags can\u2019t be larger than 55 x 40 x 20 centimeters.\n\nThat converts to 21.65 x 15.75 x 7.87 inches.\n\nThis includes handles and wheels.\n\n# Maximum weight for non-checked bags\n\nThe overhead compartments on European planes tend to be smaller than those in the U.S., and the EU has concerns of them falling if they hold too much weight. So besides size limitations, they also have weight limitations.\n\nThe weight of your carry-on bag plus your personal item is not allowed to exceed 10 kilograms."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "1093dd797748a6b48e902eccf194e5be1ba9a651ee8577c861fd7f3fe7372c05-0",
+        "idx": 0,
+        "hash": "21855a30029a578e209bd79f4766e9af18007bdd3c6f58e98cef229709249010",
+        "sim_hash": "8137704803713531195"
+      },
+      "content_original": "The United States, as we know, is a patchwork quilt of laws. What may be the rule in one state may be very different in another state, and it\u2019s possible that neither \u201cBut it\u2019s legal where I live\u201d nor \u201cI didn\u2019t know it was illegal here\u201d will help you if you get caught doing something that shouldn\u2019t be done where you are.\n\nOver in Europe, the European Union, which was established in the late 20th century, is still fine tuning itself after originally being 20-something different countries. As an example, you may be old enough to remember when each country in the EU had its own currency. France\u2019s French francs, Germany\u2019s Deutsche Marks, Italy\u2019s lira, etc. But some years after the EU came into being, they all settled on one form of money \u2013 the Euro. So the fact that the EU isn\u2019t consolidating its rules for travel until now isn\u2019t too far-fetched.",
+      "content": "The United States, as we know, is a patchwork quilt of laws. What may be the rule in one state may be very different in another state, and it\u2019s possible that neither \u201cBut it\u2019s legal where I live\u201d nor \u201cI didn\u2019t know it was illegal here\u201d will help you if you get caught doing something that shouldn\u2019t be done where you are.\n\nOver in Europe, the European Union, which was established in the late 20th century, is still fine tuning itself after originally being 20-something different countries. As an example, you may be old enough to remember when each country in the EU had its own currency. France\u2019s French francs, Germany\u2019s Deutsche Marks, Italy\u2019s lira, etc. But some years after the EU came into being, they all settled on one form of money \u2013 the Euro. So the fact that the EU isn\u2019t consolidating its rules for travel until now isn\u2019t too far-fetched."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "1093dd797748a6b48e902eccf194e5be1ba9a651ee8577c861fd7f3fe7372c05-2",
+        "idx": 2,
+        "hash": "4e5214ab9ed20933b8899a58e89e7449f4f22ecb264f64fc854b1a5d2f45f0af",
+        "sim_hash": "17764989584431743675"
+      },
+      "content_original": "That converts to 22.05 pounds.\n\n# Updated liquid rules\n\nIf you\u2019ve been reading travel news over the past year or so, you know that some airports in the EU had new CT technology that allowed passengers to bring liquids of any size in their carry-ons, and they didn\u2019t have to be all together in one bag. Not all airports in the EU had already switched to the \u201clooser\u201d rules about liquids (roughly 350 of the new scanners were in use across 13 EU countries such as Germany, Ireland, Italy, Lithuania, Malta, the Netherlands, and Sweden), but as of September 1, those which had were now back to the \u201cold\u201d rule of 100ml containers in a 1-liter bag.\n\nThis newest rule is the same as the old one: passengers planning to fly from an EU airport will be restricted to carry-on limits of 100ml containers of liquids, gels, and creams, and only as many as can fit into a 20cm x 20cm bag. These liquids are then placed into a tray, separate from your luggage and other items.\n\n# Why all the changes?",
+      "content": "That converts to 22.05 pounds.\n\n# Updated liquid rules\n\nIf you\u2019ve been reading travel news over the past year or so, you know that some airports in the EU had new CT technology that allowed passengers to bring liquids of any size in their carry-ons, and they didn\u2019t have to be all together in one bag. Not all airports in the EU had already switched to the \u201clooser\u201d rules about liquids (roughly 350 of the new scanners were in use across 13 EU countries such as Germany, Ireland, Italy, Lithuania, Malta, the Netherlands, and Sweden), but as of September 1, those which had were now back to the \u201cold\u201d rule of 100ml containers in a 1-liter bag.\n\nThis newest rule is the same as the old one: passengers planning to fly from an EU airport will be restricted to carry-on limits of 100ml containers of liquids, gels, and creams, and only as many as can fit into a 20cm x 20cm bag. These liquids are then placed into a tray, separate from your luggage and other items.\n\n# Why all the changes?"
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "20bd63f4-864b-4468-9c21-abcb7993d64b",
+      "timestamp": "2025-12-18T08:12:53.377000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "aca90e5c-6c15-4c16-af70-2bffb0ac71ef",
+      "version": "2.3",
+      "date": "2025-12-18",
+      "chunking": {
+        "strategy": "simple",
+        "chunks_count": 6
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "none",
+        "model": "none",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 6,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "1093dd797748a6b48e902eccf194e5be1ba9a651ee8577c861fd7f3fe7372c05"
+    },
+    {
+      "_id": "335bd1fd-872f-45c4-af6d-132cb15f1729",
+      "timestamp": "2025-12-18T09:29:02.045000",
+      "success": false,
+      "failure_reason": "index_document: unexpected error: Exception: OpensearchOperations: delete document: 1093dd797748a6b48e902eccf194e5be1ba9a651ee8577c861fd7f3fe7372c05, conflicts: 2, max retries reached",
+      "publisher_id": "aca90e5c-6c15-4c16-af70-2bffb0ac71ef",
+      "version": "2.3",
+      "date": "2025-12-18",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.1",
+        "batchId": "ff5600dc-d916-4d89-b58d-0afe12a4391f",
+        "chunkingRequestId": "c31c5b24-ed8d-4ee7-980d-5d5ad8665909",
+        "totalChunks": 7,
+        "processingTime": 2995862,
+        "processingTimestamp": "2025-12-18T09:18:58.499427+00:00",
+        "tokenUsage": {
+          "total_tokens": 3289,
+          "prompt_tokens": 2238,
+          "completion_tokens": 1051,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "has_existing_chunks": true,
+        "chunks_count": 7
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "document_id": "1093dd797748a6b48e902eccf194e5be1ba9a651ee8577c861fd7f3fe7372c05"
+    },
+    {
+      "_id": "6a0b1935-425d-4beb-a15d-fb6218342444",
+      "timestamp": "2025-12-18T09:20:39.169000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "aca90e5c-6c15-4c16-af70-2bffb0ac71ef",
+      "version": "2.3",
+      "date": "2025-12-18",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.1",
+        "batchId": "ff5600dc-d916-4d89-b58d-0afe12a4391f",
+        "chunkingRequestId": "c31c5b24-ed8d-4ee7-980d-5d5ad8665909",
+        "totalChunks": 7,
+        "processingTime": 2995862,
+        "processingTimestamp": "2025-12-18T09:18:58.499427+00:00",
+        "tokenUsage": {
+          "total_tokens": 3289,
+          "prompt_tokens": 2238,
+          "completion_tokens": 1051,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "has_existing_chunks": true,
+        "chunks_count": 7
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 7,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "1093dd797748a6b48e902eccf194e5be1ba9a651ee8577c861fd7f3fe7372c05"
+    },
+    {
+      "_id": "c13d0162-ceb2-4287-95c8-5c7d86a2b112",
+      "timestamp": "2025-10-20T23:06:25.722000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "aca90e5c-6c15-4c16-af70-2bffb0ac71ef",
+      "version": "2.3",
+      "date": "2025-10-20",
+      "chunking": {
+        "chunks_count": 6
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 6,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "1093dd797748a6b48e902eccf194e5be1ba9a651ee8577c861fd7f3fe7372c05"
+    },
+    {
+      "_id": "e16f5639-4b9b-48a1-8fc7-52774580515f",
+      "timestamp": "2025-12-19T07:04:01.877000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "aca90e5c-6c15-4c16-af70-2bffb0ac71ef",
+      "version": "2.3",
+      "date": "2025-12-19",
+      "chunking": {
+        "strategy": "simple",
+        "chunks_count": 6
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "none",
+        "model": "none",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 6,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "1093dd797748a6b48e902eccf194e5be1ba9a651ee8577c861fd7f3fe7372c05"
+    },
+    {
+      "_id": "e4a42413-961e-4a94-9abb-1e3aa85ba4ab",
+      "timestamp": "2025-12-16T17:29:14.552000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "aca90e5c-6c15-4c16-af70-2bffb0ac71ef",
+      "version": "2.3.1",
+      "date": "2025-12-16",
+      "updating_chunks_publisher_metadata": {
+        "chunks_success_count": 6,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2-000003"
+        ]
+      },
+      "document_id": "1093dd797748a6b48e902eccf194e5be1ba9a651ee8577c861fd7f3fe7372c05"
+    }
+  ],
+  "raw_content": "{\n  \"id\" : 139639,\n  \"date\" : \"2025-05-21T12:13:56\",\n  \"date_gmt\" : \"2025-05-21T16:13:56\",\n  \"modified_gmt\" : \"2025-05-21T05:24:49\",\n  \"link\" : \"https://yourmileagemayvary.com/2025/05/21/europe-this-summer-know-eus-new-carry-on-personal-bag-liquids-policies/\",\n  \"title\" : {\n    \"rendered\" : \"Europe This Summer? Know EU&#8217;s New Carry-On, Personal Bag &#038; Liquids Policies\"\n  },\n  \"content\" : {\n    \"rendered\" : \"<p>The United States, as we know, is a patchwork quilt of laws. What may be the rule in one state may be very different in another state, and it&#8217;s possible that neither &#8220;But it&#8217;s legal where I live&#8221; nor &#8220;I didn&#8217;t know it was illegal here&#8221; will help you if you get caught doing something that shouldn&#8217;t be done where you are.</p>\\n<p>Over in Europe, the European Union, which was established in the late 20th century, is still fine tuning itself after originally being 20-something different countries. As an example, you may be old enough to remember when each country in the EU had its own currency. France&#8217;s French francs, Germany&#8217;s <span class=\\\"kY2IgmnCmOGjharHErah\\\">Deutsche Marks, Italy&#8217;s lira, etc. But some years after the EU came into being, they all settled on one form of money &#8211; the Euro. </span>So the fact that the EU isn&#8217;t consolidating its rules for travel until now isn&#8217;t too far-fetched.</p>\\n<p>Anyway, in September of last year, the EU officially consolidated the maximum measurements allowed for traveling within the EU with major European airlines. They also updated the &#8220;100ml&#8221; rule (that&#8217;s the equivalent of our 3-1-1 bag), due to what appeared to be travelers&#8217; ongoing confusion.</p>\\n<h1>Maximum dimensions for personal bags</h1>\\n<p>Personal bags can&#8217;t be larger than 40 x 30 x 15 centimeters.</p>\\n<p>That converts to 15.75 x 11.8 x 5.9 inches.</p>\\n<p>This includes handles, potentially wheels, etc.</p>\\n<h1>Maximum dimensions for carry-on bag</h1>\\n<p>Carry-on bags can&#8217;t be larger than 55 x 40 x 20 centimeters.</p>\\n<p>That converts to 21.65 x 15.75 x 7.87 inches.</p>\\n<p>This includes handles and wheels.</p>\\n<h1>Maximum weight for non-checked bags</h1>\\n<p>The overhead compartments on European planes tend to be smaller than those in the U.S., and the EU has concerns of them falling if they hold too much weight. So besides size limitations, they also have weight limitations.</p>\\n<p>The weight of your carry-on bag plus your personal item is not allowed to exceed 10 kilograms.</p>\\n<p>That converts to 22.05 pounds.</p>\\n<h1>Updated liquid rules</h1>\\n<p>If you&#8217;ve been reading travel news over the past year or so, you know that some airports in the EU had new CT technology that allowed passengers to bring liquids of any size in their carry-ons, and they didn&#8217;t have to be all together in one bag. Not all airports in the EU had already switched to the \u201clooser\u201d rules about liquids (roughly 350 of the new scanners were in use across 13 EU countries such as Germany, Ireland, Italy, Lithuania, Malta, the Netherlands, and Sweden), but as of September 1, those which had were now back to the \u201cold\u201d rule of 100ml containers in a 1-liter bag.</p>\\n<p>This newest rule is the same as the old one: passengers planning to fly from an EU airport will be restricted to carry-on limits of 100ml containers of liquids, gels, and creams, and only as many as can fit into a 20cm x 20cm bag. These liquids are then placed into a tray, separate from your luggage and other items.</p>\\n<h1>Why all the changes?</h1>\\n<p><strong><a href=\\\"/2024/09/02/reminder-new-rule-for-carry-on-bags-now-in-effect-in-the-eu/\\\" target=\\\"_blank\\\" rel=\\\"noopener\\\">Back in September</a></strong>, the liquid rule was said to be temporary until a \u201ctech issue\u201d with the equipment could be fixed.</p>\\n<p>From CNT:</p>\\n<blockquote><p>A report by the European Commission, which was sent to the European Civil Aviation Conference (ECAC) last May, outlined there was a \u201ctechnical issue\u201d with the scanners that prevented the software from reliably detecting harmful substances with content over more than 330ml.</p></blockquote>\\n<p>I&#8217;d bet dollars to doughnuts that the inconsistency was an issue, as well. Unless all airports had the new CT scanners, it would be more difficult for PAX to keep track of &#8220;the rule&#8221; for the airport in question (that&#8217;s what TSA suggested as well, when asked why we don&#8217;t have &#8220;looser&#8221; rules for liquids for the airports that have CT scanners. It&#8217;s too confusing.).</p>\\n<p>Having set measurements for luggage also makes for consistency (*cough* a very German thing *cough* I keed! I keed!) across the board for the EU countries. So that might be involved, as well.</p>\\n<h1>How does this affect me?</h1>\\n<p>If you&#8217;re just flying between the U.S. and an EU country, especially on a U.S. carrier, it shouldn&#8217;t. But once you&#8217;re in the EU and plan to fly from one EU country to another, that&#8217;s when you&#8217;ll need to make sure your bags are small enough and don&#8217;t weigh too much.</p>\\n<p>Sure am glad I still have my <strong><a href=\\\"/2025/02/18/my-experience-with-the-worlds-lightest-carry-on-bag/\\\" target=\\\"_blank\\\" rel=\\\"noopener\\\">lightest carry-on in the world</a></strong>.</p>\\n<p><b><i>Want to comment on this post? Great!</i></b><a href=\\\"https://yourmileagemayvary.com/2020/08/01/to-allow-or-remove-comments-that-is-the-question/\\\" target=\\\"_blank\\\" rel=\\\"noopener\\\"><b><i> Read this first to help ensure it gets approved.</i></b></a></p>\\n<p><b><i>Want to sponsor a post, write something for Your Mileage May Vary, or put ads on our site?</i></b><a href=\\\"https://yourmileagemayvary.com/2020/08/01/to-allow-or-remove-comments-that-is-the-question/\\\" target=\\\"_blank\\\" rel=\\\"noopener\\\"><b><i> Click here for more info</i></b></a><b><i>.</i></b></p>\\n<p><b><i>Like this post? Please share it! We have plenty more just like it and would love it if you decided to hang around and sign up to get emailed notifications of when we post.</i></b></p>\\n<p><b><i>Whether you\u2019ve read our articles before or this is the first time you\u2019re stopping by, we\u2019re really glad you\u2019re here and hope you come back to visit again!</i></b></p>\\n<p><b><i>This post first appeared on</i></b><a href=\\\"https://yourmileagemayvary.com/\\\" target=\\\"_blank\\\" rel=\\\"noopener\\\"><b><i> Your Mileage May Vary</i></b></a></p>\\n\"\n  },\n  \"author\" : 2,\n  \"featured_media\" : 139653\n}",
+  "markdown_content": "The United States, as we know, is a patchwork quilt of laws. What may be the rule in one state may be very different in another state, and it\u2019s possible that neither \u201cBut it\u2019s legal where I live\u201d nor \u201cI didn\u2019t know it was illegal here\u201d will help you if you get caught doing something that shouldn\u2019t be done where you are.\n\nOver in Europe, the European Union, which was established in the late 20th century, is still fine tuning itself after originally being 20-something different countries. As an example, you may be old enough to remember when each country in the EU had its own currency. France\u2019s French francs, Germany\u2019s Deutsche Marks, Italy\u2019s lira, etc. But some years after the EU came into being, they all settled on one form of money \u2013 the Euro. So the fact that the EU isn\u2019t consolidating its rules for travel until now isn\u2019t too far-fetched.\n\nAnyway, in September of last year, the EU officially consolidated the maximum measurements allowed for traveling within the EU with major European airlines. They also updated the \u201c100ml\u201d rule (that\u2019s the equivalent of our 3-1-1 bag), due to what appeared to be travelers\u2019 ongoing confusion.\n\n# Maximum dimensions for personal bags\n\nPersonal bags can\u2019t be larger than 40 x 30 x 15 centimeters.\n\nThat converts to 15.75 x 11.8 x 5.9 inches.\n\nThis includes handles, potentially wheels, etc.\n\n# Maximum dimensions for carry-on bag\n\nCarry-on bags can\u2019t be larger than 55 x 40 x 20 centimeters.\n\nThat converts to 21.65 x 15.75 x 7.87 inches.\n\nThis includes handles and wheels.\n\n# Maximum weight for non-checked bags\n\nThe overhead compartments on European planes tend to be smaller than those in the U.S., and the EU has concerns of them falling if they hold too much weight. So besides size limitations, they also have weight limitations.\n\nThe weight of your carry-on bag plus your personal item is not allowed to exceed 10 kilograms.\n\nThat converts to 22.05 pounds.\n\n# Updated liquid rules\n\nIf you\u2019ve been reading travel news over the past year or so, you know that some airports in the EU had new CT technology that allowed passengers to bring liquids of any size in their carry-ons, and they didn\u2019t have to be all together in one bag. Not all airports in the EU had already switched to the \u201clooser\u201d rules about liquids (roughly 350 of the new scanners were in use across 13 EU countries such as Germany, Ireland, Italy, Lithuania, Malta, the Netherlands, and Sweden), but as of September 1, those which had were now back to the \u201cold\u201d rule of 100ml containers in a 1-liter bag.\n\nThis newest rule is the same as the old one: passengers planning to fly from an EU airport will be restricted to carry-on limits of 100ml containers of liquids, gels, and creams, and only as many as can fit into a 20cm x 20cm bag. These liquids are then placed into a tray, separate from your luggage and other items.\n\n# Why all the changes?\n\n**[Back in September](/2024/09/02/reminder-new-rule-for-carry-on-bags-now-in-effect-in-the-eu/)**, the liquid rule was said to be temporary until a \u201ctech issue\u201d with the equipment could be fixed.\n\nFrom CNT:\n\n> A report by the European Commission, which was sent to the European Civil Aviation Conference (ECAC) last May, outlined there was a \u201ctechnical issue\u201d with the scanners that prevented the software from reliably detecting harmful substances with content over more than 330ml.\n\nI\u2019d bet dollars to doughnuts that the inconsistency was an issue, as well. Unless all airports had the new CT scanners, it would be more difficult for PAX to keep track of \u201cthe rule\u201d for the airport in question (that\u2019s what TSA suggested as well, when asked why we don\u2019t have \u201clooser\u201d rules for liquids for the airports that have CT scanners. It\u2019s too confusing.).\n\nHaving set measurements for luggage also makes for consistency (\\*cough\\* a very German thing \\*cough\\* I keed! I keed!) across the board for the EU countries. So that might be involved, as well.\n\n# How does this affect me?\n\nIf you\u2019re just flying between the U.S. and an EU country, especially on a U.S. carrier, it shouldn\u2019t. But once you\u2019re in the EU and plan to fly from one EU country to another, that\u2019s when you\u2019ll need to make sure your bags are small enough and don\u2019t weigh too much.\n\nSure am glad I still have my **[lightest carry-on in the world](/2025/02/18/my-experience-with-the-worlds-lightest-carry-on-bag/)**.\n\n***Want to comment on this post? Great!*** [***Read this first to help ensure it gets approved.***](https://yourmileagemayvary.com/2020/08/01/to-allow-or-remove-comments-that-is-the-question/)\n\n***Want to sponsor a post, write something for Your Mileage May Vary, or put ads on our site?*** [***Click here for more info***](https://yourmileagemayvary.com/2020/08/01/to-allow-or-remove-comments-that-is-the-question/)***.***\n\n***Like this post? Please share it! We have plenty more just like it and would love it if you decided to hang around and sign up to get emailed notifications of when we post.***\n\n***Whether you\u2019ve read our articles before or this is the first time you\u2019re stopping by, we\u2019re really glad you\u2019re here and hope you come back to visit again!***\n\n***This post first appeared on*** [***Your Mileage May Vary***](https://yourmileagemayvary.com/)"
+}

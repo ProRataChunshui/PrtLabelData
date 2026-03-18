@@ -1,0 +1,117 @@
+{
+  "document_id": "0c298cc3b439e89a8a29826f03903adf6349cf9ac3514ed8f6da13b8288d2115",
+  "document_metadata": {
+    "id": "0c298cc3b439e89a8a29826f03903adf6349cf9ac3514ed8f6da13b8288d2115",
+    "date": 20250805,
+    "publisher_id": "601c8901-d241-42b0-8c86-73d4702299d9",
+    "date_year": 2025,
+    "date_month": 8,
+    "crawl_date": "2025-10-27T23:55:28.329033205Z",
+    "date_day": 5,
+    "title": "Watch: Emma Mackey plays a politician juggling work and family in James L Brooks comedy \u2018Ella McCay\u2019",
+    "url": "https://scroll.in/reel/1085240/watch-emma-mackey-plays-a-politician-juggling-work-and-family-in-james-l-brooks-comedy-ella-mccay?utm_source=rss&utm_medium=prorata",
+    "url2": "https://scroll.in/reel/1085240/watch-emma-mackey-plays-a-politician-juggling-work-and-family-in-james-l-brooks-comedy-ella-mccay?utm_source=rss&utm_medium=prorata",
+    "domain": "scroll.in",
+    "lang": "unknown",
+    "published_date": "2025-08-05T05:19:31Z",
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "601c8901-d241-42b0-8c86-73d4702299d9",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2025-10-27T23:55:28.329000",
+    "published_date_parsed": "2025-08-05T05:19:31",
+    "rawType": "xml",
+    "publisherId": "601c8901-d241-42b0-8c86-73d4702299d9",
+    "documentId": "0c298cc3b439e89a8a29826f03903adf6349cf9ac3514ed8f6da13b8288d2115",
+    "rawcontent_created": "2025-10-27T23:55:33.020000",
+    "source": "Scroll.in",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=scroll.in",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=scroll.in",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=scroll.in",
+    "first_words": ""
+  },
+  "publisher_metadata": {
+    "id": "601c8901-d241-42b0-8c86-73d4702299d9",
+    "group_id": "b6965a2b-55e9-4742-b9a0-bd11b92c8643",
+    "name": "Scroll.in",
+    "domain": "api.scroll.in",
+    "location": "Global",
+    "country": "Global",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "Watch: Emma Mackey plays a politician juggling work and family in James L Brooks comedy \u2018Ella McCay\u2019",
+    "document_authors_txt": [],
+    "hash": "4597e070c4af9ad9036666e4a94d410f7ddc9e210c9ea594341f16a23478cab2"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2025-10-27",
+    "chunking": {
+      "chunks_count": 1
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0c298cc3b439e89a8a29826f03903adf6349cf9ac3514ed8f6da13b8288d2115-0",
+        "idx": 0,
+        "hash": "4597e070c4af9ad9036666e4a94d410f7ddc9e210c9ea594341f16a23478cab2"
+      },
+      "content_original": "![](https://sc0.blr1.cdn.digitaloceanspaces.com/article/208636-fakuujozrb-1754371155.jpeg)\n\n*20th Century Studios*",
+      "content": "![](https://sc0.blr1.cdn.digitaloceanspaces.com/article/208636-fakuujozrb-1754371155.jpeg)\n\n*20th Century Studios*"
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "bb984f7d-09ca-4ec6-be87-66f0a3ac7c18",
+      "timestamp": "2025-10-27T23:55:39.444000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "601c8901-d241-42b0-8c86-73d4702299d9",
+      "version": "2.3",
+      "date": "2025-10-27",
+      "chunking": {
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "0c298cc3b439e89a8a29826f03903adf6349cf9ac3514ed8f6da13b8288d2115"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Scroll.in</title>\r\n    <link>https://scroll.in</link>\r\n    <description>A digital daily of things that matter.</description>\r\n    <docs>http://www.rssboard.org/rss-specification</docs>\r\n    <generator>python-feedgen</generator>\r\n    <image>\r\n      <title>Scroll.in</title>\r\n      <url>http://s3-ap-southeast-1.amazonaws.com/scroll-feeds/scroll_logo_small.png</url>\r\n      <link>https://scroll.in</link>\r\n      <width>-1</width>\r\n      <height>-1</height>\r\n    </image>\r\n    <item>\r\n      <title>Watch: Emma Mackey plays a politician juggling work and family in James L Brooks comedy \u2018Ella McCay\u2019</title>\r\n      <link>https://scroll.in/reel/1085240/watch-emma-mackey-plays-a-politician-juggling-work-and-family-in-james-l-brooks-comedy-ella-mccay?utm_source=rss&amp;utm_medium=prorata</link>\r\n      <description>Also starring Jamie Lee Curtis, Woody Harrelson, Jack Lowden, Kumail Nanjiani, Ayo Edebiri, Rebecca Hall and Albert Brooks. Out in cinemas on December 12.</description>\r\n      <enclosure url=\"https://sc0.blr1.cdn.digitaloceanspaces.com/article/208636-fakuujozrb-1754371155.jpeg\" length=\"0\" type=\"image/jpeg\" />\r\n      <pubDate>Tue, 05 Aug 2025 05:19:31 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">https://scroll.in/reel/1085240/watch-emma-mackey-plays-a-politician-juggling-work-and-family-in-james-l-brooks-comedy-ella-mccay?utm_source=rss&amp;utm_medium=prorata</guid>\r\n      <dc:creator>Scroll Staff</dc:creator>\r\n      <dc:date>2025-08-05T05:19:31Z</dc:date>\r\n      <content:encoded><![CDATA[<p><figure><img src=\"https://sc0.blr1.cdn.digitaloceanspaces.com/article/208636-fakuujozrb-1754371155.jpeg\" /></figure></p><iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/VQD40z1TvEs?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Ella McCay | Official Trailer | In Theaters December 12\"></iframe><p><em>20th Century Studios </em></p>]]></content:encoded>\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "![](https://sc0.blr1.cdn.digitaloceanspaces.com/article/208636-fakuujozrb-1754371155.jpeg)\n\n*20th Century Studios*"
+}

@@ -1,0 +1,139 @@
+{
+  "document_id": "006a1cd9d1dad405890c401e3ef6956d44c77e13b3b300d39ff151fc1d26b8b6",
+  "document_metadata": {
+    "id": "006a1cd9d1dad405890c401e3ef6956d44c77e13b3b300d39ff151fc1d26b8b6",
+    "date": 20180425,
+    "publisher_id": "601c8901-d241-42b0-8c86-73d4702299d9",
+    "date_year": 2018,
+    "date_month": 4,
+    "crawl_date": "2025-10-28T07:19:50.356037150Z",
+    "date_day": 25,
+    "title": "Tamil Nadu leader Vaiko files petition against Sterlite copper plant in Tuticorn district",
+    "url": "https://scroll.in/latest/876900/tamil-nadu-leader-vaiko-files-petition-against-sterlite-copper-plant-in-tuticorn-district?utm_source=rss&utm_medium=prorata",
+    "url2": "https://scroll.in/latest/876900/tamil-nadu-leader-vaiko-files-petition-against-sterlite-copper-plant-in-tuticorn-district?utm_source=rss&utm_medium=prorata",
+    "domain": "scroll.in",
+    "lang": "unknown",
+    "published_date": "2018-04-25T16:03:03Z",
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "601c8901-d241-42b0-8c86-73d4702299d9",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2025-10-28T07:19:50.356000",
+    "published_date_parsed": "2018-04-25T16:03:03",
+    "rawType": "xml",
+    "publisherId": "601c8901-d241-42b0-8c86-73d4702299d9",
+    "documentId": "006a1cd9d1dad405890c401e3ef6956d44c77e13b3b300d39ff151fc1d26b8b6",
+    "rawcontent_created": "2025-10-28T07:19:56.408000",
+    "source": "Scroll.in",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=scroll.in",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=scroll.in",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=scroll.in",
+    "first_words": "Marumalarchi Dravida Munnetra Kazhagam leader Vaiko on Wednesday filed a petition in the Madras High Court seeking to restrain Sterlite Industries, a unit of Vedanta Ltd, from operating a copper smelter plant in Tamil Nadu\u2019s Tuticorin district, reported PTI. Vaiko cited environmental concerns in the petition. He also sought the court to direct the Tamil Nadu Pollution Control Board, the Central Pollution Control Board and the Ministry of Environment and Forests not to extend clearance to the unit \u2013 a copper smelter plant at Melavittan \u2013 and to take steps to shut it down immediately. Vaiko said he had"
+  },
+  "publisher_metadata": {
+    "id": "601c8901-d241-42b0-8c86-73d4702299d9",
+    "group_id": "b6965a2b-55e9-4742-b9a0-bd11b92c8643",
+    "name": "Scroll.in",
+    "domain": "api.scroll.in",
+    "location": "Global",
+    "country": "Global",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "Tamil Nadu leader Vaiko files petition against Sterlite copper plant in Tuticorn district",
+    "document_authors_txt": [],
+    "hash": "d9793eb966aa6b79c9f0582b33c0df0a3deead36e1347e9fc3110b2cbbd012a5"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2025-10-28",
+    "chunking": {
+      "chunks_count": 3
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "006a1cd9d1dad405890c401e3ef6956d44c77e13b3b300d39ff151fc1d26b8b6-0",
+        "idx": 0,
+        "hash": "0955467a2be0f2001a09b5f111be24e435c345c30c6bce4a344075f7636c693a"
+      },
+      "content_original": "![](https://sc0.blr1.digitaloceanspaces.com/large/876900-18971-xsveftyyvt-1524662021.jpg)\n\nMarumalarchi Dravida Munnetra Kazhagam leader Vaiko on Wednesday filed a petition in the Madras High Court seeking to restrain Sterlite Industries, a unit of Vedanta Ltd, from operating a copper smelter plant in Tamil Nadu\u2019s Tuticorin district, reported PTI. Vaiko cited environmental concerns in the petition.\n\nHe also sought the court to direct the Tamil Nadu Pollution Control Board, the Central Pollution Control Board and the Ministry of Environment and Forests not to extend clearance to the unit \u2013 a copper smelter plant at Melavittan \u2013 and to take steps to shut it down immediately. Vaiko said he had approached the authorities on the matter on April 8 too, but no action had been taken.",
+      "content": "![](https://sc0.blr1.digitaloceanspaces.com/large/876900-18971-xsveftyyvt-1524662021.jpg)\n\nMarumalarchi Dravida Munnetra Kazhagam leader Vaiko on Wednesday filed a petition in the Madras High Court seeking to restrain Sterlite Industries, a unit of Vedanta Ltd, from operating a copper smelter plant in Tamil Nadu\u2019s Tuticorin district, reported PTI. Vaiko cited environmental concerns in the petition.\n\nHe also sought the court to direct the Tamil Nadu Pollution Control Board, the Central Pollution Control Board and the Ministry of Environment and Forests not to extend clearance to the unit \u2013 a copper smelter plant at Melavittan \u2013 and to take steps to shut it down immediately. Vaiko said he had approached the authorities on the matter on April 8 too, but no action had been taken."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "006a1cd9d1dad405890c401e3ef6956d44c77e13b3b300d39ff151fc1d26b8b6-1",
+        "idx": 1,
+        "hash": "78c870e788d6fa81db0d40729a04acbf374cf3dad72cc57895490fd9aebc56e1"
+      },
+      "content_original": "Environmentalists have [alleged](https://scroll.in/article/874295/vedanta-got-clearance-for-tamil-nadu-copper-smelter-by-misrepresenting-its-location-activists-claim) that the company had misled the Union environment ministry and the Madras High Court about the location of the proposed project and thatofficials of the State Industries Promotion Corporation of Tamil Nadu had backed the misrepresentation. Earlier in April, the Tamil Nadu Pollution Control Board had [rejected](https://scroll.in/latest/875153/tamil-nadu-pollution-control-board-refuses-to-renew-sterlite-coppers-licence-to-operate) Sterlite Copper Smelter Plant\u2019s application to renew its licence to operate beyond March 31.\n\nActivists in Tuticorin have been accusing Sterlite of [contaminating](https://scroll.in/article/874441/every-house-has-a-sick-person-why-people-in-tuticorin-are-opposing-vedantas-copper-smelter) the region\u2019s air and water resources. Villagers alleged that pollutants from the Sterlite plant have caused breathing disorders, skin diseases, heart conditions and cancer.",
+      "content": "Environmentalists have [alleged](https://scroll.in/article/874295/vedanta-got-clearance-for-tamil-nadu-copper-smelter-by-misrepresenting-its-location-activists-claim) that the company had misled the Union environment ministry and the Madras High Court about the location of the proposed project and thatofficials of the State Industries Promotion Corporation of Tamil Nadu had backed the misrepresentation. Earlier in April, the Tamil Nadu Pollution Control Board had [rejected](https://scroll.in/latest/875153/tamil-nadu-pollution-control-board-refuses-to-renew-sterlite-coppers-licence-to-operate) Sterlite Copper Smelter Plant\u2019s application to renew its licence to operate beyond March 31.\n\nActivists in Tuticorin have been accusing Sterlite of [contaminating](https://scroll.in/article/874441/every-house-has-a-sick-person-why-people-in-tuticorin-are-opposing-vedantas-copper-smelter) the region\u2019s air and water resources. Villagers alleged that pollutants from the Sterlite plant have caused breathing disorders, skin diseases, heart conditions and cancer."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "006a1cd9d1dad405890c401e3ef6956d44c77e13b3b300d39ff151fc1d26b8b6-2",
+        "idx": 2,
+        "hash": "404b991658f4e5a82e7a8c47b5b1a96e897fbff2a6d5db079912e3fb428c6102"
+      },
+      "content_original": "Vaiko\u2019s petition comes in the backdrop of [protests](https://scroll.in/latest/873229/tamil-nadu-thousands-protest-against-sterlite-coppers-plan-to-expand-its-plant-in-thoothukudi) by residents living around the plant for its closure, alleging that it was causing pollution. The company has rejected the allegation saying, \u201cZero discharge systems, utilisation of waste for sustainable applications, energy efficient systems and stringent emission monitoring are the hallmark of Sterlite.\u201d\n\nIn 2013, the Supreme Court had [imposed](http://www.thehindu.com/news/national/tamil-nadu/sc-slaps-rs-100-cr-penalty-on-sterlite-for-pollution/article4572805.ece) a fine of Rs 100 crore on the company for polluting the land and water in the area after a gas leak.",
+      "content": "Vaiko\u2019s petition comes in the backdrop of [protests](https://scroll.in/latest/873229/tamil-nadu-thousands-protest-against-sterlite-coppers-plan-to-expand-its-plant-in-thoothukudi) by residents living around the plant for its closure, alleging that it was causing pollution. The company has rejected the allegation saying, \u201cZero discharge systems, utilisation of waste for sustainable applications, energy efficient systems and stringent emission monitoring are the hallmark of Sterlite.\u201d\n\nIn 2013, the Supreme Court had [imposed](http://www.thehindu.com/news/national/tamil-nadu/sc-slaps-rs-100-cr-penalty-on-sterlite-for-pollution/article4572805.ece) a fine of Rs 100 crore on the company for polluting the land and water in the area after a gas leak."
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "fc9ae935-3be6-4744-9731-f8bc8c00ffdc",
+      "timestamp": "2025-10-28T07:20:03.018000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "601c8901-d241-42b0-8c86-73d4702299d9",
+      "version": "2.3",
+      "date": "2025-10-28",
+      "chunking": {
+        "chunks_count": 3
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 3,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "006a1cd9d1dad405890c401e3ef6956d44c77e13b3b300d39ff151fc1d26b8b6"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Scroll.in</title>\r\n    <link>https://scroll.in</link>\r\n    <description>A digital daily of things that matter.</description>\r\n    <docs>http://www.rssboard.org/rss-specification</docs>\r\n    <generator>python-feedgen</generator>\r\n    <image>\r\n      <title>Scroll.in</title>\r\n      <url>http://s3-ap-southeast-1.amazonaws.com/scroll-feeds/scroll_logo_small.png</url>\r\n      <link>https://scroll.in</link>\r\n      <width>-1</width>\r\n      <height>-1</height>\r\n    </image>\r\n    <item>\r\n      <title>Tamil Nadu leader Vaiko files petition against Sterlite copper plant in Tuticorn district</title>\r\n      <link>https://scroll.in/latest/876900/tamil-nadu-leader-vaiko-files-petition-against-sterlite-copper-plant-in-tuticorn-district?utm_source=rss&amp;utm_medium=prorata</link>\r\n      <description>The MDMK chief\u2019s petition comes amid protests by residents living near the plant who want it closed because it is polluting the area.</description>\r\n      <enclosure url=\"https://sc0.blr1.digitaloceanspaces.com/large/876900-18971-xsveftyyvt-1524662021.jpg\" length=\"0\" type=\"image/jpeg\" />\r\n      <pubDate>Wed, 25 Apr 2018 16:03:03 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">https://scroll.in/latest/876900/tamil-nadu-leader-vaiko-files-petition-against-sterlite-copper-plant-in-tuticorn-district?utm_source=rss&amp;utm_medium=prorata</guid>\r\n      <dc:creator>Scroll Staff</dc:creator>\r\n      <dc:date>2018-04-25T16:03:03Z</dc:date>\r\n      <content:encoded><![CDATA[<p><figure><img src=\"https://sc0.blr1.digitaloceanspaces.com/large/876900-18971-xsveftyyvt-1524662021.jpg\" /></figure></p><p>Marumalarchi Dravida Munnetra Kazhagam leader Vaiko on Wednesday filed a petition in the Madras High Court seeking to restrain Sterlite Industries, a unit of Vedanta Ltd, from operating a copper smelter plant in Tamil Nadu\u2019s Tuticorin district, reported PTI. Vaiko cited environmental concerns in the petition.</p><p>He also sought the court to direct the Tamil Nadu Pollution Control Board, the Central Pollution Control Board and the Ministry of Environment and Forests not to extend clearance to the unit \u2013 a copper smelter plant at Melavittan \u2013 and to take steps to shut it down immediately. Vaiko said he had approached the authorities on the matter on April 8 too, but no action had been taken.</p><p>Environmentalists have <a href=\"https://scroll.in/article/874295/vedanta-got-clearance-for-tamil-nadu-copper-smelter-by-misrepresenting-its-location-activists-claim\">alleged</a> that the company had misled the Union environment ministry and the Madras High Court about the location of the proposed project and that<strong> </strong>officials of the State Industries Promotion Corporation of Tamil Nadu had backed the misrepresentation. Earlier in April, the Tamil Nadu Pollution Control Board had <a href=\"https://scroll.in/latest/875153/tamil-nadu-pollution-control-board-refuses-to-renew-sterlite-coppers-licence-to-operate\">rejected</a> Sterlite Copper Smelter Plant\u2019s application to renew its licence to operate beyond March 31.</p><p>Activists in Tuticorin have been accusing Sterlite of <a href=\"https://scroll.in/article/874441/every-house-has-a-sick-person-why-people-in-tuticorin-are-opposing-vedantas-copper-smelter\">contaminating</a> the region\u2019s air and water resources. Villagers alleged that pollutants from the Sterlite plant have caused breathing disorders, skin diseases, heart conditions and cancer.</p><p>Vaiko\u2019s petition comes in the backdrop of <a href=\"https://scroll.in/latest/873229/tamil-nadu-thousands-protest-against-sterlite-coppers-plan-to-expand-its-plant-in-thoothukudi\">protests</a> by residents living around the plant for its closure, alleging that it was causing pollution. The company has rejected the allegation saying, \u201cZero discharge systems, utilisation of waste for sustainable applications, energy efficient systems and stringent emission monitoring are the hallmark of Sterlite.\u201d </p><p>In 2013, the Supreme Court had <a class=\"link-external\" href=\"http://www.thehindu.com/news/national/tamil-nadu/sc-slaps-rs-100-cr-penalty-on-sterlite-for-pollution/article4572805.ece\" rel=\"nofollow noopener\" target=\"_blank\">imposed</a> a fine of Rs 100 crore on the company for polluting the land and water in the area after a gas leak.  </p>]]></content:encoded>\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "![](https://sc0.blr1.digitaloceanspaces.com/large/876900-18971-xsveftyyvt-1524662021.jpg)\n\nMarumalarchi Dravida Munnetra Kazhagam leader Vaiko on Wednesday filed a petition in the Madras High Court seeking to restrain Sterlite Industries, a unit of Vedanta Ltd, from operating a copper smelter plant in Tamil Nadu\u2019s Tuticorin district, reported PTI. Vaiko cited environmental concerns in the petition.\n\nHe also sought the court to direct the Tamil Nadu Pollution Control Board, the Central Pollution Control Board and the Ministry of Environment and Forests not to extend clearance to the unit \u2013 a copper smelter plant at Melavittan \u2013 and to take steps to shut it down immediately. Vaiko said he had approached the authorities on the matter on April 8 too, but no action had been taken.\n\nEnvironmentalists have [alleged](https://scroll.in/article/874295/vedanta-got-clearance-for-tamil-nadu-copper-smelter-by-misrepresenting-its-location-activists-claim) that the company had misled the Union environment ministry and the Madras High Court about the location of the proposed project and thatofficials of the State Industries Promotion Corporation of Tamil Nadu had backed the misrepresentation. Earlier in April, the Tamil Nadu Pollution Control Board had [rejected](https://scroll.in/latest/875153/tamil-nadu-pollution-control-board-refuses-to-renew-sterlite-coppers-licence-to-operate) Sterlite Copper Smelter Plant\u2019s application to renew its licence to operate beyond March 31.\n\nActivists in Tuticorin have been accusing Sterlite of [contaminating](https://scroll.in/article/874441/every-house-has-a-sick-person-why-people-in-tuticorin-are-opposing-vedantas-copper-smelter) the region\u2019s air and water resources. Villagers alleged that pollutants from the Sterlite plant have caused breathing disorders, skin diseases, heart conditions and cancer.\n\nVaiko\u2019s petition comes in the backdrop of [protests](https://scroll.in/latest/873229/tamil-nadu-thousands-protest-against-sterlite-coppers-plan-to-expand-its-plant-in-thoothukudi) by residents living around the plant for its closure, alleging that it was causing pollution. The company has rejected the allegation saying, \u201cZero discharge systems, utilisation of waste for sustainable applications, energy efficient systems and stringent emission monitoring are the hallmark of Sterlite.\u201d\n\nIn 2013, the Supreme Court had [imposed](http://www.thehindu.com/news/national/tamil-nadu/sc-slaps-rs-100-cr-penalty-on-sterlite-for-pollution/article4572805.ece) a fine of Rs 100 crore on the company for polluting the land and water in the area after a gas leak."
+}

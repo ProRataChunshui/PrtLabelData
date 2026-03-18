@@ -1,0 +1,326 @@
+{
+  "document_id": "046d6e1e91dfcf327f265af9f043ac82a92b244862229a358634eb1a8f0080e5",
+  "document_metadata": {
+    "id": "046d6e1e91dfcf327f265af9f043ac82a92b244862229a358634eb1a8f0080e5",
+    "date": 20251111,
+    "publisher_id": "c675981b-ed60-4413-abd2-3a5952479366",
+    "image": "https://d.musictimes.com/en/full/95839/adin-ross-says-drake-revived-kendrick-lamars-career-amid-heated.jpg",
+    "date_year": 2025,
+    "date_month": 11,
+    "crawl_date": "2025-11-11T13:43:04.036963174Z",
+    "date_day": 11,
+    "title": "Adin Ross Says Drake Revived Kendrick Lamar's Career Amid Heated Livestream Rant",
+    "url": "https://www.musictimes.com/articles/110395/20251111/adin-ross-says-drake-revived-kendrick-lamars-career-amid-heated-livestream-rant.htm",
+    "url2": "https://www.musictimes.com/articles/110395/20251111/adin-ross-says-drake-revived-kendrick-lamars-career-amid-heated-livestream-rant.htm",
+    "domain": "www.musictimes.com",
+    "lang": "unknown",
+    "published_date": "2025-11-11T12:57:00Z",
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "c675981b-ed60-4413-abd2-3a5952479366",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2025-11-11T13:43:04.036000",
+    "published_date_parsed": "2025-11-11T12:57:00",
+    "rawType": "xml",
+    "publisherId": "c675981b-ed60-4413-abd2-3a5952479366",
+    "documentId": "046d6e1e91dfcf327f265af9f043ac82a92b244862229a358634eb1a8f0080e5",
+    "rawcontent_created": "2025-11-11T13:43:04.291000",
+    "source": "Music Times",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=www.musictimes.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=www.musictimes.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=www.musictimes.com",
+    "first_words": "During a heated livestream this weekend, Twitch star Adin Ross sparked controversy by declaring that Drake singlehandedly revived Kendrick Lamar's career. The streamer, known for his outspoken takes on hip-hop, criticized Lamar's music while praising Drake's support for other artists. \"Listen to this... 2021 plus, Drake's killing him,\" Ross said, referring to the years after Lamar's 2021 album, Billboard said. \"If it's 2010 plus, Drake's killing him. Kendrick's catalog is horrible, and y'all know I'm not capping. It's f\u2014ing ass! Nobody listened to Mr. Morale. GNX\u2014Drake saved his miraculous career because he f\u2014ing... 'Wow, the beef.' Who",
+    "has_chunks": true
+  },
+  "publisher_metadata": {
+    "id": "c675981b-ed60-4413-abd2-3a5952479366",
+    "group_id": "5adb4993-deda-4bb8-8f9c-ea2ac1c375bf",
+    "name": "Music Times",
+    "domain": "musictimes.com",
+    "location": "United States",
+    "country": "United States",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": [
+      "186d72ec-3dbe-4c75-97a5-578fb5e2fd06"
+    ]
+  },
+  "content_metadata": {
+    "document_title_txt": "Adin Ross Says Drake Revived Kendrick Lamar's Career Amid Heated Livestream Rant",
+    "document_authors_txt": [],
+    "hash": "e31729650ebf9de2005be03104e14e14db04a9a902585c7653887c3833a3de7d"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2025-11-11",
+    "chunking": {
+      "service": "PrtDocumentInference",
+      "chunkingStrategy": "llm_semantic_batch",
+      "llmPromptVersion": "v1.0.1",
+      "batchId": "5728d740-37c0-4cef-afd2-319b7a8df136",
+      "chunkingRequestId": "63d90d3c-3db8-4adf-9454-4b234629c15f",
+      "totalChunks": 13,
+      "processingTime": 921056,
+      "processingTimestamp": "2025-11-11T13:58:36.654812+00:00",
+      "tokenUsage": {
+        "total_tokens": 2326,
+        "prompt_tokens": 1750,
+        "completion_tokens": 576,
+        "model_version": "gemini-2.5-flash-lite"
+      },
+      "has_existing_chunks": true,
+      "chunks_count": 13
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "046d6e1e91dfcf327f265af9f043ac82a92b244862229a358634eb1a8f0080e5-8",
+        "idx": 8,
+        "hash": "3c8cba3cb387ce75162980b7dc2838f8909f8149a0a574dc004cabe1ffd96e9e",
+        "sim_hash": "6199441426451338310"
+      },
+      "content_original": "Ross has long been a vocal Drake fan and has frequently shown his support on livestreams.",
+      "content": "Ross has long been a vocal Drake fan and has frequently shown his support on livestreams."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "046d6e1e91dfcf327f265af9f043ac82a92b244862229a358634eb1a8f0080e5-1",
+        "idx": 1,
+        "hash": "a42b8f5c4347c8f0224a57ef90cc19c09cf0668655933a19d14176c72c7edbd5",
+        "sim_hash": "1153539809193310361"
+      },
+      "content_original": "The streamer, known for his outspoken takes on hip-hop, criticized Lamar's music while praising Drake's support for other artists.",
+      "content": "The streamer, known for his outspoken takes on hip-hop, criticized Lamar's music while praising Drake's support for other artists."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "046d6e1e91dfcf327f265af9f043ac82a92b244862229a358634eb1a8f0080e5-10",
+        "idx": 10,
+        "hash": "525df0244dc43e0a3a040e01bc3823accfecf09808ea80036065114e08c3407f",
+        "sim_hash": "8243776724295515171"
+      },
+      "content_original": "\u201cI f\u2014 with him, bro. There's no loyalty left in the world for people like him in the entertainment industry, and I love him. And I'm loyal to him,\u201c Ross stated.",
+      "content": "\u201cI f\u2014 with him, bro. There's no loyalty left in the world for people like him in the entertainment industry, and I love him. And I'm loyal to him,\u201c Ross stated."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "046d6e1e91dfcf327f265af9f043ac82a92b244862229a358634eb1a8f0080e5-3",
+        "idx": 3,
+        "hash": "6c2f21bb101414afc3d80be569151b93d81354dc1bf7479effe98f2f85551c48",
+        "sim_hash": "6611005615044906959"
+      },
+      "content_original": "\u201cIf it's 2010 plus, Drake's killing him. Kendrick's catalog is horrible, and y'all know I'm not capping. It's f\u2014ing ass! Nobody listened to Mr. Morale. GNX\u2014Drake saved his miraculous career because he f\u2014ing... 'Wow, the beef.' Who gives a sh\u2013?\u201c",
+      "content": "\u201cIf it's 2010 plus, Drake's killing him. Kendrick's catalog is horrible, and y'all know I'm not capping. It's f\u2014ing ass! Nobody listened to Mr. Morale. GNX\u2014Drake saved his miraculous career because he f\u2014ing... 'Wow, the beef.' Who gives a sh\u2013?\u201c"
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "046d6e1e91dfcf327f265af9f043ac82a92b244862229a358634eb1a8f0080e5-0",
+        "idx": 0,
+        "hash": "07676eb2310637a259400434e70c43a1d68048ee23f685bafae068a857cc594f",
+        "sim_hash": "6807211530367375496"
+      },
+      "content_original": "During a heated livestream this weekend, Twitch star Adin Ross sparked controversy by declaring that Drake singlehandedly revived Kendrick Lamar's career.",
+      "content": "During a heated livestream this weekend, Twitch star Adin Ross sparked controversy by declaring that Drake singlehandedly revived Kendrick Lamar's career."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "046d6e1e91dfcf327f265af9f043ac82a92b244862229a358634eb1a8f0080e5-9",
+        "idx": 9,
+        "hash": "7e63d3b77ef6df8644fa08a7ceb95f7861d3ff3101f862c5308156bef0dac3f0",
+        "sim_hash": "2667093753672683714"
+      },
+      "content_original": "According to Complex, earlier this month, he shared that Drake had given him a $330,000 Maybach as a gift, expressing a close bond with the rapper and referring to him as like a brother.",
+      "content": "According to Complex, earlier this month, he shared that Drake had given him a $330,000 Maybach as a gift, expressing a close bond with the rapper and referring to him as like a brother."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "046d6e1e91dfcf327f265af9f043ac82a92b244862229a358634eb1a8f0080e5-12",
+        "idx": 12,
+        "hash": "7ae92af01215b778995e3ec345eff92f3f550a723e873f2531b2abb7bed2f6fc",
+        "sim_hash": "17942880805080196218"
+      },
+      "content_original": "Fans quickly reacted to Ross's comments online, with some praising his loyalty to Drake while others criticized him for dismissing Lamar's contributions to rap.",
+      "content": "Fans quickly reacted to Ross's comments online, with some praising his loyalty to Drake while others criticized him for dismissing Lamar's contributions to rap."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "046d6e1e91dfcf327f265af9f043ac82a92b244862229a358634eb1a8f0080e5-11",
+        "idx": 11,
+        "hash": "8783f365de68b378af3925764016f09578e85597a4a37b87c5be4d655f322abe",
+        "sim_hash": "18269033725959851642"
+      },
+      "content_original": "The livestream rant comes amid ongoing legal challenges, as Ross and Drake are facing a class-action lawsuit over their promotion of the online casino Stake, accused of glamorizing gambling to millions of young fans.",
+      "content": "The livestream rant comes amid ongoing legal challenges, as Ross and Drake are facing a class-action lawsuit over their promotion of the online casino Stake, accused of glamorizing gambling to millions of young fans."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "046d6e1e91dfcf327f265af9f043ac82a92b244862229a358634eb1a8f0080e5-6",
+        "idx": 6,
+        "hash": "1d992388bffd18bc2e904fbc4c4f587ec8a809f0d55059e7f662a15cecb23d59",
+        "sim_hash": "6632802956072071970"
+      },
+      "content_original": "The streamer also hyped Drake's upcoming album *Iceman*, saying the rapper's dedication to supporting his peers sets him apart in the industry.",
+      "content": "The streamer also hyped Drake's upcoming album *Iceman*, saying the rapper's dedication to supporting his peers sets him apart in the industry."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "046d6e1e91dfcf327f265af9f043ac82a92b244862229a358634eb1a8f0080e5-7",
+        "idx": 7,
+        "hash": "d80037ef2a18ac8be3c7dbe80a46147b90e820341be8461b2d6ddd4d30f582e0",
+        "sim_hash": "3353315060982039663"
+      },
+      "content_original": "\u201cThat's why rap is dead. Because Drake on Iceman, I know for a fact, Drake's not giving no bum-ass, no backbone rappers verses. And that's it! It's called loyalty,\u201c Ross said.",
+      "content": "\u201cThat's why rap is dead. Because Drake on Iceman, I know for a fact, Drake's not giving no bum-ass, no backbone rappers verses. And that's it! It's called loyalty,\u201c Ross said."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "046d6e1e91dfcf327f265af9f043ac82a92b244862229a358634eb1a8f0080e5-2",
+        "idx": 2,
+        "hash": "4409ddd14197d843cccef0e363a66dacf9df2629db7c657b89b81844ab65eef3",
+        "sim_hash": "10306560653253513858"
+      },
+      "content_original": "\u201cListen to this... 2021 plus, Drake's killing him,\u201c Ross said, referring to the years after Lamar's 2021 album, Billboard said.",
+      "content": "\u201cListen to this... 2021 plus, Drake's killing him,\u201c Ross said, referring to the years after Lamar's 2021 album, Billboard said."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "046d6e1e91dfcf327f265af9f043ac82a92b244862229a358634eb1a8f0080e5-5",
+        "idx": 5,
+        "hash": "25ded060beac124d49d3ef0ea823cf0d0869ce65aa7c6c19ed0b4fc25a39f5e9",
+        "sim_hash": "1009324564982535378"
+      },
+      "content_original": "\u201cKendrick is a\u2013. He does nothing for any other rappers. Doesn't do verses. He does nothing! He does nothing for rap,\u201c Ross continued. \u201cDrake, you need a verse: 'Here you go, guys!'\u201c",
+      "content": "\u201cKendrick is a\u2013. He does nothing for any other rappers. Doesn't do verses. He does nothing! He does nothing for rap,\u201c Ross continued. \u201cDrake, you need a verse: 'Here you go, guys!'\u201c"
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "046d6e1e91dfcf327f265af9f043ac82a92b244862229a358634eb1a8f0080e5-4",
+        "idx": 4,
+        "hash": "ddd3ef8d3c4c4b6226f881fe36b9ecc5082d487fda0868e46b321e2efc474bbb",
+        "sim_hash": "14216010671252636251"
+      },
+      "content_original": "Ross revisited the 2024 feud between the two rap icons, arguing that the rivalry was a turning point for Lamar. He went on to criticize Lamar for his perceived lack of collaboration with other artists.",
+      "content": "Ross revisited the 2024 feud between the two rap icons, arguing that the rivalry was a turning point for Lamar. He went on to criticize Lamar for his perceived lack of collaboration with other artists."
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "987d6fce-8392-4b87-b859-31050026aee2",
+      "timestamp": "2025-11-11T13:43:10.326000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "c675981b-ed60-4413-abd2-3a5952479366",
+      "version": "2.3",
+      "date": "2025-11-11",
+      "chunking": {
+        "strategy": "simple",
+        "chunks_count": 5
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "none",
+        "model": "none",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 5,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "046d6e1e91dfcf327f265af9f043ac82a92b244862229a358634eb1a8f0080e5"
+    },
+    {
+      "_id": "b937b570-8696-4c6c-a53d-5251aac921ea",
+      "timestamp": "2025-11-11T14:03:35.280000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "c675981b-ed60-4413-abd2-3a5952479366",
+      "version": "2.3",
+      "date": "2025-11-11",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.1",
+        "batchId": "5728d740-37c0-4cef-afd2-319b7a8df136",
+        "chunkingRequestId": "63d90d3c-3db8-4adf-9454-4b234629c15f",
+        "totalChunks": 13,
+        "processingTime": 921056,
+        "processingTimestamp": "2025-11-11T13:58:36.654812+00:00",
+        "tokenUsage": {
+          "total_tokens": 2326,
+          "prompt_tokens": 1750,
+          "completion_tokens": 576,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "has_existing_chunks": true,
+        "chunks_count": 13
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 13,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "046d6e1e91dfcf327f265af9f043ac82a92b244862229a358634eb1a8f0080e5"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Music Times Prorata</title>\r\n    <link>https://feeds.musictimes.com/feeds/4e6e7.rss</link>\r\n    <description />\r\n    <item>\r\n      <title>Adin Ross Says Drake Revived Kendrick Lamar's Career Amid Heated Livestream Rant</title>\r\n      <link>https://www.musictimes.com/articles/110395/20251111/adin-ross-says-drake-revived-kendrick-lamars-career-amid-heated-livestream-rant.htm</link>\r\n      <description>Adin Ross claims Drake revived Kendrick Lamar's career during a heated livestream rant.</description>\r\n      <category>News</category>\r\n      <pubDate>Tue, 11 Nov 2025 12:57:00 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">www.musictimes.com/node/110395</guid>\r\n      <dc:creator>Madelaine Panganiban</dc:creator>\r\n      <dc:date>2025-11-11T12:57:00Z</dc:date>\r\n      <dc:coverage>Adin Ross,Drake,Kendrick Lamar</dc:coverage>\r\n      <content:encoded><![CDATA[<figure><img src=\"https://d.musictimes.com/en/full/95839/adin-ross-says-drake-revived-kendrick-lamars-career-amid-heated.jpg\" /><figcaption>Adin Ross and Dwight Howard attend Fanatics Fest NYC 2025 at Javits Center on June 20, 2025 in New York City. <span class=\"copyright\">Bryan Bedder/Getty Images for Fanatics/Getty Images</span></figcaption></figure>\n<p>During a heated livestream this weekend, Twitch star Adin Ross sparked controversy by declaring that <a rel=\"nofollow\" href=\"https://www.musictimes.com/articles/110344/20251105/drakes-streaming-empire-faces-scrutiny-after-rbx-files-suit-accusing-spotify-bot-fueled-inflation.htm\"><span>Drake </span></a>singlehandedly revived Kendrick Lamar's career.</p>\n<p>The streamer, known for his outspoken takes on hip-hop, criticized Lamar's music while praising Drake's support for other artists.</p>\n<p>\"Listen to this... 2021 plus, Drake's killing him,\" Ross said, referring to the years after Lamar's 2021 album, <a rel=\"nofollow\" href=\"https://www.billboard.com/music/rb-hip-hop/adin-ross-kendrick-lamar-music-horrible-1236109927/\" target=\"_blank\"><span>Billboard</span></a> said.</p>\n<p>\"If it's 2010 plus, Drake's killing him. Kendrick's catalog is horrible, and y'all know I'm not capping. It's f\u2014ing ass! Nobody listened to Mr. Morale. GNX\u2014Drake saved his miraculous career because he f\u2014ing... 'Wow, the beef.' Who gives a sh\u2013?\"</p>\n<p>Ross revisited the 2024 feud between the two rap icons, arguing that the rivalry was a turning point for Lamar. He went on to criticize Lamar for his perceived lack of collaboration with other artists.</p>\n<p>\"Kendrick is a\u2013. He does nothing for any other rappers. Doesn't do verses. He does nothing! He does nothing for rap,\" Ross continued. \"Drake, you need a verse: 'Here you go, guys!'\"</p>\n<blockquote class=\"twitter-tweet\" data-conversation=\"none\"><p lang=\"en\" dir=\"ltr\">Adin Ross GOES OFF on Kendrick Lamar and claims Drake saved his career.<br> <a href=\"https://t.co/f032NSQQcg\">pic.twitter.com/f032NSQQcg</a></p>&mdash; Akademiks TV (@AkademiksTV) <a href=\"https://twitter.com/AkademiksTV/status/1987855113101193699?ref_src=twsrc%5Etfw\">November 10, 2025</a></blockquote> \n\n<h2><strong>Streamer Shows Off $330K Maybach Gifted by Drake</strong></h2>\n<p>The streamer also hyped Drake's upcoming album <em>Iceman</em>, saying the rapper's dedication to supporting his peers sets him apart in the industry.</p>\n<p>\"That's why rap is dead. Because Drake on Iceman, I know for a fact, Drake's not giving no bum-ass, no backbone rappers verses. And that's it! It's called loyalty,\" Ross said.</p>\n<p>Ross has long been a vocal Drake fan and has frequently shown his support on livestreams.</p>\n<p>According to <a rel=\"nofollow\" href=\"https://www.complex.com/music/a/backwoodsaltar/adin-ross-says-kendrick-lamar-music-hypes-up-drake-iceman\" target=\"_blank\"><span>Complex</span></a>, earlier this month, he shared that Drake had given him a $330,000 Maybach as a gift, expressing a close bond with the rapper and referring to him as like a brother.</p>\n<p>\"I f\u2014 with him, bro. There's no loyalty left in the world for people like him in the entertainment industry, and I love him. And I'm loyal to him,\" Ross stated.</p>\n<p>The livestream rant comes amid ongoing legal challenges, as Ross and Drake are facing a class-action lawsuit over their promotion of the online casino Stake, accused of glamorizing gambling to millions of young fans.</p>\n<p>Fans quickly reacted to Ross's comments online, with some praising his loyalty to Drake while others criticized him for dismissing Lamar's contributions to rap.</p><p> <strong>Related Articles</strong></p> <ul><li><a href=\"https://www.musictimes.com/articles/110298/20251031/drakes-savage-post-targets-shohei-ohtani-after-blue-jays-crush-dodgers-game-5.htm\">Drake's Savage Post Targets Shohei Ohtani After Blue Jays Crush Dodgers in Game 5</a></li><li><a href=\"https://www.musictimes.com/articles/110285/20251030/drake-appeals-dismissal-defamation-lawsuit-linked-kendrick-lamar-diss-track.htm\">Drake Appeals Dismissal of Defamation Lawsuit Linked to Kendrick Lamar Diss Track</a></li></ul>]]></content:encoded>\r\n      <media:content medium=\"image\" expression=\"full\" height=\"681\" type=\"image/jpeg\" width=\"1024\" url=\"https://d.musictimes.com/en/full/95839/adin-ross-says-drake-revived-kendrick-lamars-career-amid-heated.jpg\">\r\n        <media:credit role=\"author\" scheme=\"urn:ebu\">Bryan Bedder/Getty Images for Fanatics/Getty Images</media:credit>\r\n        <media:description type=\"plain\">Adin Ross and Dwight Howard attend Fanatics Fest NYC 2025 at Javits Center on June 20, 2025 in New York City.</media:description>\r\n        <media:title>Adin Ross Says Drake Revived Kendrick Lamar\u2019s Career Amid Heated</media:title>\r\n      </media:content>\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "![](https://d.musictimes.com/en/full/95839/adin-ross-says-drake-revived-kendrick-lamars-career-amid-heated.jpg)Adin Ross and Dwight Howard attend Fanatics Fest NYC 2025 at Javits Center on June 20, 2025 in New York City. Bryan Bedder/Getty Images for Fanatics/Getty Images\n\nDuring a heated livestream this weekend, Twitch star Adin Ross sparked controversy by declaring that [Drake](https://www.musictimes.com/articles/110344/20251105/drakes-streaming-empire-faces-scrutiny-after-rbx-files-suit-accusing-spotify-bot-fueled-inflation.htm) singlehandedly revived Kendrick Lamar's career.\n\nThe streamer, known for his outspoken takes on hip-hop, criticized Lamar's music while praising Drake's support for other artists.\n\n\"Listen to this... 2021 plus, Drake's killing him,\" Ross said, referring to the years after Lamar's 2021 album, [Billboard](https://www.billboard.com/music/rb-hip-hop/adin-ross-kendrick-lamar-music-horrible-1236109927/) said.\n\n\"If it's 2010 plus, Drake's killing him. Kendrick's catalog is horrible, and y'all know I'm not capping. It's f\u2014ing ass! Nobody listened to Mr. Morale. GNX\u2014Drake saved his miraculous career because he f\u2014ing... 'Wow, the beef.' Who gives a sh\u2013?\"\n\nRoss revisited the 2024 feud between the two rap icons, arguing that the rivalry was a turning point for Lamar. He went on to criticize Lamar for his perceived lack of collaboration with other artists.\n\n\"Kendrick is a\u2013. He does nothing for any other rappers. Doesn't do verses. He does nothing! He does nothing for rap,\" Ross continued. \"Drake, you need a verse: 'Here you go, guys!'\"\n\n> Adin Ross GOES OFF on Kendrick Lamar and claims Drake saved his career.  \n>  [pic.twitter.com/f032NSQQcg](https://t.co/f032NSQQcg)\n>\n> \u2014 Akademiks TV (@AkademiksTV) [November 10, 2025](https://twitter.com/AkademiksTV/status/1987855113101193699?ref_src=twsrc%5Etfw)\n\n## **Streamer Shows Off $330K Maybach Gifted by Drake**\n\nThe streamer also hyped Drake's upcoming album *Iceman*, saying the rapper's dedication to supporting his peers sets him apart in the industry.\n\n\"That's why rap is dead. Because Drake on Iceman, I know for a fact, Drake's not giving no bum-ass, no backbone rappers verses. And that's it! It's called loyalty,\" Ross said.\n\nRoss has long been a vocal Drake fan and has frequently shown his support on livestreams.\n\nAccording to [Complex](https://www.complex.com/music/a/backwoodsaltar/adin-ross-says-kendrick-lamar-music-hypes-up-drake-iceman), earlier this month, he shared that Drake had given him a $330,000 Maybach as a gift, expressing a close bond with the rapper and referring to him as like a brother.\n\n\"I f\u2014 with him, bro. There's no loyalty left in the world for people like him in the entertainment industry, and I love him. And I'm loyal to him,\" Ross stated.\n\nThe livestream rant comes amid ongoing legal challenges, as Ross and Drake are facing a class-action lawsuit over their promotion of the online casino Stake, accused of glamorizing gambling to millions of young fans.\n\nFans quickly reacted to Ross's comments online, with some praising his loyalty to Drake while others criticized him for dismissing Lamar's contributions to rap.\n\n**Related Articles**\n\n- [Drake's Savage Post Targets Shohei Ohtani After Blue Jays Crush Dodgers in Game 5](https://www.musictimes.com/articles/110298/20251031/drakes-savage-post-targets-shohei-ohtani-after-blue-jays-crush-dodgers-game-5.htm)\n- [Drake Appeals Dismissal of Defamation Lawsuit Linked to Kendrick Lamar Diss Track](https://www.musictimes.com/articles/110285/20251030/drake-appeals-dismissal-defamation-lawsuit-linked-kendrick-lamar-diss-track.htm)"
+}

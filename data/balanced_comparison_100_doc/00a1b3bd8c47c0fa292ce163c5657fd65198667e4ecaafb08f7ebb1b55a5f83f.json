@@ -1,0 +1,258 @@
+{
+  "document_id": "00a1b3bd8c47c0fa292ce163c5657fd65198667e4ecaafb08f7ebb1b55a5f83f",
+  "document_metadata": {
+    "id": "00a1b3bd8c47c0fa292ce163c5657fd65198667e4ecaafb08f7ebb1b55a5f83f",
+    "date": 20250901,
+    "publisher_id": "c6dfc30b-b5e1-42cc-bab5-798218494935",
+    "image": "https://media.tegna-media.com/assets/WXIA/images/e5ad3bcb-0b14-46dc-a98c-91749cd2c5e2/20250901T102944/e5ad3bcb-0b14-46dc-a98c-91749cd2c5e2.jpg",
+    "date_year": 2025,
+    "date_month": 9,
+    "crawl_date": "2025-11-10T16:57:44.745667272Z",
+    "date_day": 1,
+    "title": "Family in disbelief after father's death in Alabama ATV accident: 'Still waiting for him to come through the door'",
+    "url": "https://www.12newsnow.com/article/news/nation-world/family-in-disbelief-after-fathers-death-in-alabama-atv-accident-still-waiting-for-him-to-come-through-the-door/85-0f5224db-4beb-494b-ada8-13b20fcb4bc0",
+    "url2": "https://www.12newsnow.com/article/news/nation-world/family-in-disbelief-after-fathers-death-in-alabama-atv-accident-still-waiting-for-him-to-come-through-the-door/85-0f5224db-4beb-494b-ada8-13b20fcb4bc0",
+    "domain": "www.12newsnow.com",
+    "lang": "unknown",
+    "published_date": "2025-09-01T10:30:40Z",
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "c6dfc30b-b5e1-42cc-bab5-798218494935",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2025-11-10T16:57:44.745000",
+    "published_date_parsed": "2025-09-01T10:30:40",
+    "rawType": "xml",
+    "publisherId": "c6dfc30b-b5e1-42cc-bab5-798218494935",
+    "documentId": "00a1b3bd8c47c0fa292ce163c5657fd65198667e4ecaafb08f7ebb1b55a5f83f",
+    "rawcontent_created": "2025-11-10T17:04:23.480000",
+    "source": "KBMT-TV",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=www.12newsnow.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=www.12newsnow.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=www.12newsnow.com",
+    "first_words": "Loved ones shared their disbelief Sunday after the death of a north Georgia father in an ATV accident in Alabama. \"I'm still waiting on him to come through the door,\" his mother said, \"but I know he's not coming.\" Marcus Ragland died in the crash at the Indian Mountain ATV Park in Cherokee County, Alabama. The mother of two of his children, Ashley Hawkins, also lost her life in the tragic accident. Audrey Dunn, who shared a 5-year-old and 1-year-old with Ragland, shared with 11Alive's Gilat Melamed the heartbreakingly difficult situation trying to explain what has fully",
+    "has_chunks": true
+  },
+  "publisher_metadata": {
+    "id": "c6dfc30b-b5e1-42cc-bab5-798218494935",
+    "group_id": "ac4bb5e9-4c41-4036-ab8e-6f8773d85edb",
+    "name": "KBMT-TV",
+    "domain": "12newsnow.com",
+    "location": "United States",
+    "country": "United States",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "Family in disbelief after father's death in Alabama ATV accident: 'Still waiting for him to come through the door'",
+    "document_authors_txt": [],
+    "hash": "1f9ebc330e90137b49b603f87b314deae201c79fd7f93611624c24c4cc36a737"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2025-11-10",
+    "chunking": {
+      "service": "PrtDocumentInference",
+      "chunkingStrategy": "llm_semantic_batch",
+      "llmPromptVersion": "v1.0.1",
+      "batchId": "058ba8c0-3e00-47a3-9447-fe03c5735161",
+      "chunkingRequestId": "6627e1d2-4c83-4881-9d79-a7cfa622f5c8",
+      "totalChunks": 5,
+      "processingTime": 15651092,
+      "processingTimestamp": "2025-11-10T21:31:16.308975+00:00",
+      "tokenUsage": {
+        "total_tokens": 2317,
+        "prompt_tokens": 1661,
+        "completion_tokens": 656,
+        "model_version": "gemini-2.5-flash-lite"
+      },
+      "has_existing_chunks": true,
+      "chunks_count": 5
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "00a1b3bd8c47c0fa292ce163c5657fd65198667e4ecaafb08f7ebb1b55a5f83f-4",
+        "idx": 4,
+        "hash": "635637da267069ac94f05f46cb2d9fd24cdb2b26bafe10377adc797b93c9112e",
+        "sim_hash": "18177420864580850126"
+      },
+      "content_original": "The exact cause of the crash remains under investigation. The sheriff in Cherokee County, Jeff Shaver, said that witnesses said it happened while the RZR was traveling at a \u201chigh rate of speed\u201c on what used to be an old railroad track that was fairly flat with a slight curve. Nobody inside the ATV was harnessed when the crash occurred, according to the sheriff, who said it is not safe to have nine people inside a RZR. According to manufacturer listings, RZRs are sold in two and four seat models.\n\n\u201cThis is a tragic accident and highlights the importance of operating RZRs and other recreational vehicles in a safe and responsible manner,\u201c Sheriff Shaver added in a statement earlier Sunday.",
+      "content": "The exact cause of the crash remains under investigation. The sheriff in Cherokee County, Jeff Shaver, said that witnesses said it happened while the RZR was traveling at a \u201chigh rate of speed\u201c on what used to be an old railroad track that was fairly flat with a slight curve. Nobody inside the ATV was harnessed when the crash occurred, according to the sheriff, who said it is not safe to have nine people inside a RZR. According to manufacturer listings, RZRs are sold in two and four seat models.\n\n\u201cThis is a tragic accident and highlights the importance of operating RZRs and other recreational vehicles in a safe and responsible manner,\u201c Sheriff Shaver added in a statement earlier Sunday."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "00a1b3bd8c47c0fa292ce163c5657fd65198667e4ecaafb08f7ebb1b55a5f83f-2",
+        "idx": 2,
+        "hash": "f35155b2d74f3814918496ae16b9d0585ba014f5a71db57aedce548cdf9e2d0e",
+        "sim_hash": "8379838636290704106"
+      },
+      "content_original": "Ragland's mother, Felicia Towers, described her 34-year-old son as adventurous and someone who lived life to the fullest. He went to the ATV park every weekend, she said.\n\n\u201cThis time he wanted to take his children with him, you know, to share the fun,\u201c Towers said. \u201cThey were ready to go, so it just ended up being a tragedy. I just hate it.\u201c\n\nSeven children were also injured in the accident. Four of them were transported by ambulance to a hospital in Rome and were released as of Sunday night, while three were airlifted to a medical center in Birmingham and, as of the most recent update, were still hospitalized. Hawkins was also airlifted to Birmingham.",
+      "content": "Ragland's mother, Felicia Towers, described her 34-year-old son as adventurous and someone who lived life to the fullest. He went to the ATV park every weekend, she said.\n\n\u201cThis time he wanted to take his children with him, you know, to share the fun,\u201c Towers said. \u201cThey were ready to go, so it just ended up being a tragedy. I just hate it.\u201c\n\nSeven children were also injured in the accident. Four of them were transported by ambulance to a hospital in Rome and were released as of Sunday night, while three were airlifted to a medical center in Birmingham and, as of the most recent update, were still hospitalized. Hawkins was also airlifted to Birmingham."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "00a1b3bd8c47c0fa292ce163c5657fd65198667e4ecaafb08f7ebb1b55a5f83f-1",
+        "idx": 1,
+        "hash": "f9b36991e20dc93466c37fa0dedaab28744004a11560d8a5fe525ca2afef6812",
+        "sim_hash": "4489304671048015603"
+      },
+      "content_original": "Audrey Dunn, who shared a 5-year-old and 1-year-old with Ragland, shared with 11Alive's Gilat Melamed the heartbreakingly difficult situation trying to explain what has fully happened to her oldest child.\n\n\u201cMy oldest son, he's five, he remembers everything that happened,\u201c Dunn said. \u201cHe told me when we got to the hospital, and I got to go in, he said, 'Mom, my dad died, but it's OK because he'll be back to get me tomorrow... So he doesn't understand that he will never see him again.\u201c",
+      "content": "Audrey Dunn, who shared a 5-year-old and 1-year-old with Ragland, shared with 11Alive's Gilat Melamed the heartbreakingly difficult situation trying to explain what has fully happened to her oldest child.\n\n\u201cMy oldest son, he's five, he remembers everything that happened,\u201c Dunn said. \u201cHe told me when we got to the hospital, and I got to go in, he said, 'Mom, my dad died, but it's OK because he'll be back to get me tomorrow... So he doesn't understand that he will never see him again.\u201c"
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "00a1b3bd8c47c0fa292ce163c5657fd65198667e4ecaafb08f7ebb1b55a5f83f-3",
+        "idx": 3,
+        "hash": "bda9b576bc98b5fccbf28402bb972204461bae0794749f6796e93e449d9778b8",
+        "sim_hash": "13712997846917260531"
+      },
+      "content_original": "A GoFundMe has been set up to support Ragland's children. It said he's a father of 10 kids in all, with two more on the way. A little more than $1,300 of a $2,400 goal has been raised as of Monday morning.\n\nThe accident happened in a side-by-side RZR when they hit another RZR, then overturned and struck a tree. Officials described a difficult rescue response in the remote area.",
+      "content": "A GoFundMe has been set up to support Ragland's children. It said he's a father of 10 kids in all, with two more on the way. A little more than $1,300 of a $2,400 goal has been raised as of Monday morning.\n\nThe accident happened in a side-by-side RZR when they hit another RZR, then overturned and struck a tree. Officials described a difficult rescue response in the remote area."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "00a1b3bd8c47c0fa292ce163c5657fd65198667e4ecaafb08f7ebb1b55a5f83f-0",
+        "idx": 0,
+        "hash": "14b5918a7d98d5bd586a80abebb01702e8951cf62982d950b7e00bf394141d9c",
+        "sim_hash": "2812845298564964670"
+      },
+      "content_original": "Loved ones shared their disbelief Sunday after the death of a north Georgia father in an ATV accident in Alabama.\n\n\u201cI'm still waiting on him to come through the door,\u201c his mother said, \u201cbut I know he's not coming.\u201c\n\nMarcus Ragland died in the crash at the Indian Mountain ATV Park in Cherokee County, Alabama. The mother of two of his children, Ashley Hawkins, also lost her life in the tragic accident.",
+      "content": "Loved ones shared their disbelief Sunday after the death of a north Georgia father in an ATV accident in Alabama.\n\n\u201cI'm still waiting on him to come through the door,\u201c his mother said, \u201cbut I know he's not coming.\u201c\n\nMarcus Ragland died in the crash at the Indian Mountain ATV Park in Cherokee County, Alabama. The mother of two of his children, Ashley Hawkins, also lost her life in the tragic accident."
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "15218703-8498-43bc-a559-104d83f4cc35",
+      "timestamp": "2025-11-10T17:02:37.902000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "c6dfc30b-b5e1-42cc-bab5-798218494935",
+      "version": "2.3",
+      "date": "2025-11-10",
+      "chunking": {
+        "strategy": "simple",
+        "chunks_count": 4
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "none",
+        "model": "none",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 4,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "00a1b3bd8c47c0fa292ce163c5657fd65198667e4ecaafb08f7ebb1b55a5f83f"
+    },
+    {
+      "_id": "4f5e15b4-51db-4fac-b3c3-8e3001e49ebc",
+      "timestamp": "2025-11-10T17:04:54.138000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "c6dfc30b-b5e1-42cc-bab5-798218494935",
+      "version": "2.3",
+      "date": "2025-11-10",
+      "chunking": {
+        "strategy": "simple",
+        "chunks_count": 4
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "none",
+        "model": "none",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 4,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "00a1b3bd8c47c0fa292ce163c5657fd65198667e4ecaafb08f7ebb1b55a5f83f"
+    },
+    {
+      "_id": "5784d801-b005-4af5-ad1b-28274b3d8c77",
+      "timestamp": "2025-11-10T21:35:56.611000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "c6dfc30b-b5e1-42cc-bab5-798218494935",
+      "version": "2.3",
+      "date": "2025-11-10",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.1",
+        "batchId": "058ba8c0-3e00-47a3-9447-fe03c5735161",
+        "chunkingRequestId": "6627e1d2-4c83-4881-9d79-a7cfa622f5c8",
+        "totalChunks": 5,
+        "processingTime": 15651092,
+        "processingTimestamp": "2025-11-10T21:31:16.308975+00:00",
+        "tokenUsage": {
+          "total_tokens": 2317,
+          "prompt_tokens": 1661,
+          "completion_tokens": 656,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "has_existing_chunks": true,
+        "chunks_count": 5
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 5,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "00a1b3bd8c47c0fa292ce163c5657fd65198667e4ecaafb08f7ebb1b55a5f83f"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Standardized Rss</title>\r\n    <link>https://www.12newsnow.com/</link>\r\n    <description>KJAC Standardized Rss Feed</description>\r\n    <item>\r\n      <title>Family in disbelief after father's death in Alabama ATV accident: 'Still waiting for him to come through the door'</title>\r\n      <link>https://www.12newsnow.com/article/news/nation-world/family-in-disbelief-after-fathers-death-in-alabama-atv-accident-still-waiting-for-him-to-come-through-the-door/85-0f5224db-4beb-494b-ada8-13b20fcb4bc0</link>\r\n      <description>The mother of two of Marcus Ragland's children, who were involved in the accident Saturday, said it's difficult to explain what has fully happened to her 5-year-old.</description>\r\n      <guid isPermaLink=\"false\">0f5224db-4beb-494b-ada8-13b20fcb4bc0</guid>\r\n      <content:encoded><![CDATA[<p>Loved ones shared their disbelief Sunday <a href=\"/article/news/local/cherokee-county-alabama-atv-accident-two-adults-killed-seven-children-injured-rome-georgia-family/85-0f80a9ee-d702-4d41-855c-30c33bc77ede\" target=\"_blank\" rel=\"noopener noreferrer\">after the death of a north Georgia father</a> in an ATV accident in Alabama.</p><p>\"I'm still waiting on him to come through the door,\" his mother said, \"but I know he's not coming.\"</p><p>Marcus Ragland died in the crash at the Indian Mountain ATV Park in Cherokee County, Alabama. The mother of two of his children, Ashley Hawkins, also lost her life in the tragic accident.</p><p>Audrey Dunn, who shared a 5-year-old and 1-year-old with Ragland, shared with 11Alive's Gilat Melamed the heartbreakingly difficult situation trying to explain what has fully happened to her oldest child.</p><p>\"My oldest son, he's five, he remembers everything that happened,\" Dunn said. \"He told me when we got to the hospital, and I got to go in, he said, 'Mom, my dad died, but it's OK because he'll be back to get me tomorrow... So he doesn't understand that he will never see him again.\"</p><p>Ragland's mother, Felicia Towers, described her 34-year-old son as adventurous and someone who lived life to the fullest. He went to the ATV park every weekend, she said.</p><p>\"This time he wanted to take his children with him, you know, to share the fun,\" Towers said. \"They were ready to go, so it just ended up being a tragedy. I just hate it.\"</p><p>Seven children were also injured in the accident. Four of them were transported by ambulance to a hospital in Rome and were released as of Sunday night, while three were airlifted to a medical center in Birmingham and, as of the most recent update, were still hospitalized. Hawkins was also airlifted to Birmingham.</p><p>A <a href=\"https://www.gofundme.com/f/help-marcus-raglands-kids-in-their-time-of-need\" target=\"_blank\" rel=\"noopener noreferrer\">GoFundMe has been set up</a> to support Ragland's children. It said he's a father of 10 kids in all, with two more on the way. A little more than $1,300 of a $2,400 goal has been raised as of Monday morning.</p><p>The accident happened in a <a href=\"https://www.polaris.com/en-us/off-road/rzr/models/\" target=\"_blank\" rel=\"noopener noreferrer\">side-by-side RZR</a> when they hit another RZR, then overturned and struck a tree. Officials described a difficult rescue response in the remote area.</p><p>The exact cause of the crash remains under investigation. The sheriff in Cherokee County, Jeff Shaver, said that witnesses said it happened while the RZR was traveling at a \"high rate of speed\" on what used to be an old railroad track that was fairly flat with a slight curve. Nobody inside the ATV was harnessed when the crash occurred, according to the sheriff, who said it is not safe to have nine people inside a RZR. According to manufacturer listings, RZRs are sold in two and four seat models.</p><p>\u201cThis is a tragic accident and highlights the importance of operating RZRs and other recreational vehicles in a safe and responsible manner,\" Sheriff Shaver added in a statement earlier Sunday.</p>]]></content:encoded>\r\n      <media:thumbnail url=\"https://media.tegna-media.com/assets/WXIA/images/e5ad3bcb-0b14-46dc-a98c-91749cd2c5e2/20250901T102944/e5ad3bcb-0b14-46dc-a98c-91749cd2c5e2.jpg\" />\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "Loved ones shared their disbelief Sunday [after the death of a north Georgia father](/article/news/local/cherokee-county-alabama-atv-accident-two-adults-killed-seven-children-injured-rome-georgia-family/85-0f80a9ee-d702-4d41-855c-30c33bc77ede) in an ATV accident in Alabama.\n\n\"I'm still waiting on him to come through the door,\" his mother said, \"but I know he's not coming.\"\n\nMarcus Ragland died in the crash at the Indian Mountain ATV Park in Cherokee County, Alabama. The mother of two of his children, Ashley Hawkins, also lost her life in the tragic accident.\n\nAudrey Dunn, who shared a 5-year-old and 1-year-old with Ragland, shared with 11Alive's Gilat Melamed the heartbreakingly difficult situation trying to explain what has fully happened to her oldest child.\n\n\"My oldest son, he's five, he remembers everything that happened,\" Dunn said. \"He told me when we got to the hospital, and I got to go in, he said, 'Mom, my dad died, but it's OK because he'll be back to get me tomorrow... So he doesn't understand that he will never see him again.\"\n\nRagland's mother, Felicia Towers, described her 34-year-old son as adventurous and someone who lived life to the fullest. He went to the ATV park every weekend, she said.\n\n\"This time he wanted to take his children with him, you know, to share the fun,\" Towers said. \"They were ready to go, so it just ended up being a tragedy. I just hate it.\"\n\nSeven children were also injured in the accident. Four of them were transported by ambulance to a hospital in Rome and were released as of Sunday night, while three were airlifted to a medical center in Birmingham and, as of the most recent update, were still hospitalized. Hawkins was also airlifted to Birmingham.\n\nA [GoFundMe has been set up](https://www.gofundme.com/f/help-marcus-raglands-kids-in-their-time-of-need) to support Ragland's children. It said he's a father of 10 kids in all, with two more on the way. A little more than $1,300 of a $2,400 goal has been raised as of Monday morning.\n\nThe accident happened in a [side-by-side RZR](https://www.polaris.com/en-us/off-road/rzr/models/) when they hit another RZR, then overturned and struck a tree. Officials described a difficult rescue response in the remote area.\n\nThe exact cause of the crash remains under investigation. The sheriff in Cherokee County, Jeff Shaver, said that witnesses said it happened while the RZR was traveling at a \"high rate of speed\" on what used to be an old railroad track that was fairly flat with a slight curve. Nobody inside the ATV was harnessed when the crash occurred, according to the sheriff, who said it is not safe to have nine people inside a RZR. According to manufacturer listings, RZRs are sold in two and four seat models.\n\n\u201cThis is a tragic accident and highlights the importance of operating RZRs and other recreational vehicles in a safe and responsible manner,\" Sheriff Shaver added in a statement earlier Sunday."
+}

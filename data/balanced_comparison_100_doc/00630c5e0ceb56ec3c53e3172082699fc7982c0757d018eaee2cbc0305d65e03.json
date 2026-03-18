@@ -1,0 +1,128 @@
+{
+  "document_id": "00630c5e0ceb56ec3c53e3172082699fc7982c0757d018eaee2cbc0305d65e03",
+  "document_metadata": {
+    "id": "00630c5e0ceb56ec3c53e3172082699fc7982c0757d018eaee2cbc0305d65e03",
+    "date": 20251029,
+    "publisher_id": "ac2f7a15-5643-4df3-b9e5-dc078d091b23",
+    "date_year": 2025,
+    "date_month": 10,
+    "crawl_date": "2025-10-31T23:56:46.100193659Z",
+    "date_day": 29,
+    "title": "Box: Summit 4, Eureka 2",
+    "url": "https://www.stltoday.com/sports/high-school/boys-soccer/article_2a0817a1-6423-5830-994c-6d87e38238d7.html",
+    "url2": "https://www.stltoday.com/sports/high-school/boys-soccer/article_2a0817a1-6423-5830-994c-6d87e38238d7.html",
+    "domain": "stltoday.com",
+    "lang": "unknown",
+    "published_date": "2025-10-29T00:00:00-05:00",
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "ac2f7a15-5643-4df3-b9e5-dc078d091b23",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2025-10-31T23:56:46.100000",
+    "published_date_parsed": "2025-10-29T05:00:00",
+    "rawType": "json",
+    "publisherId": "ac2f7a15-5643-4df3-b9e5-dc078d091b23",
+    "documentId": "00630c5e0ceb56ec3c53e3172082699fc7982c0757d018eaee2cbc0305d65e03",
+    "rawcontent_created": "2025-10-31T23:56:48.376000",
+    "source": "St. Louis Post-Dispatch",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=stltoday.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=stltoday.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=stltoday.com",
+    "first_words": ""
+  },
+  "publisher_metadata": {
+    "id": "ac2f7a15-5643-4df3-b9e5-dc078d091b23",
+    "group_id": "d9d5151e-0891-4887-836c-050cdf8f19c3",
+    "name": "St. Louis Post-Dispatch",
+    "domain": "stltoday.com",
+    "location": "United States",
+    "country": "United States",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": "lee_enterprises_index_v2",
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "Box: Summit 4, Eureka 2",
+    "document_authors_txt": [],
+    "hash": "f342d0f53969a2734faf76ce99ac061b6a944e08c7028698dedb693c4d9aa992"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2025-10-31",
+    "chunking": {
+      "chunks_count": 2
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "00630c5e0ceb56ec3c53e3172082699fc7982c0757d018eaee2cbc0305d65e03-1",
+        "idx": 1,
+        "hash": "9812fdb4c074faaf25ebc9c346ff74320dacc8dbdd1a61ed77f20aa111ae88a5"
+      },
+      "content_original": ", [Full Box Score](http://stats.stlhighschoolsports.com/sports/soccerboys/stats/boxscore.php?s=948&e=784427)]",
+      "content": ", [Full Box Score](http://stats.stlhighschoolsports.com/sports/soccerboys/stats/boxscore.php?s=948&e=784427)]"
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "00630c5e0ceb56ec3c53e3172082699fc7982c0757d018eaee2cbc0305d65e03-0",
+        "idx": 0,
+        "hash": "b5681e52e93efa061a329537c30236b17f038abab5d41c850d00e1666b51e0c0"
+      },
+      "content_original": "[\n|  | 1 | 2 | Final |\n| --- | --- | --- | --- |\n| [Eureka](http://stats.stlhighschoolsports.com/sports/soccerboys/stats/teamschedule.php?s=948&t=73) | 1 | 1 | [2](http://stats.stlhighschoolsports.com/sports/soccerboys/stats/boxscore.php?s=948&e=784427) |\n| [Summit](http://stats.stlhighschoolsports.com/sports/soccerboys/stats/teamschedule.php?s=948&t=262) | 2 | 2 | [4](http://stats.stlhighschoolsports.com/sports/soccerboys/stats/boxscore.php?s=948&e=784427) |\n|  | | | |\n| **Summit** | | **G** | **A** |\n| [Chase Parmer](https://stats.stlhighschoolsports.com/sports/soccerboys/stats/teamstatplayer.php?t=262&s=948&p=1030807) | | 1 | 1 |\n| [AJ Tuohy](https://stats.stlhighschoolsports.com/sports/soccerboys/stats/teamstatplayer.php?t=262&s=948&p=1041810) | | 1 | 1 |\n| [Nick Nusser](https://stats.stlhighschoolsports.com/sports/soccerboys/stats/teamstatplayer.php?t=262&s=948&p=1029789) | | 1 | 1 |\n| [Cade Polsak](https://stats.stlhighschoolsports.com/sports/soccerboys/stats/teamstatplayer.php?t=262&s=948&p=1041780) | | 1 | 0 |",
+      "content": "[\n|  | 1 | 2 | Final |\n| --- | --- | --- | --- |\n| [Eureka](http://stats.stlhighschoolsports.com/sports/soccerboys/stats/teamschedule.php?s=948&t=73) | 1 | 1 | [2](http://stats.stlhighschoolsports.com/sports/soccerboys/stats/boxscore.php?s=948&e=784427) |\n| [Summit](http://stats.stlhighschoolsports.com/sports/soccerboys/stats/teamschedule.php?s=948&t=262) | 2 | 2 | [4](http://stats.stlhighschoolsports.com/sports/soccerboys/stats/boxscore.php?s=948&e=784427) |\n|  | | | |\n| **Summit** | | **G** | **A** |\n| [Chase Parmer](https://stats.stlhighschoolsports.com/sports/soccerboys/stats/teamstatplayer.php?t=262&s=948&p=1030807) | | 1 | 1 |\n| [AJ Tuohy](https://stats.stlhighschoolsports.com/sports/soccerboys/stats/teamstatplayer.php?t=262&s=948&p=1041810) | | 1 | 1 |\n| [Nick Nusser](https://stats.stlhighschoolsports.com/sports/soccerboys/stats/teamstatplayer.php?t=262&s=948&p=1029789) | | 1 | 1 |\n| [Cade Polsak](https://stats.stlhighschoolsports.com/sports/soccerboys/stats/teamstatplayer.php?t=262&s=948&p=1041780) | | 1 | 0 |"
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "c9f395db-e67f-4f92-a5a1-88d578502c81",
+      "timestamp": "2025-10-31T23:56:51.977000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "ac2f7a15-5643-4df3-b9e5-dc078d091b23",
+      "version": "2.3",
+      "date": "2025-10-31",
+      "chunking": {
+        "chunks_count": 2
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 2,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "lee_enterprises_index_v2"
+        ]
+      },
+      "document_id": "00630c5e0ceb56ec3c53e3172082699fc7982c0757d018eaee2cbc0305d65e03"
+    }
+  ],
+  "raw_content": "{\n  \"uuid\" : \"2a0817a1-6423-5830-994c-6d87e38238d7\",\n  \"title\" : \"Box: Summit 4, Eureka 2\",\n  \"type\" : \"article\",\n  \"presentation\" : null,\n  \"url\" : \"https://www.stltoday.com/sports/high-school/boys-soccer/article_2a0817a1-6423-5830-994c-6d87e38238d7.html\",\n  \"lastupdated\" : {\n    \"utc\" : \"1761753652000\",\n    \"iso8601\" : \"2025-10-29T11:00:52-05:00\",\n    \"rfc2822\" : \"Wed, 29 Oct 2025 11:00:52 -0500\"\n  },\n  \"starttime\" : {\n    \"utc\" : \"1761714000000\",\n    \"iso8601\" : \"2025-10-29T00:00:00-05:00\",\n    \"rfc2822\" : \"Wed, 29 Oct 2025 00:00:00 -0500\"\n  },\n  \"archivetime\" : {\n    \"utc\" : null,\n    \"iso8601\" : null,\n    \"rfc2822\" : null\n  },\n  \"keywords\" : [ \"#storybrief\", \"#box\", \"#boys soccer\", \"#summit\", \"#eureka\", \"10-28-2025\", \"#784427\" ],\n  \"sections\" : [ \"sports/high-school/boys-soccer\", \"schools/high-schools/summit\", \"schools/high-schools/eureka\" ],\n  \"flags\" : [ ],\n  \"thumbnail\" : {\n    \"mode\" : \"via .view\",\n    \"uuid\" : \"2a0817a1-6423-5830-994c-6d87e38238d7\",\n    \"file_size\" : null,\n    \"height\" : null,\n    \"mime_type\" : null,\n    \"url\" : null,\n    \"resource_url\" : null,\n    \"width\" : null\n  },\n  \"preview\" : {\n    \"mode\" : \"via .view\",\n    \"uuid\" : \"2a0817a1-6423-5830-994c-6d87e38238d7\",\n    \"file_size\" : null,\n    \"height\" : null,\n    \"mime_type\" : null,\n    \"url\" : null,\n    \"resource_url\" : null,\n    \"width\" : null\n  },\n  \"section_label\" : \"Boys & Soccer\",\n  \"authors\" : [ ],\n  \"prologue\" : null,\n  \"subheadline\" : null,\n  \"tagline\" : null,\n  \"byline\" : \"BoxBot | STLhighschoolSPORTS.com\",\n  \"hammer\" : null,\n  \"kicker\" : null,\n  \"content\" : [ \"<table class=\\\"pdrank\\\"><thead><tr><th style=\\\"width: 70%;\\\"></th><th style=\\\"width: 10%; text-align: right;\\\">1</th><th style=\\\"width: 10%; text-align: right;\\\">2</th><th style=\\\"width: 10%; text-align: right;\\\">Final</th></tr></thead><tbody><tr><td style=\\\"width: 70%;\\\"><a href=\\\"http://stats.stlhighschoolsports.com/sports/soccerboys/stats/teamschedule.php?s=948&amp;t=73\\\">Eureka</a></td><td style=\\\"width: 10%; text-align: right;\\\">1</td><td style=\\\"width: 10%; text-align: right;\\\">1</td><td style=\\\"width: 10%; text-align: right;\\\"><a href=\\\"http://stats.stlhighschoolsports.com/sports/soccerboys/stats/boxscore.php?s=948&amp;e=784427\\\">2</a></td></tr><tr><td style=\\\"width: 70%;\\\"><a href=\\\"http://stats.stlhighschoolsports.com/sports/soccerboys/stats/teamschedule.php?s=948&amp;t=262\\\">Summit</a></td><td style=\\\"width: 10%; text-align: right;\\\">2</td><td style=\\\"width: 10%; text-align: right;\\\">2</td><td style=\\\"width: 10%; text-align: right;\\\"><a href=\\\"http://stats.stlhighschoolsports.com/sports/soccerboys/stats/boxscore.php?s=948&amp;e=784427\\\">4</a></td></tr><tr><td colspan=\\\"4\\\"><hr /></td></tr><tr><td colspan=\\\"2\\\"><strong>Summit</strong></td><td style=\\\"width: 10%; text-align: right;\\\"><strong>G</strong></td><td style=\\\"width: 10%; text-align: right;\\\"><strong>A</strong></td></tr><tr><td colspan=\\\"2\\\"><a href=\\\"https://stats.stlhighschoolsports.com/sports/soccerboys/stats/teamstatplayer.php?t=262&amp;s=948&amp;p=1030807\\\">Chase Parmer</a></td><td style=\\\"width: 10%; text-align: right;\\\">1</td><td style=\\\"width: 10%; text-align: right;\\\">1</td></tr><tr><td colspan=\\\"2\\\"><a href=\\\"https://stats.stlhighschoolsports.com/sports/soccerboys/stats/teamstatplayer.php?t=262&amp;s=948&amp;p=1041810\\\">AJ Tuohy</a></td><td style=\\\"width: 10%; text-align: right;\\\">1</td><td style=\\\"width: 10%; text-align: right;\\\">1</td></tr><tr><td colspan=\\\"2\\\"><a href=\\\"https://stats.stlhighschoolsports.com/sports/soccerboys/stats/teamstatplayer.php?t=262&amp;s=948&amp;p=1029789\\\">Nick Nusser</a></td><td style=\\\"width: 10%; text-align: right;\\\">1</td><td style=\\\"width: 10%; text-align: right;\\\">1</td></tr><tr><td colspan=\\\"2\\\"><a href=\\\"https://stats.stlhighschoolsports.com/sports/soccerboys/stats/teamstatplayer.php?t=262&amp;s=948&amp;p=1041780\\\">Cade Polsak</a></td><td style=\\\"width: 10%; text-align: right;\\\">1</td><td style=\\\"width: 10%; text-align: right;\\\">0</td></tr></tbody></table>\", \"<a href=\\\"http://stats.stlhighschoolsports.com/sports/soccerboys/stats/boxscore.php?s=948&amp;e=784427\\\">Full Box Score</a>\" ]\n}",
+  "markdown_content": "[\n\n|  | 1 | 2 | Final |\n| --- | --- | --- | --- |\n| [Eureka](http://stats.stlhighschoolsports.com/sports/soccerboys/stats/teamschedule.php?s=948&t=73) | 1 | 1 | [2](http://stats.stlhighschoolsports.com/sports/soccerboys/stats/boxscore.php?s=948&e=784427) |\n| [Summit](http://stats.stlhighschoolsports.com/sports/soccerboys/stats/teamschedule.php?s=948&t=262) | 2 | 2 | [4](http://stats.stlhighschoolsports.com/sports/soccerboys/stats/boxscore.php?s=948&e=784427) |\n|  | | | |\n| **Summit** | | **G** | **A** |\n| [Chase Parmer](https://stats.stlhighschoolsports.com/sports/soccerboys/stats/teamstatplayer.php?t=262&s=948&p=1030807) | | 1 | 1 |\n| [AJ Tuohy](https://stats.stlhighschoolsports.com/sports/soccerboys/stats/teamstatplayer.php?t=262&s=948&p=1041810) | | 1 | 1 |\n| [Nick Nusser](https://stats.stlhighschoolsports.com/sports/soccerboys/stats/teamstatplayer.php?t=262&s=948&p=1029789) | | 1 | 1 |\n| [Cade Polsak](https://stats.stlhighschoolsports.com/sports/soccerboys/stats/teamstatplayer.php?t=262&s=948&p=1041780) | | 1 | 0 |\n\n, [Full Box Score](http://stats.stlhighschoolsports.com/sports/soccerboys/stats/boxscore.php?s=948&e=784427)]"
+}

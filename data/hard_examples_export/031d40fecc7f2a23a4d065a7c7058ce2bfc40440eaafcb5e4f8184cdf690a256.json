@@ -1,0 +1,155 @@
+{
+  "document_id": "031d40fecc7f2a23a4d065a7c7058ce2bfc40440eaafcb5e4f8184cdf690a256",
+  "document_metadata": {
+    "id": "031d40fecc7f2a23a4d065a7c7058ce2bfc40440eaafcb5e4f8184cdf690a256",
+    "date": 20160128,
+    "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "image": "https://images-prod.dazeddigital.com/1350/0-88-1350-900/azure/dazed-prod/1150/9/1159130.jpg",
+    "date_year": 2016,
+    "date_month": 1,
+    "crawl_date": "2026-02-05T10:57:04.327427003Z",
+    "date_day": 28,
+    "title": "Misfit starmen take a ride on Margiela\u2019s couture carousel",
+    "url": "https://www.dazeddigital.com/fashion/article/29517/1/misfit-starmen-take-a-ride-on-margiela-s-couture-carousel",
+    "url2": "https://www.dazeddigital.com/fashion/article/29517/1/misfit-starmen-take-a-ride-on-margiela-s-couture-carousel",
+    "domain": "www.dazeddigital.com",
+    "lang": "unknown",
+    "published_date": "2016-01-28T13:27:00Z",
+    "authors": [
+      "Susie Lau"
+    ],
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2026-02-05T10:57:04.327000",
+    "published_date_parsed": "2016-01-28T13:27:00",
+    "rawType": "xml",
+    "publisherId": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "documentId": "031d40fecc7f2a23a4d065a7c7058ce2bfc40440eaafcb5e4f8184cdf690a256",
+    "rawcontent_created": "2026-02-05T10:58:21.612000",
+    "source": "Dazed",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=www.dazeddigital.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=www.dazeddigital.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=www.dazeddigital.com",
+    "first_words": "Under John Galliano, the Maison\u2019s Artisanal collection has gone well and truly out of this world (with a little help from some Ziggy Stardust magic)"
+  },
+  "publisher_metadata": {
+    "id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "group_id": "c64289fd-a8ce-4f8b-8375-f1d15bc04f6d",
+    "name": "Dazed",
+    "domain": "dazeddigital.com",
+    "location": "Global",
+    "country": "Global",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "Misfit starmen take a ride on Margiela\u2019s couture carousel",
+    "document_authors_txt": [
+      "Susie Lau"
+    ],
+    "hash": "ba01227f6de3d14e6d1c0ecb3e2cc04ac25563587a329915d7a9b052ffdbbf64"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2026-02-05",
+    "chunking": {
+      "strategy": "markdown",
+      "chunks_count": 1
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "031d40fecc7f2a23a4d065a7c7058ce2bfc40440eaafcb5e4f8184cdf690a256-0",
+        "idx": 0,
+        "hash": "ba01227f6de3d14e6d1c0ecb3e2cc04ac25563587a329915d7a9b052ffdbbf64",
+        "sim_hash": "17594450258160901070"
+      },
+      "content_original": "Under John Galliano, the Maison\u2019s Artisanal collection has gone well and truly out of this world (with a little help from some Ziggy Stardust magic)",
+      "content": "Under John Galliano, the Maison\u2019s Artisanal collection has gone well and truly out of this world (with a little help from some Ziggy Stardust magic)"
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "7ea61368-d6d4-4701-af5f-2f31d7450fc4",
+      "timestamp": "2025-10-24T15:37:51.493000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2025-10-24",
+      "chunking": {
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "031d40fecc7f2a23a4d065a7c7058ce2bfc40440eaafcb5e4f8184cdf690a256"
+    },
+    {
+      "_id": "7e3ebcf6-caae-4dcb-a6cf-fc5d01ee08b4",
+      "timestamp": "2026-02-05T10:58:33.002000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "strategy": "markdown",
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "031d40fecc7f2a23a4d065a7c7058ce2bfc40440eaafcb5e4f8184cdf690a256"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Dazed</title>\r\n    <link>https://dazeddigital.com/feed/rss/gist</link>\r\n    <description>Youth and pop culture provocateurs since 1991. Fearless fashion, music, art, film, politics and ideas from today's bleeding edge. Declare Independence.</description>\r\n    <item>\r\n      <title>Misfit starmen take a ride on Margiela\u2019s couture carousel</title>\r\n      <link>https://www.dazeddigital.com/fashion/article/29517/1/misfit-starmen-take-a-ride-on-margiela-s-couture-carousel</link>\r\n      <description>Under John Galliano, the Maison\u2019s Artisanal collection has gone well and truly out of this world (with a little help from some Ziggy Stardust magic)</description>\r\n      <pubDate>Thu, 28 Jan 2016 13:27:00 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">https://www.dazeddigital.com/fashion/article/29517/1/misfit-starmen-take-a-ride-on-margiela-s-couture-carousel</guid>\r\n      <dc:creator>Susie Lau</dc:creator>\r\n      <dc:date>2016-01-28T13:27:00Z</dc:date>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Chlo\u00e9 Le Drezen</media:credit>\r\n      <media:keywords>Paris, Maison Margiela, John Galliano</media:keywords>\r\n      <media:text type=\"html\">There\u2019s a discernible character imprint emerging at John Galliano\u2019s Maison Margiela. He or she has a fluid sexuality and their own kooky gestures. They\u2019re beings that aren\u2019t of this world and they\u2019re unapologetic about their weirdness. A number of menswear and haute couture collections have been paying homage to David Bowie, but Galliano has been sending his starmen-slash-women down the runway for a while now. At the Maison\u2019s latest Artisanal show, that character, with their alien and collaged hybrid garments and their non-uniform hair and make-up, really anchored Galliano as a creator of haute couture for the misfits of this world. Misfit couture might sound like an oxymoron, but it\u2019s clear that Galliano has grasped the raison d\u2019\u00eatre of the Artisanal line, as it continues to stand splendidly in contrast with the other conventional haute couture entities.\r\nTo an infectious fairground-sounding of Edith Piaf\u2019s \u201cMon Man\u00e8ge \u00e0 Moi\u201d\u00a0(You\u2019re My Carousel), Galliano sent us on his very own carousel of sumptuous fabrics, whirring and colliding with one another in rips, explosions and unexpected bursts. Fil coup\u00e9 jacquard, lam\u00e9, and rich brocades were deliberately contrasted with white dense georgettes and unique textiles like a woven ash wood silk. A seemingly conventional polo knitted shirt dress would suddenly break out into a loud floral print and later on, an MA-1 bomber jacket would expand into richness, looking like Japanese samurai\u2019s\u00a0horo\u00a0cloaks. In keeping with the Artisanal collection\u2019s well-travelled fabrics, Ottoman Topkapi and Korean paper patterns purposely jarred with rugged flannel checks and what were described as \u201cinoffensive\u201d vintage tees.\r\n\r\n\u201cIt\u2019s clear that Galliano has grasped the raison d\u2019\u00eatre of the Artisanal line, as it continues to stand spendidly in contrast with the other conventional haute couture entities\u201d\r\n\r\nThe feet were wedged firmly into the ground with some standout boots that featured airbrushed graphics or tied up silk scarves. And to go with these weird and wonderful collages, Galliano\u2019s longtime collaborators Eugene Souleiman and Pat McGrath\u00a0adorned the face and hair with surreal glitter lips, glam-rock meets manga character spiked up hair and yes, a touch of the Ziggy Stardust.\r\nWhen Margiela began showing their Artisanal line as part of the haute couture fashion week schedule back in 2006, garments were hung on mannequins and deliberately kept faceless. In contrast, Galliano has given Margiela\u2019s Artisanal inhabitant a distinctive identity and a sense of individualism. Piaf\u2019s voice trilling \u201cYou make my head spin\u201d in French, is an apt reaction to the tour de force of Galliano at Maison Margiela.</media:text>\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1350/0-88-1350-900/azure/dazed-prod/1150/9/1159130.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1066/162-98-1066-711/azure/dazed-prod/1150/9/1159123.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1350/0-52-1350-900/azure/dazed-prod/1150/9/1159099.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1350/0-52-1350-900/azure/dazed-prod/1150/9/1159121.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1350/0-36-1350-900/azure/dazed-prod/1150/9/1159128.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1350/0-7-1350-900/azure/dazed-prod/1150/9/1159117.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1350/0-157-1350-900/azure/dazed-prod/1150/9/1159118.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1350/0-0-1350-900/azure/dazed-prod/1150/9/1159112.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1350/0-38-1350-900/azure/dazed-prod/1150/9/1159109.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1350/0-64-1350-900/azure/dazed-prod/1150/9/1159125.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1350/0-55-1350-900/azure/dazed-prod/1150/9/1159127.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1350/0-40-1350-900/azure/dazed-prod/1150/9/1159106.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1800/0-117-1800-1200/azure/dazed-prod/1150/9/1159110.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1350/0-83-1350-900/azure/dazed-prod/1150/9/1159105.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1350/0-50-1350-900/azure/dazed-prod/1150/9/1159103.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1350/0-86-1350-900/azure/dazed-prod/1150/9/1159107.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1350/0-100-1350-900/azure/dazed-prod/1150/9/1159097.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1350/0-214-1350-900/azure/dazed-prod/1150/9/1159124.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1350/0-33-1350-900/azure/dazed-prod/1150/9/1159101.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1800/0-149-1800-1200/azure/dazed-prod/1150/9/1159126.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1350/0-62-1350-900/azure/dazed-prod/1150/9/1159111.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1350/0-0-1350-900/azure/dazed-prod/1150/9/1159119.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1350/0-69-1350-900/azure/dazed-prod/1150/9/1159115.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1350/0-0-1350-900/azure/dazed-prod/1150/9/1159131.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1350/0-7-1350-900/azure/dazed-prod/1150/9/1159114.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1350/0-226-1350-900/azure/dazed-prod/1150/9/1159098.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1350/0-0-1350-900/azure/dazed-prod/1150/9/1159116.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1350/0-0-1350-900/azure/dazed-prod/1150/9/1159100.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1350/0-0-1350-900/azure/dazed-prod/1150/9/1159120.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1800/0-0-1800-1200/azure/dazed-prod/1150/9/1159104.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1350/0-830-1350-900/azure/dazed-prod/1150/9/1159122.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1350/0-269-1350-900/azure/dazed-prod/1150/9/1159113.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1350/0-328-1350-900/azure/dazed-prod/1150/9/1159132.jpg\" />\r\n      <media:content type=\"image/jpeg\" isDefault=\"true\" url=\"https://images-prod.dazeddigital.com/1350/azure/dazed-prod/1150/9/1159128.jpg\" />\r\n      <media:content type=\"image/jpeg\" url=\"https://images-prod.dazeddigital.com/1350/0-7-1350-900/azure/dazed-prod/1150/9/1159117.jpg\" />\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "Under John Galliano, the Maison\u2019s Artisanal collection has gone well and truly out of this world (with a little help from some Ziggy Stardust magic)"
+}

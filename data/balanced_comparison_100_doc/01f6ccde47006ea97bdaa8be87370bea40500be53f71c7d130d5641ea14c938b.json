@@ -1,0 +1,129 @@
+{
+  "document_id": "01f6ccde47006ea97bdaa8be87370bea40500be53f71c7d130d5641ea14c938b",
+  "document_metadata": {
+    "id": "01f6ccde47006ea97bdaa8be87370bea40500be53f71c7d130d5641ea14c938b",
+    "date": 20251029,
+    "publisher_id": "ac2f7a15-5643-4df3-b9e5-dc078d091b23",
+    "image": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/e/06/e06d8824-49a4-5306-8798-33e134f6bedd/68c78342db595.image.jpg?resize=640%2C427",
+    "date_year": 2025,
+    "date_month": 10,
+    "crawl_date": "2025-10-31T22:56:45.324330354Z",
+    "date_day": 29,
+    "title": "Emmy-winning actress Britt Lower returns to St. Louis to raise money for the Rep",
+    "url": "https://www.stltoday.com/life-entertainment/local/art-theater/article_5bc2a405-19e0-4f1a-92c0-6888852f78fd.html",
+    "url2": "https://www.stltoday.com/life-entertainment/local/art-theater/article_5bc2a405-19e0-4f1a-92c0-6888852f78fd.html",
+    "domain": "stltoday.com",
+    "lang": "unknown",
+    "published_date": "2025-10-29T12:30:00-05:00",
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "ac2f7a15-5643-4df3-b9e5-dc078d091b23",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2025-10-31T22:56:45.324000",
+    "published_date_parsed": "2025-10-29T17:30:00",
+    "rawType": "json",
+    "publisherId": "ac2f7a15-5643-4df3-b9e5-dc078d091b23",
+    "documentId": "01f6ccde47006ea97bdaa8be87370bea40500be53f71c7d130d5641ea14c938b",
+    "rawcontent_created": "2025-10-31T22:56:48.737000",
+    "source": "St. Louis Post-Dispatch",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=stltoday.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=stltoday.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=stltoday.com",
+    "first_words": "Emmy-winning actress Britt Lower will discuss her life and career at a fundraiser for the Repertory Theater of St. Louis in December. ,Lower, who grew up near Bloomington, Illinois, picked up her first Emmy in September for Outstanding Lead Actress in a Drama Series for her role as Helly in the Apple TV science-fiction thriller series \"Severance.\" She has also starred in \"Man Seeking Woman,\" and had recurring roles in \"Future Man\" and \"Casual.\" ,In 2022, between filming the first and second seasons of \"Severance,\" she performed at St. Louis' Circus Flora. ,The fundraiser, \"Holiday Benefit,\" will feature other as-yet unnamed guests, along with silent and live auctions. Last year's featured guest was Sean Gunn; the year before, John Goodman. The benefit will be held at 7 p.m. Dec. 9 at the Loretto-Hilton Center at Webster University. Tickets are $100-$500. ,For more information, go to repstl.org. , ]"
+  },
+  "publisher_metadata": {
+    "id": "ac2f7a15-5643-4df3-b9e5-dc078d091b23",
+    "group_id": "d9d5151e-0891-4887-836c-050cdf8f19c3",
+    "name": "St. Louis Post-Dispatch",
+    "domain": "stltoday.com",
+    "location": "United States",
+    "country": "United States",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": "lee_enterprises_index_v2",
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "Emmy-winning actress Britt Lower returns to St. Louis to raise money for the Rep",
+    "document_authors_txt": [],
+    "hash": "c32dc094a55195c4289e5dbed762f78dd0727b2f5d06dfb3da059a818127b8bf"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2025-10-31",
+    "chunking": {
+      "chunks_count": 2
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "01f6ccde47006ea97bdaa8be87370bea40500be53f71c7d130d5641ea14c938b-1",
+        "idx": 1,
+        "hash": "aa4c1d7cfded03202c7886d959c0c9060365f4b6833915b9c0aef9bcb8a6c04d"
+      },
+      "content_original": ", [![](https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/7/f3/7f31da4f-bb14-5578-99ba-7dd0eb4b466c/68e7c72345ee6.image.jpg?resize=100%2C56)](https://www.stltoday.com/life-entertainment/local/video_7f31da4f-bb14-5578-99ba-7dd0eb4b466c.html)\n\n## [Where to check out St. Louis-based artists](https://www.stltoday.com/life-entertainment/local/video_7f31da4f-bb14-5578-99ba-7dd0eb4b466c.html)\n\nPost-Dispatch arts and entertainment reporter Jasmine Osby details the venues to check out local acts at. Osby shares tips like these on the Post-Dispatch's TikTok account (@stlouispostdispatch). Edited by Jenna Jones.\n\n]",
+      "content": ", [![](https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/7/f3/7f31da4f-bb14-5578-99ba-7dd0eb4b466c/68e7c72345ee6.image.jpg?resize=100%2C56)](https://www.stltoday.com/life-entertainment/local/video_7f31da4f-bb14-5578-99ba-7dd0eb4b466c.html)\n\n## [Where to check out St. Louis-based artists](https://www.stltoday.com/life-entertainment/local/video_7f31da4f-bb14-5578-99ba-7dd0eb4b466c.html)\n\nPost-Dispatch arts and entertainment reporter Jasmine Osby details the venues to check out local acts at. Osby shares tips like these on the Post-Dispatch's TikTok account (@stlouispostdispatch). Edited by Jenna Jones.\n\n]"
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "01f6ccde47006ea97bdaa8be87370bea40500be53f71c7d130d5641ea14c938b-0",
+        "idx": 0,
+        "hash": "8c2312041c8465e8dd26ac7d62738e6402c2659a2a5e0e078a1bb9ab3e88afc7"
+      },
+      "content_original": "[\n\nEmmy-winning actress Britt Lower will discuss her life and career at a fundraiser for the Repertory Theater of St. Louis in December.\n\n,\n\nLower, who grew up near Bloomington, Illinois, picked up her first Emmy in September for Outstanding Lead Actress in a Drama Series for her role as Helly in the Apple TV science-fiction thriller series \"Severance.\" She has also starred in \"Man Seeking Woman,\" and had recurring roles in \"Future Man\" and \"Casual.\"\n\n,\n\nIn 2022, between filming the first and second seasons of \"Severance,\" she performed at St. Louis' Circus Flora.\n\n,\n\nThe fundraiser, \"Holiday Benefit,\" will feature other as-yet unnamed guests, along with silent and live auctions. Last year's featured guest was Sean Gunn; the year before, John Goodman. The benefit will be held at 7 p.m. Dec. 9 at the Loretto-Hilton Center at Webster University. Tickets are $100-$500.\n\n,\n\nFor more information, go to [repstl.org](http://www.repstl.org/events/detail/the-holiday-benefit).",
+      "content": "[\n\nEmmy-winning actress Britt Lower will discuss her life and career at a fundraiser for the Repertory Theater of St. Louis in December.\n\n,\n\nLower, who grew up near Bloomington, Illinois, picked up her first Emmy in September for Outstanding Lead Actress in a Drama Series for her role as Helly in the Apple TV science-fiction thriller series \"Severance.\" She has also starred in \"Man Seeking Woman,\" and had recurring roles in \"Future Man\" and \"Casual.\"\n\n,\n\nIn 2022, between filming the first and second seasons of \"Severance,\" she performed at St. Louis' Circus Flora.\n\n,\n\nThe fundraiser, \"Holiday Benefit,\" will feature other as-yet unnamed guests, along with silent and live auctions. Last year's featured guest was Sean Gunn; the year before, John Goodman. The benefit will be held at 7 p.m. Dec. 9 at the Loretto-Hilton Center at Webster University. Tickets are $100-$500.\n\n,\n\nFor more information, go to [repstl.org](http://www.repstl.org/events/detail/the-holiday-benefit)."
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "cbcba7a8-347b-4296-b2cb-cdb98b17c862",
+      "timestamp": "2025-10-31T22:56:55.542000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "ac2f7a15-5643-4df3-b9e5-dc078d091b23",
+      "version": "2.3",
+      "date": "2025-10-31",
+      "chunking": {
+        "chunks_count": 2
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 2,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "lee_enterprises_index_v2"
+        ]
+      },
+      "document_id": "01f6ccde47006ea97bdaa8be87370bea40500be53f71c7d130d5641ea14c938b"
+    }
+  ],
+  "raw_content": "{\n  \"uuid\" : \"5bc2a405-19e0-4f1a-92c0-6888852f78fd\",\n  \"title\" : \"Emmy-winning actress Britt Lower returns to St. Louis to raise money for the Rep\",\n  \"type\" : \"article\",\n  \"presentation\" : null,\n  \"url\" : \"https://www.stltoday.com/life-entertainment/local/art-theater/article_5bc2a405-19e0-4f1a-92c0-6888852f78fd.html\",\n  \"lastupdated\" : {\n    \"utc\" : null,\n    \"iso8601\" : null,\n    \"rfc2822\" : null\n  },\n  \"starttime\" : {\n    \"utc\" : \"1761759000000\",\n    \"iso8601\" : \"2025-10-29T12:30:00-05:00\",\n    \"rfc2822\" : \"Wed, 29 Oct 2025 12:30:00 -0500\"\n  },\n  \"archivetime\" : {\n    \"utc\" : null,\n    \"iso8601\" : null,\n    \"rfc2822\" : null\n  },\n  \"keywords\" : [ \"britt lower\" ],\n  \"sections\" : [ \"life-entertainment/local/art-theater\", \"news/local\" ],\n  \"flags\" : [ \"spotlight\" ],\n  \"thumbnail\" : {\n    \"mode\" : \"via .view\",\n    \"uuid\" : \"5bc2a405-19e0-4f1a-92c0-6888852f78fd\",\n    \"aspect_ratio\" : \"100:67\",\n    \"aspect_ratio_x\" : 100,\n    \"aspect_ratio_y\" : 67,\n    \"file_size\" : 244019,\n    \"height\" : 67,\n    \"mime_type\" : \"image/jpeg\",\n    \"url\" : \"https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/e/06/e06d8824-49a4-5306-8798-33e134f6bedd/68c78342db595.image.jpg?resize=100%2C67\",\n    \"resource_url\" : \"https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/e/06/e06d8824-49a4-5306-8798-33e134f6bedd/68c78342db595.image.jpg?resize=100%2C67\",\n    \"width\" : 100\n  },\n  \"preview\" : {\n    \"mode\" : \"via .view\",\n    \"uuid\" : \"5bc2a405-19e0-4f1a-92c0-6888852f78fd\",\n    \"aspect_ratio\" : \"640:427\",\n    \"aspect_ratio_x\" : 640,\n    \"aspect_ratio_y\" : 427,\n    \"file_size\" : 244019,\n    \"height\" : 427,\n    \"mime_type\" : \"image/jpeg\",\n    \"url\" : \"https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/e/06/e06d8824-49a4-5306-8798-33e134f6bedd/68c78342db595.image.jpg?resize=640%2C427\",\n    \"resource_url\" : \"https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/e/06/e06d8824-49a4-5306-8798-33e134f6bedd/68c78342db595.image.jpg?resize=640%2C427\",\n    \"width\" : 640\n  },\n  \"section_label\" : \"Art & Theater\",\n  \"authors\" : [ {\n    \"uuid\" : \"0ae11482-cbea-11e3-8153-0017a43b2370\",\n    \"first_name\" : \"Daniel\",\n    \"last_name\" : \"Neman | Post-Dispatch\",\n    \"full_name\" : \"Daniel Neman | Post-Dispatch\",\n    \"screen_name\" : \"Daniel Neman\",\n    \"byline\" : \"By Daniel Neman\\nSt. Louis Post-Dispatch\",\n    \"avatar\" : \"https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/avatars/0/ae/114/0ae11482-cbea-11e3-8153-0017a43b2370.8e9d69b69ea4f3c02b20c88ad9aa08be.png?_dc=1576621120\",\n    \"title\" : \"Features writer\\t\",\n    \"profile\" : \"www.stltoday.com/users/profile/Daniel Neman\"\n  } ],\n  \"prologue\" : \"<p>In September, Lower won an Emmy Award for Outstanding Lead Actress in a Drama Series for \\\"Severance.\\\"</p>\",\n  \"subheadline\" : \"\",\n  \"tagline\" : \"<p>Daniel Neman\u00a0\u2013 314-340-8133</p><p>dneman@post-dispatch.com</p>\",\n  \"byline\" : \"By Daniel Neman\\nSt. Louis Post-Dispatch\",\n  \"hammer\" : \"\",\n  \"kicker\" : \"\",\n  \"content\" : [ \"<p>Emmy-winning actress Britt Lower will discuss her life and career at a fundraiser for the Repertory Theater of St. Louis in December.</p>\", \"<p>Lower, who grew up near Bloomington, Illinois, picked up her first Emmy in September for Outstanding Lead Actress in a Drama Series for her role as Helly in the Apple TV science-fiction thriller series \\\"Severance.\\\" She has also starred in \\\"Man Seeking Woman,\\\" and had recurring roles in \\\"Future Man\\\" and \\\"Casual.\\\"</p>\", \"<p>In 2022, between filming the first and second seasons of \\\"Severance,\\\" she performed at St. Louis' Circus Flora.</p>\", \"<p>The fundraiser, \\\"Holiday Benefit,\\\" will feature other as-yet unnamed guests, along with silent and live auctions. Last year's featured guest was Sean Gunn; the year before, John Goodman. The benefit will be held at 7 p.m. Dec. 9 at the Loretto-Hilton Center at Webster University. Tickets are $100-$500.</p>\", \"<p>For more information, go to <a href=\\\"http://www.repstl.org/events/detail/the-holiday-benefit\\\" target=\\\"_blank\\\">repstl.org</a>.</p>\", \"<figure class=\\\"inline-asset inline-editorial-video\\\" data-tncms-app=\\\"editorial\\\" data-tncms-uuid=\\\"7f31da4f-bb14-5578-99ba-7dd0eb4b466c\\\"><a href=\\\"https://www.stltoday.com/life-entertainment/local/video_7f31da4f-bb14-5578-99ba-7dd0eb4b466c.html\\\"><img src=\\\"https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/7/f3/7f31da4f-bb14-5578-99ba-7dd0eb4b466c/68e7c72345ee6.image.jpg?resize=100%2C56\\\"></a><figcaption><h2><a href=\\\"https://www.stltoday.com/life-entertainment/local/video_7f31da4f-bb14-5578-99ba-7dd0eb4b466c.html\\\"><i class=\\\"fas tnt-file\\\" aria-hidden=\\\"true\\\"></i> Where to check out St. Louis-based artists</a></h2><p>Post-Dispatch arts and entertainment reporter Jasmine Osby details the venues to check out local acts at. Osby shares tips like these on the Post-Dispatch's TikTok account (@stlouispostdispatch). Edited by Jenna Jones. </p></figcaption></figure>\" ]\n}",
+  "markdown_content": "[\n\nEmmy-winning actress Britt Lower will discuss her life and career at a fundraiser for the Repertory Theater of St. Louis in December.\n\n,\n\nLower, who grew up near Bloomington, Illinois, picked up her first Emmy in September for Outstanding Lead Actress in a Drama Series for her role as Helly in the Apple TV science-fiction thriller series \"Severance.\" She has also starred in \"Man Seeking Woman,\" and had recurring roles in \"Future Man\" and \"Casual.\"\n\n,\n\nIn 2022, between filming the first and second seasons of \"Severance,\" she performed at St. Louis' Circus Flora.\n\n,\n\nThe fundraiser, \"Holiday Benefit,\" will feature other as-yet unnamed guests, along with silent and live auctions. Last year's featured guest was Sean Gunn; the year before, John Goodman. The benefit will be held at 7 p.m. Dec. 9 at the Loretto-Hilton Center at Webster University. Tickets are $100-$500.\n\n,\n\nFor more information, go to [repstl.org](http://www.repstl.org/events/detail/the-holiday-benefit).\n\n, [![](https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/7/f3/7f31da4f-bb14-5578-99ba-7dd0eb4b466c/68e7c72345ee6.image.jpg?resize=100%2C56)](https://www.stltoday.com/life-entertainment/local/video_7f31da4f-bb14-5578-99ba-7dd0eb4b466c.html)\n\n## [Where to check out St. Louis-based artists](https://www.stltoday.com/life-entertainment/local/video_7f31da4f-bb14-5578-99ba-7dd0eb4b466c.html)\n\nPost-Dispatch arts and entertainment reporter Jasmine Osby details the venues to check out local acts at. Osby shares tips like these on the Post-Dispatch's TikTok account (@stlouispostdispatch). Edited by Jenna Jones.\n\n]"
+}

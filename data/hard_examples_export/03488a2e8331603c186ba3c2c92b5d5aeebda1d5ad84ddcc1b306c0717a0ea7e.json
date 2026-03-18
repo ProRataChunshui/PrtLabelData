@@ -1,0 +1,265 @@
+{
+  "document_id": "03488a2e8331603c186ba3c2c92b5d5aeebda1d5ad84ddcc1b306c0717a0ea7e",
+  "document_metadata": {
+    "id": "03488a2e8331603c186ba3c2c92b5d5aeebda1d5ad84ddcc1b306c0717a0ea7e",
+    "date": 20100415,
+    "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "image": "https://images-prod.dazeddigital.com/759/0-0-759-506/azure/dazed-prod/240/3/243947.jpg",
+    "date_year": 2010,
+    "date_month": 4,
+    "crawl_date": "2026-02-05T11:20:22.351600131Z",
+    "date_day": 15,
+    "title": "Kat Marks (London, UK)",
+    "url": "https://www.dazeddigital.com/fashion/article/7230/1/kat-marks-london-uk",
+    "url2": "https://www.dazeddigital.com/fashion/article/7230/1/kat-marks-london-uk",
+    "domain": "www.dazeddigital.com",
+    "lang": "unknown",
+    "published_date": "2010-04-15T09:00:00Z",
+    "authors": [
+      "Anna Battista"
+    ],
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2026-02-05T11:20:22.351000",
+    "published_date_parsed": "2010-04-15T09:00:00",
+    "rawType": "xml",
+    "publisherId": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "documentId": "03488a2e8331603c186ba3c2c92b5d5aeebda1d5ad84ddcc1b306c0717a0ea7e",
+    "rawcontent_created": "2026-02-05T11:22:11.937000",
+    "source": "Dazed",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=www.dazeddigital.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=www.dazeddigital.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=www.dazeddigital.com",
+    "first_words": "Canadian designer Kat Marks is pushing the boundaries between fashion and film creating videos that feature her thought-provoking pieces",
+    "has_chunks": true,
+    "has_denoised_markdown": true
+  },
+  "publisher_metadata": {
+    "id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "group_id": "c64289fd-a8ce-4f8b-8375-f1d15bc04f6d",
+    "name": "Dazed",
+    "domain": "dazeddigital.com",
+    "location": "Global",
+    "country": "Global",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "Kat Marks (London, UK)",
+    "document_authors_txt": [
+      "Anna Battista"
+    ],
+    "hash": "1d9e183812d504eac851618ec617328874d22f757e2dad8a5e0255279a75eed1"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2026-02-05",
+    "chunking": {
+      "service": "PrtDocumentInference",
+      "chunkingStrategy": "llm_semantic_batch",
+      "llmPromptVersion": "v1.0.3",
+      "batchId": "aad2cdcc-4668-4d5d-87a6-7bb9b38ae032",
+      "chunkingRequestId": "9947fc1b-aac3-452b-bcc7-dd22c3b2050b",
+      "totalChunks": 1,
+      "processingTime": 2448918,
+      "processingTimestamp": "2026-02-05T12:10:01.113344+00:00",
+      "tokenUsage": {
+        "total_tokens": 1144,
+        "prompt_tokens": 1118,
+        "completion_tokens": 26,
+        "model_version": "gemini-2.5-flash-lite"
+      },
+      "wasRepaired": false,
+      "repairMetadata": null,
+      "has_existing_chunks": true,
+      "chunks_count": 1
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "03488a2e8331603c186ba3c2c92b5d5aeebda1d5ad84ddcc1b306c0717a0ea7e-0",
+        "idx": 0,
+        "hash": "a4097e433d214e7c2ac62088448c78be9558b22191f7eb03f333df939e4d3239",
+        "sim_hash": "6107459439126821313"
+      },
+      "content_original": "Canadian designer Kat Marks is pushing the boundaries between fashion and film creating videos that feature her thought-provoking pieces",
+      "content": "Canadian designer Kat Marks is pushing the boundaries between fashion and film creating videos that feature her thought-provoking pieces"
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "362b422b-f36f-49de-b6db-1fb02b54f1f0",
+      "timestamp": "2026-02-05T12:10:06.176000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.3",
+        "batchId": "aad2cdcc-4668-4d5d-87a6-7bb9b38ae032",
+        "chunkingRequestId": "9947fc1b-aac3-452b-bcc7-dd22c3b2050b",
+        "totalChunks": 1,
+        "processingTime": 2448918,
+        "processingTimestamp": "2026-02-05T12:10:01.113344+00:00",
+        "tokenUsage": {
+          "total_tokens": 1144,
+          "prompt_tokens": 1118,
+          "completion_tokens": 26,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "wasRepaired": false,
+        "repairMetadata": null,
+        "has_existing_chunks": true,
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "03488a2e8331603c186ba3c2c92b5d5aeebda1d5ad84ddcc1b306c0717a0ea7e"
+    },
+    {
+      "_id": "548b2051-0583-498c-a292-918ad577e67f",
+      "timestamp": "2025-10-24T16:12:31.349000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2025-10-24",
+      "chunking": {
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "03488a2e8331603c186ba3c2c92b5d5aeebda1d5ad84ddcc1b306c0717a0ea7e"
+    },
+    {
+      "_id": "6d999a57-d8c4-4b14-91c4-abab28c8d96b",
+      "timestamp": "2026-02-05T12:01:12.213000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.3",
+        "batchId": "93deb775-bccc-49dc-96c7-428994f7d529",
+        "chunkingRequestId": "e2350a91-04af-45b7-901d-54c475fd61e2",
+        "totalChunks": 1,
+        "processingTime": 1913438,
+        "processingTimestamp": "2026-02-05T12:01:04.507972+00:00",
+        "tokenUsage": {
+          "total_tokens": 1144,
+          "prompt_tokens": 1118,
+          "completion_tokens": 26,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "wasRepaired": false,
+        "repairMetadata": null,
+        "has_existing_chunks": true,
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "03488a2e8331603c186ba3c2c92b5d5aeebda1d5ad84ddcc1b306c0717a0ea7e"
+    },
+    {
+      "_id": "a80f599e-7286-4b50-9366-290a681e4f1c",
+      "timestamp": "2026-02-05T11:22:18.408000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "strategy": "markdown",
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "03488a2e8331603c186ba3c2c92b5d5aeebda1d5ad84ddcc1b306c0717a0ea7e"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Dazed</title>\r\n    <link>https://dazeddigital.com/feed/rss/gist</link>\r\n    <description>Youth and pop culture provocateurs since 1991. Fearless fashion, music, art, film, politics and ideas from today's bleeding edge. Declare Independence.</description>\r\n    <item>\r\n      <title>Kat Marks (London, UK)</title>\r\n      <link>https://www.dazeddigital.com/fashion/article/7230/1/kat-marks-london-uk</link>\r\n      <description>Canadian designer Kat Marks is pushing the boundaries between fashion and film creating videos that feature her thought-provoking pieces</description>\r\n      <pubDate>Thu, 15 Apr 2010 09:00:00 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">https://www.dazeddigital.com/fashion/article/7230/1/kat-marks-london-uk</guid>\r\n      <dc:creator>Anna Battista</dc:creator>\r\n      <dc:date>2010-04-15T09:00:00Z</dc:date>\r\n      <media:credit scheme=\"urn:ebu\" />\r\n      <media:credit scheme=\"urn:ebu\" />\r\n      <media:credit scheme=\"urn:ebu\" />\r\n      <media:credit scheme=\"urn:ebu\" />\r\n      <media:text type=\"html\">There are uncanny connections between medicine, architecture and fetishism in the designs created by Kat Marks. The 24-year-old Canadian designer currently based in London, mainly focuses on creating body pieces in rigid materials such as plastic, that, inspired by her own experiences of wearing a scoliosis brace, are also characterised by sculpturally sensual forms. Born in Alberta, Marks has a conceptual approach to her work that blurs the boundaries between art, fashion and film. So far she has created two collections, \u201cInfundibulum\u201d and \u201cYugas Elder\u201d. The latter was also featured in an eponymous film directed by Daniel Shipp, produced by Goran Boskovic and showcased at Nuit Blanche 2009. Marks is at present developing her third collection that, inspired by Kurt Vonnegut\u2019s novel Cat\u2019s Cradle, will feature ten designs in plastic, leather and textiles. In the meantime, she has just completed a new film, \u201cThe Granfaloon\u201d, an experimental study in fashion presentation evoking in its title, eerie atmospheres and futuristic body pieces featured, the dystopic world of Vonnegut\u2019s 1963 novel. Dazed Digital: Where did you study fashion design?\u00a0 Kat Marks: I moved to Toronto, Canada, when I was 19 years old to follow the BA in Fashion Design at Ryerson University. There I learnt everything I know about producing high quality designs since the courses at Ryerson are very focused on technical subjects such as pattern cutting. At the same time, my course allowed me to explore the more creative aspects of this profession. This meant that, when I finished my studies, I had already produced a high standard collection that was later on showcased at Toronto Fashion Week. The collection featured three thermoplastic braces \u2013 or corsets \u2013 that got very positive feedback. After Ryerson I moved to the London College of Fashion to pursue an MA in Fashion Artefact. DD: Who has been the greatest influence on your career?Kat Marks: When I began my education in fashion at Ryerson, I wasn\u2019t too sure about my creative potential. In my second year I tried to explore it in depth also thanks to a very special professor, Sandra Tullio-Pow who completely supported me in my journey of discovery. At the time, I was studying formal wear and decided to take it to the extreme starting to use foam to create exaggerated shoulders. Sandra followed my experiments and pushed them further, helping me to become even more confident in what I was doing. At the moment my colleagues from my course and from the MA in Footwear Design, as well as Professor Dai Rees at London College of Fashion, are inspiring me. Last but not least, my family has also been incredibly supportive, turning into a great inspiration.\u00a0\u00a0\u00a0 DD: Which aspects of Kurt Vonnegut\u2019s work inspire you the most? Kat Marks: I often start designing after reading a novel, as one sentence or word may catapult my mind into creative mode. I am inspired by Vonnegut\u2019s fearless use of fantasy and of extreme scenarios and fictional worlds. I use them as a motivating force to explore fashion with reckless abandon. My current work is, for example, influenced by his book Cat\u2019s Cradle and by the \u201ckarass\u201d, a group of different people who, unknowingly, work together to do God\u2019s will. DD: In your previous designs you employed plastic, polyurethane rubber and resin: what fascinates you about such materials? Kat Marks: My experiments with plastic began in my final year at Ryerson. I was interested in connecting medical back braces for scoliosis and fashion. I wore a brace when I was young for two years and this experience had an impact in my life, influencing also my career. A Toronto-based craftsman produced my designs in ABS thermoplastic. At present I\u2019m producing my own plastic artefacts as well as working alongside the talented Stephen Diaper. I\u2019m mainly employing Perspex, though I\u2019ve broadened my vision introducing also leather in some pieces. I never explored this material before and I find it rather interesting. I am combining the two to create fantastically beautiful fashion accessories such as the harness and pelvic girdle featured in my new film. DD: In which ways does the new project differ from your previous one? Kat Marks: My first film was based on my interest in developing a narrative, a story line, while understanding at the same time the importance of scenography. The film was all in stop motion; we had roughly 15,000 photographs that we edited down into a 4-minute clip. I guess my first foray into fashion and film was more based on artistic expression and on coming up with a beautiful representation. My current project, \u201cThe Granfalloon\u201d, is much shorter and it could be defined as an avant-garde fashion film. It features a colour palette that includes beige, muted grey and murky dusty rose, muted shades compared to the previous project. For this project we worked with HD cameras along with post-production techniques to create interesting visuals, but I think that the best thing about this new venture is that it has allowed me to build a team of professionals interested in discovering how to create fashion visuals that can move an audience. For my MA thesis collection I will be producing a triptych that will be shown at a gallery exhibition. The three different films will be produced by the same team behind my current project and will all tie in together, though they will be visually different from my current film. In fact they will be more feminine, dramatic and alluring. \u00a0DD: How would you describe the body piece that appears in the new film?Kat Marks: As you can see from the film there are two thigh flaps that brace the inner thigh. These flaps have activated some controversial conversation for what regards their purpose and their statement as some people said they had a sort of phallic shape. The Perspex, leather and resin harness and pelvic girdle weren\u2019t actually meant to represent this, but I realised they sparked an interesting dialogue and some people called the design \u2018cod piece\u2019, \u2018chastity belt\u2019 or \u2018fashion diaper\u2019. I hope I\u2019ll be able to come up with more thought-provoking pieces in future. DD: What\u2019s your favourite film genre? Kat Marks: I\u2019m really influenced by the work of David Lynch and David Cronenberg and would like to be able to collaborate with them one day. I\u2019m continually searching for story lines and visual references that surprise and shock me. Cronenberg\u2019s 1996 Crash depicts some powerful strong, sensual and beguiling female characters. These women are my muses, they populate my fantasy world, they are the sort of women who should be wearing my designs. Among the actresses I would love to see wearing my creations there are Deborah Kara Unger and Tilda Swinton.\u00a0 Granfalloon from The Wonder Years on Vimeo.</media:text>\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/759/0-0-759-506/azure/dazed-prod/240/3/243947.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/759/0-0-759-506/azure/dazed-prod/240/3/243941.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/759/0-0-759-506/azure/dazed-prod/240/3/243935.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/759/0-0-759-506/azure/dazed-prod/240/3/243929.jpg\" />\r\n      <media:content type=\"image/jpeg\" isDefault=\"true\" url=\"https://images-prod.dazeddigital.com/900/azure/dazed-prod/240/3/243929.jpg\" />\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "Canadian designer Kat Marks is pushing the boundaries between fashion and film creating videos that feature her thought-provoking pieces"
+}

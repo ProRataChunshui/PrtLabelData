@@ -1,0 +1,219 @@
+{
+  "document_id": "135bdf1b93dc449fca0e525fad52d970db49108928f1791bd2081908a33f2b0b",
+  "document_metadata": {
+    "id": "135bdf1b93dc449fca0e525fad52d970db49108928f1791bd2081908a33f2b0b",
+    "date": 20151119,
+    "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "image": "https://images-prod.dazeddigital.com/1057/azure/dazed-prod/1150/0/1150221.jpg",
+    "date_year": 2015,
+    "date_month": 11,
+    "crawl_date": "2026-02-05T10:57:09.767391928Z",
+    "date_day": 19,
+    "title": "Website lists \u2018hot Syrian refugees\u2019 suitable for America",
+    "url": "https://www.dazeddigital.com/artsandculture/article/28508/1/website-lists-hot-syrian-refugees-it-d-accept-in-america",
+    "url2": "https://www.dazeddigital.com/artsandculture/article/28508/1/website-lists-hot-syrian-refugees-it-d-accept-in-america",
+    "domain": "www.dazeddigital.com",
+    "lang": "unknown",
+    "published_date": "2015-11-19T19:32:00Z",
+    "authors": [
+      "Thomas Gorton"
+    ],
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2026-02-05T10:57:09.767000",
+    "published_date_parsed": "2015-11-19T19:32:00",
+    "rawType": "xml",
+    "publisherId": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "documentId": "135bdf1b93dc449fca0e525fad52d970db49108928f1791bd2081908a33f2b0b",
+    "rawcontent_created": "2026-02-05T10:59:25.248000",
+    "source": "Dazed",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=www.dazeddigital.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=www.dazeddigital.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=www.dazeddigital.com",
+    "first_words": "They\u2019re women lifted from a weird Instagram account and aside from anything else there seems to be little indication that they\u2019re refugees, or even Syrian",
+    "has_chunks": true,
+    "has_denoised_markdown": true
+  },
+  "publisher_metadata": {
+    "id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "group_id": "c64289fd-a8ce-4f8b-8375-f1d15bc04f6d",
+    "name": "Dazed",
+    "domain": "dazeddigital.com",
+    "location": "Global",
+    "country": "Global",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "Website lists \u2018hot Syrian refugees\u2019 suitable for America",
+    "document_authors_txt": [
+      "Thomas Gorton"
+    ],
+    "hash": "d81e7eabc7a834a222d3f648e5d07850226d3b4d0457ec3b823f04722de393bc"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2026-02-05",
+    "chunking": {
+      "service": "PrtDocumentInference",
+      "chunkingStrategy": "llm_semantic_batch",
+      "llmPromptVersion": "v1.0.3",
+      "batchId": "b9648a27-324c-412e-ae85-cd174168ad2d",
+      "chunkingRequestId": "a877b5ff-e970-40c0-bcea-cdbff4c50a63",
+      "totalChunks": 1,
+      "processingTime": 1748761,
+      "processingTimestamp": "2026-02-05T11:28:39.862036+00:00",
+      "tokenUsage": {
+        "total_tokens": 1162,
+        "prompt_tokens": 1127,
+        "completion_tokens": 35,
+        "model_version": "gemini-2.5-flash-lite"
+      },
+      "wasRepaired": false,
+      "repairMetadata": null,
+      "has_existing_chunks": true,
+      "chunks_count": 1
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "135bdf1b93dc449fca0e525fad52d970db49108928f1791bd2081908a33f2b0b-0",
+        "idx": 0,
+        "hash": "c0777700a50bc8fc8942e9f72ca2582cf81d81130bf9040a882d93f613f666db",
+        "sim_hash": "2084712272895465698"
+      },
+      "content_original": "They\u2019re women lifted from a weird Instagram account and aside from anything else there seems to be little indication that they\u2019re refugees, or even Syrian",
+      "content": "They\u2019re women lifted from a weird Instagram account and aside from anything else there seems to be little indication that they\u2019re refugees, or even Syrian"
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "5b1807d0-e74a-464d-ad80-615687f0f16e",
+      "timestamp": "2026-02-05T11:28:45.471000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.3",
+        "batchId": "b9648a27-324c-412e-ae85-cd174168ad2d",
+        "chunkingRequestId": "a877b5ff-e970-40c0-bcea-cdbff4c50a63",
+        "totalChunks": 1,
+        "processingTime": 1748761,
+        "processingTimestamp": "2026-02-05T11:28:39.862036+00:00",
+        "tokenUsage": {
+          "total_tokens": 1162,
+          "prompt_tokens": 1127,
+          "completion_tokens": 35,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "wasRepaired": false,
+        "repairMetadata": null,
+        "has_existing_chunks": true,
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "135bdf1b93dc449fca0e525fad52d970db49108928f1791bd2081908a33f2b0b"
+    },
+    {
+      "_id": "89e2169e-36c9-4691-9437-19d958a1eaf5",
+      "timestamp": "2026-02-05T10:59:38.356000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "strategy": "markdown",
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "135bdf1b93dc449fca0e525fad52d970db49108928f1791bd2081908a33f2b0b"
+    },
+    {
+      "_id": "b08f3ba0-f3cb-4227-aafe-1bda45d2fae5",
+      "timestamp": "2025-10-24T15:38:39.305000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2025-10-24",
+      "chunking": {
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "135bdf1b93dc449fca0e525fad52d970db49108928f1791bd2081908a33f2b0b"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Dazed</title>\r\n    <link>https://dazeddigital.com/feed/rss/gist</link>\r\n    <description>Youth and pop culture provocateurs since 1991. Fearless fashion, music, art, film, politics and ideas from today's bleeding edge. Declare Independence.</description>\r\n    <item>\r\n      <title>Website lists \u2018hot Syrian refugees\u2019 suitable for America</title>\r\n      <link>https://www.dazeddigital.com/artsandculture/article/28508/1/website-lists-hot-syrian-refugees-it-d-accept-in-america</link>\r\n      <description>They\u2019re women lifted from a weird Instagram account and aside from anything else there seems to be little indication that they\u2019re refugees, or even Syrian</description>\r\n      <pubDate>Thu, 19 Nov 2015 19:32:00 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">https://www.dazeddigital.com/artsandculture/article/28508/1/website-lists-hot-syrian-refugees-it-d-accept-in-america</guid>\r\n      <dc:creator>Thomas Gorton</dc:creator>\r\n      <dc:date>2015-11-19T19:32:00Z</dc:date>\r\n      <media:keywords>Syria, The Syrian Conflict, Internet, Instagram</media:keywords>\r\n      <media:text type=\"html\">In the wake of the Paris attacks,\u00a0more than half of all US states have attempted to block the resettlement of Syrian refugees. Obama has had his wise say on the matter and declared any resistance to housing people fleeing war as un-American. Still, tensions are high and anti-immigration rhetoric feverish \u2013 Donald Trump\u00a0has called for a 'big beautiful wall to be built'.\r\nHowever one site \u2013 Fox News-affiliated blog The Daily Caller \u2013 is really stepping up, with a\u00a0list of 13 female refugees it would take immediately on the basis that they\u2019re hot. Aside from anything, 13 isn\u2019t exactly generous given that there are an\u00a0estimated 7 million refugees displaced by the civil war.\r\nIn response to multiple governors making public announcements that they will not accept any Syrian refugees, The Daily Caller says, 'while a growing list of governors are claiming they won\u2019t allow Syrian refugees to enter their states, we think these women might make them change their minds. They are Syria-sly hot.' Syria-sly hot.\r\nSome of the photos The Daily Caller embedded have since been taken down, possibly by the horrified runner of said account, but were lifted from a relatively small-time Instagram (just 48 posts and 7,000 followers) by the name of @syrian_girls. The posts are sporadic, with the last picture having been uploaded around 15 weeks ago. Really, it feels like The Daily Caller has scoured not that far and not that wide with a 'syrian girls instagram' Google search in order to create a list of 13 hot 'Syrian refugees' intended to lightheartedly encourage US governors to totally abandon their xenophobic policy that was only adopted to curry favour with frightened voters in the first place.\r\nAn article titled 'Syrian refugees we\u2019d take immediately' should scroll down for hours \u2013 fortunately this list making light of people\u2019s lives being irreversibly changed for the worse only takes around ten seconds to process and acknowledge as trash.</media:text>\r\n      <media:content type=\"image/jpeg\" isDefault=\"true\" url=\"https://images-prod.dazeddigital.com/1057/azure/dazed-prod/1150/0/1150221.jpg\" />\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "They\u2019re women lifted from a weird Instagram account and aside from anything else there seems to be little indication that they\u2019re refugees, or even Syrian"
+}

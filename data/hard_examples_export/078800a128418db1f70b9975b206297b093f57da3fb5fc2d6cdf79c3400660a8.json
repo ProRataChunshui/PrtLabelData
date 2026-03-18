@@ -1,0 +1,265 @@
+{
+  "document_id": "078800a128418db1f70b9975b206297b093f57da3fb5fc2d6cdf79c3400660a8",
+  "document_metadata": {
+    "id": "078800a128418db1f70b9975b206297b093f57da3fb5fc2d6cdf79c3400660a8",
+    "date": 20141202,
+    "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "image": "https://images-prod.dazeddigital.com/953/azure/dazed-prod/1090/9/1099570.jpg",
+    "date_year": 2014,
+    "date_month": 12,
+    "crawl_date": "2026-02-05T11:02:50.303549459Z",
+    "date_day": 2,
+    "title": "Russia bans distribution of Cannibal Corpse artwork",
+    "url": "https://www.dazeddigital.com/music/article/22786/1/russia-bans-distribution-of-cannibal-corpse-artwork",
+    "url2": "https://www.dazeddigital.com/music/article/22786/1/russia-bans-distribution-of-cannibal-corpse-artwork",
+    "domain": "www.dazeddigital.com",
+    "lang": "unknown",
+    "published_date": "2014-12-02T10:33:00Z",
+    "authors": [
+      "Thomas Gorton"
+    ],
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2026-02-05T11:02:50.303000",
+    "published_date_parsed": "2014-12-02T10:33:00",
+    "rawType": "xml",
+    "publisherId": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "documentId": "078800a128418db1f70b9975b206297b093f57da3fb5fc2d6cdf79c3400660a8",
+    "rawcontent_created": "2026-02-05T11:05:06.485000",
+    "source": "Dazed",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=www.dazeddigital.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=www.dazeddigital.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=www.dazeddigital.com",
+    "first_words": "The legendary death metal band could \u2018damage the mental health of children\u2019. Great PR if you can get it",
+    "has_chunks": true,
+    "has_denoised_markdown": true
+  },
+  "publisher_metadata": {
+    "id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "group_id": "c64289fd-a8ce-4f8b-8375-f1d15bc04f6d",
+    "name": "Dazed",
+    "domain": "dazeddigital.com",
+    "location": "Global",
+    "country": "Global",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "Russia bans distribution of Cannibal Corpse artwork",
+    "document_authors_txt": [
+      "Thomas Gorton"
+    ],
+    "hash": "c7bd6649cf002349f8fd37cb495d0a6afc3c8c412ca0095e393411e8b3f8b1c3"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2026-02-05",
+    "chunking": {
+      "service": "PrtDocumentInference",
+      "chunkingStrategy": "llm_semantic_batch",
+      "llmPromptVersion": "v1.0.3",
+      "batchId": "d995c384-8d1e-412c-afef-319e61aac50e",
+      "chunkingRequestId": "2854c333-7613-45a0-82b9-7bdad5d92f32",
+      "totalChunks": 1,
+      "processingTime": 2628276,
+      "processingTimestamp": "2026-02-05T11:49:49.431973+00:00",
+      "tokenUsage": {
+        "total_tokens": 1144,
+        "prompt_tokens": 1118,
+        "completion_tokens": 26,
+        "model_version": "gemini-2.5-flash-lite"
+      },
+      "wasRepaired": false,
+      "repairMetadata": null,
+      "has_existing_chunks": true,
+      "chunks_count": 1
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "078800a128418db1f70b9975b206297b093f57da3fb5fc2d6cdf79c3400660a8-0",
+        "idx": 0,
+        "hash": "b5ce52afbb497ffe4b920a477ed9e1457b46123119980c4edaf3369a688eb9d8",
+        "sim_hash": "1461720168227345176"
+      },
+      "content_original": "The legendary death metal band could \u2018damage the mental health of children\u2019. Great PR if you can get it",
+      "content": "The legendary death metal band could \u2018damage the mental health of children\u2019. Great PR if you can get it"
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "0b136248-bd51-41e7-9891-ca99c7f21f69",
+      "timestamp": "2026-02-05T11:49:59.439000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.3",
+        "batchId": "d995c384-8d1e-412c-afef-319e61aac50e",
+        "chunkingRequestId": "2854c333-7613-45a0-82b9-7bdad5d92f32",
+        "totalChunks": 1,
+        "processingTime": 2628276,
+        "processingTimestamp": "2026-02-05T11:49:49.431973+00:00",
+        "tokenUsage": {
+          "total_tokens": 1144,
+          "prompt_tokens": 1118,
+          "completion_tokens": 26,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "wasRepaired": false,
+        "repairMetadata": null,
+        "has_existing_chunks": true,
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "078800a128418db1f70b9975b206297b093f57da3fb5fc2d6cdf79c3400660a8"
+    },
+    {
+      "_id": "5c812e44-d84b-4c5a-b28e-78879979cae8",
+      "timestamp": "2025-10-24T15:47:08.225000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2025-10-24",
+      "chunking": {
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "078800a128418db1f70b9975b206297b093f57da3fb5fc2d6cdf79c3400660a8"
+    },
+    {
+      "_id": "8ff3cbec-fcf3-4915-8ea0-888697143a77",
+      "timestamp": "2026-02-05T11:42:34.025000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.3",
+        "batchId": "ce1ae411-5142-4313-974e-50dcfc8f549e",
+        "chunkingRequestId": "4cbc7ece-9f91-44fa-b0b3-5936306967ef",
+        "totalChunks": 1,
+        "processingTime": 2178970,
+        "processingTimestamp": "2026-02-05T11:42:23.088200+00:00",
+        "tokenUsage": {
+          "total_tokens": 1144,
+          "prompt_tokens": 1118,
+          "completion_tokens": 26,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "wasRepaired": false,
+        "repairMetadata": null,
+        "has_existing_chunks": true,
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "078800a128418db1f70b9975b206297b093f57da3fb5fc2d6cdf79c3400660a8"
+    },
+    {
+      "_id": "b57a2227-4412-4ae1-bcc3-0d246b487854",
+      "timestamp": "2026-02-05T11:05:12.369000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "strategy": "markdown",
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "078800a128418db1f70b9975b206297b093f57da3fb5fc2d6cdf79c3400660a8"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Dazed</title>\r\n    <link>https://dazeddigital.com/feed/rss/gist</link>\r\n    <description>Youth and pop culture provocateurs since 1991. Fearless fashion, music, art, film, politics and ideas from today's bleeding edge. Declare Independence.</description>\r\n    <item>\r\n      <title>Russia bans distribution of Cannibal Corpse artwork</title>\r\n      <link>https://www.dazeddigital.com/music/article/22786/1/russia-bans-distribution-of-cannibal-corpse-artwork</link>\r\n      <description>The legendary death metal band could \u2018damage the mental health of children\u2019. Great PR if you can get it</description>\r\n      <pubDate>Tue, 02 Dec 2014 10:33:00 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">https://www.dazeddigital.com/music/article/22786/1/russia-bans-distribution-of-cannibal-corpse-artwork</guid>\r\n      <dc:creator>Thomas Gorton</dc:creator>\r\n      <dc:date>2014-12-02T10:33:00Z</dc:date>\r\n      <media:keywords>Russia, Cannibal Corpse, Death metal, Black metal</media:keywords>\r\n      <media:text type=\"html\">There is more or less nothing better for a death metal band's rep than to be banned by an entire country on the grounds that the mere existence of the group and its material can cause permanent damage to the mental health of children.\r\nThat's exactly what Russia has done to Cannibal Corpse, the legendary death metal outfit from Buffalo, New York, authors of songs such as Entrails Ripped From A Virgin's Cunt,\u00a0Necropedophile and Fucked with a Knife.\r\nAccording\u00a0to news outlet RIA Novosti, Russia has banned the distribution of any Cannibal Corpse artwork or translations of the lyrics because of 'the descriptions of violence, the physical and mental abuse of people and animals, murder and suicide'. The confusing bit? Listening to the band is still allowed \u2013 looking at their album covers isn't.\r\nCannibal Corpse endured a difficult tour of Russia this year. Facing vocal protests about their presence in the country from Orthodox Christians, who unsurprisingly felt that the band's message was a little off-point.\r\nSix of the eight scheduled shows were stopped for a variety of mysterious reasons, including unspecified technical reasons, a venue being behind on rent (similar to Mykki Blanco's recent Moscow show) and a police raid searching for drugs.\r\nThe band are used to doing battle with the authorities: their albums were banned in Germany and Australia until 2006. Rapsi News\u00a0reports that Russia is still figuring out how it's going to make distributing Cannibal Corpse artwork an offence, or how it's going to monitor it. Given that Cannibal Corpse's fans are mostly young metalheads, there's a chance that the Russian authorities just made some art illegal and consequently really cool.</media:text>\r\n      <media:text type=\"html\">(h/t\u00a0the Guardian)</media:text>\r\n      <media:embed url=\"https://www.youtube.com/embed/gNhN6lT-y5U\" />\r\n      <media:content type=\"image/jpeg\" isDefault=\"true\" url=\"https://images-prod.dazeddigital.com/953/azure/dazed-prod/1090/9/1099570.jpg\" />\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "The legendary death metal band could \u2018damage the mental health of children\u2019. Great PR if you can get it"
+}

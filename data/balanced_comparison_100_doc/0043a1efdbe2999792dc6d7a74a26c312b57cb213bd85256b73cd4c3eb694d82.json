@@ -1,0 +1,274 @@
+{
+  "document_id": "0043a1efdbe2999792dc6d7a74a26c312b57cb213bd85256b73cd4c3eb694d82",
+  "document_metadata": {
+    "id": "0043a1efdbe2999792dc6d7a74a26c312b57cb213bd85256b73cd4c3eb694d82",
+    "date": 20251115,
+    "publisher_id": "a4ed7b58-4d66-4c3c-93c5-f9905beffbd4",
+    "image": "https://i2-prod.walesonline.co.uk/lifestyle/tv/article32882215.ece/ALTERNATES/s810/1_Screen-Shot-2025-11-15-at-205109.jpg",
+    "date_year": 2025,
+    "date_month": 11,
+    "crawl_date": "2025-11-15T22:08:46.473883560Z",
+    "date_day": 15,
+    "title": "The Wheel's Michael McIntyre stunned by star's 'appalling' blunder as fans left cringing",
+    "url": "https://www.walesonline.co.uk/lifestyle/tv/wheels-michael-mcintyre-stunned-stars-32882216",
+    "url2": "https://www.walesonline.co.uk/lifestyle/tv/wheels-michael-mcintyre-stunned-stars-32882216",
+    "domain": "www.walesonline.co.uk",
+    "lang": "unknown",
+    "published_date": "2025-11-15T21:27:34Z",
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "a4ed7b58-4d66-4c3c-93c5-f9905beffbd4",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2025-11-15T22:08:46.473000",
+    "published_date_parsed": "2025-11-15T21:27:34",
+    "rawType": "xml",
+    "publisherId": "a4ed7b58-4d66-4c3c-93c5-f9905beffbd4",
+    "documentId": "0043a1efdbe2999792dc6d7a74a26c312b57cb213bd85256b73cd4c3eb694d82",
+    "rawcontent_created": "2025-11-15T22:08:47.933000",
+    "source": "Wales Online",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=www.walesonline.co.uk",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=www.walesonline.co.uk",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=www.walesonline.co.uk",
+    "first_words": "Viewers of The Wheel were left squirming during reality star Joey Essex's stint on the BBC gameshow. The popular long-running programme made its return on Saturday evening (November 15), with Michael McIntyre once again presenting. Celebrity specialists Stacey Dooley, Maisie Adam, Oti Mabuse, Asim Chaudhry, Ricky Wilson, Omid Djalili and Joey Essex were available to assist contestants in their quest to secure substantial prize money. First up was contestant John, who hoped to win funds towards purchasing a home with his husband. His opening question concerned indie music, with reality television personality Joey assigned to provide assistance",
+    "has_chunks": true
+  },
+  "publisher_metadata": {
+    "id": "a4ed7b58-4d66-4c3c-93c5-f9905beffbd4",
+    "group_id": "1c58b55e-91f1-45f8-8bc8-9de57018f8c8",
+    "name": "Wales Online",
+    "domain": "walesonline.co.uk",
+    "location": "Wales, United Kingdom",
+    "country": "United Kingdom",
+    "location1": "Wales",
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": [
+      "186d72ec-3dbe-4c75-97a5-578fb5e2fd06"
+    ]
+  },
+  "content_metadata": {
+    "document_title_txt": "The Wheel's Michael McIntyre stunned by star's 'appalling' blunder as fans left cringing",
+    "document_authors_txt": [],
+    "hash": "1e7c2caa28cb23207d392f9665982156658452c31211d2db93f644798d996d22"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2025-11-15",
+    "chunking": {
+      "service": "PrtDocumentInference",
+      "chunkingStrategy": "llm_semantic_batch",
+      "llmPromptVersion": "v1.0.1",
+      "batchId": "2fbc2e81-0113-437a-bf26-e594a774ea01",
+      "chunkingRequestId": "bd10a6be-e04f-44ef-9bce-8a8247be97d0",
+      "totalChunks": 2,
+      "processingTime": 1186374,
+      "processingTimestamp": "2025-11-15T22:28:47.791186+00:00",
+      "tokenUsage": {
+        "total_tokens": 2221,
+        "prompt_tokens": 1669,
+        "completion_tokens": 552,
+        "model_version": "gemini-2.5-flash-lite"
+      },
+      "has_existing_chunks": true,
+      "chunks_count": 2
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0043a1efdbe2999792dc6d7a74a26c312b57cb213bd85256b73cd4c3eb694d82-1",
+        "idx": 1,
+        "hash": "3ead7500979484ab3aaed01f1267fa2202322e6ef89607ca7f1bce7d60988002",
+        "sim_hash": "17598215101343015672"
+      },
+      "content_original": "Joey and John were subsequently presented with the question: \u201cWhich of these words do not feature in the lyrics to the Killers' indie anthem Mr Brightside.\u201c The options included Alibis, Destiny, Control and Escape. Yet it was Joey's pronunciation of Alibis that sparked considerable discussion, as he enquired: \u201cWhat does Alibis mean?\u201c A shocked Michael observed whilst the studio audience erupted in laughter. Meanwhile, viewers at home expressed frustration over Joey's gaffe, with one person posting on X: \u201cAlibis, he's taking the p***.\u201c Another commented: \u201cThe education of some people in this country is appalling.\u201c A third viewer commented: \u201cJoey Essex trying to pronounce the word \u201cAlibis\u201c is the funniest thing I've heard this year.\u201c Another added: \u201cWhy do they still have Joey Essex on TV? Just irritating. What's funny about being famous for pretending to be stupid?\u201c. Despite the pronunciation error, Joey and John selected the correct answer, which was escape. However, John was eliminated in the following round after he and Oti Mabuse failed to provide the right answer. Later in the programme, John faced a question about dentistry - Joey's chosen subject. The question asked: 'According to 2024 YouGov survey, what percentage of Britain adults brush their teeth twice a day?\u201c The options were 22%, 45%, 68% and 89%. With assistance from Oti, John selected 68%, which proved correct. But when Michael checked with Joey to see if he had answered correctly, Joey revealed he had chosen 45%. The Wheel airs every Saturday at 8pm on BBC One.",
+      "content": "Joey and John were subsequently presented with the question: \u201cWhich of these words do not feature in the lyrics to the Killers' indie anthem Mr Brightside.\u201c The options included Alibis, Destiny, Control and Escape. Yet it was Joey's pronunciation of Alibis that sparked considerable discussion, as he enquired: \u201cWhat does Alibis mean?\u201c A shocked Michael observed whilst the studio audience erupted in laughter. Meanwhile, viewers at home expressed frustration over Joey's gaffe, with one person posting on X: \u201cAlibis, he's taking the p***.\u201c Another commented: \u201cThe education of some people in this country is appalling.\u201c A third viewer commented: \u201cJoey Essex trying to pronounce the word \u201cAlibis\u201c is the funniest thing I've heard this year.\u201c Another added: \u201cWhy do they still have Joey Essex on TV? Just irritating. What's funny about being famous for pretending to be stupid?\u201c. Despite the pronunciation error, Joey and John selected the correct answer, which was escape. However, John was eliminated in the following round after he and Oti Mabuse failed to provide the right answer. Later in the programme, John faced a question about dentistry - Joey's chosen subject. The question asked: 'According to 2024 YouGov survey, what percentage of Britain adults brush their teeth twice a day?\u201c The options were 22%, 45%, 68% and 89%. With assistance from Oti, John selected 68%, which proved correct. But when Michael checked with Joey to see if he had answered correctly, Joey revealed he had chosen 45%. The Wheel airs every Saturday at 8pm on BBC One."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0043a1efdbe2999792dc6d7a74a26c312b57cb213bd85256b73cd4c3eb694d82-0",
+        "idx": 0,
+        "hash": "62bc616fc87fd92bed5ef1c38efe9a10c3805a8c8e75b1216530292a4a325d6a",
+        "sim_hash": "15480695611144146664"
+      },
+      "content_original": "Viewers of The Wheel were left squirming during reality star Joey Essex's stint on the BBC gameshow. The popular long-running programme made its return on Saturday evening (November 15), with Michael McIntyre once again presenting. Celebrity specialists Stacey Dooley, Maisie Adam, Oti Mabuse, Asim Chaudhry, Ricky Wilson, Omid Djalili and Joey Essex were available to assist contestants in their quest to secure substantial prize money. First up was contestant John, who hoped to win funds towards purchasing a home with his husband. His opening question concerned indie music, with reality television personality Joey assigned to provide assistance - but things took an awkward turn. Within moments of the game commencing, a confused Joey, seemingly uncertain about the format, exclaimed: \u201cWhat does this mean! ?\u201c whilst his fellow celebrities chuckled. An astonished Michael remarked: \u201cIt doesn't bode well that Joey says 'what does this mean?'\u201c, reports the Mirror.",
+      "content": "Viewers of The Wheel were left squirming during reality star Joey Essex's stint on the BBC gameshow. The popular long-running programme made its return on Saturday evening (November 15), with Michael McIntyre once again presenting. Celebrity specialists Stacey Dooley, Maisie Adam, Oti Mabuse, Asim Chaudhry, Ricky Wilson, Omid Djalili and Joey Essex were available to assist contestants in their quest to secure substantial prize money. First up was contestant John, who hoped to win funds towards purchasing a home with his husband. His opening question concerned indie music, with reality television personality Joey assigned to provide assistance - but things took an awkward turn. Within moments of the game commencing, a confused Joey, seemingly uncertain about the format, exclaimed: \u201cWhat does this mean! ?\u201c whilst his fellow celebrities chuckled. An astonished Michael remarked: \u201cIt doesn't bode well that Joey says 'what does this mean?'\u201c, reports the Mirror."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0043a1efdbe2999792dc6d7a74a26c312b57cb213bd85256b73cd4c3eb694d82-1",
+        "idx": 1,
+        "hash": "3ead7500979484ab3aaed01f1267fa2202322e6ef89607ca7f1bce7d60988002",
+        "sim_hash": "17598215101343015672"
+      },
+      "content_original": "Joey and John were subsequently presented with the question: \u201cWhich of these words do not feature in the lyrics to the Killers' indie anthem Mr Brightside.\u201c The options included Alibis, Destiny, Control and Escape. Yet it was Joey's pronunciation of Alibis that sparked considerable discussion, as he enquired: \u201cWhat does Alibis mean?\u201c A shocked Michael observed whilst the studio audience erupted in laughter. Meanwhile, viewers at home expressed frustration over Joey's gaffe, with one person posting on X: \u201cAlibis, he's taking the p***.\u201c Another commented: \u201cThe education of some people in this country is appalling.\u201c A third viewer commented: \u201cJoey Essex trying to pronounce the word \u201cAlibis\u201c is the funniest thing I've heard this year.\u201c Another added: \u201cWhy do they still have Joey Essex on TV? Just irritating. What's funny about being famous for pretending to be stupid?\u201c. Despite the pronunciation error, Joey and John selected the correct answer, which was escape. However, John was eliminated in the following round after he and Oti Mabuse failed to provide the right answer. Later in the programme, John faced a question about dentistry - Joey's chosen subject. The question asked: 'According to 2024 YouGov survey, what percentage of Britain adults brush their teeth twice a day?\u201c The options were 22%, 45%, 68% and 89%. With assistance from Oti, John selected 68%, which proved correct. But when Michael checked with Joey to see if he had answered correctly, Joey revealed he had chosen 45%. The Wheel airs every Saturday at 8pm on BBC One.",
+      "content": "Joey and John were subsequently presented with the question: \u201cWhich of these words do not feature in the lyrics to the Killers' indie anthem Mr Brightside.\u201c The options included Alibis, Destiny, Control and Escape. Yet it was Joey's pronunciation of Alibis that sparked considerable discussion, as he enquired: \u201cWhat does Alibis mean?\u201c A shocked Michael observed whilst the studio audience erupted in laughter. Meanwhile, viewers at home expressed frustration over Joey's gaffe, with one person posting on X: \u201cAlibis, he's taking the p***.\u201c Another commented: \u201cThe education of some people in this country is appalling.\u201c A third viewer commented: \u201cJoey Essex trying to pronounce the word \u201cAlibis\u201c is the funniest thing I've heard this year.\u201c Another added: \u201cWhy do they still have Joey Essex on TV? Just irritating. What's funny about being famous for pretending to be stupid?\u201c. Despite the pronunciation error, Joey and John selected the correct answer, which was escape. However, John was eliminated in the following round after he and Oti Mabuse failed to provide the right answer. Later in the programme, John faced a question about dentistry - Joey's chosen subject. The question asked: 'According to 2024 YouGov survey, what percentage of Britain adults brush their teeth twice a day?\u201c The options were 22%, 45%, 68% and 89%. With assistance from Oti, John selected 68%, which proved correct. But when Michael checked with Joey to see if he had answered correctly, Joey revealed he had chosen 45%. The Wheel airs every Saturday at 8pm on BBC One."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0043a1efdbe2999792dc6d7a74a26c312b57cb213bd85256b73cd4c3eb694d82-1",
+        "idx": 1,
+        "hash": "3ead7500979484ab3aaed01f1267fa2202322e6ef89607ca7f1bce7d60988002",
+        "sim_hash": "17598215101343015672"
+      },
+      "content_original": "Joey and John were subsequently presented with the question: \u201cWhich of these words do not feature in the lyrics to the Killers' indie anthem Mr Brightside.\u201c The options included Alibis, Destiny, Control and Escape. Yet it was Joey's pronunciation of Alibis that sparked considerable discussion, as he enquired: \u201cWhat does Alibis mean?\u201c A shocked Michael observed whilst the studio audience erupted in laughter. Meanwhile, viewers at home expressed frustration over Joey's gaffe, with one person posting on X: \u201cAlibis, he's taking the p***.\u201c Another commented: \u201cThe education of some people in this country is appalling.\u201c A third viewer commented: \u201cJoey Essex trying to pronounce the word \u201cAlibis\u201c is the funniest thing I've heard this year.\u201c Another added: \u201cWhy do they still have Joey Essex on TV? Just irritating. What's funny about being famous for pretending to be stupid?\u201c. Despite the pronunciation error, Joey and John selected the correct answer, which was escape. However, John was eliminated in the following round after he and Oti Mabuse failed to provide the right answer. Later in the programme, John faced a question about dentistry - Joey's chosen subject. The question asked: 'According to 2024 YouGov survey, what percentage of Britain adults brush their teeth twice a day?\u201c The options were 22%, 45%, 68% and 89%. With assistance from Oti, John selected 68%, which proved correct. But when Michael checked with Joey to see if he had answered correctly, Joey revealed he had chosen 45%. The Wheel airs every Saturday at 8pm on BBC One.",
+      "content": "Joey and John were subsequently presented with the question: \u201cWhich of these words do not feature in the lyrics to the Killers' indie anthem Mr Brightside.\u201c The options included Alibis, Destiny, Control and Escape. Yet it was Joey's pronunciation of Alibis that sparked considerable discussion, as he enquired: \u201cWhat does Alibis mean?\u201c A shocked Michael observed whilst the studio audience erupted in laughter. Meanwhile, viewers at home expressed frustration over Joey's gaffe, with one person posting on X: \u201cAlibis, he's taking the p***.\u201c Another commented: \u201cThe education of some people in this country is appalling.\u201c A third viewer commented: \u201cJoey Essex trying to pronounce the word \u201cAlibis\u201c is the funniest thing I've heard this year.\u201c Another added: \u201cWhy do they still have Joey Essex on TV? Just irritating. What's funny about being famous for pretending to be stupid?\u201c. Despite the pronunciation error, Joey and John selected the correct answer, which was escape. However, John was eliminated in the following round after he and Oti Mabuse failed to provide the right answer. Later in the programme, John faced a question about dentistry - Joey's chosen subject. The question asked: 'According to 2024 YouGov survey, what percentage of Britain adults brush their teeth twice a day?\u201c The options were 22%, 45%, 68% and 89%. With assistance from Oti, John selected 68%, which proved correct. But when Michael checked with Joey to see if he had answered correctly, Joey revealed he had chosen 45%. The Wheel airs every Saturday at 8pm on BBC One."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0043a1efdbe2999792dc6d7a74a26c312b57cb213bd85256b73cd4c3eb694d82-0",
+        "idx": 0,
+        "hash": "62bc616fc87fd92bed5ef1c38efe9a10c3805a8c8e75b1216530292a4a325d6a",
+        "sim_hash": "15480695611144146664"
+      },
+      "content_original": "Viewers of The Wheel were left squirming during reality star Joey Essex's stint on the BBC gameshow. The popular long-running programme made its return on Saturday evening (November 15), with Michael McIntyre once again presenting. Celebrity specialists Stacey Dooley, Maisie Adam, Oti Mabuse, Asim Chaudhry, Ricky Wilson, Omid Djalili and Joey Essex were available to assist contestants in their quest to secure substantial prize money. First up was contestant John, who hoped to win funds towards purchasing a home with his husband. His opening question concerned indie music, with reality television personality Joey assigned to provide assistance - but things took an awkward turn. Within moments of the game commencing, a confused Joey, seemingly uncertain about the format, exclaimed: \u201cWhat does this mean! ?\u201c whilst his fellow celebrities chuckled. An astonished Michael remarked: \u201cIt doesn't bode well that Joey says 'what does this mean?'\u201c, reports the Mirror.",
+      "content": "Viewers of The Wheel were left squirming during reality star Joey Essex's stint on the BBC gameshow. The popular long-running programme made its return on Saturday evening (November 15), with Michael McIntyre once again presenting. Celebrity specialists Stacey Dooley, Maisie Adam, Oti Mabuse, Asim Chaudhry, Ricky Wilson, Omid Djalili and Joey Essex were available to assist contestants in their quest to secure substantial prize money. First up was contestant John, who hoped to win funds towards purchasing a home with his husband. His opening question concerned indie music, with reality television personality Joey assigned to provide assistance - but things took an awkward turn. Within moments of the game commencing, a confused Joey, seemingly uncertain about the format, exclaimed: \u201cWhat does this mean! ?\u201c whilst his fellow celebrities chuckled. An astonished Michael remarked: \u201cIt doesn't bode well that Joey says 'what does this mean?'\u201c, reports the Mirror."
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "15a5f7b3-f2a4-40ab-ab9c-90f1c12d4132",
+      "timestamp": "2025-11-15T22:29:13.223000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "a4ed7b58-4d66-4c3c-93c5-f9905beffbd4",
+      "version": "2.3",
+      "date": "2025-11-15",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.1",
+        "batchId": "2fbc2e81-0113-437a-bf26-e594a774ea01",
+        "chunkingRequestId": "bd10a6be-e04f-44ef-9bce-8a8247be97d0",
+        "totalChunks": 2,
+        "processingTime": 1186374,
+        "processingTimestamp": "2025-11-15T22:28:47.791186+00:00",
+        "tokenUsage": {
+          "total_tokens": 2221,
+          "prompt_tokens": 1669,
+          "completion_tokens": 552,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "has_existing_chunks": true,
+        "chunks_count": 2
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 2,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "0043a1efdbe2999792dc6d7a74a26c312b57cb213bd85256b73cd4c3eb694d82"
+    },
+    {
+      "_id": "3ef838cc-66f6-46a6-ab44-b4f3342c4917",
+      "timestamp": "2025-11-15T22:08:50.981000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "a4ed7b58-4d66-4c3c-93c5-f9905beffbd4",
+      "version": "2.3",
+      "date": "2025-11-15",
+      "chunking": {
+        "strategy": "simple",
+        "chunks_count": 4
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "none",
+        "model": "none",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 4,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "0043a1efdbe2999792dc6d7a74a26c312b57cb213bd85256b73cd4c3eb694d82"
+    },
+    {
+      "_id": "59b680b6-905f-47d2-9e9d-ca59318d8bef",
+      "timestamp": "2025-11-15T22:33:31.230000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "a4ed7b58-4d66-4c3c-93c5-f9905beffbd4",
+      "version": "2.3",
+      "date": "2025-11-15",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.1",
+        "batchId": "2fbc2e81-0113-437a-bf26-e594a774ea01",
+        "chunkingRequestId": "bd10a6be-e04f-44ef-9bce-8a8247be97d0",
+        "totalChunks": 2,
+        "processingTime": 1186374,
+        "processingTimestamp": "2025-11-15T22:28:47.791186+00:00",
+        "tokenUsage": {
+          "total_tokens": 2221,
+          "prompt_tokens": 1669,
+          "completion_tokens": 552,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "has_existing_chunks": true,
+        "chunks_count": 2
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 2,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "0043a1efdbe2999792dc6d7a74a26c312b57cb213bd85256b73cd4c3eb694d82"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Home - WalesOnline Online</title>\r\n    <link>https://www.walesonline.co.uk/</link>\r\n    <description>RSS feed from WalesOnline - Home</description>\r\n    <item>\r\n      <title>The Wheel's Michael McIntyre stunned by star's 'appalling' blunder as fans left cringing</title>\r\n      <link>https://www.walesonline.co.uk/lifestyle/tv/wheels-michael-mcintyre-stunned-stars-32882216</link>\r\n      <dcterms:modified xmlns:dcterms=\"http://purl.org/dc/terms/modified\">Sat, 15 Nov 2025 21:33:15 +0000</dcterms:modified>\r\n      <description>The Wheel was back on our screens on Saturday night with a celebrity-filled line-up</description>\r\n      <pubDate>Sat, 15 Nov 2025 21:27:34 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">32882216</guid>\r\n      <dc:creator>Joe Crutchley</dc:creator>\r\n      <dc:date>2025-11-15T21:27:34Z</dc:date>\r\n      <content:encoded><![CDATA[<p>Viewers of The Wheel were left squirming during reality star Joey Essex&apos;s stint on the <a href=\"https://www.walesonline.co.uk/all-about/bbc\" data-link-tracking=\"InArticle|Link\" data-content-type=\"section-topic\">BBC</a> gameshow.</p> \n<p>The popular long-running programme made its return on Saturday evening (November 15), with Michael McIntyre once again presenting.</p> \n<p>Celebrity specialists Stacey Dooley, Maisie Adam, Oti Mabuse, Asim Chaudhry, Ricky Wilson, Omid Djalili and Joey Essex were available to assist contestants in their quest to secure substantial prize money.</p>\n<ul>\n<li><a href=\"https://www.walesonline.co.uk/lifestyle/tv/couples-still-together-married-first-32878847?int_source=nba\" target=\"_self\" rel=\"follow\">Which couples are still together from Married at First Sight UK 2025?</a></li>\n<li><a href=\"https://www.walesonline.co.uk/lifestyle/tv/bbc-children-need-fans-sobbing-32872127?int_source=nba\" target=\"_self\" rel=\"follow\">BBC Children in Need fans sobbing as DIY SOS star announces son&apos;s heartbreaking death</a></li>\n</ul> \n<p>First up was contestant John, who hoped to win funds towards purchasing a home with his husband. His opening question concerned indie music, with reality television personality Joey assigned to provide assistance - but things took an awkward turn. </p> \n<img alt=\"The Wheel\" src=\"https://i2-prod.walesonline.co.uk/lifestyle/tv/article32882212.ece/ALTERNATES/s810/0_Screen-Shot-2025-11-15-at-205759.jpg\" title=\"Joey appeared on BBC&#x2019;s The Wheel\" data-portal-copyright=\"BBC\"/> \n<p>Within moments of the game commencing, a confused Joey, seemingly uncertain about the format, exclaimed: &quot;What does this mean! ?&quot; whilst his fellow celebrities chuckled. An astonished Michael remarked: &quot;It doesn&apos;t bode well that Joey says &apos;what does this mean?&apos;&quot;, reports <a href=\"https://www.mirror.co.uk/tv/tv-news/joey-essex-sparks-fury-over-36253610\" rel=\"Follow\" target=\"_self\" data-link-tracking=\"InArticle|Link\">the Mirror</a>.</p> \n<p>Joey and John were subsequently presented with the question: &quot;Which of these words do not feature in the lyrics to the Killers&apos; indie anthem Mr Brightside.&quot; The options included Alibis, Destiny, Control and Escape.</p> \n<img alt=\"Joey Essex sparks fury over &apos;appalling&apos; blunder on The Wheel and even host is stunned\" src=\"https://i2-prod.walesonline.co.uk/lifestyle/tv/article32882214.ece/ALTERNATES/s810/0_Screen-Shot-2025-11-15-at-205103.jpg\" title=\"He mispronounced alibis\" data-portal-copyright=\"BBC\"/> \n<p>Yet it was Joey&apos;s pronunciation of Alibis that sparked considerable discussion, as he enquired: &quot;What does Alibis mean?&quot; A shocked Michael observed whilst the studio audience erupted in laughter.</p> \n<p>Meanwhile, viewers at home expressed frustration over Joey&apos;s gaffe, with one person posting on X: &quot;Alibis, he&apos;s taking the p***.&quot; Another commented: &quot;The education of some people in this country is appalling.&quot;</p> \n<img alt=\"The Wheel\" src=\"https://i2-prod.walesonline.co.uk/incoming/article32882225.ece/ALTERNATES/s810/0_Screen-Shot-2025-11-15-at-205819.png\" title=\"Even host Michael was stunned at Joey&apos;s blunder\" data-portal-copyright=\"BBC\"/> \n<p>A third viewer commented: &quot;Joey Essex trying to pronounce the word &quot;Alibis&quot; is the funniest thing I&apos;ve heard this year.&quot; Another added: &quot;Why do they still have Joey Essex on TV? Just irritating. What&apos;s funny about being famous for pretending to be stupid?&quot;.</p> \n<p>Despite the pronunciation error, Joey and John selected the correct answer, which was escape. However, John was eliminated in the following round after he and Oti Mabuse failed to provide the right answer.</p> \n<p>Later in the programme, John faced a question about dentistry - Joey&apos;s chosen subject. The question asked: &apos;According to 2024 YouGov survey, what percentage of Britain adults brush their teeth twice a day?&quot; The options were 22%, 45%, 68% and 89%.</p> \n<p>With assistance from Oti, John selected 68%, which proved correct. But when Michael checked with Joey to see if he had answered correctly, Joey revealed he had chosen 45%.</p> \n<p><b>The Wheel airs every Saturday at 8pm on BBC One.</b></p>]]></content:encoded>\r\n      <media:content medium=\"image\" type=\"image/jpg\" url=\"https://i2-prod.walesonline.co.uk/lifestyle/tv/article32882215.ece/ALTERNATES/s810/1_Screen-Shot-2025-11-15-at-205109.jpg\">\r\n        <media:credit scheme=\"urn:ebu\">BBC</media:credit>\r\n        <media:description>The Wheel's Michael McIntyre stunned by star's 'appalling' blunder as fans left cringing</media:description>\r\n        <media:text>The Wheel</media:text>\r\n        <media:title>The Wheel's Michael McIntyre stunned by star's 'appalling' blunder as fans left cringing</media:title>\r\n      </media:content>\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "Viewers of The Wheel were left squirming during reality star Joey Essex's stint on the [BBC](https://www.walesonline.co.uk/all-about/bbc) gameshow.\n\nThe popular long-running programme made its return on Saturday evening (November 15), with Michael McIntyre once again presenting.\n\nCelebrity specialists Stacey Dooley, Maisie Adam, Oti Mabuse, Asim Chaudhry, Ricky Wilson, Omid Djalili and Joey Essex were available to assist contestants in their quest to secure substantial prize money.\n\n- [Which couples are still together from Married at First Sight UK 2025?](https://www.walesonline.co.uk/lifestyle/tv/couples-still-together-married-first-32878847?int_source=nba)\n- [BBC Children in Need fans sobbing as DIY SOS star announces son's heartbreaking death](https://www.walesonline.co.uk/lifestyle/tv/bbc-children-need-fans-sobbing-32872127?int_source=nba)\n\nFirst up was contestant John, who hoped to win funds towards purchasing a home with his husband. His opening question concerned indie music, with reality television personality Joey assigned to provide assistance - but things took an awkward turn.\n\n![The Wheel](https://i2-prod.walesonline.co.uk/lifestyle/tv/article32882212.ece/ALTERNATES/s810/0_Screen-Shot-2025-11-15-at-205759.jpg \"Joey appeared on BBC\u2019s The Wheel\")\n\nWithin moments of the game commencing, a confused Joey, seemingly uncertain about the format, exclaimed: \"What does this mean! ?\" whilst his fellow celebrities chuckled. An astonished Michael remarked: \"It doesn't bode well that Joey says 'what does this mean?'\", reports [the Mirror](https://www.mirror.co.uk/tv/tv-news/joey-essex-sparks-fury-over-36253610).\n\nJoey and John were subsequently presented with the question: \"Which of these words do not feature in the lyrics to the Killers' indie anthem Mr Brightside.\" The options included Alibis, Destiny, Control and Escape.\n\n![Joey Essex sparks fury over 'appalling' blunder on The Wheel and even host is stunned](https://i2-prod.walesonline.co.uk/lifestyle/tv/article32882214.ece/ALTERNATES/s810/0_Screen-Shot-2025-11-15-at-205103.jpg \"He mispronounced alibis\")\n\nYet it was Joey's pronunciation of Alibis that sparked considerable discussion, as he enquired: \"What does Alibis mean?\" A shocked Michael observed whilst the studio audience erupted in laughter.\n\nMeanwhile, viewers at home expressed frustration over Joey's gaffe, with one person posting on X: \"Alibis, he's taking the p\\*\\*\\*.\" Another commented: \"The education of some people in this country is appalling.\"\n\n![The Wheel](https://i2-prod.walesonline.co.uk/incoming/article32882225.ece/ALTERNATES/s810/0_Screen-Shot-2025-11-15-at-205819.png \"Even host Michael was stunned at Joey's blunder\")\n\nA third viewer commented: \"Joey Essex trying to pronounce the word \"Alibis\" is the funniest thing I've heard this year.\" Another added: \"Why do they still have Joey Essex on TV? Just irritating. What's funny about being famous for pretending to be stupid?\".\n\nDespite the pronunciation error, Joey and John selected the correct answer, which was escape. However, John was eliminated in the following round after he and Oti Mabuse failed to provide the right answer.\n\nLater in the programme, John faced a question about dentistry - Joey's chosen subject. The question asked: 'According to 2024 YouGov survey, what percentage of Britain adults brush their teeth twice a day?\" The options were 22%, 45%, 68% and 89%.\n\nWith assistance from Oti, John selected 68%, which proved correct. But when Michael checked with Joey to see if he had answered correctly, Joey revealed he had chosen 45%.\n\n**The Wheel airs every Saturday at 8pm on BBC One.**"
+}

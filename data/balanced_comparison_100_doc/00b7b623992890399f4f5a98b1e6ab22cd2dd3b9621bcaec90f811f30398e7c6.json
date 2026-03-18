@@ -1,0 +1,139 @@
+{
+  "document_id": "00b7b623992890399f4f5a98b1e6ab22cd2dd3b9621bcaec90f811f30398e7c6",
+  "document_metadata": {
+    "id": "00b7b623992890399f4f5a98b1e6ab22cd2dd3b9621bcaec90f811f30398e7c6",
+    "date": 20231027,
+    "publisher_id": "601c8901-d241-42b0-8c86-73d4702299d9",
+    "date_year": 2023,
+    "date_month": 10,
+    "crawl_date": "2025-10-28T00:42:30.898499196Z",
+    "date_day": 27,
+    "title": "\u2018Sajini Shinde Ka Viral Video\u2019 review: A halfway effective thriller",
+    "url": "https://scroll.in/reel/1058142/sajini-shinde-ka-viral-video-review-a-halfway-effective-thriller?utm_source=rss&utm_medium=prorata",
+    "url2": "https://scroll.in/reel/1058142/sajini-shinde-ka-viral-video-review-a-halfway-effective-thriller?utm_source=rss&utm_medium=prorata",
+    "domain": "scroll.in",
+    "lang": "unknown",
+    "published_date": "2023-10-27T04:35:00Z",
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "601c8901-d241-42b0-8c86-73d4702299d9",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2025-10-28T00:42:30.898000",
+    "published_date_parsed": "2023-10-27T04:35:00",
+    "rawType": "xml",
+    "publisherId": "601c8901-d241-42b0-8c86-73d4702299d9",
+    "documentId": "00b7b623992890399f4f5a98b1e6ab22cd2dd3b9621bcaec90f811f30398e7c6",
+    "rawcontent_created": "2025-10-28T00:42:35.966000",
+    "source": "Scroll.in",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=scroll.in",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=scroll.in",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=scroll.in",
+    "first_words": "If Finnish prime minister Sanna Marin wasn\u2019t spared after a video of her dancing at a private party went viral, school teacher Sajini Shinde (Radhika Madan) has no chance of escaping the consequences of drunk dancing in dishabille during her birthday party. In Mikhil Musale\u2019s Sajini Shinde Ka Viral Video, the eponymous heroine is sacked by her principal (Bhagyashree) under pressure from outraged parents. Sajini\u2019s controlling fiance Siddhant (Soham Majumdar) freaks out. Her autocratic father, the famous stage actor Suryakant (Subodh Bhave), is furious. Her mother (Sneha Raikar) is being mistreated by Suryakant. Coming out of the fog"
+  },
+  "publisher_metadata": {
+    "id": "601c8901-d241-42b0-8c86-73d4702299d9",
+    "group_id": "b6965a2b-55e9-4742-b9a0-bd11b92c8643",
+    "name": "Scroll.in",
+    "domain": "api.scroll.in",
+    "location": "Global",
+    "country": "Global",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "\u2018Sajini Shinde Ka Viral Video\u2019 review: A halfway effective thriller",
+    "document_authors_txt": [],
+    "hash": "7695f05cef4b33c49cd72abf7f191a1c1a1d922ead798b0dd598cf913c17fbe6"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2025-10-28",
+    "chunking": {
+      "chunks_count": 3
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "00b7b623992890399f4f5a98b1e6ab22cd2dd3b9621bcaec90f811f30398e7c6-2",
+        "idx": 2,
+        "hash": "3cd1b8cb8f941fdee3fbcf1b960b8de328575ee51da62f6fd9b0851deeef310e"
+      },
+      "content_original": "Tying up Sajini\u2019s family in knots, setting the father and fiance squabbling with their lawyers in tow (Sumeet Vyas, Kiran Karmarkar), adding the extraneous character of a brother (Ashutosh Gaikwad) and a guilty-looking friend (Rashmi Adgekar) collectively pad a script that does have enough substance to run for nearly two hours.\n\nThe character of the stern, loner female cop, with only a dog for company, is now a stereotype. Still, Nimrat Kaur plays Bela with as much conviction as she can muster. What Musale does well is create the small town Maharashtrian ambience \u2013 the plays Suryakant performs, his fan following (Pawar touches his feet), his patriarchal arrogance (have plays the part with realistic flourishes). The idea that Sajini\u2019s fate affects other women around her is an idea toyed with but not fully realised.",
+      "content": "Tying up Sajini\u2019s family in knots, setting the father and fiance squabbling with their lawyers in tow (Sumeet Vyas, Kiran Karmarkar), adding the extraneous character of a brother (Ashutosh Gaikwad) and a guilty-looking friend (Rashmi Adgekar) collectively pad a script that does have enough substance to run for nearly two hours.\n\nThe character of the stern, loner female cop, with only a dog for company, is now a stereotype. Still, Nimrat Kaur plays Bela with as much conviction as she can muster. What Musale does well is create the small town Maharashtrian ambience \u2013 the plays Suryakant performs, his fan following (Pawar touches his feet), his patriarchal arrogance (have plays the part with realistic flourishes). The idea that Sajini\u2019s fate affects other women around her is an idea toyed with but not fully realised."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "00b7b623992890399f4f5a98b1e6ab22cd2dd3b9621bcaec90f811f30398e7c6-1",
+        "idx": 1,
+        "hash": "9ceb1cf9cb84be5e6acd8c4c5862df9556c8420e91b00587560a349b5c945b00"
+      },
+      "content_original": "Bela (Nimrat Kaur), a non-Marathi speaker who is already straining under the sexism that forces her to work in the women\u2019s cell, is asked to investigate along with junior cop Pawar (Chinmay Mandlekar). Pawar is civil enough to Bela\u2019s face but has saved her name as \u201cDooberman Madam\u201d on his phone. The misspelling amuses Bela more than the nickname.\n\nShe dresses in severe, manly outfits and rarely smiles. When questioning Sajini\u2019s circle, Bela mimics the harsh speech pattern of her male colleagues. She finds that everybody is more concerned about their reputation than Sajini\u2019s disappearance, or possible murder.\n\n![](https://sc0.blr1.cdn.digitaloceanspaces.com/inline/vzebypaial-1698264808.jpg)\n\nThere is not enough pace or spice in the plot (written by Musale, Parinda Joshi, Anu Singh Choudhary and Kshitij Patwardhan) to yield a satisfying thriller. Like in any police procedural, a clue does pop up once in a while, but the final reveal is a let-down.",
+      "content": "Bela (Nimrat Kaur), a non-Marathi speaker who is already straining under the sexism that forces her to work in the women\u2019s cell, is asked to investigate along with junior cop Pawar (Chinmay Mandlekar). Pawar is civil enough to Bela\u2019s face but has saved her name as \u201cDooberman Madam\u201d on his phone. The misspelling amuses Bela more than the nickname.\n\nShe dresses in severe, manly outfits and rarely smiles. When questioning Sajini\u2019s circle, Bela mimics the harsh speech pattern of her male colleagues. She finds that everybody is more concerned about their reputation than Sajini\u2019s disappearance, or possible murder.\n\n![](https://sc0.blr1.cdn.digitaloceanspaces.com/inline/vzebypaial-1698264808.jpg)\n\nThere is not enough pace or spice in the plot (written by Musale, Parinda Joshi, Anu Singh Choudhary and Kshitij Patwardhan) to yield a satisfying thriller. Like in any police procedural, a clue does pop up once in a while, but the final reveal is a let-down."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "00b7b623992890399f4f5a98b1e6ab22cd2dd3b9621bcaec90f811f30398e7c6-0",
+        "idx": 0,
+        "hash": "13b99a479455525de9d798940c38530756c6152410f8a7ec9f809e2e646a7b74"
+      },
+      "content_original": "![](https://sc0.blr1.cdn.digitaloceanspaces.com/article/195295-gfynspxuez-1698265021.jpg)\n\nIf Finnish prime minister Sanna Marin wasn\u2019t spared after a video of her dancing at a private party went viral, school teacher Sajini Shinde (Radhika Madan) has no chance of escaping the consequences of drunk dancing in dishabille during her birthday party.\n\nIn Mikhil Musale\u2019s *Sajini Shinde Ka Viral Video*, the eponymous heroine is sacked by her principal (Bhagyashree) under pressure from outraged parents. Sajini\u2019s controlling fiance Siddhant (Soham Majumdar) freaks out. Her autocratic father, the famous stage actor Suryakant (Subodh Bhave), is furious. Her mother (Sneha Raikar) is being mistreated by Suryakant.\n\nComing out of the fog of slut-shaming opprobrium, Sajini writes a suicide note blaming her father and Siddhant and vanishes. He best friend (Shruti Vyas) raises enough of a stink for the sleepy Pune cops to wake up.",
+      "content": "![](https://sc0.blr1.cdn.digitaloceanspaces.com/article/195295-gfynspxuez-1698265021.jpg)\n\nIf Finnish prime minister Sanna Marin wasn\u2019t spared after a video of her dancing at a private party went viral, school teacher Sajini Shinde (Radhika Madan) has no chance of escaping the consequences of drunk dancing in dishabille during her birthday party.\n\nIn Mikhil Musale\u2019s *Sajini Shinde Ka Viral Video*, the eponymous heroine is sacked by her principal (Bhagyashree) under pressure from outraged parents. Sajini\u2019s controlling fiance Siddhant (Soham Majumdar) freaks out. Her autocratic father, the famous stage actor Suryakant (Subodh Bhave), is furious. Her mother (Sneha Raikar) is being mistreated by Suryakant.\n\nComing out of the fog of slut-shaming opprobrium, Sajini writes a suicide note blaming her father and Siddhant and vanishes. He best friend (Shruti Vyas) raises enough of a stink for the sleepy Pune cops to wake up."
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "1d9def5d-3281-4724-9d27-5fb566bd81c4",
+      "timestamp": "2025-10-28T00:42:41.721000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "601c8901-d241-42b0-8c86-73d4702299d9",
+      "version": "2.3",
+      "date": "2025-10-28",
+      "chunking": {
+        "chunks_count": 3
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 3,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "00b7b623992890399f4f5a98b1e6ab22cd2dd3b9621bcaec90f811f30398e7c6"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Scroll.in</title>\r\n    <link>https://scroll.in</link>\r\n    <description>A digital daily of things that matter.</description>\r\n    <docs>http://www.rssboard.org/rss-specification</docs>\r\n    <generator>python-feedgen</generator>\r\n    <image>\r\n      <title>Scroll.in</title>\r\n      <url>http://s3-ap-southeast-1.amazonaws.com/scroll-feeds/scroll_logo_small.png</url>\r\n      <link>https://scroll.in</link>\r\n      <width>-1</width>\r\n      <height>-1</height>\r\n    </image>\r\n    <item>\r\n      <title>\u2018Sajini Shinde Ka Viral Video\u2019 review: A halfway effective thriller</title>\r\n      <link>https://scroll.in/reel/1058142/sajini-shinde-ka-viral-video-review-a-halfway-effective-thriller?utm_source=rss&amp;utm_medium=prorata</link>\r\n      <description>Mikhil Musale\u2019s movie stars Radhika Madan, Nimrat Kaur, Soham Majumdar, Subodh Bhave and Sneha Raikar.</description>\r\n      <enclosure url=\"https://sc0.blr1.cdn.digitaloceanspaces.com/article/195295-gfynspxuez-1698265021.jpg\" length=\"0\" type=\"image/jpeg\" />\r\n      <pubDate>Fri, 27 Oct 2023 04:35:00 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">https://scroll.in/reel/1058142/sajini-shinde-ka-viral-video-review-a-halfway-effective-thriller?utm_source=rss&amp;utm_medium=prorata</guid>\r\n      <dc:creator>Deepa Gahlot</dc:creator>\r\n      <dc:date>2023-10-27T04:35:00Z</dc:date>\r\n      <content:encoded><![CDATA[<p><figure><img src=\"https://sc0.blr1.cdn.digitaloceanspaces.com/article/195295-gfynspxuez-1698265021.jpg\" /></figure></p><p>If Finnish prime minister Sanna Marin wasn\u2019t spared after a video of her dancing at a private party went viral, school teacher Sajini Shinde (Radhika Madan) has no chance of escaping the consequences of drunk dancing in dishabille during her birthday party.</p><p>In Mikhil Musale\u2019s <em>Sajini Shinde Ka Viral Video</em>, the eponymous heroine is sacked by her principal (Bhagyashree) under pressure from outraged parents. Sajini\u2019s controlling fiance Siddhant (Soham Majumdar) freaks out. Her autocratic father, the famous stage actor Suryakant (Subodh Bhave), is furious. Her mother (Sneha Raikar) is being mistreated by Suryakant.</p><p>Coming out of the fog of slut-shaming opprobrium, Sajini writes a suicide note blaming her father and Siddhant and vanishes. He best friend (Shruti Vyas) raises enough of a stink for the sleepy Pune cops to wake up. </p><p>Bela (Nimrat Kaur), a non-Marathi speaker who is already straining under the sexism that forces her to work in the women\u2019s cell, is asked to investigate along with junior cop Pawar (Chinmay Mandlekar). Pawar is civil enough to Bela\u2019s face but has saved her name as \u201cDooberman Madam\u201d on his phone. The misspelling amuses Bela more than the nickname.</p><p> She dresses in severe, manly outfits and rarely smiles. When questioning Sajini\u2019s circle, Bela mimics the harsh speech pattern of her male colleagues. She finds that everybody is more concerned about their reputation than Sajini\u2019s disappearance, or possible murder. </p><img src=\"https://sc0.blr1.cdn.digitaloceanspaces.com/inline/vzebypaial-1698264808.jpg\" /><p>There is not enough pace or spice in the plot (written by Musale, Parinda Joshi, Anu Singh Choudhary and Kshitij Patwardhan) to yield a satisfying thriller. Like in any police procedural, a clue does pop up once in a while, but the final reveal is a let-down.</p><p>Tying up Sajini\u2019s family in knots, setting the father and fiance squabbling with their lawyers in tow (Sumeet Vyas, Kiran Karmarkar), adding the extraneous character of a brother (Ashutosh Gaikwad) and a guilty-looking friend (Rashmi Adgekar) collectively pad a script that does have enough substance to run for nearly two hours. </p><p>The character of the stern, loner female cop, with only a dog for company, is now a stereotype. Still, Nimrat Kaur plays Bela with as much conviction as she can muster. What Musale does well is create the small town Maharashtrian ambience \u2013 the plays Suryakant performs, his fan following (Pawar touches his feet), his patriarchal arrogance (have plays the part with realistic flourishes). The idea that Sajini\u2019s fate affects other women around her is an idea toyed with but not fully realised.</p><iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/45I2X-z5gFQ?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"Sajini Shinde Ka Viral Video | Trailer | Nimrat, Radhika, Bhagyashree, Subodh | Mikhil M | Dinesh V\"></iframe>]]></content:encoded>\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "![](https://sc0.blr1.cdn.digitaloceanspaces.com/article/195295-gfynspxuez-1698265021.jpg)\n\nIf Finnish prime minister Sanna Marin wasn\u2019t spared after a video of her dancing at a private party went viral, school teacher Sajini Shinde (Radhika Madan) has no chance of escaping the consequences of drunk dancing in dishabille during her birthday party.\n\nIn Mikhil Musale\u2019s *Sajini Shinde Ka Viral Video*, the eponymous heroine is sacked by her principal (Bhagyashree) under pressure from outraged parents. Sajini\u2019s controlling fiance Siddhant (Soham Majumdar) freaks out. Her autocratic father, the famous stage actor Suryakant (Subodh Bhave), is furious. Her mother (Sneha Raikar) is being mistreated by Suryakant.\n\nComing out of the fog of slut-shaming opprobrium, Sajini writes a suicide note blaming her father and Siddhant and vanishes. He best friend (Shruti Vyas) raises enough of a stink for the sleepy Pune cops to wake up.\n\nBela (Nimrat Kaur), a non-Marathi speaker who is already straining under the sexism that forces her to work in the women\u2019s cell, is asked to investigate along with junior cop Pawar (Chinmay Mandlekar). Pawar is civil enough to Bela\u2019s face but has saved her name as \u201cDooberman Madam\u201d on his phone. The misspelling amuses Bela more than the nickname.\n\nShe dresses in severe, manly outfits and rarely smiles. When questioning Sajini\u2019s circle, Bela mimics the harsh speech pattern of her male colleagues. She finds that everybody is more concerned about their reputation than Sajini\u2019s disappearance, or possible murder.\n\n![](https://sc0.blr1.cdn.digitaloceanspaces.com/inline/vzebypaial-1698264808.jpg)\n\nThere is not enough pace or spice in the plot (written by Musale, Parinda Joshi, Anu Singh Choudhary and Kshitij Patwardhan) to yield a satisfying thriller. Like in any police procedural, a clue does pop up once in a while, but the final reveal is a let-down.\n\nTying up Sajini\u2019s family in knots, setting the father and fiance squabbling with their lawyers in tow (Sumeet Vyas, Kiran Karmarkar), adding the extraneous character of a brother (Ashutosh Gaikwad) and a guilty-looking friend (Rashmi Adgekar) collectively pad a script that does have enough substance to run for nearly two hours.\n\nThe character of the stern, loner female cop, with only a dog for company, is now a stereotype. Still, Nimrat Kaur plays Bela with as much conviction as she can muster. What Musale does well is create the small town Maharashtrian ambience \u2013 the plays Suryakant performs, his fan following (Pawar touches his feet), his patriarchal arrogance (have plays the part with realistic flourishes). The idea that Sajini\u2019s fate affects other women around her is an idea toyed with but not fully realised."
+}

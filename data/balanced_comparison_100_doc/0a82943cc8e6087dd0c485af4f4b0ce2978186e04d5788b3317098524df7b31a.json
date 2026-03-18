@@ -1,0 +1,139 @@
+{
+  "document_id": "0a82943cc8e6087dd0c485af4f4b0ce2978186e04d5788b3317098524df7b31a",
+  "document_metadata": {
+    "id": "0a82943cc8e6087dd0c485af4f4b0ce2978186e04d5788b3317098524df7b31a",
+    "date": 20220722,
+    "publisher_id": "b228f43a-85a1-4f82-ad0b-c89d3e0c0566",
+    "date_year": 2022,
+    "date_month": 7,
+    "crawl_date": "2025-10-25T06:59:19.717826687Z",
+    "date_day": 22,
+    "title": "Who knew we\u2019d get so excited about even an inch of rain?",
+    "url": "https://www.leavenworthtimes.com/who-knew-wed-get-so-excited-about-even-an-inch-of-rain/",
+    "url2": "https://www.leavenworthtimes.com/who-knew-wed-get-so-excited-about-even-an-inch-of-rain/",
+    "domain": "leavenworthtimes.com",
+    "lang": "unknown",
+    "published_date": "2022-07-22T06:01:00Z",
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "b228f43a-85a1-4f82-ad0b-c89d3e0c0566",
+    "skip_servicebusmessage_for_ingestion": false,
+    "rawType": "json",
+    "publisherId": "b228f43a-85a1-4f82-ad0b-c89d3e0c0566",
+    "documentId": "0a82943cc8e6087dd0c485af4f4b0ce2978186e04d5788b3317098524df7b31a",
+    "rawcontent_created": "2025-10-25T06:59:19.903000",
+    "source": "The Leavenworth Times",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=leavenworthtimes.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=leavenworthtimes.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=leavenworthtimes.com",
+    "first_words": "I just mowed 10 acres of crunchy grass for my weekly therapy. It didn\u2019t need mowing, except for the weeds, which are thriving during this drought. If I won the lottery, which I never will because I never play, I\u2019d install an irrigation system so all of this grass would stay green until the first frost. I never understood my grandparents and parents obsession with the weather, but I absolutely get it now. When we get a spurt of rain, checking the rain gauge is like checking your numbers for the lottery. Who knew we\u2019d get so excited"
+  },
+  "publisher_metadata": {
+    "id": "b228f43a-85a1-4f82-ad0b-c89d3e0c0566",
+    "group_id": "a81cba48-89e1-4e2b-b6fd-753d6773d5a8",
+    "name": "The Leavenworth Times",
+    "domain": "leavenworthtimes.com",
+    "location": "United States",
+    "country": "United States",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": [
+      "186d72ec-3dbe-4c75-97a5-578fb5e2fd06"
+    ]
+  },
+  "content_metadata": {
+    "document_title_txt": "Who knew we\u2019d get so excited about even an inch of rain?",
+    "document_authors_txt": [],
+    "hash": "0329b52586e8018c71d7d58734cc8defa3b568698a8e9ae08a1564de4e7eb832"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2025-10-25",
+    "chunking": {
+      "chunks_count": 3
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0a82943cc8e6087dd0c485af4f4b0ce2978186e04d5788b3317098524df7b31a-1",
+        "idx": 1,
+        "hash": "84c09745cff6bd89db344c1e37ad18b32cc710c39488242de99856af6812b036"
+      },
+      "content_original": "Typically by now we\u2019ve fished the pond at least a couple times a week but I just can\u2019t bring myself to play the game of catch and release with the water level so low. The fish have to be so crowded they are bumping into each other and I\u2019m sure every cast would land one of them, but when they\u2019re thrown back, they may have lost their place. I feel sorry for the fish and I\u2019m sure the last thing they want to deal with right now is a hook in the side of their mouth. At least we haven\u2019t seen any fish which have given up the fight to survive, although it seems we\u2019re being overrun with raccoons, so they may be cleaning up the banks at night.\n\nThe rose bushes came alive early this year and were blooming like crazy. Now, even with watering, only a quarter of the bush has roses on it. All of my potted plants are either suffering from too much heat or too much water, as I seem to be obsessed with giving them drinks.",
+      "content": "Typically by now we\u2019ve fished the pond at least a couple times a week but I just can\u2019t bring myself to play the game of catch and release with the water level so low. The fish have to be so crowded they are bumping into each other and I\u2019m sure every cast would land one of them, but when they\u2019re thrown back, they may have lost their place. I feel sorry for the fish and I\u2019m sure the last thing they want to deal with right now is a hook in the side of their mouth. At least we haven\u2019t seen any fish which have given up the fight to survive, although it seems we\u2019re being overrun with raccoons, so they may be cleaning up the banks at night.\n\nThe rose bushes came alive early this year and were blooming like crazy. Now, even with watering, only a quarter of the bush has roses on it. All of my potted plants are either suffering from too much heat or too much water, as I seem to be obsessed with giving them drinks."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0a82943cc8e6087dd0c485af4f4b0ce2978186e04d5788b3317098524df7b31a-0",
+        "idx": 0,
+        "hash": "044c412c814364c2336cde86546dd02a19841deed4271c653da1a0e8e7a65d9d"
+      },
+      "content_original": "I just mowed 10 acres of crunchy grass for my weekly therapy. It didn\u2019t need mowing, except for the weeds, which are thriving during this drought.\n\nIf I won the lottery, which I never will because I never play, I\u2019d install an irrigation system so all of this grass would stay green until the first frost. I never understood my grandparents and parents obsession with the weather, but I absolutely get it now.\n\nWhen we get a spurt of rain, checking the rain gauge is like checking your numbers for the lottery. Who knew we\u2019d get so excited about even an inch of rain?\n\nCornfields surround us and even though they appear to be OK, I can\u2019t imagine being a farmer and having to depend on Mother Nature to ensure job security. All of that hard work could be wiped away, depending on the weather. It\u2019s a thankless job, and when I was little and someone asked me what I wanted to be when I grew up, my answer was always to be a farmer.\n\nEven though we\u2019re keeping the garden watered, the pepper plants seem to be wilting away. Thank goodness the tomatoes and cucumbers seem to like the heat. Typically by now we\u2019ve fished the pond at",
+      "content": "I just mowed 10 acres of crunchy grass for my weekly therapy. It didn\u2019t need mowing, except for the weeds, which are thriving during this drought.\n\nIf I won the lottery, which I never will because I never play, I\u2019d install an irrigation system so all of this grass would stay green until the first frost. I never understood my grandparents and parents obsession with the weather, but I absolutely get it now.\n\nWhen we get a spurt of rain, checking the rain gauge is like checking your numbers for the lottery. Who knew we\u2019d get so excited about even an inch of rain?\n\nCornfields surround us and even though they appear to be OK, I can\u2019t imagine being a farmer and having to depend on Mother Nature to ensure job security. All of that hard work could be wiped away, depending on the weather. It\u2019s a thankless job, and when I was little and someone asked me what I wanted to be when I grew up, my answer was always to be a farmer.\n\nEven though we\u2019re keeping the garden watered, the pepper plants seem to be wilting away. Thank goodness the tomatoes and cucumbers seem to like the heat. Typically by now we\u2019ve fished the pond at"
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0a82943cc8e6087dd0c485af4f4b0ce2978186e04d5788b3317098524df7b31a-2",
+        "idx": 2,
+        "hash": "63bc08af9a1af62f5f48c629a2686991a1bde2fcf01bfb90f24d274bb66ffb07"
+      },
+      "content_original": "My one \u201cgo to\u201d plant, which a friend introduced me to some years ago, by giving me a bag of bulbs, are thriving. When the weather turned warm in March, I planted cannas all over the place and they don\u2019t seem to care about the weather. I can\u2019t imagine how many bulbs I\u2019m going to find when I dig them up in the fall.\n\nIt\u2019s summertime they say. Have fun and enjoy the sun they say. In 60 days it will be fall. Mother Nature is all kinds of mixed up, I\u2019m thinking she\u2019s menopausal. The way this summer is going we should expect\n\nThe way this summer is going we should expect a snowstorm at the end of September.\n\n*Sandy Turner lives in Independence, Missouri. Email her at sandydownhome@hotmail.com*",
+      "content": "My one \u201cgo to\u201d plant, which a friend introduced me to some years ago, by giving me a bag of bulbs, are thriving. When the weather turned warm in March, I planted cannas all over the place and they don\u2019t seem to care about the weather. I can\u2019t imagine how many bulbs I\u2019m going to find when I dig them up in the fall.\n\nIt\u2019s summertime they say. Have fun and enjoy the sun they say. In 60 days it will be fall. Mother Nature is all kinds of mixed up, I\u2019m thinking she\u2019s menopausal. The way this summer is going we should expect\n\nThe way this summer is going we should expect a snowstorm at the end of September.\n\n*Sandy Turner lives in Independence, Missouri. Email her at sandydownhome@hotmail.com*"
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "c72dfd5c-5323-45cf-886b-7f42797ec3c5",
+      "timestamp": "2025-10-25T06:59:27.054000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "b228f43a-85a1-4f82-ad0b-c89d3e0c0566",
+      "version": "2.3",
+      "date": "2025-10-25",
+      "chunking": {
+        "chunks_count": 3
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 3,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "0a82943cc8e6087dd0c485af4f4b0ce2978186e04d5788b3317098524df7b31a"
+    }
+  ],
+  "raw_content": "{\n  \"id\" : 48326,\n  \"date\" : \"2022-07-22T06:01:00\",\n  \"date_gmt\" : \"2022-07-22T12:01:00\",\n  \"modified_gmt\" : \"2022-07-22T12:01:00\",\n  \"link\" : \"https://www.leavenworthtimes.com/who-knew-wed-get-so-excited-about-even-an-inch-of-rain/\",\n  \"title\" : {\n    \"rendered\" : \"Who knew we\u2019d get so excited about even an inch of rain?\"\n  },\n  \"content\" : {\n    \"rendered\" : \"<p>I just mowed 10 acres of crunchy grass for my weekly therapy. It didn\u2019t need mowing, except for the weeds, which are thriving during this drought.</p>\\n<p>If I won the lottery, which I never will because I never play, I\u2019d install an irrigation system so all of this grass would stay green until the first frost. I never understood my grandparents and parents obsession with the weather, but I absolutely get it now.</p>\\n<p>When we get a spurt of rain, checking the rain gauge is like checking your numbers for the lottery. Who knew we\u2019d get so excited about even an inch of rain?</p>\\n<p>Cornfields surround us and even though they appear to be OK, I can\u2019t imagine being a farmer and having to depend on Mother Nature to ensure job security. All of that hard work could be wiped away, depending on the weather. It\u2019s a thankless job, and when I was little and someone asked me what I wanted to be when I grew up, my answer was always to be a farmer.</p>\\n<p>Even though we\u2019re keeping the garden watered, the pepper plants seem to be wilting away. Thank goodness the tomatoes and cucumbers seem to like the heat. Typically by now we\u2019ve fished the pond at</p>\\n<p>Typically by now we\u2019ve fished the pond at least a couple times a week but I just can\u2019t bring myself to play the game of catch and release with the water level so low. The fish have to be so crowded they are bumping into each other and I\u2019m sure every cast would land one of them, but when they\u2019re thrown back, they may have lost their place. I feel sorry for the fish and I\u2019m sure the last thing they want to deal with right now is a hook in the side of their mouth. At least we haven\u2019t seen any fish which have given up the fight to survive, although it seems we\u2019re being overrun with raccoons, so they may be cleaning up the banks at night.</p>\\n<p>The rose bushes came alive early this year and were blooming like crazy. Now, even with watering, only a quarter of the bush has roses on it. All of my potted plants are either suffering from too much heat or too much water, as I seem to be obsessed with giving them drinks.</p>\\n<p>My one \u201cgo to\u201d plant, which a friend introduced me to some years ago, by giving me a bag of bulbs, are thriving. When the weather turned warm in March, I planted cannas all over the place and they don\u2019t seem to care about the weather. I can\u2019t imagine how many bulbs I\u2019m going to find when I dig them up in the fall.</p>\\n<p>It\u2019s summertime they say. Have fun and enjoy the sun they say. In 60 days it will be fall. Mother Nature is all kinds of mixed up, I\u2019m thinking she\u2019s menopausal. The way this summer is going we should expect</p>\\n<p>The way this summer is going we should expect a snowstorm at the end of September.</p>\\n<p><i>Sandy Turner lives in Independence, Missouri. Email her at sandydownhome@hotmail.com</i></p>\\n\"\n  },\n  \"featured_media\" : 48327,\n  \"class_list\" : [ \"post-48326\", \"post\", \"type-post\", \"status-publish\", \"format-standard\", \"has-post-thumbnail\", \"hentry\", \"category-opinion\" ]\n}",
+  "markdown_content": "I just mowed 10 acres of crunchy grass for my weekly therapy. It didn\u2019t need mowing, except for the weeds, which are thriving during this drought.\n\nIf I won the lottery, which I never will because I never play, I\u2019d install an irrigation system so all of this grass would stay green until the first frost. I never understood my grandparents and parents obsession with the weather, but I absolutely get it now.\n\nWhen we get a spurt of rain, checking the rain gauge is like checking your numbers for the lottery. Who knew we\u2019d get so excited about even an inch of rain?\n\nCornfields surround us and even though they appear to be OK, I can\u2019t imagine being a farmer and having to depend on Mother Nature to ensure job security. All of that hard work could be wiped away, depending on the weather. It\u2019s a thankless job, and when I was little and someone asked me what I wanted to be when I grew up, my answer was always to be a farmer.\n\nEven though we\u2019re keeping the garden watered, the pepper plants seem to be wilting away. Thank goodness the tomatoes and cucumbers seem to like the heat. Typically by now we\u2019ve fished the pond at\n\nTypically by now we\u2019ve fished the pond at least a couple times a week but I just can\u2019t bring myself to play the game of catch and release with the water level so low. The fish have to be so crowded they are bumping into each other and I\u2019m sure every cast would land one of them, but when they\u2019re thrown back, they may have lost their place. I feel sorry for the fish and I\u2019m sure the last thing they want to deal with right now is a hook in the side of their mouth. At least we haven\u2019t seen any fish which have given up the fight to survive, although it seems we\u2019re being overrun with raccoons, so they may be cleaning up the banks at night.\n\nThe rose bushes came alive early this year and were blooming like crazy. Now, even with watering, only a quarter of the bush has roses on it. All of my potted plants are either suffering from too much heat or too much water, as I seem to be obsessed with giving them drinks.\n\nMy one \u201cgo to\u201d plant, which a friend introduced me to some years ago, by giving me a bag of bulbs, are thriving. When the weather turned warm in March, I planted cannas all over the place and they don\u2019t seem to care about the weather. I can\u2019t imagine how many bulbs I\u2019m going to find when I dig them up in the fall.\n\nIt\u2019s summertime they say. Have fun and enjoy the sun they say. In 60 days it will be fall. Mother Nature is all kinds of mixed up, I\u2019m thinking she\u2019s menopausal. The way this summer is going we should expect\n\nThe way this summer is going we should expect a snowstorm at the end of September.\n\n*Sandy Turner lives in Independence, Missouri. Email her at sandydownhome@hotmail.com*"
+}

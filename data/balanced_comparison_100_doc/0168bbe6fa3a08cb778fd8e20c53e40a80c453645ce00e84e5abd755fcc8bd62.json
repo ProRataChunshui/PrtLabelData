@@ -1,0 +1,477 @@
+{
+  "document_id": "0168bbe6fa3a08cb778fd8e20c53e40a80c453645ce00e84e5abd755fcc8bd62",
+  "document_metadata": {
+    "id": "0168bbe6fa3a08cb778fd8e20c53e40a80c453645ce00e84e5abd755fcc8bd62",
+    "date": 20251221,
+    "publisher_id": "56fe0a8f-4ad0-48a9-bbfa-e5ca6e667d62",
+    "date_year": 2025,
+    "date_month": 12,
+    "crawl_date": "2025-12-21T05:56:20.802486038Z",
+    "date_day": 21,
+    "title": "Bayern Munich News: Leon Goretzka to Atl\u00e9tico Madrid?; Will FC Bayern make a play for FC Barcelona\u2019s Marc-Andr\u00e9 ter Stegen?; and MORE!",
+    "url": "https://www.bavarianfootballworks.com/transfer-rumors/155147/bayern-munich-goretzka-atletico-madrid-fc-barcelona-ter-stegen-real-madrid",
+    "url2": "https://www.bavarianfootballworks.com/transfer-rumors/155147/bayern-munich-goretzka-atletico-madrid-fc-barcelona-ter-stegen-real-madrid",
+    "domain": "www.bavarianfootballworks.com",
+    "lang": "unknown",
+    "published_date": "2025-12-21T05:00:00Z",
+    "authors": [
+      "CSmith1919"
+    ],
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "56fe0a8f-4ad0-48a9-bbfa-e5ca6e667d62",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2025-12-21T05:56:20.802000",
+    "published_date_parsed": "2025-12-21T05:00:00",
+    "rawType": "xml",
+    "publisherId": "56fe0a8f-4ad0-48a9-bbfa-e5ca6e667d62",
+    "documentId": "0168bbe6fa3a08cb778fd8e20c53e40a80c453645ce00e84e5abd755fcc8bd62",
+    "rawcontent_created": "2025-12-21T05:56:21.772000",
+    "source": "SB Nation",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=www.bavarianfootballworks.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=www.bavarianfootballworks.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=www.bavarianfootballworks.com",
+    "first_words": "Bayern Munich midfielder Leon Goretzka is likely not going to get a contract offer from the club after this season, which would make him a free agent. If that happens, Atl\u00e9tico Madrid could be among the clubs ready to make a move for the Germany international: Atletico Madrid are fresh off the back of a takeover deal from Apollo Global Management that many believe could catapult the club into a different sphere in terms of investment. Their latest transfer target should be no strain on their finances though. As per Diario AS, Atletico have set their sights",
+    "has_chunks": true
+  },
+  "publisher_metadata": {
+    "id": "56fe0a8f-4ad0-48a9-bbfa-e5ca6e667d62",
+    "group_id": "6ef99814-8e14-4e81-aae9-706bd67d7ec9",
+    "name": "SB Nation",
+    "domain": "sbnation.com",
+    "location": "United States",
+    "country": "United States",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": [
+      "186d72ec-3dbe-4c75-97a5-578fb5e2fd06"
+    ]
+  },
+  "content_metadata": {
+    "document_title_txt": "Bayern Munich News: Leon Goretzka to Atl\u00e9tico Madrid?; Will FC Bayern make a play for FC Barcelona\u2019s Marc-Andr\u00e9 ter Stegen?; and MORE!",
+    "document_authors_txt": [
+      "CSmith1919"
+    ],
+    "hash": "d97b11995b0aeb113f569b910fe305175a276897611d5b4d748a2995fa5070a7"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2025-12-24",
+    "chunking": {
+      "strategy": "simple",
+      "chunks_count": 7
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "none",
+      "model": "none",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0168bbe6fa3a08cb778fd8e20c53e40a80c453645ce00e84e5abd755fcc8bd62-3",
+        "idx": 3,
+        "hash": "f3d7502cd110ec1c664aac1c8090b6e2cd7a14ba39dedb76af733d685d196bfa",
+        "sim_hash": "17584443221230947163"
+      },
+      "content_original": "## [F\u00fcllkrug loan move to Milan getting close (Rudy Galetti)](https://x.com/RudyGaletti/status/2002376366151397450?s=20)\n\nWest Ham United striker and Germany international Niclas F\u00fcllkrug could be close to moving to AC Milan:\n\n> AC Milan are closing in on F\u00fcllkrug on loan from West Ham until June. \u26ab\n>\n> All the paperwork is expected to be completed within the next 24h after West Ham, which initially asked for a buy obligation, opened to a purchase option (~\u20ac14/15m).\n>\n> Personal terms already agreed.\n\n## [Bayern won\u2019t make move for Ter Stegen (Sport Bild\u2019s Christian Falk)](https://cfbayerninsider.com/2025/12/the-bayern-insider-real-madrid-said-no-to-bayern-gem-whos-now-tearing-up-champions-league/)\n\nBayern Munich has long been rumored to be a fan of FC Barcelona goalkeeper Marc-Andr\u00e9 ter Stegen, but do not expect the Bavarians to take a run at Ter Stegen if Manuel Neuer retires:",
+      "content": "## [F\u00fcllkrug loan move to Milan getting close (Rudy Galetti)](https://x.com/RudyGaletti/status/2002376366151397450?s=20)\n\nWest Ham United striker and Germany international Niclas F\u00fcllkrug could be close to moving to AC Milan:\n\n> AC Milan are closing in on F\u00fcllkrug on loan from West Ham until June. \u26ab\n>\n> All the paperwork is expected to be completed within the next 24h after West Ham, which initially asked for a buy obligation, opened to a purchase option (~\u20ac14/15m).\n>\n> Personal terms already agreed.\n\n## [Bayern won\u2019t make move for Ter Stegen (Sport Bild\u2019s Christian Falk)](https://cfbayerninsider.com/2025/12/the-bayern-insider-real-madrid-said-no-to-bayern-gem-whos-now-tearing-up-champions-league/)\n\nBayern Munich has long been rumored to be a fan of FC Barcelona goalkeeper Marc-Andr\u00e9 ter Stegen, but do not expect the Bavarians to take a run at Ter Stegen if Manuel Neuer retires:"
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0168bbe6fa3a08cb778fd8e20c53e40a80c453645ce00e84e5abd755fcc8bd62-1",
+        "idx": 1,
+        "hash": "886a6ad1437d3852dd08a59e46baf8018f4b8c35b7535bca143ad4f713bf0162",
+        "sim_hash": "13716328258329413333"
+      },
+      "content_original": "> Atletico Madrid are fresh off the back of a takeover deal from Apollo Global Management that many believe could catapult the club into a different sphere in terms of investment. Their latest transfer target should be no strain on their finances though.\n>\n> As per Diario AS, Atletico have set their sights on Bayern Munich midfielder Leon Goretzka. The 30-year-old is out of contract this summer, and this could sign a precontract for free with Los Colchoneros in less than two weeks. They say that Atletico are thoroughly informed of his situation as things stand, with Bayern seemingly unwilling to meet his contract demands.\n\nBarring anything crazy happening, Goretzka will not be back with the Bavarians. He does, however, have some suitors at this point and should be able to continue his career in a good spot. It remains to be seen what Goretzka wants to do, though. To continue playing near his current salary, the midfielder will have to go abroad, but if he is willing to take a significant pay cut, he could potentially find a club in Germany.",
+      "content": "> Atletico Madrid are fresh off the back of a takeover deal from Apollo Global Management that many believe could catapult the club into a different sphere in terms of investment. Their latest transfer target should be no strain on their finances though.\n>\n> As per Diario AS, Atletico have set their sights on Bayern Munich midfielder Leon Goretzka. The 30-year-old is out of contract this summer, and this could sign a precontract for free with Los Colchoneros in less than two weeks. They say that Atletico are thoroughly informed of his situation as things stand, with Bayern seemingly unwilling to meet his contract demands.\n\nBarring anything crazy happening, Goretzka will not be back with the Bavarians. He does, however, have some suitors at this point and should be able to continue his career in a good spot. It remains to be seen what Goretzka wants to do, though. To continue playing near his current salary, the midfielder will have to go abroad, but if he is willing to take a significant pay cut, he could potentially find a club in Germany."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0168bbe6fa3a08cb778fd8e20c53e40a80c453645ce00e84e5abd755fcc8bd62-3",
+        "idx": 3,
+        "hash": "f3d7502cd110ec1c664aac1c8090b6e2cd7a14ba39dedb76af733d685d196bfa",
+        "sim_hash": "17584443221230947163"
+      },
+      "content_original": "## [F\u00fcllkrug loan move to Milan getting close (Rudy Galetti)](https://x.com/RudyGaletti/status/2002376366151397450?s=20)\n\nWest Ham United striker and Germany international Niclas F\u00fcllkrug could be close to moving to AC Milan:\n\n> AC Milan are closing in on F\u00fcllkrug on loan from West Ham until June. \u26ab\n>\n> All the paperwork is expected to be completed within the next 24h after West Ham, which initially asked for a buy obligation, opened to a purchase option (~\u20ac14/15m).\n>\n> Personal terms already agreed.\n\n## [Bayern won\u2019t make move for Ter Stegen (Sport Bild\u2019s Christian Falk)](https://cfbayerninsider.com/2025/12/the-bayern-insider-real-madrid-said-no-to-bayern-gem-whos-now-tearing-up-champions-league/)\n\nBayern Munich has long been rumored to be a fan of FC Barcelona goalkeeper Marc-Andr\u00e9 ter Stegen, but do not expect the Bavarians to take a run at Ter Stegen if Manuel Neuer retires:",
+      "content": "## [F\u00fcllkrug loan move to Milan getting close (Rudy Galetti)](https://x.com/RudyGaletti/status/2002376366151397450?s=20)\n\nWest Ham United striker and Germany international Niclas F\u00fcllkrug could be close to moving to AC Milan:\n\n> AC Milan are closing in on F\u00fcllkrug on loan from West Ham until June. \u26ab\n>\n> All the paperwork is expected to be completed within the next 24h after West Ham, which initially asked for a buy obligation, opened to a purchase option (~\u20ac14/15m).\n>\n> Personal terms already agreed.\n\n## [Bayern won\u2019t make move for Ter Stegen (Sport Bild\u2019s Christian Falk)](https://cfbayerninsider.com/2025/12/the-bayern-insider-real-madrid-said-no-to-bayern-gem-whos-now-tearing-up-champions-league/)\n\nBayern Munich has long been rumored to be a fan of FC Barcelona goalkeeper Marc-Andr\u00e9 ter Stegen, but do not expect the Bavarians to take a run at Ter Stegen if Manuel Neuer retires:"
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0168bbe6fa3a08cb778fd8e20c53e40a80c453645ce00e84e5abd755fcc8bd62-4",
+        "idx": 4,
+        "hash": "1505b0ae91e5c3097cbceadeb9a4835a704c5b9d0da719518ce42ac64f33c428",
+        "sim_hash": "8935704429116333946"
+      },
+      "content_original": "> \u274c It is NOT TRUE: Bayern want to sign Marc-Andr\u00e9 ter Stegen. He\u2019s a really good goalkeeper, but there are no meetings taking place within the club to discuss him signing for FC Bayern. There is an interesting set of circumstances at the club. As we know, Jonas Urbig is considered the backup and eventual successor to first-choice Manuel Neuer. Urbig also shares the same agent as Ter Stegen, so they don\u2019t want to bring a rival into the club.\n>\n> That all said, Ter Stegen knows he has to move if he wants to play in the World Cup for Germany. This is why there is so much speculation around his future. I think an idea like Manchester United, for example, is more plausible. Otherwise, there are many interested clubs; Besiktas would be a relatively easy move for the Barcelona star in order to get playing time, as he has no chance of playing next year for Barca; Hansi Flick is very clear on this position.\n>",
+      "content": "> \u274c It is NOT TRUE: Bayern want to sign Marc-Andr\u00e9 ter Stegen. He\u2019s a really good goalkeeper, but there are no meetings taking place within the club to discuss him signing for FC Bayern. There is an interesting set of circumstances at the club. As we know, Jonas Urbig is considered the backup and eventual successor to first-choice Manuel Neuer. Urbig also shares the same agent as Ter Stegen, so they don\u2019t want to bring a rival into the club.\n>\n> That all said, Ter Stegen knows he has to move if he wants to play in the World Cup for Germany. This is why there is so much speculation around his future. I think an idea like Manchester United, for example, is more plausible. Otherwise, there are many interested clubs; Besiktas would be a relatively easy move for the Barcelona star in order to get playing time, as he has no chance of playing next year for Barca; Hansi Flick is very clear on this position.\n>"
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0168bbe6fa3a08cb778fd8e20c53e40a80c453645ce00e84e5abd755fcc8bd62-4",
+        "idx": 4,
+        "hash": "1505b0ae91e5c3097cbceadeb9a4835a704c5b9d0da719518ce42ac64f33c428",
+        "sim_hash": "8935704429116333946"
+      },
+      "content_original": "> \u274c It is NOT TRUE: Bayern want to sign Marc-Andr\u00e9 ter Stegen. He\u2019s a really good goalkeeper, but there are no meetings taking place within the club to discuss him signing for FC Bayern. There is an interesting set of circumstances at the club. As we know, Jonas Urbig is considered the backup and eventual successor to first-choice Manuel Neuer. Urbig also shares the same agent as Ter Stegen, so they don\u2019t want to bring a rival into the club.\n>\n> That all said, Ter Stegen knows he has to move if he wants to play in the World Cup for Germany. This is why there is so much speculation around his future. I think an idea like Manchester United, for example, is more plausible. Otherwise, there are many interested clubs; Besiktas would be a relatively easy move for the Barcelona star in order to get playing time, as he has no chance of playing next year for Barca; Hansi Flick is very clear on this position.\n>",
+      "content": "> \u274c It is NOT TRUE: Bayern want to sign Marc-Andr\u00e9 ter Stegen. He\u2019s a really good goalkeeper, but there are no meetings taking place within the club to discuss him signing for FC Bayern. There is an interesting set of circumstances at the club. As we know, Jonas Urbig is considered the backup and eventual successor to first-choice Manuel Neuer. Urbig also shares the same agent as Ter Stegen, so they don\u2019t want to bring a rival into the club.\n>\n> That all said, Ter Stegen knows he has to move if he wants to play in the World Cup for Germany. This is why there is so much speculation around his future. I think an idea like Manchester United, for example, is more plausible. Otherwise, there are many interested clubs; Besiktas would be a relatively easy move for the Barcelona star in order to get playing time, as he has no chance of playing next year for Barca; Hansi Flick is very clear on this position.\n>"
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0168bbe6fa3a08cb778fd8e20c53e40a80c453645ce00e84e5abd755fcc8bd62-5",
+        "idx": 5,
+        "hash": "fa1ccbe81b2b7e9e601c8ba9195b04884b9bbe19313093313ff6534c797f78e0",
+        "sim_hash": "7217092581750253147"
+      },
+      "content_original": ">\n> Neuer is still, firmly, the number one goalkeeper at Bayern Munich, so it wouldn\u2019t make any sense to bring Marc-Andr\u00e9 ter Stegen in. He\u2019s already been sitting on the bench for the German national team behind Manuel Neuer, and he won\u2019t do it at Bayern!\nThere is no way either side would be interested in a January move, but even in the summer, Jonas Urbig looks ready to take the job should Neuer retire (which is up in the air at this point).\n\n## [Palhinha doing what he does best (WhoScored.com)](https://x.com/WhoScored/status/2002378453304439124?s=20)\n\nBayern Munich loanee Jo\u00e3o Palhinha entered Tottenham Hotspur\u2019s 2-1 loss to Liverpool as the leading tackler in Europe\u2019s Top Five Leagues:\n\n> Jo\u00e3o Palhinha has made more successful tackles (65) than any other player in Europe's top five leagues this season. \ufe0f[#THFC](https://twitter.com/hashtag/THFC?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/mANv2cwvdx](https://t.co/mANv2cwvdx)\n>\n> \u2014 WhoScored (@WhoScored) [December 20, 2025](https://twitter.com/WhoScored/status/2002378453304439124?ref_src=twsrc%5Etfw)",
+      "content": ">\n> Neuer is still, firmly, the number one goalkeeper at Bayern Munich, so it wouldn\u2019t make any sense to bring Marc-Andr\u00e9 ter Stegen in. He\u2019s already been sitting on the bench for the German national team behind Manuel Neuer, and he won\u2019t do it at Bayern!\nThere is no way either side would be interested in a January move, but even in the summer, Jonas Urbig looks ready to take the job should Neuer retire (which is up in the air at this point).\n\n## [Palhinha doing what he does best (WhoScored.com)](https://x.com/WhoScored/status/2002378453304439124?s=20)\n\nBayern Munich loanee Jo\u00e3o Palhinha entered Tottenham Hotspur\u2019s 2-1 loss to Liverpool as the leading tackler in Europe\u2019s Top Five Leagues:\n\n> Jo\u00e3o Palhinha has made more successful tackles (65) than any other player in Europe's top five leagues this season. \ufe0f[#THFC](https://twitter.com/hashtag/THFC?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/mANv2cwvdx](https://t.co/mANv2cwvdx)\n>\n> \u2014 WhoScored (@WhoScored) [December 20, 2025](https://twitter.com/WhoScored/status/2002378453304439124?ref_src=twsrc%5Etfw)"
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0168bbe6fa3a08cb778fd8e20c53e40a80c453645ce00e84e5abd755fcc8bd62-2",
+        "idx": 2,
+        "hash": "ca965b6e356c301456f1f664b8f9153e6172141f9d4ee8ed4c21b86eefa2505a",
+        "sim_hash": "2552764887465017043"
+      },
+      "content_original": "## [Alonso thankful for Real support (Fabrizio Romano)](https://x.com/FabrizioRomano/status/2001989312095944812?s=20)\n\nFormer Bayern Munich midfielder and current Real Madrid manager Xabi Alonso has reportedly been at odds with some members of his team (especially Vin\u00edcius J\u00fanior), but he is keeping everything positive at this point given these quotes captured by Fabrizio Romano:\n\n> Xabi Alonso on Real Madrid support: \u201cFrom the beginning, we have had a close relationship, based on respect and affection.\u201d\n>\n> \u201cThe demands are extremely high. It\u2019s a long road, there will be good times and not-so-good times.\u201d\n>\n> \u201cI\u2019m very happy with and for Rodrygo. He\u2019s doing very well.\u201d\n>\n> \u201cThe balance he gives us, both on and off the ball. He has excellent technique. He combines well between the lines and in tight space\u2026 very good!\u201d\n>\n> \u201cI\u2019m happy with Vini Jr. I\u2019m sure his goal will come very soon, it\u2019s just matter of time.\u201d",
+      "content": "## [Alonso thankful for Real support (Fabrizio Romano)](https://x.com/FabrizioRomano/status/2001989312095944812?s=20)\n\nFormer Bayern Munich midfielder and current Real Madrid manager Xabi Alonso has reportedly been at odds with some members of his team (especially Vin\u00edcius J\u00fanior), but he is keeping everything positive at this point given these quotes captured by Fabrizio Romano:\n\n> Xabi Alonso on Real Madrid support: \u201cFrom the beginning, we have had a close relationship, based on respect and affection.\u201d\n>\n> \u201cThe demands are extremely high. It\u2019s a long road, there will be good times and not-so-good times.\u201d\n>\n> \u201cI\u2019m very happy with and for Rodrygo. He\u2019s doing very well.\u201d\n>\n> \u201cThe balance he gives us, both on and off the ball. He has excellent technique. He combines well between the lines and in tight space\u2026 very good!\u201d\n>\n> \u201cI\u2019m happy with Vini Jr. I\u2019m sure his goal will come very soon, it\u2019s just matter of time.\u201d"
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0168bbe6fa3a08cb778fd8e20c53e40a80c453645ce00e84e5abd755fcc8bd62-4",
+        "idx": 4,
+        "hash": "1505b0ae91e5c3097cbceadeb9a4835a704c5b9d0da719518ce42ac64f33c428",
+        "sim_hash": "8935704429116333946"
+      },
+      "content_original": "> \u274c It is NOT TRUE: Bayern want to sign Marc-Andr\u00e9 ter Stegen. He\u2019s a really good goalkeeper, but there are no meetings taking place within the club to discuss him signing for FC Bayern. There is an interesting set of circumstances at the club. As we know, Jonas Urbig is considered the backup and eventual successor to first-choice Manuel Neuer. Urbig also shares the same agent as Ter Stegen, so they don\u2019t want to bring a rival into the club.\n>\n> That all said, Ter Stegen knows he has to move if he wants to play in the World Cup for Germany. This is why there is so much speculation around his future. I think an idea like Manchester United, for example, is more plausible. Otherwise, there are many interested clubs; Besiktas would be a relatively easy move for the Barcelona star in order to get playing time, as he has no chance of playing next year for Barca; Hansi Flick is very clear on this position.\n>",
+      "content": "> \u274c It is NOT TRUE: Bayern want to sign Marc-Andr\u00e9 ter Stegen. He\u2019s a really good goalkeeper, but there are no meetings taking place within the club to discuss him signing for FC Bayern. There is an interesting set of circumstances at the club. As we know, Jonas Urbig is considered the backup and eventual successor to first-choice Manuel Neuer. Urbig also shares the same agent as Ter Stegen, so they don\u2019t want to bring a rival into the club.\n>\n> That all said, Ter Stegen knows he has to move if he wants to play in the World Cup for Germany. This is why there is so much speculation around his future. I think an idea like Manchester United, for example, is more plausible. Otherwise, there are many interested clubs; Besiktas would be a relatively easy move for the Barcelona star in order to get playing time, as he has no chance of playing next year for Barca; Hansi Flick is very clear on this position.\n>"
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0168bbe6fa3a08cb778fd8e20c53e40a80c453645ce00e84e5abd755fcc8bd62-5",
+        "idx": 5,
+        "hash": "fa1ccbe81b2b7e9e601c8ba9195b04884b9bbe19313093313ff6534c797f78e0",
+        "sim_hash": "7217092581750253147"
+      },
+      "content_original": ">\n> Neuer is still, firmly, the number one goalkeeper at Bayern Munich, so it wouldn\u2019t make any sense to bring Marc-Andr\u00e9 ter Stegen in. He\u2019s already been sitting on the bench for the German national team behind Manuel Neuer, and he won\u2019t do it at Bayern!\nThere is no way either side would be interested in a January move, but even in the summer, Jonas Urbig looks ready to take the job should Neuer retire (which is up in the air at this point).\n\n## [Palhinha doing what he does best (WhoScored.com)](https://x.com/WhoScored/status/2002378453304439124?s=20)\n\nBayern Munich loanee Jo\u00e3o Palhinha entered Tottenham Hotspur\u2019s 2-1 loss to Liverpool as the leading tackler in Europe\u2019s Top Five Leagues:\n\n> Jo\u00e3o Palhinha has made more successful tackles (65) than any other player in Europe's top five leagues this season. \ufe0f[#THFC](https://twitter.com/hashtag/THFC?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/mANv2cwvdx](https://t.co/mANv2cwvdx)\n>\n> \u2014 WhoScored (@WhoScored) [December 20, 2025](https://twitter.com/WhoScored/status/2002378453304439124?ref_src=twsrc%5Etfw)",
+      "content": ">\n> Neuer is still, firmly, the number one goalkeeper at Bayern Munich, so it wouldn\u2019t make any sense to bring Marc-Andr\u00e9 ter Stegen in. He\u2019s already been sitting on the bench for the German national team behind Manuel Neuer, and he won\u2019t do it at Bayern!\nThere is no way either side would be interested in a January move, but even in the summer, Jonas Urbig looks ready to take the job should Neuer retire (which is up in the air at this point).\n\n## [Palhinha doing what he does best (WhoScored.com)](https://x.com/WhoScored/status/2002378453304439124?s=20)\n\nBayern Munich loanee Jo\u00e3o Palhinha entered Tottenham Hotspur\u2019s 2-1 loss to Liverpool as the leading tackler in Europe\u2019s Top Five Leagues:\n\n> Jo\u00e3o Palhinha has made more successful tackles (65) than any other player in Europe's top five leagues this season. \ufe0f[#THFC](https://twitter.com/hashtag/THFC?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/mANv2cwvdx](https://t.co/mANv2cwvdx)\n>\n> \u2014 WhoScored (@WhoScored) [December 20, 2025](https://twitter.com/WhoScored/status/2002378453304439124?ref_src=twsrc%5Etfw)"
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0168bbe6fa3a08cb778fd8e20c53e40a80c453645ce00e84e5abd755fcc8bd62-6",
+        "idx": 6,
+        "hash": "03e53bba5e0d45bc5f121dd89411ec282e8f0d6790ea848a415516bf5449d32f",
+        "sim_hash": "110753533374053783"
+      },
+      "content_original": "*If you are looking for more Bayern Munich and German national team coverage, check out the latest episodes of Bavarian Podcast Works, which you can get on [Acast](https://shows.acast.com/bavarian-podcast-works1), [Spotify](https://open.spotify.com/show/5kHW7eDJSF2sGA1O6gKxvB), [Apple](https://podcasts.apple.com/us/podcast/bavarian-podcast-works/id1460036325), or any leading podcast distributor\u2026*",
+      "content": "*If you are looking for more Bayern Munich and German national team coverage, check out the latest episodes of Bavarian Podcast Works, which you can get on [Acast](https://shows.acast.com/bavarian-podcast-works1), [Spotify](https://open.spotify.com/show/5kHW7eDJSF2sGA1O6gKxvB), [Apple](https://podcasts.apple.com/us/podcast/bavarian-podcast-works/id1460036325), or any leading podcast distributor\u2026*"
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0168bbe6fa3a08cb778fd8e20c53e40a80c453645ce00e84e5abd755fcc8bd62-1",
+        "idx": 1,
+        "hash": "886a6ad1437d3852dd08a59e46baf8018f4b8c35b7535bca143ad4f713bf0162",
+        "sim_hash": "13716328258329413333"
+      },
+      "content_original": "> Atletico Madrid are fresh off the back of a takeover deal from Apollo Global Management that many believe could catapult the club into a different sphere in terms of investment. Their latest transfer target should be no strain on their finances though.\n>\n> As per Diario AS, Atletico have set their sights on Bayern Munich midfielder Leon Goretzka. The 30-year-old is out of contract this summer, and this could sign a precontract for free with Los Colchoneros in less than two weeks. They say that Atletico are thoroughly informed of his situation as things stand, with Bayern seemingly unwilling to meet his contract demands.\n\nBarring anything crazy happening, Goretzka will not be back with the Bavarians. He does, however, have some suitors at this point and should be able to continue his career in a good spot. It remains to be seen what Goretzka wants to do, though. To continue playing near his current salary, the midfielder will have to go abroad, but if he is willing to take a significant pay cut, he could potentially find a club in Germany.",
+      "content": "> Atletico Madrid are fresh off the back of a takeover deal from Apollo Global Management that many believe could catapult the club into a different sphere in terms of investment. Their latest transfer target should be no strain on their finances though.\n>\n> As per Diario AS, Atletico have set their sights on Bayern Munich midfielder Leon Goretzka. The 30-year-old is out of contract this summer, and this could sign a precontract for free with Los Colchoneros in less than two weeks. They say that Atletico are thoroughly informed of his situation as things stand, with Bayern seemingly unwilling to meet his contract demands.\n\nBarring anything crazy happening, Goretzka will not be back with the Bavarians. He does, however, have some suitors at this point and should be able to continue his career in a good spot. It remains to be seen what Goretzka wants to do, though. To continue playing near his current salary, the midfielder will have to go abroad, but if he is willing to take a significant pay cut, he could potentially find a club in Germany."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0168bbe6fa3a08cb778fd8e20c53e40a80c453645ce00e84e5abd755fcc8bd62-0",
+        "idx": 0,
+        "hash": "3c42e0a37c7bb6416519770616459ae13f3f1b1662c0444e6be580622327633c",
+        "sim_hash": "2036242498644431126"
+      },
+      "content_original": "![](https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2025/12/gettyimages-2249286849.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n## [Goretzka to Atl\u00e9ti? (Football Espana)](https://www.football-espana.net/2025/12/19/atletico-madrid-set-sights-on-bayern-munich-star-for-2026-transfer)\n\nBayern Munich midfielder Leon Goretzka is likely not going to get a contract offer from the club after this season, which would make him a free agent.\n\nIf that happens, Atl\u00e9tico Madrid could be among the clubs ready to make a move for the Germany international:",
+      "content": "![](https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2025/12/gettyimages-2249286849.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n## [Goretzka to Atl\u00e9ti? (Football Espana)](https://www.football-espana.net/2025/12/19/atletico-madrid-set-sights-on-bayern-munich-star-for-2026-transfer)\n\nBayern Munich midfielder Leon Goretzka is likely not going to get a contract offer from the club after this season, which would make him a free agent.\n\nIf that happens, Atl\u00e9tico Madrid could be among the clubs ready to make a move for the Germany international:"
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0168bbe6fa3a08cb778fd8e20c53e40a80c453645ce00e84e5abd755fcc8bd62-2",
+        "idx": 2,
+        "hash": "ca965b6e356c301456f1f664b8f9153e6172141f9d4ee8ed4c21b86eefa2505a",
+        "sim_hash": "2552764887465017043"
+      },
+      "content_original": "## [Alonso thankful for Real support (Fabrizio Romano)](https://x.com/FabrizioRomano/status/2001989312095944812?s=20)\n\nFormer Bayern Munich midfielder and current Real Madrid manager Xabi Alonso has reportedly been at odds with some members of his team (especially Vin\u00edcius J\u00fanior), but he is keeping everything positive at this point given these quotes captured by Fabrizio Romano:\n\n> Xabi Alonso on Real Madrid support: \u201cFrom the beginning, we have had a close relationship, based on respect and affection.\u201d\n>\n> \u201cThe demands are extremely high. It\u2019s a long road, there will be good times and not-so-good times.\u201d\n>\n> \u201cI\u2019m very happy with and for Rodrygo. He\u2019s doing very well.\u201d\n>\n> \u201cThe balance he gives us, both on and off the ball. He has excellent technique. He combines well between the lines and in tight space\u2026 very good!\u201d\n>\n> \u201cI\u2019m happy with Vini Jr. I\u2019m sure his goal will come very soon, it\u2019s just matter of time.\u201d",
+      "content": "## [Alonso thankful for Real support (Fabrizio Romano)](https://x.com/FabrizioRomano/status/2001989312095944812?s=20)\n\nFormer Bayern Munich midfielder and current Real Madrid manager Xabi Alonso has reportedly been at odds with some members of his team (especially Vin\u00edcius J\u00fanior), but he is keeping everything positive at this point given these quotes captured by Fabrizio Romano:\n\n> Xabi Alonso on Real Madrid support: \u201cFrom the beginning, we have had a close relationship, based on respect and affection.\u201d\n>\n> \u201cThe demands are extremely high. It\u2019s a long road, there will be good times and not-so-good times.\u201d\n>\n> \u201cI\u2019m very happy with and for Rodrygo. He\u2019s doing very well.\u201d\n>\n> \u201cThe balance he gives us, both on and off the ball. He has excellent technique. He combines well between the lines and in tight space\u2026 very good!\u201d\n>\n> \u201cI\u2019m happy with Vini Jr. I\u2019m sure his goal will come very soon, it\u2019s just matter of time.\u201d"
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0168bbe6fa3a08cb778fd8e20c53e40a80c453645ce00e84e5abd755fcc8bd62-6",
+        "idx": 6,
+        "hash": "03e53bba5e0d45bc5f121dd89411ec282e8f0d6790ea848a415516bf5449d32f",
+        "sim_hash": "110753533374053783"
+      },
+      "content_original": "*If you are looking for more Bayern Munich and German national team coverage, check out the latest episodes of Bavarian Podcast Works, which you can get on [Acast](https://shows.acast.com/bavarian-podcast-works1), [Spotify](https://open.spotify.com/show/5kHW7eDJSF2sGA1O6gKxvB), [Apple](https://podcasts.apple.com/us/podcast/bavarian-podcast-works/id1460036325), or any leading podcast distributor\u2026*",
+      "content": "*If you are looking for more Bayern Munich and German national team coverage, check out the latest episodes of Bavarian Podcast Works, which you can get on [Acast](https://shows.acast.com/bavarian-podcast-works1), [Spotify](https://open.spotify.com/show/5kHW7eDJSF2sGA1O6gKxvB), [Apple](https://podcasts.apple.com/us/podcast/bavarian-podcast-works/id1460036325), or any leading podcast distributor\u2026*"
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "5c3e7675-d278-458a-96e7-db9a780cf8e9",
+      "timestamp": "2025-12-23T12:07:07.016000",
+      "success": false,
+      "failure_reason": "index_document: unexpected error: Exception: OpensearchOperations: delete document: 0168bbe6fa3a08cb778fd8e20c53e40a80c453645ce00e84e5abd755fcc8bd62, conflicts: 4, max retries reached",
+      "publisher_id": "56fe0a8f-4ad0-48a9-bbfa-e5ca6e667d62",
+      "version": "2.3",
+      "date": "2025-12-23",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.3",
+        "batchId": "e0c1877e-524e-41fc-a312-5a144878c60e",
+        "chunkingRequestId": "b2666a31-a108-4065-bb1c-7b49c40be2c7",
+        "totalChunks": 5,
+        "processingTime": 154093223,
+        "processingTimestamp": "2025-12-23T12:02:19.419863+00:00",
+        "tokenUsage": {
+          "total_tokens": 3266,
+          "prompt_tokens": 2274,
+          "completion_tokens": 992,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "wasRepaired": false,
+        "repairMetadata": null,
+        "has_existing_chunks": true,
+        "chunks_count": 5
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "document_id": "0168bbe6fa3a08cb778fd8e20c53e40a80c453645ce00e84e5abd755fcc8bd62"
+    },
+    {
+      "_id": "712c38a6-3e80-4a6b-9491-b24983906fc7",
+      "timestamp": "2025-12-21T05:56:26.821000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "56fe0a8f-4ad0-48a9-bbfa-e5ca6e667d62",
+      "version": "2.3",
+      "date": "2025-12-21",
+      "chunking": {
+        "strategy": "simple",
+        "chunks_count": 7
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "none",
+        "model": "none",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 7,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "0168bbe6fa3a08cb778fd8e20c53e40a80c453645ce00e84e5abd755fcc8bd62"
+    },
+    {
+      "_id": "87bc22d3-a092-448c-9c74-54c07a3ee8f3",
+      "timestamp": "2025-12-24T07:17:21.056000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "56fe0a8f-4ad0-48a9-bbfa-e5ca6e667d62",
+      "version": "2.3",
+      "date": "2025-12-24",
+      "chunking": {
+        "strategy": "simple",
+        "chunks_count": 7
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "none",
+        "model": "none",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 7,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "0168bbe6fa3a08cb778fd8e20c53e40a80c453645ce00e84e5abd755fcc8bd62"
+    },
+    {
+      "_id": "b728fe48-f15e-4990-b1f4-ea47d8d546e4",
+      "timestamp": "2025-12-23T12:07:14.957000",
+      "success": false,
+      "failure_reason": "index_document: unexpected error: Exception: OpensearchOperations: delete document: 0168bbe6fa3a08cb778fd8e20c53e40a80c453645ce00e84e5abd755fcc8bd62, conflicts: 5, max retries reached",
+      "publisher_id": "56fe0a8f-4ad0-48a9-bbfa-e5ca6e667d62",
+      "version": "2.3",
+      "date": "2025-12-23",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.3",
+        "batchId": "e0c1877e-524e-41fc-a312-5a144878c60e",
+        "chunkingRequestId": "11eddb4b-e672-407f-a549-66588eace88a",
+        "totalChunks": 5,
+        "processingTime": 154123146,
+        "processingTimestamp": "2025-12-23T12:02:49.343039+00:00",
+        "tokenUsage": {
+          "total_tokens": 3266,
+          "prompt_tokens": 2274,
+          "completion_tokens": 992,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "wasRepaired": false,
+        "repairMetadata": null,
+        "has_existing_chunks": true,
+        "chunks_count": 5
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "document_id": "0168bbe6fa3a08cb778fd8e20c53e40a80c453645ce00e84e5abd755fcc8bd62"
+    },
+    {
+      "_id": "db01a78c-4ad1-4031-bdd4-d5a5599c97f1",
+      "timestamp": "2025-12-23T12:06:45.566000",
+      "success": false,
+      "failure_reason": "index_document: unexpected error: Exception: OpensearchOperations: delete document: 0168bbe6fa3a08cb778fd8e20c53e40a80c453645ce00e84e5abd755fcc8bd62, conflicts: 6, max retries reached",
+      "publisher_id": "56fe0a8f-4ad0-48a9-bbfa-e5ca6e667d62",
+      "version": "2.3",
+      "date": "2025-12-23",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.3",
+        "batchId": "e0c1877e-524e-41fc-a312-5a144878c60e",
+        "chunkingRequestId": "cdf72ad2-9b3f-4666-b6aa-d68872c5e3b6",
+        "totalChunks": 5,
+        "processingTime": 154092970,
+        "processingTimestamp": "2025-12-23T12:02:19.166757+00:00",
+        "tokenUsage": {
+          "total_tokens": 3266,
+          "prompt_tokens": 2274,
+          "completion_tokens": 992,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "wasRepaired": false,
+        "repairMetadata": null,
+        "has_existing_chunks": true,
+        "chunks_count": 5
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "document_id": "0168bbe6fa3a08cb778fd8e20c53e40a80c453645ce00e84e5abd755fcc8bd62"
+    },
+    {
+      "_id": "e14e1526-43bd-4c24-9e76-6e76ebab5970",
+      "timestamp": "2025-12-23T12:02:10.189000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "56fe0a8f-4ad0-48a9-bbfa-e5ca6e667d62",
+      "version": "2.3",
+      "date": "2025-12-23",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.3",
+        "batchId": "e0c1877e-524e-41fc-a312-5a144878c60e",
+        "chunkingRequestId": "d600be61-96e8-42f2-aedc-b2007439e7c6",
+        "totalChunks": 5,
+        "processingTime": 154062241,
+        "processingTimestamp": "2025-12-23T12:01:48.437891+00:00",
+        "tokenUsage": {
+          "total_tokens": 3266,
+          "prompt_tokens": 2274,
+          "completion_tokens": 992,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "wasRepaired": false,
+        "repairMetadata": null,
+        "has_existing_chunks": true,
+        "chunks_count": 5
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 5,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "0168bbe6fa3a08cb778fd8e20c53e40a80c453645ce00e84e5abd755fcc8bd62"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\">\r\n  <channel>\r\n    <title>ProRata 2025 (all) | SB Nation</title>\r\n    <link>https://www.sbnation.com</link>\r\n    <description>Come fan with us. SB Nation is the largest independent sports media brand, consisting of SBNation.com, MMAFighting.com and over 300 fan-centric team communities.</description>\r\n    <image>\r\n      <title>ProRata 2025 (all) | SB Nation</title>\r\n      <url>https://platform.sbnation.com/wp-content/uploads/sites/2/2025/07/200x200.png</url>\r\n      <link>https://www.sbnation.com</link>\r\n      <width>-1</width>\r\n      <height>-1</height>\r\n    </image>\r\n    <item>\r\n      <title>Bayern Munich News: Leon Goretzka to Atl\u00e9tico Madrid?; Will FC Bayern make a play for FC Barcelona\u2019s Marc-Andr\u00e9 ter Stegen?; and MORE!</title>\r\n      <link>https://www.bavarianfootballworks.com/transfer-rumors/155147/bayern-munich-goretzka-atletico-madrid-fc-barcelona-ter-stegen-real-madrid</link>\r\n      <description>FC Bayern\u2019s Leon Goretzka could be on the move this summer.</description>\r\n      <pubDate>Sun, 21 Dec 2025 05:00:00 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">https://www.bavarianfootballworks.com/155147/daily-schmankerl-template</guid>\r\n      <dc:creator>CSmith1919</dc:creator>\r\n      <dc:date>2025-12-21T05:00:00Z</dc:date>\r\n      <content:encoded><![CDATA[<figure>\n\n<img alt=\"\" data-caption=\"\" data-portal-copyright=\"\" data-has-syndication-rights=\"1\" src=\"https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2025/12/gettyimages-2249286849.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\t\t</figcaption>\n</figure>\n\n\t\t\t\t\t\t\t<h2 class=\"wp-block-heading has-text-align-none\"><a href=\"https://www.football-espana.net/2025/12/19/atletico-madrid-set-sights-on-bayern-munich-star-for-2026-transfer\">Goretzka to Atl\u00e9ti? (Football Espana)</a></h2>\n\n<p class=\"has-text-align-none\">Bayern Munich midfielder Leon Goretzka is likely not going to get a contract offer from the club after this season, which would make him a free agent. </p>\n\n<p class=\"has-text-align-none\">If that happens, Atl\u00e9tico Madrid could be among the clubs ready to make a move for the Germany international: </p>\n\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\n<p class=\"has-text-align-none\">Atletico Madrid are fresh off the back of a takeover deal from Apollo Global Management that many believe could catapult the club into a different sphere in terms of investment. Their latest transfer target should be no strain on their finances though.</p>\n\n\n\n<p class=\"has-text-align-none\">As per Diario AS, Atletico have set their sights on Bayern Munich midfielder Leon Goretzka. The 30-year-old is out of contract this summer, and this could sign a precontract for free with Los Colchoneros in less than two weeks. They say that Atletico are thoroughly informed of his situation as things stand, with Bayern seemingly unwilling to meet his contract demands. </p>\n</blockquote>\n\n<p class=\"has-text-align-none\">Barring anything crazy happening, Goretzka will not be back with the Bavarians. He does, however, have some suitors at this point and should be able to continue his career in a good spot. It remains to be seen what Goretzka wants to do, though. To continue playing near his current salary, the midfielder will have to go abroad, but if he is willing to take a significant pay cut, he could potentially find a club in Germany. </p>\n\n<h2 class=\"wp-block-heading has-text-align-none\"><a href=\"https://x.com/FabrizioRomano/status/2001989312095944812?s=20\">Alonso thankful for Real support (Fabrizio Romano)</a></h2>\n\n<p class=\"has-text-align-none\">Former Bayern Munich midfielder and current Real Madrid manager Xabi Alonso has reportedly been at odds with some members of his team (especially Vin\u00edcius J\u00fanior), but he is keeping everything positive at this point given these quotes captured by Fabrizio Romano: </p>\n\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\n<p class=\"has-text-align-none\"> Xabi Alonso on Real Madrid support: \u201cFrom the beginning, we have had a close relationship, based on respect and affection.\u201d</p>\n\n\n\n<p class=\"has-text-align-none\">\u201cThe demands are extremely high. It&#8217;s a long road, there will be good times and not-so-good times.\u201d</p>\n\n\n\n<p class=\"has-text-align-none\">\u201cI\u2019m very happy with and for Rodrygo. He\u2019s doing very well.\u201d</p>\n\n\n\n<p class=\"has-text-align-none\">\u201cThe balance he gives us, both on and off the ball. He has excellent technique. He combines well between the lines and in tight space\u2026 very good!\u201d</p>\n\n\n\n<p class=\"has-text-align-none\">\u201cI\u2019m happy with Vini Jr. I\u2019m sure his goal will come very soon, it\u2019s just matter of time.\u201d</p>\n</blockquote>\n\n<h2 class=\"wp-block-heading has-text-align-none\"><a href=\"https://x.com/RudyGaletti/status/2002376366151397450?s=20\">F\u00fcllkrug loan move to Milan getting close (Rudy Galetti)</a></h2>\n\n<p class=\"has-text-align-none\">West Ham United striker and Germany international Niclas F\u00fcllkrug could be close to moving to AC Milan: </p>\n\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\n<p class=\"has-text-align-none\"> AC Milan are closing in on F\u00fcllkrug on loan from West Ham until June. \u26ab</p>\n\n\n\n<p class=\"has-text-align-none\">All the paperwork is expected to be completed within the next 24h after West Ham, which initially asked for a buy obligation, opened to a purchase option (~\u20ac14/15m).</p>\n\n\n\n<p class=\"has-text-align-none\">Personal terms already agreed.</p>\n</blockquote>\n\n<h2 class=\"wp-block-heading has-text-align-none\"><a href=\"https://cfbayerninsider.com/2025/12/the-bayern-insider-real-madrid-said-no-to-bayern-gem-whos-now-tearing-up-champions-league/\">Bayern won\u2019t make move for Ter Stegen (Sport Bild\u2019s Christian Falk)</a></h2>\n\n<p class=\"has-text-align-none\">Bayern Munich has long been rumored to be a fan of FC Barcelona goalkeeper Marc-Andr\u00e9 ter Stegen, but do not expect the Bavarians to take a run at Ter Stegen if Manuel Neuer retires: </p>\n\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\n<p class=\"has-text-align-none\">\u274c It is NOT TRUE: Bayern want to sign Marc-Andr\u00e9 ter Stegen. He\u2019s a really good goalkeeper, but there are no meetings taking place within the club to discuss him signing for FC Bayern. There is an interesting set of circumstances at the club. As we know, Jonas Urbig is considered the backup and eventual successor to first-choice Manuel Neuer. Urbig also shares the same agent as Ter Stegen, so they don\u2019t want to bring a rival into the club.</p>\n\n\n\n<p class=\"has-text-align-none\">That all said, Ter Stegen knows he has to move if he wants to play in the World Cup for Germany. This is why there is so much speculation around his future. I think an idea like Manchester United, for example, is more plausible. Otherwise, there are many interested clubs; Besiktas would be a relatively easy move for the Barcelona star in order to get playing time, as he has no chance of playing next year for Barca; Hansi Flick is very clear on this position.</p>\n\n\n\n<p class=\"has-text-align-none\">Neuer is still, firmly, the number one goalkeeper at Bayern Munich, so it wouldn\u2019t make any sense to bring Marc-Andr\u00e9 ter Stegen in. He\u2019s already been sitting on the bench for the German national team behind Manuel Neuer, and he won\u2019t do it at Bayern!</p>\n</blockquote>\n\n<p class=\"has-text-align-none\">There is no way either side would be interested in a January move, but even in the summer, Jonas Urbig looks ready to take the job should Neuer retire (which is up in the air at this point). </p>\n\n<h2 class=\"wp-block-heading has-text-align-none\"><a href=\"https://x.com/WhoScored/status/2002378453304439124?s=20\">Palhinha doing what he does best (WhoScored.com)</a></h2>\n\n<p class=\"has-text-align-none\">Bayern Munich loanee  Jo\u00e3o Palhinha entered Tottenham Hotspur\u2019s 2-1 loss to Liverpool as the leading tackler in Europe\u2019s Top Five Leagues: </p>\n\n<figure class=\"wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter\"><div class=\"wp-block-embed__wrapper\">\n<blockquote class=\"twitter-tweet\" data-dnt=\"true\"><p lang=\"en\" dir=\"ltr\">Jo\u00e3o Palhinha has made more successful tackles (65) than any other player in Europe&#039;s top five leagues this season. \ufe0f<a href=\"https://twitter.com/hashtag/THFC?src=hash&amp;ref_src=twsrc%5Etfw\">#THFC</a> <a href=\"https://t.co/mANv2cwvdx\">pic.twitter.com/mANv2cwvdx</a></p>&mdash; WhoScored (@WhoScored) <a href=\"https://twitter.com/WhoScored/status/2002378453304439124?ref_src=twsrc%5Etfw\">December 20, 2025</a></blockquote>\n</div></figure>\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n<p class=\"has-text-align-none\"><em>If you are looking for more Bayern Munich and German national team coverage, check out the latest episodes of Bavarian Podcast Works, which you can get on <a href=\"https://shows.acast.com/bavarian-podcast-works1\">Acast</a>, <a href=\"https://open.spotify.com/show/5kHW7eDJSF2sGA1O6gKxvB\">Spotify</a>, <a href=\"https://podcasts.apple.com/us/podcast/bavarian-podcast-works/id1460036325\">Apple</a>, or any leading podcast distributor\u2026 </em></p>\n\n<p class=\"has-text-align-none\"></p>]]></content:encoded>\r\n      <media:keywords>and, atletico, barcelona, bayern, fc, goretzka, madrid, munich, news, real, rumors, stegen, ter, transfer</media:keywords>\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "![](https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2025/12/gettyimages-2249286849.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n## [Goretzka to Atl\u00e9ti? (Football Espana)](https://www.football-espana.net/2025/12/19/atletico-madrid-set-sights-on-bayern-munich-star-for-2026-transfer)\n\nBayern Munich midfielder Leon Goretzka is likely not going to get a contract offer from the club after this season, which would make him a free agent.\n\nIf that happens, Atl\u00e9tico Madrid could be among the clubs ready to make a move for the Germany international:\n\n> Atletico Madrid are fresh off the back of a takeover deal from Apollo Global Management that many believe could catapult the club into a different sphere in terms of investment. Their latest transfer target should be no strain on their finances though.\n>\n> As per Diario AS, Atletico have set their sights on Bayern Munich midfielder Leon Goretzka. The 30-year-old is out of contract this summer, and this could sign a precontract for free with Los Colchoneros in less than two weeks. They say that Atletico are thoroughly informed of his situation as things stand, with Bayern seemingly unwilling to meet his contract demands.\n\nBarring anything crazy happening, Goretzka will not be back with the Bavarians. He does, however, have some suitors at this point and should be able to continue his career in a good spot. It remains to be seen what Goretzka wants to do, though. To continue playing near his current salary, the midfielder will have to go abroad, but if he is willing to take a significant pay cut, he could potentially find a club in Germany.\n\n## [Alonso thankful for Real support (Fabrizio Romano)](https://x.com/FabrizioRomano/status/2001989312095944812?s=20)\n\nFormer Bayern Munich midfielder and current Real Madrid manager Xabi Alonso has reportedly been at odds with some members of his team (especially Vin\u00edcius J\u00fanior), but he is keeping everything positive at this point given these quotes captured by Fabrizio Romano:\n\n> Xabi Alonso on Real Madrid support: \u201cFrom the beginning, we have had a close relationship, based on respect and affection.\u201d\n>\n> \u201cThe demands are extremely high. It\u2019s a long road, there will be good times and not-so-good times.\u201d\n>\n> \u201cI\u2019m very happy with and for Rodrygo. He\u2019s doing very well.\u201d\n>\n> \u201cThe balance he gives us, both on and off the ball. He has excellent technique. He combines well between the lines and in tight space\u2026 very good!\u201d\n>\n> \u201cI\u2019m happy with Vini Jr. I\u2019m sure his goal will come very soon, it\u2019s just matter of time.\u201d\n\n## [F\u00fcllkrug loan move to Milan getting close (Rudy Galetti)](https://x.com/RudyGaletti/status/2002376366151397450?s=20)\n\nWest Ham United striker and Germany international Niclas F\u00fcllkrug could be close to moving to AC Milan:\n\n> AC Milan are closing in on F\u00fcllkrug on loan from West Ham until June. \u26ab\n>\n> All the paperwork is expected to be completed within the next 24h after West Ham, which initially asked for a buy obligation, opened to a purchase option (~\u20ac14/15m).\n>\n> Personal terms already agreed.\n\n## [Bayern won\u2019t make move for Ter Stegen (Sport Bild\u2019s Christian Falk)](https://cfbayerninsider.com/2025/12/the-bayern-insider-real-madrid-said-no-to-bayern-gem-whos-now-tearing-up-champions-league/)\n\nBayern Munich has long been rumored to be a fan of FC Barcelona goalkeeper Marc-Andr\u00e9 ter Stegen, but do not expect the Bavarians to take a run at Ter Stegen if Manuel Neuer retires:\n\n> \u274c It is NOT TRUE: Bayern want to sign Marc-Andr\u00e9 ter Stegen. He\u2019s a really good goalkeeper, but there are no meetings taking place within the club to discuss him signing for FC Bayern. There is an interesting set of circumstances at the club. As we know, Jonas Urbig is considered the backup and eventual successor to first-choice Manuel Neuer. Urbig also shares the same agent as Ter Stegen, so they don\u2019t want to bring a rival into the club.\n>\n> That all said, Ter Stegen knows he has to move if he wants to play in the World Cup for Germany. This is why there is so much speculation around his future. I think an idea like Manchester United, for example, is more plausible. Otherwise, there are many interested clubs; Besiktas would be a relatively easy move for the Barcelona star in order to get playing time, as he has no chance of playing next year for Barca; Hansi Flick is very clear on this position.\n>\n> Neuer is still, firmly, the number one goalkeeper at Bayern Munich, so it wouldn\u2019t make any sense to bring Marc-Andr\u00e9 ter Stegen in. He\u2019s already been sitting on the bench for the German national team behind Manuel Neuer, and he won\u2019t do it at Bayern!\n\nThere is no way either side would be interested in a January move, but even in the summer, Jonas Urbig looks ready to take the job should Neuer retire (which is up in the air at this point).\n\n## [Palhinha doing what he does best (WhoScored.com)](https://x.com/WhoScored/status/2002378453304439124?s=20)\n\nBayern Munich loanee Jo\u00e3o Palhinha entered Tottenham Hotspur\u2019s 2-1 loss to Liverpool as the leading tackler in Europe\u2019s Top Five Leagues:\n\n> Jo\u00e3o Palhinha has made more successful tackles (65) than any other player in Europe's top five leagues this season. \ufe0f[#THFC](https://twitter.com/hashtag/THFC?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/mANv2cwvdx](https://t.co/mANv2cwvdx)\n>\n> \u2014 WhoScored (@WhoScored) [December 20, 2025](https://twitter.com/WhoScored/status/2002378453304439124?ref_src=twsrc%5Etfw)\n\n\n\n*If you are looking for more Bayern Munich and German national team coverage, check out the latest episodes of Bavarian Podcast Works, which you can get on [Acast](https://shows.acast.com/bavarian-podcast-works1), [Spotify](https://open.spotify.com/show/5kHW7eDJSF2sGA1O6gKxvB), [Apple](https://podcasts.apple.com/us/podcast/bavarian-podcast-works/id1460036325), or any leading podcast distributor\u2026*"
+}

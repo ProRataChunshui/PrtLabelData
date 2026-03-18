@@ -1,0 +1,139 @@
+{
+  "document_id": "010749ef7b61eb579bf9c3be6795518860e2c8322fa277faaa965ce5995364bc",
+  "document_metadata": {
+    "id": "010749ef7b61eb579bf9c3be6795518860e2c8322fa277faaa965ce5995364bc",
+    "date": 20220820,
+    "publisher_id": "601c8901-d241-42b0-8c86-73d4702299d9",
+    "date_year": 2022,
+    "date_month": 8,
+    "crawl_date": "2025-10-28T02:36:22.650606356Z",
+    "date_day": 20,
+    "title": "Premier League: Manchester United sign Casemiro from Real Madrid for reported \u00a360 million",
+    "url": "https://scroll.in/field/1030895/premier-league-manchester-united-sign-casemiro-from-real-madrid-for-reported-ps60-million?utm_source=rss&utm_medium=prorata",
+    "url2": "https://scroll.in/field/1030895/premier-league-manchester-united-sign-casemiro-from-real-madrid-for-reported-ps60-million?utm_source=rss&utm_medium=prorata",
+    "domain": "scroll.in",
+    "lang": "unknown",
+    "published_date": "2022-08-20T04:31:21Z",
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "601c8901-d241-42b0-8c86-73d4702299d9",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2025-10-28T02:36:22.650000",
+    "published_date_parsed": "2022-08-20T04:31:21",
+    "rawType": "xml",
+    "publisherId": "601c8901-d241-42b0-8c86-73d4702299d9",
+    "documentId": "010749ef7b61eb579bf9c3be6795518860e2c8322fa277faaa965ce5995364bc",
+    "rawcontent_created": "2025-10-28T02:36:24.485000",
+    "source": "Scroll.in",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=scroll.in",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=scroll.in",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=scroll.in",
+    "first_words": "Manchester United said on Friday they have agreed to sign Real Madrid midfielder Casemiro in a deal worth up to a reported \u00a360 million ($70 million). United manager Erik ten Hag has been desperate to land a defensive midfielder since taking charge at Old Trafford and has finally settled for Casemiro after failing to sign Barcelona\u2019s Frenkie de Jong. Troubled United, who sit bottom of the Premier League after embarrassing defeats against Brighton and Brentford, are set to pay an initial \u00a350 million. The overall fee would rise by another \u00a310 million if certain clauses in the"
+  },
+  "publisher_metadata": {
+    "id": "601c8901-d241-42b0-8c86-73d4702299d9",
+    "group_id": "b6965a2b-55e9-4742-b9a0-bd11b92c8643",
+    "name": "Scroll.in",
+    "domain": "api.scroll.in",
+    "location": "Global",
+    "country": "Global",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "Premier League: Manchester United sign Casemiro from Real Madrid for reported \u00a360 million",
+    "document_authors_txt": [],
+    "hash": "ef37b25ca0bf1d54b6015fd89e80cae82c29b8bdde94aa633117f6ec00281d2b"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2025-10-28",
+    "chunking": {
+      "chunks_count": 3
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "010749ef7b61eb579bf9c3be6795518860e2c8322fa277faaa965ce5995364bc-2",
+        "idx": 2,
+        "hash": "8c17a6f6ef7765448386fde175e44e6357d11b3a1371068af1d3e012725cd550"
+      },
+      "content_original": "Casemiro played alongside current United stars Cristiano Ronaldo and Raphael Varane in the Spanish capital.\n\nHis arrival will fill a void in Ten Hag\u2019s midfield after his prolonged pursuit of De Jong ended in failure.\n\nCasemiro\u2019s wealth of experience and success at the highest level will make him a certain starter instead of either Fred or Scott McTominay in central midfield.\n\nHe is unlikely to be available for United\u2019s next match against arch rivals Liverpool at Old Trafford on Monday.\n\nInstead, Casemiro\u2019s debut could come at Southampton in the Premier League on August 27.",
+      "content": "Casemiro played alongside current United stars Cristiano Ronaldo and Raphael Varane in the Spanish capital.\n\nHis arrival will fill a void in Ten Hag\u2019s midfield after his prolonged pursuit of De Jong ended in failure.\n\nCasemiro\u2019s wealth of experience and success at the highest level will make him a certain starter instead of either Fred or Scott McTominay in central midfield.\n\nHe is unlikely to be available for United\u2019s next match against arch rivals Liverpool at Old Trafford on Monday.\n\nInstead, Casemiro\u2019s debut could come at Southampton in the Premier League on August 27."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "010749ef7b61eb579bf9c3be6795518860e2c8322fa277faaa965ce5995364bc-0",
+        "idx": 0,
+        "hash": "9dab5c30cd96803c2d796347b2be5a6b787aed2d17b10f2b54a600e5699a25f3"
+      },
+      "content_original": "![](https://sc0.blr1.cdn.digitaloceanspaces.com/article/178710-fvhevreqyj-1660969752.jpg)\n\nManchester United said on Friday they have agreed to sign Real Madrid midfielder Casemiro in a deal worth up to a reported \u00a360 million ($70 million).\n\nUnited manager Erik ten Hag has been desperate to land a defensive midfielder since taking charge at Old Trafford and has finally settled for Casemiro after failing to sign Barcelona\u2019s Frenkie de Jong.\n\nTroubled United, who sit bottom of the Premier League after embarrassing defeats against Brighton and Brentford, are set to pay an initial \u00a350 million.\n\nThe overall fee would rise by another \u00a310 million if certain clauses in the contract are met.\n\nCasemiro has been offered a four-year contract with the option of a further 12-month extension, with the transfer subject to the agreement of personal terms.\n\nThe 30-year-old joined Real from Sao Paulo in 2013 and has been a key figure in midfield for the Spanish club, winning five Champions League titles.\n\n\u201cManchester United is delighted to announce that the club has reached agreement with Real Madrid for the transfer of Casemiro,\u201d a statement from United said.",
+      "content": "![](https://sc0.blr1.cdn.digitaloceanspaces.com/article/178710-fvhevreqyj-1660969752.jpg)\n\nManchester United said on Friday they have agreed to sign Real Madrid midfielder Casemiro in a deal worth up to a reported \u00a360 million ($70 million).\n\nUnited manager Erik ten Hag has been desperate to land a defensive midfielder since taking charge at Old Trafford and has finally settled for Casemiro after failing to sign Barcelona\u2019s Frenkie de Jong.\n\nTroubled United, who sit bottom of the Premier League after embarrassing defeats against Brighton and Brentford, are set to pay an initial \u00a350 million.\n\nThe overall fee would rise by another \u00a310 million if certain clauses in the contract are met.\n\nCasemiro has been offered a four-year contract with the option of a further 12-month extension, with the transfer subject to the agreement of personal terms.\n\nThe 30-year-old joined Real from Sao Paulo in 2013 and has been a key figure in midfield for the Spanish club, winning five Champions League titles.\n\n\u201cManchester United is delighted to announce that the club has reached agreement with Real Madrid for the transfer of Casemiro,\u201d a statement from United said."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "010749ef7b61eb579bf9c3be6795518860e2c8322fa277faaa965ce5995364bc-1",
+        "idx": 1,
+        "hash": "1eedc0c6d37cd4f5153c23eee94c7ed5ca0648ecbfef6984b50759ba735b79ac"
+      },
+      "content_original": "\u201cThe transfer is subject to the agreement of personal terms, UK visa requirements and a medical.\u201d\n\nTen Hag refused to discuss the transfer at his press conference earlier on Friday, but Real boss Carlo Ancelotti was more forthcoming when speaking to the media in Spain.\n\n\u201cI\u2019ve discussed it with him this morning. He wants to try a new challenge, a new opportunity,\u201d Ancelotti said.\n\n\u201cThe club understand it. With all he\u2019s done for this club and the person he is, we have to respect it.\n\n\u201cIf he doesn\u2019t stay, we\u2019ll have an enormous sense of gratitude to him for all he\u2019s done. We have replacements within the squad.\u201d\n\nReal Madrid said they will hold a \u201ctribute and farewell\u201d to Casemiro on Monday which will be attended by the club\u2019s president, Florentino Perez.\n\nIn a statement, the Spanish giants called him \u201cone of the most transcendental players in one of the most significant and successful periods in our history.\u201d\n\n\u201cReal Madrid are and always will be his home, and we wish him and all his family the best of luck in this new chapter of his life,\u201d it added.\n\nCasemiro played alongside current United stars Cristiano Ronaldo and Raphael Varane in the Spanish capital.",
+      "content": "\u201cThe transfer is subject to the agreement of personal terms, UK visa requirements and a medical.\u201d\n\nTen Hag refused to discuss the transfer at his press conference earlier on Friday, but Real boss Carlo Ancelotti was more forthcoming when speaking to the media in Spain.\n\n\u201cI\u2019ve discussed it with him this morning. He wants to try a new challenge, a new opportunity,\u201d Ancelotti said.\n\n\u201cThe club understand it. With all he\u2019s done for this club and the person he is, we have to respect it.\n\n\u201cIf he doesn\u2019t stay, we\u2019ll have an enormous sense of gratitude to him for all he\u2019s done. We have replacements within the squad.\u201d\n\nReal Madrid said they will hold a \u201ctribute and farewell\u201d to Casemiro on Monday which will be attended by the club\u2019s president, Florentino Perez.\n\nIn a statement, the Spanish giants called him \u201cone of the most transcendental players in one of the most significant and successful periods in our history.\u201d\n\n\u201cReal Madrid are and always will be his home, and we wish him and all his family the best of luck in this new chapter of his life,\u201d it added.\n\nCasemiro played alongside current United stars Cristiano Ronaldo and Raphael Varane in the Spanish capital."
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "d0a5a61b-63b4-4b01-965e-fb4ca98f5be5",
+      "timestamp": "2025-10-28T02:36:30.775000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "601c8901-d241-42b0-8c86-73d4702299d9",
+      "version": "2.3",
+      "date": "2025-10-28",
+      "chunking": {
+        "chunks_count": 3
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 3,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "010749ef7b61eb579bf9c3be6795518860e2c8322fa277faaa965ce5995364bc"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Scroll.in</title>\r\n    <link>https://scroll.in</link>\r\n    <description>A digital daily of things that matter.</description>\r\n    <docs>http://www.rssboard.org/rss-specification</docs>\r\n    <generator>python-feedgen</generator>\r\n    <image>\r\n      <title>Scroll.in</title>\r\n      <url>http://s3-ap-southeast-1.amazonaws.com/scroll-feeds/scroll_logo_small.png</url>\r\n      <link>https://scroll.in</link>\r\n      <width>-1</width>\r\n      <height>-1</height>\r\n    </image>\r\n    <item>\r\n      <title>Premier League: Manchester United sign Casemiro from Real Madrid for reported \u00a360 million</title>\r\n      <link>https://scroll.in/field/1030895/premier-league-manchester-united-sign-casemiro-from-real-madrid-for-reported-ps60-million?utm_source=rss&amp;utm_medium=prorata</link>\r\n      <description>Casemiro arrival will fill a void in Manchester United manager Erik ten Hag\u2019s midfield after his prolonged pursuit of Frenkie de Jong ended in failure.</description>\r\n      <enclosure url=\"https://sc0.blr1.cdn.digitaloceanspaces.com/article/178710-fvhevreqyj-1660969752.jpg\" length=\"0\" type=\"image/jpeg\" />\r\n      <pubDate>Sat, 20 Aug 2022 04:31:21 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">https://scroll.in/field/1030895/premier-league-manchester-united-sign-casemiro-from-real-madrid-for-reported-ps60-million?utm_source=rss&amp;utm_medium=prorata</guid>\r\n      <dc:creator>AFP</dc:creator>\r\n      <dc:date>2022-08-20T04:31:21Z</dc:date>\r\n      <content:encoded><![CDATA[<p><figure><img src=\"https://sc0.blr1.cdn.digitaloceanspaces.com/article/178710-fvhevreqyj-1660969752.jpg\" /></figure></p><p>Manchester United said on Friday they have agreed to sign Real Madrid midfielder Casemiro in a deal worth up to a reported \u00a360 million ($70 million).</p><p>United manager Erik ten Hag has been desperate to land a defensive midfielder since taking charge at Old Trafford and has finally settled for Casemiro after failing to sign Barcelona\u2019s Frenkie de Jong.</p><p>Troubled United, who sit bottom of the Premier League after embarrassing defeats against Brighton and Brentford, are set to pay an initial \u00a350 million.</p><p>The overall fee would rise by another \u00a310 million if certain clauses in the contract are met.</p><p>Casemiro has been offered a four-year contract with the option of a further 12-month extension, with the transfer subject to the agreement of personal terms.</p><p>The 30-year-old joined Real from Sao Paulo in 2013 and has been a key figure in midfield for the Spanish club, winning five Champions League titles.</p><iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/bIu9bHgBqKk?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"CASEMIRO: DEFENSIVE SKILLS MASTER | Real Madrid\"></iframe><p>\u201cManchester United is delighted to announce that the club has reached agreement with Real Madrid for the transfer of Casemiro,\u201d a statement from United said.</p><p>\u201cThe transfer is subject to the agreement of personal terms, UK visa requirements and a medical.\u201d</p><p>Ten Hag refused to discuss the transfer at his press conference earlier on Friday, but Real boss Carlo Ancelotti was more forthcoming when speaking to the media in Spain.</p><p>\u201cI\u2019ve discussed it with him this morning. He wants to try a new challenge, a new opportunity,\u201d Ancelotti said.</p><p>\u201cThe club understand it. With all he\u2019s done for this club and the person he is, we have to respect it.</p><p>\u201cIf he doesn\u2019t stay, we\u2019ll have an enormous sense of gratitude to him for all he\u2019s done. We have replacements within the squad.\u201d</p><p>Real Madrid said they will hold a \u201ctribute and farewell\u201d to Casemiro on Monday which will be attended by the club\u2019s president, Florentino Perez.</p><p>In a statement, the Spanish giants called him \u201cone of the most transcendental players in one of the most significant and successful periods in our history.\u201d</p><p>\u201cReal Madrid are and always will be his home, and we wish him and all his family the best of luck in this new chapter of his life,\u201d it added.</p><p>Casemiro played alongside current United stars Cristiano Ronaldo and Raphael Varane in the Spanish capital.</p><p>His arrival will fill a void in Ten Hag\u2019s midfield after his prolonged pursuit of De Jong ended in failure.</p><p>Casemiro\u2019s wealth of experience and success at the highest level will make him a certain starter instead of either Fred or Scott McTominay in central midfield.</p><p>He is unlikely to be available for United\u2019s next match against arch rivals Liverpool at Old Trafford on Monday.</p><p>Instead, Casemiro\u2019s debut could come at Southampton in the Premier League on August 27.</p>]]></content:encoded>\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "![](https://sc0.blr1.cdn.digitaloceanspaces.com/article/178710-fvhevreqyj-1660969752.jpg)\n\nManchester United said on Friday they have agreed to sign Real Madrid midfielder Casemiro in a deal worth up to a reported \u00a360 million ($70 million).\n\nUnited manager Erik ten Hag has been desperate to land a defensive midfielder since taking charge at Old Trafford and has finally settled for Casemiro after failing to sign Barcelona\u2019s Frenkie de Jong.\n\nTroubled United, who sit bottom of the Premier League after embarrassing defeats against Brighton and Brentford, are set to pay an initial \u00a350 million.\n\nThe overall fee would rise by another \u00a310 million if certain clauses in the contract are met.\n\nCasemiro has been offered a four-year contract with the option of a further 12-month extension, with the transfer subject to the agreement of personal terms.\n\nThe 30-year-old joined Real from Sao Paulo in 2013 and has been a key figure in midfield for the Spanish club, winning five Champions League titles.\n\n\u201cManchester United is delighted to announce that the club has reached agreement with Real Madrid for the transfer of Casemiro,\u201d a statement from United said.\n\n\u201cThe transfer is subject to the agreement of personal terms, UK visa requirements and a medical.\u201d\n\nTen Hag refused to discuss the transfer at his press conference earlier on Friday, but Real boss Carlo Ancelotti was more forthcoming when speaking to the media in Spain.\n\n\u201cI\u2019ve discussed it with him this morning. He wants to try a new challenge, a new opportunity,\u201d Ancelotti said.\n\n\u201cThe club understand it. With all he\u2019s done for this club and the person he is, we have to respect it.\n\n\u201cIf he doesn\u2019t stay, we\u2019ll have an enormous sense of gratitude to him for all he\u2019s done. We have replacements within the squad.\u201d\n\nReal Madrid said they will hold a \u201ctribute and farewell\u201d to Casemiro on Monday which will be attended by the club\u2019s president, Florentino Perez.\n\nIn a statement, the Spanish giants called him \u201cone of the most transcendental players in one of the most significant and successful periods in our history.\u201d\n\n\u201cReal Madrid are and always will be his home, and we wish him and all his family the best of luck in this new chapter of his life,\u201d it added.\n\nCasemiro played alongside current United stars Cristiano Ronaldo and Raphael Varane in the Spanish capital.\n\nHis arrival will fill a void in Ten Hag\u2019s midfield after his prolonged pursuit of De Jong ended in failure.\n\nCasemiro\u2019s wealth of experience and success at the highest level will make him a certain starter instead of either Fred or Scott McTominay in central midfield.\n\nHe is unlikely to be available for United\u2019s next match against arch rivals Liverpool at Old Trafford on Monday.\n\nInstead, Casemiro\u2019s debut could come at Southampton in the Premier League on August 27."
+}

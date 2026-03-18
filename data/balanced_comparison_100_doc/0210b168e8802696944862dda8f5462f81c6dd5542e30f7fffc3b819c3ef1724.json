@@ -1,0 +1,298 @@
+{
+  "document_id": "0210b168e8802696944862dda8f5462f81c6dd5542e30f7fffc3b819c3ef1724",
+  "document_metadata": {
+    "id": "0210b168e8802696944862dda8f5462f81c6dd5542e30f7fffc3b819c3ef1724",
+    "date": 20251227,
+    "publisher_id": "e0044720-5d25-41af-a2e3-23279a4fa876",
+    "date_year": 2025,
+    "date_month": 12,
+    "crawl_date": "2025-12-27T11:57:25.592321843Z",
+    "date_day": 27,
+    "title": "Introspection of Grief After a Year: Cope How You Can",
+    "url": "https://www.chillicothenews.com/introspection-of-grief-after-a-year-cope-how-you-can/",
+    "url2": "https://www.chillicothenews.com/introspection-of-grief-after-a-year-cope-how-you-can/",
+    "domain": "chillicothenews.com",
+    "categories": [
+      "Columns"
+    ],
+    "lang": "unknown",
+    "published_date": "2025-12-27T02:39:22Z",
+    "authors": [
+      "Angela Hutschreider"
+    ],
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "e0044720-5d25-41af-a2e3-23279a4fa876",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2025-12-27T11:57:25.592000",
+    "published_date_parsed": "2025-12-27T02:39:22",
+    "rawType": "json",
+    "publisherId": "e0044720-5d25-41af-a2e3-23279a4fa876",
+    "documentId": "0210b168e8802696944862dda8f5462f81c6dd5542e30f7fffc3b819c3ef1724",
+    "rawcontent_created": "2025-12-27T11:57:25.783000",
+    "source": "Constitution-Tribune",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=chillicothenews.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=chillicothenews.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=chillicothenews.com",
+    "first_words": "By Kristin Dudley It\u2019s officially been a year since the death of my dad and it has not come without its challenges. I\u2019m middle-aged, unmarried, and without the distraction of children and all the busy things that go along with that. I\u2019ve stayed around to help my mom, which as two adults in a parent-child living situation, has probably not been the best for either of us. I\u2019ve not coped. I am still certain he\u2019s just away on a long trip. The part that doesn\u2019t kick in is that it\u2019s a one-way ticket, and his soul is gone"
+  },
+  "publisher_metadata": {
+    "id": "e0044720-5d25-41af-a2e3-23279a4fa876",
+    "group_id": "a81cba48-89e1-4e2b-b6fd-753d6773d5a8",
+    "name": "Constitution-Tribune",
+    "domain": "chillicothenews.com",
+    "location": "United States",
+    "country": "United States",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": [
+      "186d72ec-3dbe-4c75-97a5-578fb5e2fd06"
+    ]
+  },
+  "content_metadata": {
+    "document_title_txt": "Introspection of Grief After a Year: Cope How You Can",
+    "document_authors_txt": [
+      "Angela Hutschreider"
+    ],
+    "hash": "104dce3e294a600e235fea970fbbb257c466909a72714da21a7a1a0b089c7b4c"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2025-12-27",
+    "chunking": {
+      "strategy": "simple",
+      "chunks_count": 8
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "none",
+      "model": "none",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0210b168e8802696944862dda8f5462f81c6dd5542e30f7fffc3b819c3ef1724-4",
+        "idx": 4,
+        "hash": "181cd9328cefb74a02ec43f84e7c4cd5cefba50c9435a38602bd10a6ec30537c",
+        "sim_hash": "8097430917466528986"
+      },
+      "content_original": "What I really hate about my selfishness is that there have been other people who have passed this year whom I loved and respected or were within my dad\u2019s family. I lost a great-aunt and great-uncle this year, too. I couldn\u2019t find the strength to say goodbye to them. I should\u2019ve been there for my cousins when they lost their grandpa. I wasn\u2019t. I should\u2019ve been there to say goodbye to a teacher I had in high school that I thought a lot of. I couldn\u2019t. I don\u2019t know what it is, but I\u2019ve silently hidden myself from other avenues of grief. The daily aspects were enough.\n\nIn reality, it wasn\u2019t just grief. I have recognized that I sank into a deep dark depression and it\u2019s been one that almost took me with it completely. But as a society\u2014 we don\u2019t talk about that.\n\nSo I am.\n\nI\u2019m telling you some songs help me get through. Highly recommend ol Jellyroll, \u201cI Am Not Okay.\u201d It helped me to normalize the feeling. For anyone unfamiliar, the lyric goes:\n\n\u2018I am not OK. I\u2019m barely gettin by.\n\nI\u2019m losing track of days. And losing sleep at night.",
+      "content": "What I really hate about my selfishness is that there have been other people who have passed this year whom I loved and respected or were within my dad\u2019s family. I lost a great-aunt and great-uncle this year, too. I couldn\u2019t find the strength to say goodbye to them. I should\u2019ve been there for my cousins when they lost their grandpa. I wasn\u2019t. I should\u2019ve been there to say goodbye to a teacher I had in high school that I thought a lot of. I couldn\u2019t. I don\u2019t know what it is, but I\u2019ve silently hidden myself from other avenues of grief. The daily aspects were enough.\n\nIn reality, it wasn\u2019t just grief. I have recognized that I sank into a deep dark depression and it\u2019s been one that almost took me with it completely. But as a society\u2014 we don\u2019t talk about that.\n\nSo I am.\n\nI\u2019m telling you some songs help me get through. Highly recommend ol Jellyroll, \u201cI Am Not Okay.\u201d It helped me to normalize the feeling. For anyone unfamiliar, the lyric goes:\n\n\u2018I am not OK. I\u2019m barely gettin by.\n\nI\u2019m losing track of days. And losing sleep at night."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0210b168e8802696944862dda8f5462f81c6dd5542e30f7fffc3b819c3ef1724-0",
+        "idx": 0,
+        "hash": "1e8f4e45cebd2a837eb84e55ef2bff166e2882463dcdc841b13ffd08579665c1",
+        "sim_hash": "7363150264726723907"
+      },
+      "content_original": "**By Kristin Dudley**\n\nIt\u2019s officially been a year since the death of my dad and it has not come without its challenges. I\u2019m middle-aged, unmarried, and without the distraction of children and all the busy things that go along with that. I\u2019ve stayed around to help my mom, which as two adults in a parent-child living situation, has probably not been the best for either of us.\n\nI\u2019ve not coped. I am still certain he\u2019s just away on a long trip. The part that doesn\u2019t kick in is that it\u2019s a one-way ticket, and his soul is gone from this earthly world. I have fought for peace, which seems like a paradox in itself.\n\nDeath is weird and comes with its strange array of feelings. I have felt completely deregulated emotionally for a year now. It seems like everyone else handles their grief better or can tuck it away into a box so as to not feel it. I wish I could, but my therapist won\u2019t let me. I\u2019m grateful for those who have still checked in periodically, and I\u2019m disappointed in the relationships that have broken along the way.",
+      "content": "**By Kristin Dudley**\n\nIt\u2019s officially been a year since the death of my dad and it has not come without its challenges. I\u2019m middle-aged, unmarried, and without the distraction of children and all the busy things that go along with that. I\u2019ve stayed around to help my mom, which as two adults in a parent-child living situation, has probably not been the best for either of us.\n\nI\u2019ve not coped. I am still certain he\u2019s just away on a long trip. The part that doesn\u2019t kick in is that it\u2019s a one-way ticket, and his soul is gone from this earthly world. I have fought for peace, which seems like a paradox in itself.\n\nDeath is weird and comes with its strange array of feelings. I have felt completely deregulated emotionally for a year now. It seems like everyone else handles their grief better or can tuck it away into a box so as to not feel it. I wish I could, but my therapist won\u2019t let me. I\u2019m grateful for those who have still checked in periodically, and I\u2019m disappointed in the relationships that have broken along the way."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0210b168e8802696944862dda8f5462f81c6dd5542e30f7fffc3b819c3ef1724-4",
+        "idx": 4,
+        "hash": "181cd9328cefb74a02ec43f84e7c4cd5cefba50c9435a38602bd10a6ec30537c",
+        "sim_hash": "8097430917466528986"
+      },
+      "content_original": "What I really hate about my selfishness is that there have been other people who have passed this year whom I loved and respected or were within my dad\u2019s family. I lost a great-aunt and great-uncle this year, too. I couldn\u2019t find the strength to say goodbye to them. I should\u2019ve been there for my cousins when they lost their grandpa. I wasn\u2019t. I should\u2019ve been there to say goodbye to a teacher I had in high school that I thought a lot of. I couldn\u2019t. I don\u2019t know what it is, but I\u2019ve silently hidden myself from other avenues of grief. The daily aspects were enough.\n\nIn reality, it wasn\u2019t just grief. I have recognized that I sank into a deep dark depression and it\u2019s been one that almost took me with it completely. But as a society\u2014 we don\u2019t talk about that.\n\nSo I am.\n\nI\u2019m telling you some songs help me get through. Highly recommend ol Jellyroll, \u201cI Am Not Okay.\u201d It helped me to normalize the feeling. For anyone unfamiliar, the lyric goes:\n\n\u2018I am not OK. I\u2019m barely gettin by.\n\nI\u2019m losing track of days. And losing sleep at night.",
+      "content": "What I really hate about my selfishness is that there have been other people who have passed this year whom I loved and respected or were within my dad\u2019s family. I lost a great-aunt and great-uncle this year, too. I couldn\u2019t find the strength to say goodbye to them. I should\u2019ve been there for my cousins when they lost their grandpa. I wasn\u2019t. I should\u2019ve been there to say goodbye to a teacher I had in high school that I thought a lot of. I couldn\u2019t. I don\u2019t know what it is, but I\u2019ve silently hidden myself from other avenues of grief. The daily aspects were enough.\n\nIn reality, it wasn\u2019t just grief. I have recognized that I sank into a deep dark depression and it\u2019s been one that almost took me with it completely. But as a society\u2014 we don\u2019t talk about that.\n\nSo I am.\n\nI\u2019m telling you some songs help me get through. Highly recommend ol Jellyroll, \u201cI Am Not Okay.\u201d It helped me to normalize the feeling. For anyone unfamiliar, the lyric goes:\n\n\u2018I am not OK. I\u2019m barely gettin by.\n\nI\u2019m losing track of days. And losing sleep at night."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0210b168e8802696944862dda8f5462f81c6dd5542e30f7fffc3b819c3ef1724-0",
+        "idx": 0,
+        "hash": "1e8f4e45cebd2a837eb84e55ef2bff166e2882463dcdc841b13ffd08579665c1",
+        "sim_hash": "7363150264726723907"
+      },
+      "content_original": "**By Kristin Dudley**\n\nIt\u2019s officially been a year since the death of my dad and it has not come without its challenges. I\u2019m middle-aged, unmarried, and without the distraction of children and all the busy things that go along with that. I\u2019ve stayed around to help my mom, which as two adults in a parent-child living situation, has probably not been the best for either of us.\n\nI\u2019ve not coped. I am still certain he\u2019s just away on a long trip. The part that doesn\u2019t kick in is that it\u2019s a one-way ticket, and his soul is gone from this earthly world. I have fought for peace, which seems like a paradox in itself.\n\nDeath is weird and comes with its strange array of feelings. I have felt completely deregulated emotionally for a year now. It seems like everyone else handles their grief better or can tuck it away into a box so as to not feel it. I wish I could, but my therapist won\u2019t let me. I\u2019m grateful for those who have still checked in periodically, and I\u2019m disappointed in the relationships that have broken along the way.",
+      "content": "**By Kristin Dudley**\n\nIt\u2019s officially been a year since the death of my dad and it has not come without its challenges. I\u2019m middle-aged, unmarried, and without the distraction of children and all the busy things that go along with that. I\u2019ve stayed around to help my mom, which as two adults in a parent-child living situation, has probably not been the best for either of us.\n\nI\u2019ve not coped. I am still certain he\u2019s just away on a long trip. The part that doesn\u2019t kick in is that it\u2019s a one-way ticket, and his soul is gone from this earthly world. I have fought for peace, which seems like a paradox in itself.\n\nDeath is weird and comes with its strange array of feelings. I have felt completely deregulated emotionally for a year now. It seems like everyone else handles their grief better or can tuck it away into a box so as to not feel it. I wish I could, but my therapist won\u2019t let me. I\u2019m grateful for those who have still checked in periodically, and I\u2019m disappointed in the relationships that have broken along the way."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0210b168e8802696944862dda8f5462f81c6dd5542e30f7fffc3b819c3ef1724-0",
+        "idx": 0,
+        "hash": "1e8f4e45cebd2a837eb84e55ef2bff166e2882463dcdc841b13ffd08579665c1",
+        "sim_hash": "7363150264726723907"
+      },
+      "content_original": "**By Kristin Dudley**\n\nIt\u2019s officially been a year since the death of my dad and it has not come without its challenges. I\u2019m middle-aged, unmarried, and without the distraction of children and all the busy things that go along with that. I\u2019ve stayed around to help my mom, which as two adults in a parent-child living situation, has probably not been the best for either of us.\n\nI\u2019ve not coped. I am still certain he\u2019s just away on a long trip. The part that doesn\u2019t kick in is that it\u2019s a one-way ticket, and his soul is gone from this earthly world. I have fought for peace, which seems like a paradox in itself.\n\nDeath is weird and comes with its strange array of feelings. I have felt completely deregulated emotionally for a year now. It seems like everyone else handles their grief better or can tuck it away into a box so as to not feel it. I wish I could, but my therapist won\u2019t let me. I\u2019m grateful for those who have still checked in periodically, and I\u2019m disappointed in the relationships that have broken along the way.",
+      "content": "**By Kristin Dudley**\n\nIt\u2019s officially been a year since the death of my dad and it has not come without its challenges. I\u2019m middle-aged, unmarried, and without the distraction of children and all the busy things that go along with that. I\u2019ve stayed around to help my mom, which as two adults in a parent-child living situation, has probably not been the best for either of us.\n\nI\u2019ve not coped. I am still certain he\u2019s just away on a long trip. The part that doesn\u2019t kick in is that it\u2019s a one-way ticket, and his soul is gone from this earthly world. I have fought for peace, which seems like a paradox in itself.\n\nDeath is weird and comes with its strange array of feelings. I have felt completely deregulated emotionally for a year now. It seems like everyone else handles their grief better or can tuck it away into a box so as to not feel it. I wish I could, but my therapist won\u2019t let me. I\u2019m grateful for those who have still checked in periodically, and I\u2019m disappointed in the relationships that have broken along the way."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0210b168e8802696944862dda8f5462f81c6dd5542e30f7fffc3b819c3ef1724-7",
+        "idx": 7,
+        "hash": "c94867e94fead29de06e11c36ff3e55ee9525ad5a65b5291ddffc97855e6acbb",
+        "sim_hash": "10717857197934248721"
+      },
+      "content_original": "If I can help one person rise out of the ashes, the pain has been brutal, but it will have been worth it to put myself out there.\n\nPlease\u2013 look at ways to heal and cope. Try not to take on the coping skills alone and do\u2019t let someone else project their coping onto you. SPeaking from experience\u2013 not healthy!\n\nDo it your own way. Not what\u2019s best for someone else (which is how I tried to). And consider doing it with help. GriefShare, support groups, therapy. You might not be OK, but you\u2019re also not alone.",
+      "content": "If I can help one person rise out of the ashes, the pain has been brutal, but it will have been worth it to put myself out there.\n\nPlease\u2013 look at ways to heal and cope. Try not to take on the coping skills alone and do\u2019t let someone else project their coping onto you. SPeaking from experience\u2013 not healthy!\n\nDo it your own way. Not what\u2019s best for someone else (which is how I tried to). And consider doing it with help. GriefShare, support groups, therapy. You might not be OK, but you\u2019re also not alone."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0210b168e8802696944862dda8f5462f81c6dd5542e30f7fffc3b819c3ef1724-4",
+        "idx": 4,
+        "hash": "181cd9328cefb74a02ec43f84e7c4cd5cefba50c9435a38602bd10a6ec30537c",
+        "sim_hash": "8097430917466528986"
+      },
+      "content_original": "What I really hate about my selfishness is that there have been other people who have passed this year whom I loved and respected or were within my dad\u2019s family. I lost a great-aunt and great-uncle this year, too. I couldn\u2019t find the strength to say goodbye to them. I should\u2019ve been there for my cousins when they lost their grandpa. I wasn\u2019t. I should\u2019ve been there to say goodbye to a teacher I had in high school that I thought a lot of. I couldn\u2019t. I don\u2019t know what it is, but I\u2019ve silently hidden myself from other avenues of grief. The daily aspects were enough.\n\nIn reality, it wasn\u2019t just grief. I have recognized that I sank into a deep dark depression and it\u2019s been one that almost took me with it completely. But as a society\u2014 we don\u2019t talk about that.\n\nSo I am.\n\nI\u2019m telling you some songs help me get through. Highly recommend ol Jellyroll, \u201cI Am Not Okay.\u201d It helped me to normalize the feeling. For anyone unfamiliar, the lyric goes:\n\n\u2018I am not OK. I\u2019m barely gettin by.\n\nI\u2019m losing track of days. And losing sleep at night.",
+      "content": "What I really hate about my selfishness is that there have been other people who have passed this year whom I loved and respected or were within my dad\u2019s family. I lost a great-aunt and great-uncle this year, too. I couldn\u2019t find the strength to say goodbye to them. I should\u2019ve been there for my cousins when they lost their grandpa. I wasn\u2019t. I should\u2019ve been there to say goodbye to a teacher I had in high school that I thought a lot of. I couldn\u2019t. I don\u2019t know what it is, but I\u2019ve silently hidden myself from other avenues of grief. The daily aspects were enough.\n\nIn reality, it wasn\u2019t just grief. I have recognized that I sank into a deep dark depression and it\u2019s been one that almost took me with it completely. But as a society\u2014 we don\u2019t talk about that.\n\nSo I am.\n\nI\u2019m telling you some songs help me get through. Highly recommend ol Jellyroll, \u201cI Am Not Okay.\u201d It helped me to normalize the feeling. For anyone unfamiliar, the lyric goes:\n\n\u2018I am not OK. I\u2019m barely gettin by.\n\nI\u2019m losing track of days. And losing sleep at night."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0210b168e8802696944862dda8f5462f81c6dd5542e30f7fffc3b819c3ef1724-1",
+        "idx": 1,
+        "hash": "f3abacb1c95bdca1de5924c61ccfe46e5a607795382fa1cb595796657cf5227d",
+        "sim_hash": "16029757760502013075"
+      },
+      "content_original": "What\u2019s strange about losing someone so close to you is the way that it consumes you. Or maybe I am using \u2018you\u2019 as a phrase rather than \u2018I\u2019 so that I don\u2019t have to take ownership of that feeling. Some seem to be untethered by the sadness they carry. I wish I were like that. Unfortunately, grief has consumed me. Grief has been pumping through my veins stronger than blood for a year now, and the pain is more horrific than a thousand shards of glass.\n\nSome days are filled with rage. Some with feelings of abandonment. Some with gratitude, joy, and love. I felt really bad for people who had lost a parent. But there is truth in the statement, \u2018you don\u2019t know until you go through it.\u2019",
+      "content": "What\u2019s strange about losing someone so close to you is the way that it consumes you. Or maybe I am using \u2018you\u2019 as a phrase rather than \u2018I\u2019 so that I don\u2019t have to take ownership of that feeling. Some seem to be untethered by the sadness they carry. I wish I were like that. Unfortunately, grief has consumed me. Grief has been pumping through my veins stronger than blood for a year now, and the pain is more horrific than a thousand shards of glass.\n\nSome days are filled with rage. Some with feelings of abandonment. Some with gratitude, joy, and love. I felt really bad for people who had lost a parent. But there is truth in the statement, \u2018you don\u2019t know until you go through it.\u2019"
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0210b168e8802696944862dda8f5462f81c6dd5542e30f7fffc3b819c3ef1724-6",
+        "idx": 6,
+        "hash": "cb67ab7758846256577e20ceec72b7066fdfcb03593b8b116e21739a8a34881e",
+        "sim_hash": "18215489919449226978"
+      },
+      "content_original": "But it\u2019s been a year. A struggle of a year.\n\nAnd I know there\u2019s people out there fighting the same fight, hoping for inner peace.\n\nIt doesn\u2019t just come on the holidays either. It comes every single day of the week.\n\nSo\u2013 I use this as a platform to encourage you to deal with grief how you want to, and though a program might outline a way to cope healthily, that it may not be quite time to start it, and that\u2019s OK. Some of us need help getting through the tough stuff. I\u2019m speaking up about my battle.\n\nMy own personal sadness has consumed me. It has made me say things I didn\u2019t mean. It has filled me with rage and anger. It has turned me into someone who used to be a joyful little pepster with all the positivity in the world into someone ready to throat punch anyone happy.\n\nIt\u2019s time to move past some of that. It\u2019s time to get my little hamster brain off the wheel and actually make my dad proud. It\u2019s time to stop hiding out, and this is basically a proclamation, putting all of myself out there in hopes that it might reach at least one person.",
+      "content": "But it\u2019s been a year. A struggle of a year.\n\nAnd I know there\u2019s people out there fighting the same fight, hoping for inner peace.\n\nIt doesn\u2019t just come on the holidays either. It comes every single day of the week.\n\nSo\u2013 I use this as a platform to encourage you to deal with grief how you want to, and though a program might outline a way to cope healthily, that it may not be quite time to start it, and that\u2019s OK. Some of us need help getting through the tough stuff. I\u2019m speaking up about my battle.\n\nMy own personal sadness has consumed me. It has made me say things I didn\u2019t mean. It has filled me with rage and anger. It has turned me into someone who used to be a joyful little pepster with all the positivity in the world into someone ready to throat punch anyone happy.\n\nIt\u2019s time to move past some of that. It\u2019s time to get my little hamster brain off the wheel and actually make my dad proud. It\u2019s time to stop hiding out, and this is basically a proclamation, putting all of myself out there in hopes that it might reach at least one person."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0210b168e8802696944862dda8f5462f81c6dd5542e30f7fffc3b819c3ef1724-5",
+        "idx": 5,
+        "hash": "d16cc1b8a31550c815860d5608f8f0793935076e32ee5eeda62bd4af5bf3ae2e",
+        "sim_hash": "8122501363060771435"
+      },
+      "content_original": "I\u2019m losing track of days. And losing sleep at night.\n\nI am not OK.\n\nI\u2019m hangin on the rails\n\nSo if I say I\u2019m fine, just know that I\u2019ve learned to hide it well.\u2019\n\nIt goes on to say, \u201cI know I can\u2019t be the only one who\u2019s holdin on for dear life. But God knows, I know when it\u2019s all said and done, I\u2019m not OK, but it\u2019s all gonna be alright.\u201d\n\nI want to thank the human in my life who sent that song to me and told me it helped them through a tough time. Because when I felt alone in my sadness, I knew I probably wasn\u2019t the only one in the world going through a tough time.\n\nThere\u2019s pictures I\u2019ve looked at for hours. I\u2019ve scanned for every voicemail, every email, every video\u2026. just for another glimpse or sound of my dad. The nighttime in silence when the world is quiet, that\u2019s when the grief becomes deafening.\n\nThe tears fall, the anger kicks in and there\u2019s despair in looking for a sign.\n\nBut it\u2019s been a year. A struggle of a year.",
+      "content": "I\u2019m losing track of days. And losing sleep at night.\n\nI am not OK.\n\nI\u2019m hangin on the rails\n\nSo if I say I\u2019m fine, just know that I\u2019ve learned to hide it well.\u2019\n\nIt goes on to say, \u201cI know I can\u2019t be the only one who\u2019s holdin on for dear life. But God knows, I know when it\u2019s all said and done, I\u2019m not OK, but it\u2019s all gonna be alright.\u201d\n\nI want to thank the human in my life who sent that song to me and told me it helped them through a tough time. Because when I felt alone in my sadness, I knew I probably wasn\u2019t the only one in the world going through a tough time.\n\nThere\u2019s pictures I\u2019ve looked at for hours. I\u2019ve scanned for every voicemail, every email, every video\u2026. just for another glimpse or sound of my dad. The nighttime in silence when the world is quiet, that\u2019s when the grief becomes deafening.\n\nThe tears fall, the anger kicks in and there\u2019s despair in looking for a sign.\n\nBut it\u2019s been a year. A struggle of a year."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0210b168e8802696944862dda8f5462f81c6dd5542e30f7fffc3b819c3ef1724-2",
+        "idx": 2,
+        "hash": "4990691f27cbf55a598e7c3d97f3613480b60363a188fa0cefcee7c850a33246",
+        "sim_hash": "15255129489100609634"
+      },
+      "content_original": "As a card-carrying holder of the dead dads club, I was at first appalled when someone used that phrase but I realized that humor might just be their coping skill, and now I get it too. There is instantly a bond and connection to someone who has lost a parent. A friend in high school had lost both of her parents by the time she was a junior in high school. And just this past week, I know there were some young children, one around two months old, who lost their daddy too. It hurts, and somehow their strength is mountains more than my own. I kind of want to hold those babies and tell them, they\u2019ll make it, but it would be more for my own healing, speaking those words aloud, than it would be for theirs.",
+      "content": "As a card-carrying holder of the dead dads club, I was at first appalled when someone used that phrase but I realized that humor might just be their coping skill, and now I get it too. There is instantly a bond and connection to someone who has lost a parent. A friend in high school had lost both of her parents by the time she was a junior in high school. And just this past week, I know there were some young children, one around two months old, who lost their daddy too. It hurts, and somehow their strength is mountains more than my own. I kind of want to hold those babies and tell them, they\u2019ll make it, but it would be more for my own healing, speaking those words aloud, than it would be for theirs."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0210b168e8802696944862dda8f5462f81c6dd5542e30f7fffc3b819c3ef1724-3",
+        "idx": 3,
+        "hash": "227ba6d0251af2c0569e43311421513749909ec28dfa78527d9d6580452d3867",
+        "sim_hash": "6952524101103329098"
+      },
+      "content_original": "When I first started the process, I realized I was the only one in my family who was going to attempt to cope through counseling. I was invited to a grief seminar and I probably should have gone but I just wasn\u2019t ready. I also tried to participate in an online version of the GriefShare support group. I attended once and realized I was still not ready. I knew I wouldn\u2019t talk around people I knew so I went online so that I could be a stranger. Still\u2013 not ready. What\u2019s fantastic about GriefShare is that there is some sort of a dialog based on different topics, hands-down the only guidebook for grief I\u2019ve ever seen.\n\nTruth is..there\u2019s no guidebook. If you\u2019re being a jerk, you get a little grace. Lord knows I\u2019ve asked for some. Eleven months ago I was about as selfish as they came, and that\u2019s the only way I knew how to deal. I didn\u2019t say I was coping, and I would say that how I chose to deal with it wasn\u2019t probably the healthiest.",
+      "content": "When I first started the process, I realized I was the only one in my family who was going to attempt to cope through counseling. I was invited to a grief seminar and I probably should have gone but I just wasn\u2019t ready. I also tried to participate in an online version of the GriefShare support group. I attended once and realized I was still not ready. I knew I wouldn\u2019t talk around people I knew so I went online so that I could be a stranger. Still\u2013 not ready. What\u2019s fantastic about GriefShare is that there is some sort of a dialog based on different topics, hands-down the only guidebook for grief I\u2019ve ever seen.\n\nTruth is..there\u2019s no guidebook. If you\u2019re being a jerk, you get a little grace. Lord knows I\u2019ve asked for some. Eleven months ago I was about as selfish as they came, and that\u2019s the only way I knew how to deal. I didn\u2019t say I was coping, and I would say that how I chose to deal with it wasn\u2019t probably the healthiest."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0210b168e8802696944862dda8f5462f81c6dd5542e30f7fffc3b819c3ef1724-2",
+        "idx": 2,
+        "hash": "4990691f27cbf55a598e7c3d97f3613480b60363a188fa0cefcee7c850a33246",
+        "sim_hash": "15255129489100609634"
+      },
+      "content_original": "As a card-carrying holder of the dead dads club, I was at first appalled when someone used that phrase but I realized that humor might just be their coping skill, and now I get it too. There is instantly a bond and connection to someone who has lost a parent. A friend in high school had lost both of her parents by the time she was a junior in high school. And just this past week, I know there were some young children, one around two months old, who lost their daddy too. It hurts, and somehow their strength is mountains more than my own. I kind of want to hold those babies and tell them, they\u2019ll make it, but it would be more for my own healing, speaking those words aloud, than it would be for theirs.",
+      "content": "As a card-carrying holder of the dead dads club, I was at first appalled when someone used that phrase but I realized that humor might just be their coping skill, and now I get it too. There is instantly a bond and connection to someone who has lost a parent. A friend in high school had lost both of her parents by the time she was a junior in high school. And just this past week, I know there were some young children, one around two months old, who lost their daddy too. It hurts, and somehow their strength is mountains more than my own. I kind of want to hold those babies and tell them, they\u2019ll make it, but it would be more for my own healing, speaking those words aloud, than it would be for theirs."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0210b168e8802696944862dda8f5462f81c6dd5542e30f7fffc3b819c3ef1724-5",
+        "idx": 5,
+        "hash": "d16cc1b8a31550c815860d5608f8f0793935076e32ee5eeda62bd4af5bf3ae2e",
+        "sim_hash": "8122501363060771435"
+      },
+      "content_original": "I\u2019m losing track of days. And losing sleep at night.\n\nI am not OK.\n\nI\u2019m hangin on the rails\n\nSo if I say I\u2019m fine, just know that I\u2019ve learned to hide it well.\u2019\n\nIt goes on to say, \u201cI know I can\u2019t be the only one who\u2019s holdin on for dear life. But God knows, I know when it\u2019s all said and done, I\u2019m not OK, but it\u2019s all gonna be alright.\u201d\n\nI want to thank the human in my life who sent that song to me and told me it helped them through a tough time. Because when I felt alone in my sadness, I knew I probably wasn\u2019t the only one in the world going through a tough time.\n\nThere\u2019s pictures I\u2019ve looked at for hours. I\u2019ve scanned for every voicemail, every email, every video\u2026. just for another glimpse or sound of my dad. The nighttime in silence when the world is quiet, that\u2019s when the grief becomes deafening.\n\nThe tears fall, the anger kicks in and there\u2019s despair in looking for a sign.\n\nBut it\u2019s been a year. A struggle of a year.",
+      "content": "I\u2019m losing track of days. And losing sleep at night.\n\nI am not OK.\n\nI\u2019m hangin on the rails\n\nSo if I say I\u2019m fine, just know that I\u2019ve learned to hide it well.\u2019\n\nIt goes on to say, \u201cI know I can\u2019t be the only one who\u2019s holdin on for dear life. But God knows, I know when it\u2019s all said and done, I\u2019m not OK, but it\u2019s all gonna be alright.\u201d\n\nI want to thank the human in my life who sent that song to me and told me it helped them through a tough time. Because when I felt alone in my sadness, I knew I probably wasn\u2019t the only one in the world going through a tough time.\n\nThere\u2019s pictures I\u2019ve looked at for hours. I\u2019ve scanned for every voicemail, every email, every video\u2026. just for another glimpse or sound of my dad. The nighttime in silence when the world is quiet, that\u2019s when the grief becomes deafening.\n\nThe tears fall, the anger kicks in and there\u2019s despair in looking for a sign.\n\nBut it\u2019s been a year. A struggle of a year."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0210b168e8802696944862dda8f5462f81c6dd5542e30f7fffc3b819c3ef1724-6",
+        "idx": 6,
+        "hash": "cb67ab7758846256577e20ceec72b7066fdfcb03593b8b116e21739a8a34881e",
+        "sim_hash": "18215489919449226978"
+      },
+      "content_original": "But it\u2019s been a year. A struggle of a year.\n\nAnd I know there\u2019s people out there fighting the same fight, hoping for inner peace.\n\nIt doesn\u2019t just come on the holidays either. It comes every single day of the week.\n\nSo\u2013 I use this as a platform to encourage you to deal with grief how you want to, and though a program might outline a way to cope healthily, that it may not be quite time to start it, and that\u2019s OK. Some of us need help getting through the tough stuff. I\u2019m speaking up about my battle.\n\nMy own personal sadness has consumed me. It has made me say things I didn\u2019t mean. It has filled me with rage and anger. It has turned me into someone who used to be a joyful little pepster with all the positivity in the world into someone ready to throat punch anyone happy.\n\nIt\u2019s time to move past some of that. It\u2019s time to get my little hamster brain off the wheel and actually make my dad proud. It\u2019s time to stop hiding out, and this is basically a proclamation, putting all of myself out there in hopes that it might reach at least one person.",
+      "content": "But it\u2019s been a year. A struggle of a year.\n\nAnd I know there\u2019s people out there fighting the same fight, hoping for inner peace.\n\nIt doesn\u2019t just come on the holidays either. It comes every single day of the week.\n\nSo\u2013 I use this as a platform to encourage you to deal with grief how you want to, and though a program might outline a way to cope healthily, that it may not be quite time to start it, and that\u2019s OK. Some of us need help getting through the tough stuff. I\u2019m speaking up about my battle.\n\nMy own personal sadness has consumed me. It has made me say things I didn\u2019t mean. It has filled me with rage and anger. It has turned me into someone who used to be a joyful little pepster with all the positivity in the world into someone ready to throat punch anyone happy.\n\nIt\u2019s time to move past some of that. It\u2019s time to get my little hamster brain off the wheel and actually make my dad proud. It\u2019s time to stop hiding out, and this is basically a proclamation, putting all of myself out there in hopes that it might reach at least one person."
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "ea8c60c6-39ff-486e-88c9-428f3f156fcf",
+      "timestamp": "2025-12-27T11:57:27.057000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "e0044720-5d25-41af-a2e3-23279a4fa876",
+      "version": "2.3",
+      "date": "2025-12-27",
+      "chunking": {
+        "strategy": "simple",
+        "chunks_count": 8
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "none",
+        "model": "none",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 8,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "0210b168e8802696944862dda8f5462f81c6dd5542e30f7fffc3b819c3ef1724"
+    }
+  ],
+  "raw_content": "{\n  \"id\" : 101716,\n  \"date\" : \"2025-12-27T02:39:22\",\n  \"date_gmt\" : \"2025-12-27T02:39:22\",\n  \"modified_gmt\" : \"2025-12-27T02:39:23\",\n  \"link\" : \"https://www.chillicothenews.com/introspection-of-grief-after-a-year-cope-how-you-can/\",\n  \"title\" : {\n    \"rendered\" : \"Introspection of Grief After a Year: Cope How You Can\"\n  },\n  \"content\" : {\n    \"rendered\" : \"<p class=\\\"byline\\\">\\n<p><b>By Kristin Dudley</b></p>\\n</p>\\n<p>It\u2019s officially been a year since the death of my dad and it has not come without its challenges. I\u2019m middle-aged, unmarried, and without the distraction of children and all the busy things that go along with that. I\u2019ve stayed around to help my mom, which as two adults in a parent-child living situation, has probably not been the best for either of us.  </p>\\n<p>I\u2019ve not coped. I am still certain he\u2019s just away on a long trip. The part that doesn\u2019t kick in is that it\u2019s a one-way ticket, and his soul is gone from this earthly world. I have fought for peace, which seems like a paradox in itself. </p>\\n<p>Death is weird and comes with its strange array of feelings. I have felt completely deregulated emotionally for a year now. It seems like everyone else handles their grief better or can tuck it away into a box so as to not feel it. I wish I could, but my therapist won\u2019t let me. I\u2019m grateful for those who have still checked in periodically, and I\u2019m disappointed in the relationships that have broken along the way. </p>\\n<p>What\u2019s strange about losing someone so close to you is the way that it consumes you. Or maybe I am using \u2018you\u2019 as a phrase rather than \u2018I\u2019 so that I don\u2019t have to take ownership of that feeling. Some seem to be untethered by the sadness they carry. I wish I were like that. Unfortunately, grief has consumed me. Grief has been pumping through my veins stronger than blood for a year now, and the pain is more horrific than a thousand shards of glass. </p>\\n<p>Some days are filled with rage. Some with feelings of abandonment. Some with gratitude, joy, and love. I felt really bad for people who had lost a parent. But there is truth in the statement, \u2018you don\u2019t know until you go through it.\u2019 </p>\\n<p>As a card-carrying holder of the dead dads club, I was at first appalled when someone used that phrase but I realized that humor might just be their coping skill, and now I get it too. There is instantly a bond and connection to someone who has lost a parent. A friend in high school had lost both of her parents by the time she was a junior in high school. And just this past week, I know there were some young children, one around two months old, who lost their daddy too. It hurts, and somehow their strength is mountains more than my own. I kind of want to hold those babies and tell them, they\u2019ll make it, but it would be more for my own healing, speaking those words aloud, than it would be for theirs. </p>\\n<p>When I first started the process, I realized I was the only one in my family who was going to attempt to cope through counseling. I was invited to a grief seminar and I probably should have gone but I just wasn\u2019t ready. I also tried to participate in an online version of the GriefShare support group. I attended once and realized I was still not ready. I knew I wouldn\u2019t talk around people I knew so I went online so that I could be a stranger. Still&#8211; not ready. What\u2019s fantastic about GriefShare is that there is some sort of a dialog based on different topics, hands-down the only guidebook for grief I\u2019ve ever seen. </p>\\n<p>Truth is..there\u2019s no guidebook. If you\u2019re being a jerk, you get a little grace. Lord knows I\u2019ve asked for some. Eleven months ago I was about as selfish as they came, and that\u2019s the only way I knew how to deal. I didn\u2019t say I was coping, and I would say that how I chose to deal with it wasn\u2019t probably the healthiest. </p>\\n<p>What I really hate about my selfishness is that there have been other people who have passed this year whom I loved and respected or were within my dad\u2019s family. I lost a great-aunt and great-uncle this year, too. I couldn\u2019t find the strength to say goodbye to them. I should\u2019ve been there for my cousins when they lost their grandpa. I wasn\u2019t. I should\u2019ve been there to say goodbye to a teacher I had in high school that I thought a lot of. I couldn\u2019t. I don\u2019t know what it is, but I\u2019ve silently hidden myself from other avenues of grief. The daily aspects were enough. </p>\\n<p>In reality, it wasn\u2019t just grief. I have recognized that I sank into a deep dark depression and it\u2019s been one that almost took me with it completely. But as a society&#8212; we don\u2019t talk about that. </p>\\n<p>So I am. </p>\\n<p>I\u2019m telling you some songs help me get through. Highly recommend ol Jellyroll, \u201cI Am Not Okay.\u201d It helped me to normalize the feeling. For anyone unfamiliar, the lyric goes: </p>\\n<p>\u2018I am not OK. I\u2019m barely gettin by.</p>\\n<p>I\u2019m losing track of days. And losing sleep at night. </p>\\n<p>I am not OK. </p>\\n<p>I\u2019m hangin on the rails</p>\\n<p>So if I say I\u2019m fine, just know that I\u2019ve learned to hide it well.\u2019</p>\\n<p>It goes on to say, \u201cI know I can\u2019t be the only one who\u2019s holdin on for dear life. But God knows, I know when it\u2019s all said and done, I\u2019m not OK, but it\u2019s all gonna be alright.\u201d</p>\\n<p>I want to thank the human in my life who sent that song to me and told me it helped them through a tough time. Because when I felt alone in my sadness, I knew I probably wasn\u2019t the only one in the world going through a tough time. </p>\\n<p>There\u2019s pictures I\u2019ve looked at for hours. I\u2019ve scanned for every voicemail, every email, every video&#8230;. just for another glimpse or sound of my dad. The nighttime in silence when the world is quiet, that\u2019s when the grief becomes deafening. </p>\\n<p>The tears fall, the anger kicks in and there\u2019s despair in looking for a sign. </p>\\n<p>But it\u2019s been a year. A struggle of a year. </p>\\n<p>And I know there\u2019s people out there fighting the same fight, hoping for inner peace. </p>\\n<p>It doesn\u2019t just come on the holidays either. It comes every single day of the week. </p>\\n<p>So&#8211; I use this as a platform to encourage you to deal with grief how you want to, and though a program might outline a way to cope healthily, that it may not be quite time to start it, and that\u2019s OK. Some of us need help getting through the tough stuff. I\u2019m speaking up about my battle. </p>\\n<p>My own personal sadness has consumed me. It has made me say things I didn\u2019t mean. It has filled me with rage and anger. It has turned me into someone who used to be a joyful little pepster with all the positivity in the world into someone ready to throat punch anyone happy. </p>\\n<p>It\u2019s time to move past some of that. It\u2019s time to get my little hamster brain off the wheel and actually make my dad proud. It\u2019s time to stop hiding out, and this is basically a proclamation, putting all of myself out there in hopes that it might reach at least one person. </p>\\n<p>If I can help one person rise out of the ashes, the pain has been brutal, but it will have been worth it to put myself out there. </p>\\n<p>Please&#8211; look at ways to heal and cope. Try not to take on the coping skills alone and do\u2019t let someone else project their coping onto you. SPeaking from experience&#8211; not healthy!</p>\\n<p>Do it your own way. Not what\u2019s best for someone else (which is how I tried to). And consider doing it with help. GriefShare, support groups, therapy. You might not be OK, but you\u2019re also not alone. </p>\\n\"\n  },\n  \"author\" : 44997,\n  \"featured_media\" : 0,\n  \"categories\" : [ 98 ],\n  \"class_list\" : [ \"post-101716\", \"post\", \"type-post\", \"status-publish\", \"format-standard\", \"hentry\", \"category-columns\" ]\n}",
+  "markdown_content": "**By Kristin Dudley**\n\nIt\u2019s officially been a year since the death of my dad and it has not come without its challenges. I\u2019m middle-aged, unmarried, and without the distraction of children and all the busy things that go along with that. I\u2019ve stayed around to help my mom, which as two adults in a parent-child living situation, has probably not been the best for either of us.\n\nI\u2019ve not coped. I am still certain he\u2019s just away on a long trip. The part that doesn\u2019t kick in is that it\u2019s a one-way ticket, and his soul is gone from this earthly world. I have fought for peace, which seems like a paradox in itself.\n\nDeath is weird and comes with its strange array of feelings. I have felt completely deregulated emotionally for a year now. It seems like everyone else handles their grief better or can tuck it away into a box so as to not feel it. I wish I could, but my therapist won\u2019t let me. I\u2019m grateful for those who have still checked in periodically, and I\u2019m disappointed in the relationships that have broken along the way.\n\nWhat\u2019s strange about losing someone so close to you is the way that it consumes you. Or maybe I am using \u2018you\u2019 as a phrase rather than \u2018I\u2019 so that I don\u2019t have to take ownership of that feeling. Some seem to be untethered by the sadness they carry. I wish I were like that. Unfortunately, grief has consumed me. Grief has been pumping through my veins stronger than blood for a year now, and the pain is more horrific than a thousand shards of glass.\n\nSome days are filled with rage. Some with feelings of abandonment. Some with gratitude, joy, and love. I felt really bad for people who had lost a parent. But there is truth in the statement, \u2018you don\u2019t know until you go through it.\u2019\n\nAs a card-carrying holder of the dead dads club, I was at first appalled when someone used that phrase but I realized that humor might just be their coping skill, and now I get it too. There is instantly a bond and connection to someone who has lost a parent. A friend in high school had lost both of her parents by the time she was a junior in high school. And just this past week, I know there were some young children, one around two months old, who lost their daddy too. It hurts, and somehow their strength is mountains more than my own. I kind of want to hold those babies and tell them, they\u2019ll make it, but it would be more for my own healing, speaking those words aloud, than it would be for theirs.\n\nWhen I first started the process, I realized I was the only one in my family who was going to attempt to cope through counseling. I was invited to a grief seminar and I probably should have gone but I just wasn\u2019t ready. I also tried to participate in an online version of the GriefShare support group. I attended once and realized I was still not ready. I knew I wouldn\u2019t talk around people I knew so I went online so that I could be a stranger. Still\u2013 not ready. What\u2019s fantastic about GriefShare is that there is some sort of a dialog based on different topics, hands-down the only guidebook for grief I\u2019ve ever seen.\n\nTruth is..there\u2019s no guidebook. If you\u2019re being a jerk, you get a little grace. Lord knows I\u2019ve asked for some. Eleven months ago I was about as selfish as they came, and that\u2019s the only way I knew how to deal. I didn\u2019t say I was coping, and I would say that how I chose to deal with it wasn\u2019t probably the healthiest.\n\nWhat I really hate about my selfishness is that there have been other people who have passed this year whom I loved and respected or were within my dad\u2019s family. I lost a great-aunt and great-uncle this year, too. I couldn\u2019t find the strength to say goodbye to them. I should\u2019ve been there for my cousins when they lost their grandpa. I wasn\u2019t. I should\u2019ve been there to say goodbye to a teacher I had in high school that I thought a lot of. I couldn\u2019t. I don\u2019t know what it is, but I\u2019ve silently hidden myself from other avenues of grief. The daily aspects were enough.\n\nIn reality, it wasn\u2019t just grief. I have recognized that I sank into a deep dark depression and it\u2019s been one that almost took me with it completely. But as a society\u2014 we don\u2019t talk about that.\n\nSo I am.\n\nI\u2019m telling you some songs help me get through. Highly recommend ol Jellyroll, \u201cI Am Not Okay.\u201d It helped me to normalize the feeling. For anyone unfamiliar, the lyric goes:\n\n\u2018I am not OK. I\u2019m barely gettin by.\n\nI\u2019m losing track of days. And losing sleep at night.\n\nI am not OK.\n\nI\u2019m hangin on the rails\n\nSo if I say I\u2019m fine, just know that I\u2019ve learned to hide it well.\u2019\n\nIt goes on to say, \u201cI know I can\u2019t be the only one who\u2019s holdin on for dear life. But God knows, I know when it\u2019s all said and done, I\u2019m not OK, but it\u2019s all gonna be alright.\u201d\n\nI want to thank the human in my life who sent that song to me and told me it helped them through a tough time. Because when I felt alone in my sadness, I knew I probably wasn\u2019t the only one in the world going through a tough time.\n\nThere\u2019s pictures I\u2019ve looked at for hours. I\u2019ve scanned for every voicemail, every email, every video\u2026. just for another glimpse or sound of my dad. The nighttime in silence when the world is quiet, that\u2019s when the grief becomes deafening.\n\nThe tears fall, the anger kicks in and there\u2019s despair in looking for a sign.\n\nBut it\u2019s been a year. A struggle of a year.\n\nAnd I know there\u2019s people out there fighting the same fight, hoping for inner peace.\n\nIt doesn\u2019t just come on the holidays either. It comes every single day of the week.\n\nSo\u2013 I use this as a platform to encourage you to deal with grief how you want to, and though a program might outline a way to cope healthily, that it may not be quite time to start it, and that\u2019s OK. Some of us need help getting through the tough stuff. I\u2019m speaking up about my battle.\n\nMy own personal sadness has consumed me. It has made me say things I didn\u2019t mean. It has filled me with rage and anger. It has turned me into someone who used to be a joyful little pepster with all the positivity in the world into someone ready to throat punch anyone happy.\n\nIt\u2019s time to move past some of that. It\u2019s time to get my little hamster brain off the wheel and actually make my dad proud. It\u2019s time to stop hiding out, and this is basically a proclamation, putting all of myself out there in hopes that it might reach at least one person.\n\nIf I can help one person rise out of the ashes, the pain has been brutal, but it will have been worth it to put myself out there.\n\nPlease\u2013 look at ways to heal and cope. Try not to take on the coping skills alone and do\u2019t let someone else project their coping onto you. SPeaking from experience\u2013 not healthy!\n\nDo it your own way. Not what\u2019s best for someone else (which is how I tried to). And consider doing it with help. GriefShare, support groups, therapy. You might not be OK, but you\u2019re also not alone."
+}

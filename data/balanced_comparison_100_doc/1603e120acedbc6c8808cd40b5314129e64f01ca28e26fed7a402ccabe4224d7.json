@@ -1,0 +1,248 @@
+{
+  "document_id": "1603e120acedbc6c8808cd40b5314129e64f01ca28e26fed7a402ccabe4224d7",
+  "document_metadata": {
+    "id": "1603e120acedbc6c8808cd40b5314129e64f01ca28e26fed7a402ccabe4224d7",
+    "date": 20251111,
+    "publisher_id": "15bfe25b-8ff0-4682-a939-20ee208033e1",
+    "image": "https://cdn.mos.cms.futurecdn.net/Fbnxrrg9FwT2g7CNHqdKp9-1280-80.jpg",
+    "date_year": 2025,
+    "date_month": 11,
+    "crawl_date": "2025-11-12T23:32:36.157908923Z",
+    "date_day": 11,
+    "title": "P-QD might be the hot new version of QLED TV tech \u2013 but is there actually any point in it for HDR TVs?",
+    "url": "https://www.techradar.com/televisions/p-qd-might-be-the-hot-new-version-of-qled-tv-tech-but-is-there-actually-any-point-in-it-for-hdr-tvs",
+    "url2": "https://www.techradar.com/televisions/p-qd-might-be-the-hot-new-version-of-qled-tv-tech-but-is-there-actually-any-point-in-it-for-hdr-tvs",
+    "domain": "www.techradar.com",
+    "lang": "unknown",
+    "published_date": "2025-11-11T23:00:00Z",
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "15bfe25b-8ff0-4682-a939-20ee208033e1",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2025-11-12T23:32:36.157000",
+    "published_date_parsed": "2025-11-11T23:00:00",
+    "rawType": "xml",
+    "publisherId": "15bfe25b-8ff0-4682-a939-20ee208033e1",
+    "documentId": "1603e120acedbc6c8808cd40b5314129e64f01ca28e26fed7a402ccabe4224d7",
+    "rawcontent_created": "2025-11-12T23:32:36.512000",
+    "source": "TechRadar",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=www.techradar.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=www.techradar.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=www.techradar.com",
+    "first_words": "A new generation of quantum dot technology is coming, and that could mean QLED and OLED TVs with even better color range than the upcoming new slate of RGB-backlit LED TVs. The technology, P-QD, promises exceptional color depth. The big question is whether you're going to care. The promise of P-QD, FlatpanelsHD reports, is a TV panel delivering over 95% of the Rec.2020 color space. That's really great news if you want a reference monitor for graphic design or other applications where absolute color accuracy across an expanded gamut is crucial. But this color range isn't what's",
+    "has_chunks": true
+  },
+  "publisher_metadata": {
+    "id": "15bfe25b-8ff0-4682-a939-20ee208033e1",
+    "group_id": "b3c84c93-be12-48b4-b390-24b71c1fbe4c",
+    "name": "TechRadar",
+    "domain": "techradar.com",
+    "location": "Global",
+    "country": "Global",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "P-QD might be the hot new version of QLED TV tech \u2013 but is there actually any point in it for HDR TVs?",
+    "document_authors_txt": [],
+    "hash": "0b26d9543a9457983e78c899cab930c1cf82899832f7cecbc30de221f3dbd6cc"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2025-11-13",
+    "chunking": {
+      "service": "PrtDocumentInference",
+      "chunkingStrategy": "llm_semantic_batch",
+      "llmPromptVersion": "v1.0.1",
+      "batchId": "f49b0986-0450-437b-910c-77d817b07ac2",
+      "chunkingRequestId": "c2dbb600-0396-4ee2-a810-8fa44ff0cd56",
+      "totalChunks": 3,
+      "processingTime": 6846128,
+      "processingTimestamp": "2025-11-13T01:26:50.323308+00:00",
+      "tokenUsage": {
+        "total_tokens": 2572,
+        "prompt_tokens": 1915,
+        "completion_tokens": 657,
+        "model_version": "gemini-2.5-flash-lite"
+      },
+      "has_existing_chunks": true,
+      "chunks_count": 3
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "1603e120acedbc6c8808cd40b5314129e64f01ca28e26fed7a402ccabe4224d7-1",
+        "idx": 1,
+        "hash": "a0270142f3be2c5e07b88ca96346c4daec70a48618758afd29a794f17fb0d988",
+        "sim_hash": "12721519762729144851"
+      },
+      "content_original": "The P in P-QD stands for Perovskite, and it's a replacement for the cadmium and indium materials used in first- and second-generation quantum dot TVs respectively. Indium isn't as accurate color-wise as cadmium, but the former is banned in many countries due to its toxicity. Perovskite promises to return to the cadmium highs without the whole poisoning-people downside.\n\nAccording to FlatpanelsHD, a typical second-gen quantum dot TV hits around 75% of Rec.2020 in QLED and mini-LED TVs. Perovskite quantum dots promise an increase to 95%. That's more accurate than current QD-OLEDs, which typically come in at or below 90% of Rec.2020, and of RGB-LED TVs, which generally reach 90%.\n\nWhen will it arrive? That's currently unclear. There are unconfirmed reports \u2013 speculation \u2013 that TCL's already announced 2026 flagship X11L uses P-QD.\n\nTCL has promised \u201cSuper Quantum Dot\u201c technology for that TV but hasn't named P-QD specifically, although we know that TCL has been working with Zhijing Nanotech since 2020 on P-QD technology.\n\nBut as yet we don't know P-QD's ETA \u2013 and it'll be some time before it becomes widely available.",
+      "content": "The P in P-QD stands for Perovskite, and it's a replacement for the cadmium and indium materials used in first- and second-generation quantum dot TVs respectively. Indium isn't as accurate color-wise as cadmium, but the former is banned in many countries due to its toxicity. Perovskite promises to return to the cadmium highs without the whole poisoning-people downside.\n\nAccording to FlatpanelsHD, a typical second-gen quantum dot TV hits around 75% of Rec.2020 in QLED and mini-LED TVs. Perovskite quantum dots promise an increase to 95%. That's more accurate than current QD-OLEDs, which typically come in at or below 90% of Rec.2020, and of RGB-LED TVs, which generally reach 90%.\n\nWhen will it arrive? That's currently unclear. There are unconfirmed reports \u2013 speculation \u2013 that TCL's already announced 2026 flagship X11L uses P-QD.\n\nTCL has promised \u201cSuper Quantum Dot\u201c technology for that TV but hasn't named P-QD specifically, although we know that TCL has been working with Zhijing Nanotech since 2020 on P-QD technology.\n\nBut as yet we don't know P-QD's ETA \u2013 and it'll be some time before it becomes widely available."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "1603e120acedbc6c8808cd40b5314129e64f01ca28e26fed7a402ccabe4224d7-0",
+        "idx": 0,
+        "hash": "a82c84ec4ed8cb704811a46b71da1414b319bbc424228ff334c4328c173c8878",
+        "sim_hash": "17602455360421246922"
+      },
+      "content_original": "A new generation of quantum dot technology is coming, and that could mean QLED and OLED TVs with even better color range than the upcoming new slate of RGB-backlit LED TVs. The technology, P-QD, promises exceptional color depth.\n\nThe big question is whether you're going to care.\n\nThe promise of P-QD, FlatpanelsHD reports, is a TV panel delivering over 95% of the Rec.2020 color space. That's really great news if you want a reference monitor for graphic design or other applications where absolute color accuracy across an expanded gamut is crucial.\n\nBut this color range isn't what's used in the things you watch on TV in HDR movies and shows \u2013 that's the P3 color space, and the latest RGB and OLED TVs can already deliver 100% of the P3 gamut.",
+      "content": "A new generation of quantum dot technology is coming, and that could mean QLED and OLED TVs with even better color range than the upcoming new slate of RGB-backlit LED TVs. The technology, P-QD, promises exceptional color depth.\n\nThe big question is whether you're going to care.\n\nThe promise of P-QD, FlatpanelsHD reports, is a TV panel delivering over 95% of the Rec.2020 color space. That's really great news if you want a reference monitor for graphic design or other applications where absolute color accuracy across an expanded gamut is crucial.\n\nBut this color range isn't what's used in the things you watch on TV in HDR movies and shows \u2013 that's the P3 color space, and the latest RGB and OLED TVs can already deliver 100% of the P3 gamut."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "1603e120acedbc6c8808cd40b5314129e64f01ca28e26fed7a402ccabe4224d7-2",
+        "idx": 2,
+        "hash": "f3faf1caea2015c4a9ad83614647d5a1af15e530f1607c021d35ea6f9e5023e5",
+        "sim_hash": "3772674260205840582"
+      },
+      "content_original": "If TCL is working on using it, that suggests there are advantages \u2013 but also, maybe it's just a chance for it to be first. The best-case scenario is that it helps the color range of more affordable TVs too \u2013 the best TVs at top of the line might be hitting 100% of the P3 color gamut, but cheaper TVs still need a boost to get there.\n\nOn the other hand, if this tech stays in premium TVs for a time because it's new and expensive, then that won't help either. We'll see how the P-QD race shakes out \u2013 but perhaps you'll hear professional monitors makers yelling about it earlier than TV makers.",
+      "content": "If TCL is working on using it, that suggests there are advantages \u2013 but also, maybe it's just a chance for it to be first. The best-case scenario is that it helps the color range of more affordable TVs too \u2013 the best TVs at top of the line might be hitting 100% of the P3 color gamut, but cheaper TVs still need a boost to get there.\n\nOn the other hand, if this tech stays in premium TVs for a time because it's new and expensive, then that won't help either. We'll see how the P-QD race shakes out \u2013 but perhaps you'll hear professional monitors makers yelling about it earlier than TV makers."
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "0801688b-3524-48bc-98ef-a3e1d5f70317",
+      "timestamp": "2025-11-13T01:31:24.468000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "15bfe25b-8ff0-4682-a939-20ee208033e1",
+      "version": "2.3",
+      "date": "2025-11-13",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.1",
+        "batchId": "f49b0986-0450-437b-910c-77d817b07ac2",
+        "chunkingRequestId": "c2dbb600-0396-4ee2-a810-8fa44ff0cd56",
+        "totalChunks": 3,
+        "processingTime": 6846128,
+        "processingTimestamp": "2025-11-13T01:26:50.323308+00:00",
+        "tokenUsage": {
+          "total_tokens": 2572,
+          "prompt_tokens": 1915,
+          "completion_tokens": 657,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "has_existing_chunks": true,
+        "chunks_count": 3
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 3,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "1603e120acedbc6c8808cd40b5314129e64f01ca28e26fed7a402ccabe4224d7"
+    },
+    {
+      "_id": "20f7a883-a1a1-450b-9234-00a62baad2e9",
+      "timestamp": "2025-11-12T23:32:42.272000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "15bfe25b-8ff0-4682-a939-20ee208033e1",
+      "version": "2.3",
+      "date": "2025-11-12",
+      "chunking": {
+        "strategy": "simple",
+        "chunks_count": 5
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "none",
+        "model": "none",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 5,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "1603e120acedbc6c8808cd40b5314129e64f01ca28e26fed7a402ccabe4224d7"
+    },
+    {
+      "_id": "5f499ce2-f68a-4537-a56f-3f74a5ad49d0",
+      "timestamp": "2025-11-13T01:31:20.927000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "15bfe25b-8ff0-4682-a939-20ee208033e1",
+      "version": "2.3",
+      "date": "2025-11-13",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.1",
+        "batchId": "f49b0986-0450-437b-910c-77d817b07ac2",
+        "chunkingRequestId": "c2dbb600-0396-4ee2-a810-8fa44ff0cd56",
+        "totalChunks": 3,
+        "processingTime": 6846128,
+        "processingTimestamp": "2025-11-13T01:26:50.323308+00:00",
+        "tokenUsage": {
+          "total_tokens": 2572,
+          "prompt_tokens": 1915,
+          "completion_tokens": 657,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "has_existing_chunks": true,
+        "chunks_count": 3
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 3,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "1603e120acedbc6c8808cd40b5314129e64f01ca28e26fed7a402ccabe4224d7"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Future Publishing Feed for ProRata</title>\r\n    <link>https://www.techradar.com</link>\r\n    <description>Future Publishing Feed for ProRata</description>\r\n    <item>\r\n      <title>P-QD might be the hot new version of QLED TV tech \u2013 but is there actually any point in it for HDR TVs?</title>\r\n      <link>https://www.techradar.com/televisions/p-qd-might-be-the-hot-new-version-of-qled-tv-tech-but-is-there-actually-any-point-in-it-for-hdr-tvs</link>\r\n      <dc:creator xmlns:dc=\"https://purl.org/dc/elements/1.1/\"><![CDATA[Carrie Marshall]]></dc:creator>\r\n      <description>P-QD tech could be great for pro monitors \u2013but will would do much for TVs outside of marketing material?</description>\r\n      <source url=\"https://www.techradar.com\">TechRadar</source>\r\n      <enclosure url=\"https://cdn.mos.cms.futurecdn.net/Fbnxrrg9FwT2g7CNHqdKp9-1280-80.jpg\" length=\"0\" type=\"image/jpeg\" />\r\n      <category>Televisions</category>\r\n      <pubDate>Tue, 11 Nov 2025 23:00:00 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">4s2EkUUjVThSL9YMcNcTEP</guid>\r\n      <content:encoded><![CDATA[<article>\n                                <ul><li><strong>P-QD is a third-gen quantum dot tech, improving on current QLED tech</strong></li><li><strong>It could deliver 95% of the Rec.2020 color space</strong></li><li><strong>But some current TVs can already deliver 100% of the P3 color space, which is what movies and shows actually use</strong></li></ul><p>A new generation of quantum dot technology is coming, and that could mean QLED and <a data-analytics-id=\"inline-link\" href=\"https://www.techradar.com/news/best-oled-tvs-our-pick-of-the-best-oled-televisions-you-can-buy-today\">OLED TVs</a> with even better color range than the upcoming new slate of <a data-analytics-id=\"inline-link\" href=\"https://www.techradar.com/televisions/rgb-backlighting-explained\">RGB-backlit LED TVs</a>. The technology, P-QD, promises exceptional color depth.</p><p>The big question is whether you're going to care.</p><p>The promise of P-QD, <a data-analytics-id=\"inline-link\" href=\"https://www.flatpanelshd.com/news.php?subaction=showfull&id=1762754572\" target=\"_blank\">FlatpanelsHD</a> reports, is a TV panel delivering over 95% of the Rec.2020 color space. That's really great news if you want a reference monitor for graphic design or other applications where absolute color accuracy across an expanded gamut is crucial.</p><p>But this color range isn't what's used in the things you watch on TV in HDR movies and shows \u2013 that's the P3 color space, and the latest RGB and OLED TVs can already deliver 100% of the P3 gamut.</p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:4032px;\"><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"KBsfujESxaXawUJxDXxKXM\" name=\"Samsung S95F vs LG G5 red flowers\" alt=\"Samsung S95F (left) vs LG G5 (right) showing red flowers on screen\" src=\"https://cdn.mos.cms.futurecdn.net/KBsfujESxaXawUJxDXxKXM.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"4032\" height=\"2268\" attribution=\"\" endorsement=\"\" class=\"\"></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"caption-text\">The Samsung S95F and LG G5 both deliver 99.9% or better of the colors that streaming or 4K Blu-rays are capable of displaying, so will better tech be any use for TVs? </span><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Future)</span></figcaption></figure><h2 id=\"what-is-p-qd-and-when-can-we-expect-it-5\">What is P-QD, and when can we expect it?</h2><p>The P in P-QD stands for Perovskite, and it's a replacement for the cadmium and indium materials used in first- and second-generation quantum dot TVs respectively. Indium isn't as accurate color-wise as cadmium, but the former is banned in many countries due to its toxicity. Perovskite promises to return to the cadmium highs without the whole poisoning-people downside.</p><p>According to FlatpanelsHD, a typical second-gen quantum dot TV hits around 75% of Rec.2020 in QLED and mini-LED TVs. Perovskite quantum dots promise an increase to 95%. That's more accurate than current QD-OLEDs, which typically come in at or below 90% of Rec.2020, and of RGB-LED TVs, which generally reach 90%.</p><p>When will it arrive? That's currently unclear. There are unconfirmed reports \u2013 speculation \u2013 that <a data-analytics-id=\"inline-link\" href=\"https://www.techradar.com/televisions/tcl-confirms-it-will-launch-two-next-gen-rgb-mini-led-tvs-raising-hopes-the-new-tech-will-be-affordable-meanwhile-tcls-other-new-flagship-tv-is-brighter-than-the-sun\">TCL's already announced 2026 flagship X11L</a> uses P-QD.</p><p>TCL has promised \"Super Quantum Dot\" technology for that TV but hasn't named P-QD specifically, although we know that TCL has been working with Zhijing Nanotech since 2020 on P-QD technology.</p><p>But as yet we don't know P-QD's ETA \u2013 and it'll be some time before it becomes widely available.</p><p>If TCL is working on using it, that suggests there are advantages \u2013 but also, maybe it's just a chance for it to be first. The best-case scenario is that it helps the color range of more affordable TVs too \u2013 the <a data-analytics-id=\"inline-link\" href=\"https://www.techradar.com/news/best-tv\">best TVs</a> at top of the line might be hitting 100% of the P3 color gamut, but cheaper TVs still need a boost to get there.</p><p>On the other hand, if this tech stays in premium TVs for a time because it's new and expensive, then that won't help either. We'll see how the P-QD race shakes out \u2013 but perhaps you'll hear professional monitors makers yelling about it earlier than TV makers.</p><p><em></em><a data-analytics-id=\"inline-link\" href=\"https://news.google.com/publications/CAAqKAgKIiJDQklTRXdnTWFnOEtEWFJsWTJoeVlXUmhjaTVqYjIwb0FBUAE?hl=en-GB&gl=GB&ceid=GB%3Aen\" target=\"_blank\"><em><strong>Follow TechRadar on Google News</strong></em></a> and<em> </em><a data-analytics-id=\"inline-link\" href=\"https://www.google.com/preferences/source?q=techradar.com\" target=\"_blank\"><em><strong>add us as a preferred source</strong></em></a><em> to get our expert news, reviews, and opinion in your feeds. Make sure to click the Follow button!</em></p><p><em>And of course you can also </em><a data-analytics-id=\"inline-link\" href=\"https://www.tiktok.com/@techradar\" target=\"_blank\"><em><strong>follow TechRadar on TikTok</strong></em></a><em> for news, reviews, unboxings in video form, and get regular updates from us on </em><a data-analytics-id=\"inline-link\" href=\"https://whatsapp.com/channel/0029Va6HybZ9RZAY7pIUK12h\" target=\"_blank\"><em><strong>WhatsApp</strong></em></a><em> too.</em></p>\n                                                            </article>]]></content:encoded>\r\n      <media:thumbnail url=\"https://cdn.mos.cms.futurecdn.net/Fbnxrrg9FwT2g7CNHqdKp9-1280-80.jpg\" />\r\n      <media:content type=\"image/jpeg\" url=\"https://cdn.mos.cms.futurecdn.net/Fbnxrrg9FwT2g7CNHqdKp9-1280-80.jpg\">\r\n        <media:copyright>TCL</media:copyright>\r\n        <media:text>A demonstration of the layers of a TV panel, showing lights in a grid, color filtering, and then paint exploding off the screen to demonstrate the vibrant imagery</media:text>\r\n        <media:title type=\"plain\">A demonstration of the layers of a TV panel, showing lights in a grid, color filtering, and then paint exploding off the screen to demonstrate the vibrant imagery</media:title>\r\n      </media:content>\r\n      <dc:date>2025-11-11T23:00:00Z</dc:date>\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "- **P-QD is a third-gen quantum dot tech, improving on current QLED tech**\n- **It could deliver 95% of the Rec.2020 color space**\n- **But some current TVs can already deliver 100% of the P3 color space, which is what movies and shows actually use**\n\nA new generation of quantum dot technology is coming, and that could mean QLED and [OLED TVs](https://www.techradar.com/news/best-oled-tvs-our-pick-of-the-best-oled-televisions-you-can-buy-today) with even better color range than the upcoming new slate of [RGB-backlit LED TVs](https://www.techradar.com/televisions/rgb-backlighting-explained). The technology, P-QD, promises exceptional color depth.\n\nThe big question is whether you're going to care.\n\nThe promise of P-QD, [FlatpanelsHD](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1762754572) reports, is a TV panel delivering over 95% of the Rec.2020 color space. That's really great news if you want a reference monitor for graphic design or other applications where absolute color accuracy across an expanded gamut is crucial.\n\nBut this color range isn't what's used in the things you watch on TV in HDR movies and shows \u2013 that's the P3 color space, and the latest RGB and OLED TVs can already deliver 100% of the P3 gamut.\n\n![Samsung S95F (left) vs LG G5 (right) showing red flowers on screen](https://cdn.mos.cms.futurecdn.net/KBsfujESxaXawUJxDXxKXM.jpg)\n\nThe Samsung S95F and LG G5 both deliver 99.9% or better of the colors that streaming or 4K Blu-rays are capable of displaying, so will better tech be any use for TVs? (Image credit: Future)\n\n## What is P-QD, and when can we expect it?\n\nThe P in P-QD stands for Perovskite, and it's a replacement for the cadmium and indium materials used in first- and second-generation quantum dot TVs respectively. Indium isn't as accurate color-wise as cadmium, but the former is banned in many countries due to its toxicity. Perovskite promises to return to the cadmium highs without the whole poisoning-people downside.\n\nAccording to FlatpanelsHD, a typical second-gen quantum dot TV hits around 75% of Rec.2020 in QLED and mini-LED TVs. Perovskite quantum dots promise an increase to 95%. That's more accurate than current QD-OLEDs, which typically come in at or below 90% of Rec.2020, and of RGB-LED TVs, which generally reach 90%.\n\nWhen will it arrive? That's currently unclear. There are unconfirmed reports \u2013 speculation \u2013 that [TCL's already announced 2026 flagship X11L](https://www.techradar.com/televisions/tcl-confirms-it-will-launch-two-next-gen-rgb-mini-led-tvs-raising-hopes-the-new-tech-will-be-affordable-meanwhile-tcls-other-new-flagship-tv-is-brighter-than-the-sun) uses P-QD.\n\nTCL has promised \"Super Quantum Dot\" technology for that TV but hasn't named P-QD specifically, although we know that TCL has been working with Zhijing Nanotech since 2020 on P-QD technology.\n\nBut as yet we don't know P-QD's ETA \u2013 and it'll be some time before it becomes widely available.\n\nIf TCL is working on using it, that suggests there are advantages \u2013 but also, maybe it's just a chance for it to be first. The best-case scenario is that it helps the color range of more affordable TVs too \u2013 the [best TVs](https://www.techradar.com/news/best-tv) at top of the line might be hitting 100% of the P3 color gamut, but cheaper TVs still need a boost to get there.\n\nOn the other hand, if this tech stays in premium TVs for a time because it's new and expensive, then that won't help either. We'll see how the P-QD race shakes out \u2013 but perhaps you'll hear professional monitors makers yelling about it earlier than TV makers.\n\n[***Follow TechRadar on Google News***](https://news.google.com/publications/CAAqKAgKIiJDQklTRXdnTWFnOEtEWFJsWTJoeVlXUmhjaTVqYjIwb0FBUAE?hl=en-GB&gl=GB&ceid=GB%3Aen) and[***add us as a preferred source***](https://www.google.com/preferences/source?q=techradar.com) *to get our expert news, reviews, and opinion in your feeds. Make sure to click the Follow button!*\n\n*And of course you can also* [***follow TechRadar on TikTok***](https://www.tiktok.com/@techradar) *for news, reviews, unboxings in video form, and get regular updates from us on* [***WhatsApp***](https://whatsapp.com/channel/0029Va6HybZ9RZAY7pIUK12h) *too.*"
+}

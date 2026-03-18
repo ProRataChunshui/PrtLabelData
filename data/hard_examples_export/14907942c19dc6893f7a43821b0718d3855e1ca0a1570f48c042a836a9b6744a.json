@@ -1,0 +1,265 @@
+{
+  "document_id": "14907942c19dc6893f7a43821b0718d3855e1ca0a1570f48c042a836a9b6744a",
+  "document_metadata": {
+    "id": "14907942c19dc6893f7a43821b0718d3855e1ca0a1570f48c042a836a9b6744a",
+    "date": 20200513,
+    "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "image": "https://images-prod.dazeddigital.com/3000/azure/dazed-prod/1290/1/1291896.jpg",
+    "date_year": 2020,
+    "date_month": 5,
+    "crawl_date": "2026-02-05T10:09:26.755728346Z",
+    "date_day": 13,
+    "title": "Revenge porn is on the rise during lockdown",
+    "url": "https://www.dazeddigital.com/life-culture/article/49211/1/revenge-porn-is-on-the-rise-during-coronavirus-lockdown",
+    "url2": "https://www.dazeddigital.com/life-culture/article/49211/1/revenge-porn-is-on-the-rise-during-coronavirus-lockdown",
+    "domain": "www.dazeddigital.com",
+    "lang": "unknown",
+    "published_date": "2020-05-13T10:43:00Z",
+    "authors": [
+      "Brit Dawson"
+    ],
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2026-02-05T10:09:26.755000",
+    "published_date_parsed": "2020-05-13T10:43:00",
+    "rawType": "xml",
+    "publisherId": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "documentId": "14907942c19dc6893f7a43821b0718d3855e1ca0a1570f48c042a836a9b6744a",
+    "rawcontent_created": "2026-02-05T10:11:55.010000",
+    "source": "Dazed",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=www.dazeddigital.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=www.dazeddigital.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=www.dazeddigital.com",
+    "first_words": "An intimate image abuse helpline received a surge in the number of people seeking advice after the UK government imposed its stay-at-home orders",
+    "has_chunks": true,
+    "has_denoised_markdown": true
+  },
+  "publisher_metadata": {
+    "id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "group_id": "c64289fd-a8ce-4f8b-8375-f1d15bc04f6d",
+    "name": "Dazed",
+    "domain": "dazeddigital.com",
+    "location": "Global",
+    "country": "Global",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "Revenge porn is on the rise during lockdown",
+    "document_authors_txt": [
+      "Brit Dawson"
+    ],
+    "hash": "37c1243c1f5671937d483681ea1a8f20c1628cd0bfffec95e02059e9cd629824"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2026-02-05",
+    "chunking": {
+      "service": "PrtDocumentInference",
+      "chunkingStrategy": "llm_semantic_batch",
+      "llmPromptVersion": "v1.0.3",
+      "batchId": "56bd0161-310c-4180-9f66-37ac37df4883",
+      "chunkingRequestId": "cc8f7dca-91bb-4e38-adf2-03a6d3fe4d71",
+      "totalChunks": 1,
+      "processingTime": 1962628,
+      "processingTimestamp": "2026-02-05T10:45:25.034406+00:00",
+      "tokenUsage": {
+        "total_tokens": 1156,
+        "prompt_tokens": 1124,
+        "completion_tokens": 32,
+        "model_version": "gemini-2.5-flash-lite"
+      },
+      "wasRepaired": false,
+      "repairMetadata": null,
+      "has_existing_chunks": true,
+      "chunks_count": 1
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "14907942c19dc6893f7a43821b0718d3855e1ca0a1570f48c042a836a9b6744a-0",
+        "idx": 0,
+        "hash": "88f08bbfe854a987ff23d8cca74014c9cceaa38c4a82605a13d22da99e5f9c6a",
+        "sim_hash": "8975016837533447035"
+      },
+      "content_original": "An intimate image abuse helpline received a surge in the number of people seeking advice after the UK government imposed its stay-at-home orders",
+      "content": "An intimate image abuse helpline received a surge in the number of people seeking advice after the UK government imposed its stay-at-home orders"
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "365a8679-90d3-4dab-ba63-83a97a9085d2",
+      "timestamp": "2026-02-05T10:12:01.540000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "strategy": "markdown",
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "14907942c19dc6893f7a43821b0718d3855e1ca0a1570f48c042a836a9b6744a"
+    },
+    {
+      "_id": "67d3ef4c-2dd0-4a70-bdcb-3d577f669a7f",
+      "timestamp": "2025-10-24T15:02:29.267000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2025-10-24",
+      "chunking": {
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "14907942c19dc6893f7a43821b0718d3855e1ca0a1570f48c042a836a9b6744a"
+    },
+    {
+      "_id": "946958ed-c123-4b82-907c-ba17b1a3b0e3",
+      "timestamp": "2026-02-05T10:48:21.019000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.3",
+        "batchId": "56bd0161-310c-4180-9f66-37ac37df4883",
+        "chunkingRequestId": "cc8f7dca-91bb-4e38-adf2-03a6d3fe4d71",
+        "totalChunks": 1,
+        "processingTime": 1962628,
+        "processingTimestamp": "2026-02-05T10:45:25.034406+00:00",
+        "tokenUsage": {
+          "total_tokens": 1156,
+          "prompt_tokens": 1124,
+          "completion_tokens": 32,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "wasRepaired": false,
+        "repairMetadata": null,
+        "has_existing_chunks": true,
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "14907942c19dc6893f7a43821b0718d3855e1ca0a1570f48c042a836a9b6744a"
+    },
+    {
+      "_id": "dfcc1594-4115-4a72-a1fb-4c8fc8163300",
+      "timestamp": "2026-02-05T10:56:40.154000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.3",
+        "batchId": "56bd0161-310c-4180-9f66-37ac37df4883",
+        "chunkingRequestId": "cc8f7dca-91bb-4e38-adf2-03a6d3fe4d71",
+        "totalChunks": 1,
+        "processingTime": 1962628,
+        "processingTimestamp": "2026-02-05T10:45:25.034406+00:00",
+        "tokenUsage": {
+          "total_tokens": 1156,
+          "prompt_tokens": 1124,
+          "completion_tokens": 32,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "wasRepaired": false,
+        "repairMetadata": null,
+        "has_existing_chunks": true,
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "14907942c19dc6893f7a43821b0718d3855e1ca0a1570f48c042a836a9b6744a"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Dazed</title>\r\n    <link>https://dazeddigital.com/feed/rss/gist</link>\r\n    <description>Youth and pop culture provocateurs since 1991. Fearless fashion, music, art, film, politics and ideas from today's bleeding edge. Declare Independence.</description>\r\n    <item>\r\n      <title>Revenge porn is on the rise during lockdown</title>\r\n      <link>https://www.dazeddigital.com/life-culture/article/49211/1/revenge-porn-is-on-the-rise-during-coronavirus-lockdown</link>\r\n      <description>An intimate image abuse helpline received a surge in the number of people seeking advice after the UK government imposed its stay-at-home orders</description>\r\n      <pubDate>Wed, 13 May 2020 10:43:00 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">https://www.dazeddigital.com/life-culture/article/49211/1/revenge-porn-is-on-the-rise-during-coronavirus-lockdown</guid>\r\n      <dc:creator>Brit Dawson</dc:creator>\r\n      <dc:date>2020-05-13T10:43:00Z</dc:date>\r\n      <media:credit scheme=\"urn:ebu\">Photography Charles Deluvio, via Unsplash</media:credit>\r\n      <media:keywords>Revenge porn, Coronavirus</media:keywords>\r\n      <media:text type=\"html\">It\u2019s been seven and a half weeks since the UK went into lockdown amid the coronavirus crisis, inimitably altering our everyday lives. One problem that\u2019s been exacerbated by the pandemic is revenge porn, which has seen a worrying surge during quarantine.\r\nAccording to the Revenge Porn Helpline, the number of people seeking help for intimate image abuse nearly doubled in the week beginning March 23, when the government imposed its stay-at-home orders, with more cases opened in the following month than any previous four-week period.\r\nSophie Mortimer, manager of the helpline, says there\u2019s a number of issues at play in relation to the surge. \u201cMany of the people who come to us are experiencing abusive relationships with current or previous partners,\u201d she tells Dazed. \u201cThe spike in domestic abuse cases is reflected here \u2013 people are vulnerable in lockdown, either with their abuser, or alone and cut off from networks of personal support and the availability of services.\u201d</media:text>\r\n      <media:text type=\"html\">\u201cOthers are making new online contacts,\u201d Mortimer continues, \u201cand sometimes people are not who they say they are, so we have seen a rise in cases of sextortion.\u201d\r\nThe Revenge Porn Helpline opened over 200 cases in the four weeks following lockdown orders, and more in one week in mid-April than any week since 2015, when revenge porn became a criminal offence for the first time. In England and Wales, revenge porn currently carries a maximum punishment of two years in prison, while in Scotland, it\u2019s five years. Last week (May 6), it was announced that threats to publish intimate photos could also\u00a0become a criminal offence as early as\u00a0this summer.\r\n\u201cI don\u2019t think we\u2019re seeing anything that\u2019s particularly different to usual,\u201d says Mortimer. \u201cWe\u2019re simply seeing much more, which suggests that what we were seeing before was merely the tip of a very large iceberg.\u201d\r\n\r\n\u201cI don\u2019t think we\u2019re seeing anything that\u2019s particularly different to usual. We\u2019re simply seeing much more, which suggests that what we were seeing before was merely the tip of a very large iceberg\u201d \u2013\u00a0Sophie Mortimer, Revenge Porn Helpline\r\n\r\nIn an\u00a0interview with the\u00a0BBC, Clare McGlynn, a law professor at Durham University, attributed the rise in cases to \u201cthe increased use of the internet and social media, as well as heightened emotions\u201d during lockdown. She asserted that stress, break-ups, and job loss can all aggravate pre-existing abusive behaviour and coercive control \u2013 two key motives behind revenge porn.\r\nSpeaking to Dazed, Mortimer confirmed that the helpline has now been allocated extra funding from the government to help with the rising workload. With the team working from home, the helpline is unable to take calls, but is available via \u201cemail, Messenger, or our anonymous tool, Whisper\u201d.\r\nAccording to Mortimer, the Revenge Porn Helpline advises people \u201con how the law applies to their situation\u201d, signposts people \u201cto appropriate support services\u201d, and removes \u201cintimate content that has been shared online without consent\u201d.</media:text>\r\n      <media:text type=\"html\">Domestic abuse charities have also reported a surge in the number of people seeking help since the UK went into lockdown, with Refuge revealing a\u00a0700 per cent increase\u00a0in calls to its helpline in a single day last month. Although the government announced a\u00a0\u00a376 million package\u00a0to support the most vulnerable in society \u2013 including victims of domestic abuse, who will reportedly be prioritised for housing \u2013 it\u2019s currently unclear how the money will be allocated, with the amount still far below the figure needed to support victims.\r\nLast week (May 7), it emerged that lockdown had\u00a0exacerbated a number of other problems for girls, including period poverty, harassment, mental health, and access to contraception. \u201cWe know that health crises have a disproportionate effect on girls,\u201d Plan International UK\u2019s CEO, Rose Caldwell, told Dazed. \u201cWe are concerned that this pandemic could set us back still further on the path to gender equality. The worries that girls have raised are likely to continue for many months to come, and could impact their future opportunities.\u201d\r\nIf you have fallen victim to revenge porn, you can contact the Revenge Porn Helpline\u00a0here.</media:text>\r\n      <media:embed url=\"https://t.co/Q87aaA9AXI\" />\r\n      <media:content type=\"image/jpeg\" isDefault=\"true\" url=\"https://images-prod.dazeddigital.com/3000/azure/dazed-prod/1290/1/1291896.jpg\" />\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "An intimate image abuse helpline received a surge in the number of people seeking advice after the UK government imposed its stay-at-home orders"
+}

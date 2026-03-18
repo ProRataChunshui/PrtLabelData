@@ -1,0 +1,192 @@
+{
+  "document_id": "0018b7182ddcea73acaf70422578126bf5b02b08779be75b2dd8eeebc2486e44",
+  "document_metadata": {
+    "id": "0018b7182ddcea73acaf70422578126bf5b02b08779be75b2dd8eeebc2486e44",
+    "date": 20251008,
+    "publisher_id": "81298621-7321-4a54-a714-702517035b21",
+    "image": "www.thestar.com/content/tncms/assets/v3/editorial/c/d7/cd789a04-25ba-552a-b33c-c8021d65761b/68e55184e2f37.image.jpg",
+    "date_year": 2025,
+    "date_month": 10,
+    "crawl_date": "2025-11-07T11:46:05.396749289Z",
+    "date_day": 8,
+    "title": "In a world on fire, it's our duty to speak out against injustices - so that's what I'm doing",
+    "url": "https://www.thestar.com/opinion/contributors/in-a-world-on-fire-its-our-duty-to-speak-out-against-injustices-so-thats/article_3d37d8e7-cd2e-4249-a583-637b273570cb.html",
+    "url2": "https://www.thestar.com/opinion/contributors/in-a-world-on-fire-its-our-duty-to-speak-out-against-injustices-so-thats/article_3d37d8e7-cd2e-4249-a583-637b273570cb.html",
+    "domain": "thestar.com",
+    "lang": "unknown",
+    "published_date": "2025-10-08T00:00:00-05:00",
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "81298621-7321-4a54-a714-702517035b21",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2025-11-07T11:46:05.396000",
+    "published_date_parsed": "2025-10-08T05:00:00",
+    "rawType": "xml",
+    "publisherId": "81298621-7321-4a54-a714-702517035b21",
+    "documentId": "0018b7182ddcea73acaf70422578126bf5b02b08779be75b2dd8eeebc2486e44",
+    "rawcontent_created": "2025-11-07T11:46:05.668000",
+    "source": "Toronto Star",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=thestar.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=thestar.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=thestar.com",
+    "first_words": "\"We are not sure that words can save lives, but we know that silence can certainly kill.\" Dr. James Orbinski said that as he accepted a Nobel Peace Prize on behalf of M\u00e9decins Sans Fronti\u00e8res in 1999. The goal of having this platform is to speak out when I see injustice or inequities because staying quiet when the world is in a shambles is the coward's way out. Yes, sometimes I get frustrated that people want to twist my words into meanings that are clearly not what I meant, but I guess that comes with the job.",
+    "has_chunks": true
+  },
+  "publisher_metadata": {
+    "id": "81298621-7321-4a54-a714-702517035b21",
+    "group_id": "f6341f30-c93f-4d91-927d-86b95220c173",
+    "name": "Toronto Star",
+    "domain": "thestar.com",
+    "location": "Canada",
+    "country": "Canada",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "In a world on fire, it's our duty to speak out against injustices - so that's what I'm doing",
+    "document_authors_txt": [],
+    "hash": "3cc127f2be8ddcc3402b19509ffda0c66d2bcd5d8a1f6bf335282d2438a26a96"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2025-11-07",
+    "chunking": {
+      "service": "PrtDocumentInference",
+      "chunkingStrategy": "llm_semantic_batch",
+      "llmPromptVersion": "v1.0.1",
+      "batchId": "d9715f44-c591-46e4-b801-b1feea0afacb",
+      "chunkingRequestId": "a4a09416-2eec-41f5-9c11-8d1f9c3d8251",
+      "totalChunks": 2,
+      "processingTime": 954271,
+      "processingTimestamp": "2025-11-07T12:02:03.083367+00:00",
+      "tokenUsage": {
+        "total_tokens": 2761,
+        "prompt_tokens": 1882,
+        "completion_tokens": 879,
+        "model_version": "gemini-2.5-flash-lite"
+      },
+      "has_existing_chunks": true,
+      "chunks_count": 2
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0018b7182ddcea73acaf70422578126bf5b02b08779be75b2dd8eeebc2486e44-0",
+        "idx": 0,
+        "hash": "411bb5d6b9f1a63c6c937d7f6efe298d11241e7e4714d0fdee7f08f39e9312f4",
+        "sim_hash": "17752719015846256088"
+      },
+      "content_original": "\u201cWe are not sure that words can save lives, but we know that silence can certainly kill.\u201c\n\nDr. James Orbinski said that as he accepted a Nobel Peace Prize on behalf of M\u00e9decins Sans Fronti\u00e8res in 1999.\n\nThe goal of having this platform is to speak out when I see injustice or inequities because staying quiet when the world is in a shambles is the coward's way out.\n\nYes, sometimes I get frustrated that people want to twist my words into meanings that are clearly not what I meant, but I guess that comes with the job.\n\nThe Israeli-Hamas war is a hot button topic and people are passionate about it. Yesterday was the second anniversary of Hamas's Oct. 7 attack where approximately 1,200 Israelis were killed and 251 were kidnapped. It was terrible.\n\nThose events precipitated Israel's all-out war on Gaza, which led to a humanitarian crisis and genocide against people of Gaza. More than 62,000 people have been killed, including journalists and doctors. Hospitals have been bombed, millions have been displaced, disease is rampant and the weaponization of food leading to a man-made famine.\n\nI'm not saying this. The International Association of Genocide Scholars, M\u00e9decins Sans Fronti\u00e8res, the United Nations, the World Peace Organization, Oxfam and other non-governmental organizations are saying this.\n\nIn the face of wiping out an entire people it is imperative to speak because being silent isn't a real choice.\n\nIn August, I got a message from a former colleague telling me she was disappointed in something that I wrote about the ongoing Hamas-Israel war. I understood her passion - this is an issue in which she's personally invested. She said that I was deceived by Hamas propaganda. I explained my position and she told me to \u201cstick to my roots.\u201c\n\nPretty much, I should stay silent about issues that don't affect me personally.\n\nBut injustice affects all of us personally.\n\nI don't have roots or family in the Middle East, nor am I a scholar about all the intricacies of the region, but I can lead with compassion for children and innocents who are being slaughtered. When we normalize injustice and work to silence anyone who speaks against it, we are creating a world where anything goes.\n\nThat would be a world where we can't expect help for anyone outside of our borders because their roots aren't being dug up and destroyed. We can turn our faces away from atrocities, only to cry long tears after the tribunals. We can say we didn't know ... but is it that we didn't know or that staying quiet was easier?",
+      "content": "\u201cWe are not sure that words can save lives, but we know that silence can certainly kill.\u201c\n\nDr. James Orbinski said that as he accepted a Nobel Peace Prize on behalf of M\u00e9decins Sans Fronti\u00e8res in 1999.\n\nThe goal of having this platform is to speak out when I see injustice or inequities because staying quiet when the world is in a shambles is the coward's way out.\n\nYes, sometimes I get frustrated that people want to twist my words into meanings that are clearly not what I meant, but I guess that comes with the job.\n\nThe Israeli-Hamas war is a hot button topic and people are passionate about it. Yesterday was the second anniversary of Hamas's Oct. 7 attack where approximately 1,200 Israelis were killed and 251 were kidnapped. It was terrible.\n\nThose events precipitated Israel's all-out war on Gaza, which led to a humanitarian crisis and genocide against people of Gaza. More than 62,000 people have been killed, including journalists and doctors. Hospitals have been bombed, millions have been displaced, disease is rampant and the weaponization of food leading to a man-made famine.\n\nI'm not saying this. The International Association of Genocide Scholars, M\u00e9decins Sans Fronti\u00e8res, the United Nations, the World Peace Organization, Oxfam and other non-governmental organizations are saying this.\n\nIn the face of wiping out an entire people it is imperative to speak because being silent isn't a real choice.\n\nIn August, I got a message from a former colleague telling me she was disappointed in something that I wrote about the ongoing Hamas-Israel war. I understood her passion - this is an issue in which she's personally invested. She said that I was deceived by Hamas propaganda. I explained my position and she told me to \u201cstick to my roots.\u201c\n\nPretty much, I should stay silent about issues that don't affect me personally.\n\nBut injustice affects all of us personally.\n\nI don't have roots or family in the Middle East, nor am I a scholar about all the intricacies of the region, but I can lead with compassion for children and innocents who are being slaughtered. When we normalize injustice and work to silence anyone who speaks against it, we are creating a world where anything goes.\n\nThat would be a world where we can't expect help for anyone outside of our borders because their roots aren't being dug up and destroyed. We can turn our faces away from atrocities, only to cry long tears after the tribunals. We can say we didn't know ... but is it that we didn't know or that staying quiet was easier?"
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "0018b7182ddcea73acaf70422578126bf5b02b08779be75b2dd8eeebc2486e44-1",
+        "idx": 1,
+        "hash": "373420096919306138dd14cce2854f7cd1a0eb717c03a2bfd0ffeb84affca870",
+        "sim_hash": "9002216213459605656"
+      },
+      "content_original": "While Gaza has global attention, there are other crises unfolding in silence.\n\nI was scrolling TikTok and watched videos about humanitarian crisis in the Democratic Republic of Congo (DRC). Since December 2024, intensified conflict between M23/Alliance Fleuve Congo and the Congolese army has displaced hundreds of thousands and caused numerous casualties. I hadn't heard much in mainstream media and went down the rabbit hole.\n\nRape - and child rape - is being used a weapon of war.\n\n\u201cThe rate of sexual violence against children has never been higher. Reports from child protection actors show that children make up between 35 to 45 per cent of the nearly 10,000 cases of rape and sexual violence reported to protection actors in just January and February this year,\u201c said UNICEF spokesperson James Elder in April 2025. \u201cA child was raped every half an hour. We are not talking about isolated incidents; we are talking about a systemic crisis. We are seeing survivors as young as toddlers. It is a weapon of war and a deliberate tactic of terror. And it destroys families and communities.\u201c\n\nShould I not speak because I'm not a part of the Congolese community? Or should I use whatever platforms I have to highlight injustice?\n\nWhen the world is on fire, do let it burn, or do we raise our voices?",
+      "content": "While Gaza has global attention, there are other crises unfolding in silence.\n\nI was scrolling TikTok and watched videos about humanitarian crisis in the Democratic Republic of Congo (DRC). Since December 2024, intensified conflict between M23/Alliance Fleuve Congo and the Congolese army has displaced hundreds of thousands and caused numerous casualties. I hadn't heard much in mainstream media and went down the rabbit hole.\n\nRape - and child rape - is being used a weapon of war.\n\n\u201cThe rate of sexual violence against children has never been higher. Reports from child protection actors show that children make up between 35 to 45 per cent of the nearly 10,000 cases of rape and sexual violence reported to protection actors in just January and February this year,\u201c said UNICEF spokesperson James Elder in April 2025. \u201cA child was raped every half an hour. We are not talking about isolated incidents; we are talking about a systemic crisis. We are seeing survivors as young as toddlers. It is a weapon of war and a deliberate tactic of terror. And it destroys families and communities.\u201c\n\nShould I not speak because I'm not a part of the Congolese community? Or should I use whatever platforms I have to highlight injustice?\n\nWhen the world is on fire, do let it burn, or do we raise our voices?"
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "bf99c1f5-ac85-4c59-a779-86db29e22d5f",
+      "timestamp": "2025-11-07T12:08:41.581000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "81298621-7321-4a54-a714-702517035b21",
+      "version": "2.3",
+      "date": "2025-11-07",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.1",
+        "batchId": "d9715f44-c591-46e4-b801-b1feea0afacb",
+        "chunkingRequestId": "a4a09416-2eec-41f5-9c11-8d1f9c3d8251",
+        "totalChunks": 2,
+        "processingTime": 954271,
+        "processingTimestamp": "2025-11-07T12:02:03.083367+00:00",
+        "tokenUsage": {
+          "total_tokens": 2761,
+          "prompt_tokens": 1882,
+          "completion_tokens": 879,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "has_existing_chunks": true,
+        "chunks_count": 2
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 2,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "0018b7182ddcea73acaf70422578126bf5b02b08779be75b2dd8eeebc2486e44"
+    },
+    {
+      "_id": "d9c29ba8-75ea-495d-8364-19eee0f6ffa3",
+      "timestamp": "2025-11-07T11:46:09.598000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "81298621-7321-4a54-a714-702517035b21",
+      "version": "2.3",
+      "date": "2025-11-07",
+      "chunking": {
+        "strategy": "simple",
+        "chunks_count": 4
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "none",
+        "model": "none",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 4,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "0018b7182ddcea73acaf70422578126bf5b02b08779be75b2dd8eeebc2486e44"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<nitf>\n   <head>\n      <title>In a world on fire, it's our duty to speak out against injustices - so that's what I'm doing</title>\n      <docdata>\n         <doc-id id-string=\"20251008-76897077\" regsrc=\"thestar\"/>\n         <du-key generation=\"1\"\n                 key=\"3d37d8e7-cd2e-4249-a583-637b273570cb\"\n                 version=\"3\"/>\n         <date.issue norm=\"20251008T000000-0500\"/>\n         <doc.copyright holder=\"thestar\" year=\"2025\"/>\n         <identified-content>\n            <classifier idsrc=\"thestar\" type=\"Column\"/>\n            <classifier idsrc=\"thestar\" type=\"\"/>\n         </identified-content>\n      </docdata>\n      <pubdata date.publication=\"20251008\"\n               edition.name=\"Final\"\n               ex-ref=\"https://www.thestar.com/opinion/contributors/in-a-world-on-fire-its-our-duty-to-speak-out-against-injustices-so-thats/article_3d37d8e7-cd2e-4249-a583-637b273570cb.html\"\n               item-length=\"664\"\n               name=\"thestar\"\n               position.section=\"opinion/contributors\"\n               position.sequence=\"1\"\n               type=\"web\"\n               unit-of-measure=\"word\"\n               volume=\"2025100876897077\"/>\n   </head>\n   <body>\n      <body.head>\n         <hedline>\n            <hl1>\nIn a world on fire, it's our duty to speak out against injustices - so that's what I'm doing\n</hl1>\n            <hl2>\n\n</hl2>\n         </hedline>\n         <byline>\n            <person>\nShellene Drakes-Tull\n</person>\n            <byttl>\nwww.thestar.com\n</byttl>\n         </byline>\n         <dateline>\n            <location>\n20251008\n</location>\n         </dateline>\n      </body.head>\n      <body.content>\n         <block>\n            <classifier>Lead</classifier>\n            <p>\n\n</p>\n         </block>\n         <block>\n            <classifier>Text</classifier>\n            <p>\n\"We are not sure that words can save lives, but we know that silence can certainly kill.\"</p>\n            <p>Dr. James Orbinski said that as he accepted a Nobel Peace Prize on behalf of M\u00e9decins Sans Fronti\u00e8res in 1999.</p>\n            <p>The goal of having this platform is to speak out when I see injustice or inequities because staying quiet when the world is in a shambles is the coward's way out.</p>\n            <p>Yes, sometimes I get frustrated that people want to twist my words into meanings that are clearly not what I meant, but I guess that comes with the job.</p>\n            <p>The Israeli-Hamas war is a hot button topic and people are passionate about it. Yesterday was the second anniversary of Hamas's Oct. 7 attack where approximately 1,200 Israelis were killed and 251 were kidnapped. It was terrible.</p>\n            <p>Those events precipitated Israel's all-out war on Gaza, which led to a humanitarian crisis and genocide against people of Gaza. More than 62,000 people have been killed, including journalists and doctors. Hospitals have been bombed, millions have been displaced, disease is rampant and the weaponization of food leading to a man-made famine.</p>\n            <p>I'm not saying this. The International Association of Genocide Scholars, M\u00e9decins Sans Fronti\u00e8res, the United Nations, the World Peace Organization, Oxfam and other non-governmental organizations are saying this.</p>\n            <p>In the face of wiping out an entire people it is imperative to speak because being silent isn't a real choice.</p>\n            <p>In August, I got a message from a former colleague telling me she was disappointed in something that I wrote about the ongoing Hamas-Israel war. I understood her passion - this is an issue in which she's personally invested. She said that I was deceived by Hamas propaganda. I explained my position and she told me to \"stick to my roots.\"</p>\n            <p>Pretty much, I should stay silent about issues that don't affect me personally.</p>\n            <p>But injustice affects all of us personally.</p>\n            <p>I don't have roots or family in the Middle East, nor am I a scholar about all the intricacies of the region, but I can lead with compassion for children and innocents who are being slaughtered. When we normalize injustice and work to silence anyone who speaks against it, we are creating a world where anything goes.</p>\n            <p>That would be a world where we can't expect help for anyone outside of our borders because their roots aren't being dug up and destroyed. We can turn our faces away from atrocities, only to cry long tears after the tribunals. We can say we didn't know ... but is it that we didn't know or that staying quiet was easier?</p>\n            <p>While Gaza has global attention, there are other crises unfolding in silence.</p>\n            <p>I was scrolling TikTok and watched videos about humanitarian crisis in the Democratic Republic of Congo (DRC). Since December 2024, intensified conflict between M23/Alliance Fleuve Congo and the Congolese army has displaced hundreds of thousands and caused numerous casualties. I hadn't heard much in mainstream media and went down the rabbit hole.</p>\n            <p>Rape - and child rape - is being used a weapon of war.</p>\n            <p>\"The rate of sexual violence against children has never been higher. Reports from child protection actors show that children make up between 35 to 45 per cent of the nearly 10,000 cases of rape and sexual violence reported to protection actors in just January and February this year,\" said UNICEF spokesperson James Elder in April 2025. \"A child was raped every half an hour. We are not talking about isolated incidents; we are talking about a systemic crisis. We are seeing survivors as young as toddlers. It is a weapon of war and a deliberate tactic of terror. And it destroys families and communities.\"</p>\n            <p>Should I not speak because I'm not a part of the Congolese community? Or should I use whatever platforms I have to highlight injustice?</p>\n            <p>When the world is on fire, do let it burn, or do we raise our voices?\n</p>\n         </block>\n         <block>\n            <classifier>Note</classifier>\n            <p>\n\n</p>\n         </block>\n         <block>\n            <copyrite> Copyright 2025. Toronto Star Newspapers Limited. Reproduced with permission of the copyright owner. Further reproduction or distribution is prohibited without permission.  All Rights Reserved.</copyrite>\n         </block>\n         <media media-type=\"image\" style=\"align:right\">\n            <media-reference mime-type=\"image/jpeg\">\nwww.thestar.com/content/tncms/assets/v3/editorial/c/d7/cd789a04-25ba-552a-b33c-c8021d65761b/68e55184e2f37.image.jpg\n</media-reference>\n            <media-caption>\nChildren search for salvage items in a skip bin at the Qatari-built and now-damaged Hamad City residential complex in northwestern Khan Yunis, in the southern Gaza Strip, on Monday.\n\n</media-caption>\n         </media>\n      </body.content>\n   </body>\n</nitf>\n",
+  "markdown_content": "\"We are not sure that words can save lives, but we know that silence can certainly kill.\"\n\nDr. James Orbinski said that as he accepted a Nobel Peace Prize on behalf of M\u00e9decins Sans Fronti\u00e8res in 1999.\n\nThe goal of having this platform is to speak out when I see injustice or inequities because staying quiet when the world is in a shambles is the coward's way out.\n\nYes, sometimes I get frustrated that people want to twist my words into meanings that are clearly not what I meant, but I guess that comes with the job.\n\nThe Israeli-Hamas war is a hot button topic and people are passionate about it. Yesterday was the second anniversary of Hamas's Oct. 7 attack where approximately 1,200 Israelis were killed and 251 were kidnapped. It was terrible.\n\nThose events precipitated Israel's all-out war on Gaza, which led to a humanitarian crisis and genocide against people of Gaza. More than 62,000 people have been killed, including journalists and doctors. Hospitals have been bombed, millions have been displaced, disease is rampant and the weaponization of food leading to a man-made famine.\n\nI'm not saying this. The International Association of Genocide Scholars, M\u00e9decins Sans Fronti\u00e8res, the United Nations, the World Peace Organization, Oxfam and other non-governmental organizations are saying this.\n\nIn the face of wiping out an entire people it is imperative to speak because being silent isn't a real choice.\n\nIn August, I got a message from a former colleague telling me she was disappointed in something that I wrote about the ongoing Hamas-Israel war. I understood her passion - this is an issue in which she's personally invested. She said that I was deceived by Hamas propaganda. I explained my position and she told me to \"stick to my roots.\"\n\nPretty much, I should stay silent about issues that don't affect me personally.\n\nBut injustice affects all of us personally.\n\nI don't have roots or family in the Middle East, nor am I a scholar about all the intricacies of the region, but I can lead with compassion for children and innocents who are being slaughtered. When we normalize injustice and work to silence anyone who speaks against it, we are creating a world where anything goes.\n\nThat would be a world where we can't expect help for anyone outside of our borders because their roots aren't being dug up and destroyed. We can turn our faces away from atrocities, only to cry long tears after the tribunals. We can say we didn't know ... but is it that we didn't know or that staying quiet was easier?\n\nWhile Gaza has global attention, there are other crises unfolding in silence.\n\nI was scrolling TikTok and watched videos about humanitarian crisis in the Democratic Republic of Congo (DRC). Since December 2024, intensified conflict between M23/Alliance Fleuve Congo and the Congolese army has displaced hundreds of thousands and caused numerous casualties. I hadn't heard much in mainstream media and went down the rabbit hole.\n\nRape - and child rape - is being used a weapon of war.\n\n\"The rate of sexual violence against children has never been higher. Reports from child protection actors show that children make up between 35 to 45 per cent of the nearly 10,000 cases of rape and sexual violence reported to protection actors in just January and February this year,\" said UNICEF spokesperson James Elder in April 2025. \"A child was raped every half an hour. We are not talking about isolated incidents; we are talking about a systemic crisis. We are seeing survivors as young as toddlers. It is a weapon of war and a deliberate tactic of terror. And it destroys families and communities.\"\n\nShould I not speak because I'm not a part of the Congolese community? Or should I use whatever platforms I have to highlight injustice?\n\nWhen the world is on fire, do let it burn, or do we raise our voices?"
+}

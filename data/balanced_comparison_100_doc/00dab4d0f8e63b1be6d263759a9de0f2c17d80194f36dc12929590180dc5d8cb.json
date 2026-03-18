@@ -1,0 +1,180 @@
+{
+  "document_id": "00dab4d0f8e63b1be6d263759a9de0f2c17d80194f36dc12929590180dc5d8cb",
+  "document_metadata": {
+    "id": "00dab4d0f8e63b1be6d263759a9de0f2c17d80194f36dc12929590180dc5d8cb",
+    "date": 20250917,
+    "publisher_id": "2d5d0101-211e-45e1-8195-70fc0686d70d",
+    "image": "https://media.tegna-media.com/assets/WFAA/images/a31ec8ae-d486-4663-9ca0-f9c6828b2c41/20250525T194224/a31ec8ae-d486-4663-9ca0-f9c6828b2c41.jpg",
+    "date_year": 2025,
+    "date_month": 9,
+    "crawl_date": "2025-11-10T19:20:12.837490945Z",
+    "date_day": 17,
+    "title": "Driver dies after 18-wheeler overturns on I-30, Arlington police say",
+    "url": "https://www.wfaa.com/article/traffic/driver-dies-after-18-wheeler-overturns-on-i-30-arlington-police-say/287-1719a365-5589-4b04-b62c-e53beec9dd0a",
+    "url2": "https://www.wfaa.com/article/traffic/driver-dies-after-18-wheeler-overturns-on-i-30-arlington-police-say/287-1719a365-5589-4b04-b62c-e53beec9dd0a",
+    "domain": "www.wfaa.com",
+    "lang": "unknown",
+    "published_date": "2025-09-17T13:08:57Z",
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "2d5d0101-211e-45e1-8195-70fc0686d70d",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2025-11-10T19:20:12.837000",
+    "published_date_parsed": "2025-09-17T13:08:57",
+    "rawType": "xml",
+    "publisherId": "2d5d0101-211e-45e1-8195-70fc0686d70d",
+    "documentId": "00dab4d0f8e63b1be6d263759a9de0f2c17d80194f36dc12929590180dc5d8cb",
+    "rawcontent_created": "2025-11-10T19:26:14.516000",
+    "source": "WFAA-TV",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=www.wfaa.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=www.wfaa.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=www.wfaa.com",
+    "first_words": "The driver of an 18-wheeler died after his truck overturned on Interstate 30, Arlington police said. Around 7:30 p.m. Tuesday, officers responded to reports of a crash in the westbound lanes of Interstate 30 near Fielder Road, Arlington police said in a press release. Officers found a single vehicle crash involving an overturned 18-wheeler, police said. The driver of the 18-wheeler was declared dead on the scene, the release states. Arlington police are investigating what led up to the crash, police said. The highway was temporarily closed but has since reopened.",
+    "has_chunks": true
+  },
+  "publisher_metadata": {
+    "id": "2d5d0101-211e-45e1-8195-70fc0686d70d",
+    "group_id": "ac4bb5e9-4c41-4036-ab8e-6f8773d85edb",
+    "name": "WFAA-TV",
+    "domain": "wfaa.com",
+    "location": "United States",
+    "country": "United States",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "Driver dies after 18-wheeler overturns on I-30, Arlington police say",
+    "document_authors_txt": [],
+    "hash": "540ccd6f444ba10605f50ed86522a742d9c46d9883a91d307c5d9adcef3211d3"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2025-11-11",
+    "chunking": {
+      "service": "PrtDocumentInference",
+      "chunkingStrategy": "llm_semantic_batch",
+      "llmPromptVersion": "v1.0.1",
+      "batchId": "084ebbe0-f7f9-4e5c-a5ab-c26ad0191f44",
+      "chunkingRequestId": "efb258e9-4a6d-4d25-ba28-df245d749f4c",
+      "totalChunks": 1,
+      "processingTime": 16022586,
+      "processingTimestamp": "2025-11-11T00:40:40.208604+00:00",
+      "tokenUsage": {
+        "total_tokens": 1309,
+        "prompt_tokens": 1176,
+        "completion_tokens": 133,
+        "model_version": "gemini-2.5-flash-lite"
+      },
+      "has_existing_chunks": true,
+      "chunks_count": 1
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "00dab4d0f8e63b1be6d263759a9de0f2c17d80194f36dc12929590180dc5d8cb-0",
+        "idx": 0,
+        "hash": "e64930a6b6c0b3c8e03cfc4be9fcdbce5efdd6c9b9e2e6337baffe55e65d1e6b",
+        "sim_hash": "18340965477248378558"
+      },
+      "content_original": "The driver of an 18-wheeler died after his truck overturned on Interstate 30, Arlington police said. Around 7:30 p.m. Tuesday, officers responded to reports of a crash in the westbound lanes of Interstate 30 near Fielder Road, Arlington police said in a press release. Officers found a single vehicle crash involving an overturned 18-wheeler, police said. The driver of the 18-wheeler was declared dead on the scene, the release states. Arlington police are investigating what led up to the crash, police said. The highway was temporarily closed but has since reopened.",
+      "content": "The driver of an 18-wheeler died after his truck overturned on Interstate 30, Arlington police said. Around 7:30 p.m. Tuesday, officers responded to reports of a crash in the westbound lanes of Interstate 30 near Fielder Road, Arlington police said in a press release. Officers found a single vehicle crash involving an overturned 18-wheeler, police said. The driver of the 18-wheeler was declared dead on the scene, the release states. Arlington police are investigating what led up to the crash, police said. The highway was temporarily closed but has since reopened."
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "1375e6af-d2f4-4cab-b4e5-f60f2325c74e",
+      "timestamp": "2025-11-11T00:47:08.466000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "2d5d0101-211e-45e1-8195-70fc0686d70d",
+      "version": "2.3",
+      "date": "2025-11-11",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.1",
+        "batchId": "084ebbe0-f7f9-4e5c-a5ab-c26ad0191f44",
+        "chunkingRequestId": "efb258e9-4a6d-4d25-ba28-df245d749f4c",
+        "totalChunks": 1,
+        "processingTime": 16022586,
+        "processingTimestamp": "2025-11-11T00:40:40.208604+00:00",
+        "tokenUsage": {
+          "total_tokens": 1309,
+          "prompt_tokens": 1176,
+          "completion_tokens": 133,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "has_existing_chunks": true,
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "00dab4d0f8e63b1be6d263759a9de0f2c17d80194f36dc12929590180dc5d8cb"
+    },
+    {
+      "_id": "2f9dd884-5ed6-46ad-81d6-0f0a1f7dbd90",
+      "timestamp": "2025-11-10T19:30:44.846000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "2d5d0101-211e-45e1-8195-70fc0686d70d",
+      "version": "2.3",
+      "date": "2025-11-10",
+      "chunking": {
+        "strategy": "simple",
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "none",
+        "model": "none",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "00dab4d0f8e63b1be6d263759a9de0f2c17d80194f36dc12929590180dc5d8cb"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Standardized Rss</title>\r\n    <link>https://www.wfaa.com/</link>\r\n    <description>WFAA Standardized Rss Feed</description>\r\n    <item>\r\n      <title>Driver dies after 18-wheeler overturns on I-30, Arlington police say</title>\r\n      <link>https://www.wfaa.com/article/traffic/driver-dies-after-18-wheeler-overturns-on-i-30-arlington-police-say/287-1719a365-5589-4b04-b62c-e53beec9dd0a</link>\r\n      <description>The driver of an 18-wheeler died Thursday night after the truck overturned on Interstate 30, police said.</description>\r\n      <guid isPermaLink=\"false\">1719a365-5589-4b04-b62c-e53beec9dd0a</guid>\r\n      <content:encoded><![CDATA[<p>The driver of an 18-wheeler died after his truck overturned on Interstate 30, Arlington police said.&nbsp;</p><p>Around 7:30 p.m. Tuesday, officers responded to reports of a crash in the westbound lanes of Interstate 30 near Fielder Road, Arlington police said in a press release.&nbsp;</p><p>Officers found a single vehicle crash involving an overturned 18-wheeler, police said. The driver of the 18-wheeler was declared dead on the scene, the release states.&nbsp;</p><p>Arlington police are investigating what led up to the crash, police said. The highway was temporarily closed but has since reopened.&nbsp;</p>]]></content:encoded>\r\n      <media:thumbnail url=\"https://media.tegna-media.com/assets/WFAA/images/a31ec8ae-d486-4663-9ca0-f9c6828b2c41/20250525T194224/a31ec8ae-d486-4663-9ca0-f9c6828b2c41.jpg\" />\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "The driver of an 18-wheeler died after his truck overturned on Interstate 30, Arlington police said.\n\nAround 7:30 p.m. Tuesday, officers responded to reports of a crash in the westbound lanes of Interstate 30 near Fielder Road, Arlington police said in a press release.\n\nOfficers found a single vehicle crash involving an overturned 18-wheeler, police said. The driver of the 18-wheeler was declared dead on the scene, the release states.\n\nArlington police are investigating what led up to the crash, police said. The highway was temporarily closed but has since reopened."
+}

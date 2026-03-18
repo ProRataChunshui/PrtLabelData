@@ -1,0 +1,416 @@
+{
+  "document_id": "009ef41a7f9027a5ac0126b9dd65109294f137799d8699d6fc335f8df46ebfe9",
+  "document_metadata": {
+    "id": "009ef41a7f9027a5ac0126b9dd65109294f137799d8699d6fc335f8df46ebfe9",
+    "date": 20150120,
+    "publisher_id": "94752927-7427-4159-8808-e45253b86b63",
+    "image": "https://onemileatatime.com/wp-content/uploads/2015/01/Filthy-First-Class.png",
+    "date_year": 2015,
+    "date_month": 1,
+    "crawl_date": "2025-12-18T16:26:00.253393804Z",
+    "date_day": 20,
+    "modified_date": "2020-03-29T22:15:14Z",
+    "title": "Video Of Disgusting British Airways First Class Cabin",
+    "url": "https://onemileatatime.com/video-of-disgusting-british-airways-first-class-cabin/",
+    "url2": "https://onemileatatime.com/video-of-disgusting-british-airways-first-class-cabin/",
+    "domain": "onemileatatime.com",
+    "lang": "unknown",
+    "published_date": "2015-01-20T13:03:51Z",
+    "authors": [
+      "Ben Schlappig"
+    ],
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "94752927-7427-4159-8808-e45253b86b63",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2025-12-18T16:26:00.253000",
+    "published_date_parsed": "2015-01-20T13:03:51",
+    "rawType": "json",
+    "publisherId": "94752927-7427-4159-8808-e45253b86b63",
+    "documentId": "009ef41a7f9027a5ac0126b9dd65109294f137799d8699d6fc335f8df46ebfe9",
+    "rawcontent_created": "2025-12-18T16:26:00.439000",
+    "source": "One Mile at a Time",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=onemileatatime.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=onemileatatime.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=onemileatatime.com",
+    "first_words": "I\u2019m a big fan of The Daily Mail. It\u2019s basically a one-stop-shop for all my non-aviation passions (I\u2019m a pre-teen girl at heart, what can I say?). So naturally, I get excited when they cover something that involves aviation as well! Yesterday The Daily Mail carried the story of a TV news presenter who flew in first-class from London to St. Lucia, only to find the cabin in a filthy state. When I first saw the headline I figured it couldn\u2019t really be that bad, and that he was probably just being dramatic. Nope, he definitely wasn\u2019t being dramatic. Check out the video: Unbelievable\u2026",
+    "has_chunks": true
+  },
+  "publisher_metadata": {
+    "id": "94752927-7427-4159-8808-e45253b86b63",
+    "group_id": "98748636-5b92-4f13-b015-17593ef77dc0",
+    "name": "One Mile at a Time",
+    "domain": "onemileatatime.com",
+    "location": "Global",
+    "country": "Global",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": [
+      "186d72ec-3dbe-4c75-97a5-578fb5e2fd06",
+      "04a628b2-cc4e-4315-9f29-fca5337fdf41"
+    ]
+  },
+  "content_metadata": {
+    "document_title_txt": "Video Of Disgusting British Airways First Class Cabin",
+    "document_authors_txt": [
+      "Ben Schlappig"
+    ],
+    "hash": "ee6d758ccd81f895f034dd88d6237a6ef6fa859b5d822234dd250b4a0e91f735"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2025-12-21",
+    "chunking": {
+      "strategy": "simple",
+      "chunks_count": 1
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "none",
+      "model": "none",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "009ef41a7f9027a5ac0126b9dd65109294f137799d8699d6fc335f8df46ebfe9-0",
+        "idx": 0,
+        "hash": "ee6d758ccd81f895f034dd88d6237a6ef6fa859b5d822234dd250b4a0e91f735",
+        "sim_hash": "16308637358769112042"
+      },
+      "content_original": "I\u2019m a big fan of The Daily Mail. It\u2019s basically a one-stop-shop for all my non-aviation passions (I\u2019m a pre-teen girl at heart, what can I say?). So naturally, I get excited when they cover something that involves aviation as well!\n\nYesterday The Daily Mail carried the story of a TV news presenter who [flew in first-class from London to St. Lucia, only to find the cabin in a filthy state](http://www.dailymail.co.uk/travel/travel_news/article-2917124/Filth-Class-Horrified-TV-news-presenter-films-disgusting-grimy-conditions-board-class-British-Airways-flight-St-Lucia.html).\n\nWhen I first saw the headline I figured it couldn\u2019t really be that bad, and that he was probably just being dramatic.\n\nNope, he definitely wasn\u2019t being dramatic. Check out the video:\n\n<https://video.dailymail.co.uk/video/1418450360/1418450360_3998184931001_Sequence-01-3-1421685372499.mp4>\n\nUnbelievable\u2026",
+      "content": "I\u2019m a big fan of The Daily Mail. It\u2019s basically a one-stop-shop for all my non-aviation passions (I\u2019m a pre-teen girl at heart, what can I say?). So naturally, I get excited when they cover something that involves aviation as well!\n\nYesterday The Daily Mail carried the story of a TV news presenter who [flew in first-class from London to St. Lucia, only to find the cabin in a filthy state](http://www.dailymail.co.uk/travel/travel_news/article-2917124/Filth-Class-Horrified-TV-news-presenter-films-disgusting-grimy-conditions-board-class-British-Airways-flight-St-Lucia.html).\n\nWhen I first saw the headline I figured it couldn\u2019t really be that bad, and that he was probably just being dramatic.\n\nNope, he definitely wasn\u2019t being dramatic. Check out the video:\n\n<https://video.dailymail.co.uk/video/1418450360/1418450360_3998184931001_Sequence-01-3-1421685372499.mp4>\n\nUnbelievable\u2026"
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "0ee0d660-ef57-475e-8c0f-ee1288459cea",
+      "timestamp": "2025-12-16T16:42:13.250000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "94752927-7427-4159-8808-e45253b86b63",
+      "version": "2.3.1",
+      "date": "2025-12-16",
+      "updating_chunks_publisher_metadata": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2-000002"
+        ]
+      },
+      "document_id": "009ef41a7f9027a5ac0126b9dd65109294f137799d8699d6fc335f8df46ebfe9"
+    },
+    {
+      "_id": "3e11130c-9a98-403a-9755-0890c6609595",
+      "timestamp": "2025-12-18T16:26:04.877000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "94752927-7427-4159-8808-e45253b86b63",
+      "version": "2.3",
+      "date": "2025-12-18",
+      "chunking": {
+        "strategy": "simple",
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "none",
+        "model": "none",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "009ef41a7f9027a5ac0126b9dd65109294f137799d8699d6fc335f8df46ebfe9"
+    },
+    {
+      "_id": "545af621-46f7-46f5-a508-7696cd1c92ed",
+      "timestamp": "2025-12-20T13:19:28.166000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "94752927-7427-4159-8808-e45253b86b63",
+      "version": "2.3",
+      "date": "2025-12-20",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.3",
+        "batchId": "e60c0b68-7d11-44fd-b94d-71811ce63ca2",
+        "chunkingRequestId": "005f8a9f-3cfa-442c-b914-99d10ed23b87",
+        "totalChunks": 1,
+        "processingTime": 35797620,
+        "processingTimestamp": "2025-12-20T13:15:06.074426+00:00",
+        "tokenUsage": {
+          "total_tokens": 1533,
+          "prompt_tokens": 1315,
+          "completion_tokens": 218,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "wasRepaired": false,
+        "repairMetadata": null,
+        "has_existing_chunks": true,
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "009ef41a7f9027a5ac0126b9dd65109294f137799d8699d6fc335f8df46ebfe9"
+    },
+    {
+      "_id": "5ef762b8-8fc1-4550-abbb-ae0383e7a1f3",
+      "timestamp": "2025-12-20T13:19:30.621000",
+      "success": false,
+      "failure_reason": "index_document: unexpected error: Exception: OpensearchOperations: delete document: 009ef41a7f9027a5ac0126b9dd65109294f137799d8699d6fc335f8df46ebfe9, conflicts: 1, max retries reached",
+      "publisher_id": "94752927-7427-4159-8808-e45253b86b63",
+      "version": "2.3",
+      "date": "2025-12-20",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.3",
+        "batchId": "e60c0b68-7d11-44fd-b94d-71811ce63ca2",
+        "chunkingRequestId": "005f8a9f-3cfa-442c-b914-99d10ed23b87",
+        "totalChunks": 1,
+        "processingTime": 35797620,
+        "processingTimestamp": "2025-12-20T13:15:06.074426+00:00",
+        "tokenUsage": {
+          "total_tokens": 1533,
+          "prompt_tokens": 1315,
+          "completion_tokens": 218,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "wasRepaired": false,
+        "repairMetadata": null,
+        "has_existing_chunks": true,
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "document_id": "009ef41a7f9027a5ac0126b9dd65109294f137799d8699d6fc335f8df46ebfe9"
+    },
+    {
+      "_id": "96cf4ee1-441c-4e58-b79a-d362183df552",
+      "timestamp": "2025-12-20T13:19:28.166000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "94752927-7427-4159-8808-e45253b86b63",
+      "version": "2.3",
+      "date": "2025-12-20",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.3",
+        "batchId": "e60c0b68-7d11-44fd-b94d-71811ce63ca2",
+        "chunkingRequestId": "005f8a9f-3cfa-442c-b914-99d10ed23b87",
+        "totalChunks": 1,
+        "processingTime": 35797620,
+        "processingTimestamp": "2025-12-20T13:15:06.074426+00:00",
+        "tokenUsage": {
+          "total_tokens": 1533,
+          "prompt_tokens": 1315,
+          "completion_tokens": 218,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "wasRepaired": false,
+        "repairMetadata": null,
+        "has_existing_chunks": true,
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "009ef41a7f9027a5ac0126b9dd65109294f137799d8699d6fc335f8df46ebfe9"
+    },
+    {
+      "_id": "a9592d20-271c-4b5a-aac4-edc7afd3a7e8",
+      "timestamp": "2025-09-26T18:55:35.894000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "94752927-7427-4159-8808-e45253b86b63",
+      "version": "2.3",
+      "date": "2025-09-26",
+      "chunking": {
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "009ef41a7f9027a5ac0126b9dd65109294f137799d8699d6fc335f8df46ebfe9"
+    },
+    {
+      "_id": "ae4420ad-fdd9-491e-a7e5-2f20bf03730a",
+      "timestamp": "2025-12-21T07:04:23.810000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "94752927-7427-4159-8808-e45253b86b63",
+      "version": "2.3",
+      "date": "2025-12-21",
+      "chunking": {
+        "strategy": "simple",
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "none",
+        "model": "none",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "009ef41a7f9027a5ac0126b9dd65109294f137799d8699d6fc335f8df46ebfe9"
+    },
+    {
+      "_id": "cbde3f0c-7882-497f-826a-f1014dd498dd",
+      "timestamp": "2025-12-20T13:19:30.621000",
+      "success": false,
+      "failure_reason": "index_document: unexpected error: Exception: OpensearchOperations: delete document: 009ef41a7f9027a5ac0126b9dd65109294f137799d8699d6fc335f8df46ebfe9, conflicts: 1, max retries reached",
+      "publisher_id": "94752927-7427-4159-8808-e45253b86b63",
+      "version": "2.3",
+      "date": "2025-12-20",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.3",
+        "batchId": "e60c0b68-7d11-44fd-b94d-71811ce63ca2",
+        "chunkingRequestId": "005f8a9f-3cfa-442c-b914-99d10ed23b87",
+        "totalChunks": 1,
+        "processingTime": 35797620,
+        "processingTimestamp": "2025-12-20T13:15:06.074426+00:00",
+        "tokenUsage": {
+          "total_tokens": 1533,
+          "prompt_tokens": 1315,
+          "completion_tokens": 218,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "wasRepaired": false,
+        "repairMetadata": null,
+        "has_existing_chunks": true,
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "document_id": "009ef41a7f9027a5ac0126b9dd65109294f137799d8699d6fc335f8df46ebfe9"
+    },
+    {
+      "_id": "f75564ba-f8ee-4e23-ae4c-f9e226eeaa99",
+      "timestamp": "2025-12-20T13:19:30.377000",
+      "success": false,
+      "failure_reason": "index_document: unexpected error: Exception: OpensearchOperations: delete document: 009ef41a7f9027a5ac0126b9dd65109294f137799d8699d6fc335f8df46ebfe9, conflicts: 1, max retries reached",
+      "publisher_id": "94752927-7427-4159-8808-e45253b86b63",
+      "version": "2.3",
+      "date": "2025-12-20",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.3",
+        "batchId": "e60c0b68-7d11-44fd-b94d-71811ce63ca2",
+        "chunkingRequestId": "005f8a9f-3cfa-442c-b914-99d10ed23b87",
+        "totalChunks": 1,
+        "processingTime": 35797620,
+        "processingTimestamp": "2025-12-20T13:15:06.074426+00:00",
+        "tokenUsage": {
+          "total_tokens": 1533,
+          "prompt_tokens": 1315,
+          "completion_tokens": 218,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "wasRepaired": false,
+        "repairMetadata": null,
+        "has_existing_chunks": true,
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "document_id": "009ef41a7f9027a5ac0126b9dd65109294f137799d8699d6fc335f8df46ebfe9"
+    }
+  ],
+  "raw_content": "{\n  \"id\" : 76198,\n  \"date\" : \"2015-01-20T08:03:51\",\n  \"date_gmt\" : \"2015-01-20T13:03:51\",\n  \"modified_gmt\" : \"2020-03-29T22:15:14\",\n  \"link\" : \"https://onemileatatime.com/video-of-disgusting-british-airways-first-class-cabin/\",\n  \"title\" : {\n    \"rendered\" : \"Video Of Disgusting British Airways First Class Cabin\"\n  },\n  \"content\" : {\n    \"rendered\" : \"<!DOCTYPE html PUBLIC \\\"-//W3C//DTD HTML 4.0 Transitional//EN\\\" \\\"http://www.w3.org/TR/REC-html40/loose.dtd\\\">\\n<html><body><p>I&rsquo;m a big fan of The Daily Mail. It&rsquo;s basically a one-stop-shop for all my non-aviation passions (I&rsquo;m a pre-teen girl at heart, what can I say?). So naturally, I get excited when they cover something that involves aviation as well!</p>\\n<p>Yesterday The Daily Mail carried the story of a TV news presenter who <a href=\\\"http://www.dailymail.co.uk/travel/travel_news/article-2917124/Filth-Class-Horrified-TV-news-presenter-films-disgusting-grimy-conditions-board-class-British-Airways-flight-St-Lucia.html\\\" target=\\\"_blank\\\" rel=\\\"noopener\\\">flew in first-class from London to St. Lucia, only to find the cabin in a filthy state</a>.</p>\\n<p>When I first saw the headline I figured it couldn&rsquo;t really be that bad, and that he was probably just being dramatic.</p>\\n<p>Nope, he definitely wasn&rsquo;t being dramatic. Check out the video:</p>\\n<div style=\\\"width: 640px;\\\" class=\\\"wp-video\\\"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->\\n<video class=\\\"wp-video-shortcode\\\" id=\\\"video-76198-1\\\" width=\\\"640\\\" height=\\\"360\\\" preload=\\\"metadata\\\" controls=\\\"controls\\\"><source type=\\\"video/mp4\\\" src=\\\"https://video.dailymail.co.uk/video/1418450360/1418450360_3998184931001_Sequence-01-3-1421685372499.mp4?_=1\\\"></source><a href=\\\"https://video.dailymail.co.uk/video/1418450360/1418450360_3998184931001_Sequence-01-3-1421685372499.mp4\\\">https://video.dailymail.co.uk/video/1418450360/1418450360_3998184931001_Sequence-01-3-1421685372499.mp4</a></video></div>\\n<p>Unbelievable&hellip;</p>\\n</body></html>\\n\"\n  },\n  \"author\" : 7,\n  \"featured_media\" : 76200\n}",
+  "markdown_content": "I\u2019m a big fan of The Daily Mail. It\u2019s basically a one-stop-shop for all my non-aviation passions (I\u2019m a pre-teen girl at heart, what can I say?). So naturally, I get excited when they cover something that involves aviation as well!\n\nYesterday The Daily Mail carried the story of a TV news presenter who [flew in first-class from London to St. Lucia, only to find the cabin in a filthy state](http://www.dailymail.co.uk/travel/travel_news/article-2917124/Filth-Class-Horrified-TV-news-presenter-films-disgusting-grimy-conditions-board-class-British-Airways-flight-St-Lucia.html).\n\nWhen I first saw the headline I figured it couldn\u2019t really be that bad, and that he was probably just being dramatic.\n\nNope, he definitely wasn\u2019t being dramatic. Check out the video:\n\n<https://video.dailymail.co.uk/video/1418450360/1418450360_3998184931001_Sequence-01-3-1421685372499.mp4>\n\nUnbelievable\u2026"
+}

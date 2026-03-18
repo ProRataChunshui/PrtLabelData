@@ -1,0 +1,139 @@
+{
+  "document_id": "020787f58d8c99105109383bf48238e1853049e615dfd6d1ac6984ea8551a9a9",
+  "document_metadata": {
+    "id": "020787f58d8c99105109383bf48238e1853049e615dfd6d1ac6984ea8551a9a9",
+    "date": 20160907,
+    "publisher_id": "17de1225-a28d-4b22-85f6-6de667ccb859",
+    "date_year": 2016,
+    "date_month": 9,
+    "crawl_date": "2025-10-25T14:17:04.881564882Z",
+    "date_day": 7,
+    "title": "County raises tax rate",
+    "url": "https://www.dodgeglobe.com/county-raises-tax-rate/",
+    "url2": "https://www.dodgeglobe.com/county-raises-tax-rate/",
+    "domain": "dodgeglobe.com",
+    "lang": "unknown",
+    "published_date": "2016-09-07T06:01:00Z",
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "17de1225-a28d-4b22-85f6-6de667ccb859",
+    "skip_servicebusmessage_for_ingestion": false,
+    "rawType": "json",
+    "publisherId": "17de1225-a28d-4b22-85f6-6de667ccb859",
+    "documentId": "020787f58d8c99105109383bf48238e1853049e615dfd6d1ac6984ea8551a9a9",
+    "rawcontent_created": "2025-10-25T14:17:05.074000",
+    "source": "Dodge City Daily Globe",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=dodgeglobe.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=dodgeglobe.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=dodgeglobe.com",
+    "first_words": "Ford County tax rate will increase 2 mills for 2017 from a total tax rate of 43.020 in 2016 to 45.940. Ford County Commission held its public hearing and approved the proposed budget with a budget authority of $17,520,451 in general expenditures at its meeting Tuesday. In other business, the county commission approved a bridge inspection agreement for $16,626 and landfill truck for $23,490. According to county engineer Jon Halbgewachs, every 2 years inspections of bridges at least 20 ft in length throughout the county are required. The agreement will cover 163 bridges in Ford County by"
+  },
+  "publisher_metadata": {
+    "id": "17de1225-a28d-4b22-85f6-6de667ccb859",
+    "group_id": "a81cba48-89e1-4e2b-b6fd-753d6773d5a8",
+    "name": "Dodge City Daily Globe",
+    "domain": "dodgeglobe.com",
+    "location": "United States",
+    "country": "United States",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": [
+      "186d72ec-3dbe-4c75-97a5-578fb5e2fd06"
+    ]
+  },
+  "content_metadata": {
+    "document_title_txt": "County raises tax rate",
+    "document_authors_txt": [],
+    "hash": "1e043cd40e6fb2bf24a0f578c72d0a53872706b2e2d5cb1a97fc76b61ef2ac1e"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2025-10-25",
+    "chunking": {
+      "chunks_count": 3
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "020787f58d8c99105109383bf48238e1853049e615dfd6d1ac6984ea8551a9a9-1",
+        "idx": 1,
+        "hash": "08bc54b185fcda555b21d079f1caca383c9f070380ccc0136028e7de6109078b"
+      },
+      "content_original": "In the program, KDOT processes federal funds for counties with 90 percent reimbursement of expenditures.\n\n\"It's for any road maintenance project,\" road and bridge supervisor Chris O'Neal said. \"Even if a road grader goes out, I can turn that invoice into the state and we will be reimbursed 90 percent. We have $525,317 built up over the past 3 years. If we don't use the 2014 money, it will fall off.\"\n\nSince the county has not accessed the funds, KDOT granted an extension to apply for 2014's funds, about $220,000.\n\nIn legal counsel, the commission passed a resolution declaring the Bull Thistle a noxious weed in Ford County.\n\n\"The significance of that is the other statutes that apply in regard to control and eradication, those that deal with noxious weeds, will now apply to Bull Thistle,\" county counselor Glenn Kerbs said.\n\nIn other business, the commissioners approved flu vaccinations for Ford County employees to be charged to each department with approval from department head, nominating Sheriff Bill Carr to the Kansas County Association Multiline Pool Board of Trustees that handles the county's insurance and Sam Ragsdale as an additional signer on a county bank account.",
+      "content": "In the program, KDOT processes federal funds for counties with 90 percent reimbursement of expenditures.\n\n\"It's for any road maintenance project,\" road and bridge supervisor Chris O'Neal said. \"Even if a road grader goes out, I can turn that invoice into the state and we will be reimbursed 90 percent. We have $525,317 built up over the past 3 years. If we don't use the 2014 money, it will fall off.\"\n\nSince the county has not accessed the funds, KDOT granted an extension to apply for 2014's funds, about $220,000.\n\nIn legal counsel, the commission passed a resolution declaring the Bull Thistle a noxious weed in Ford County.\n\n\"The significance of that is the other statutes that apply in regard to control and eradication, those that deal with noxious weeds, will now apply to Bull Thistle,\" county counselor Glenn Kerbs said.\n\nIn other business, the commissioners approved flu vaccinations for Ford County employees to be charged to each department with approval from department head, nominating Sheriff Bill Carr to the Kansas County Association Multiline Pool Board of Trustees that handles the county's insurance and Sam Ragsdale as an additional signer on a county bank account."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "020787f58d8c99105109383bf48238e1853049e615dfd6d1ac6984ea8551a9a9-0",
+        "idx": 0,
+        "hash": "75f510ebf9d65211f9df36b3e6315b3d859d8735ee65f925a87ec558bccd4b92"
+      },
+      "content_original": "By Gloria Tucker / @gloria\\_dcglobe\n\nFord County tax rate will increase 2 mills for 2017 from a total tax rate of 43.020 in 2016 to 45.940.\n\nFord County Commission held its public hearing and approved the proposed budget with a budget authority of $17,520,451 in general expenditures at its meeting Tuesday.\n\nIn other business, the county commission approved a bridge inspection agreement for $16,626 and landfill truck for $23,490.\n\nAccording to county engineer Jon Halbgewachs, every 2 years inspections of bridges at least 20 ft in length throughout the county are required. The agreement will cover 163 bridges in Ford County by February 2017 and include photographs for Google Earth.\n\nThe commissioners also approved participation in Kansas Department of Transportation's Federal Fund Exchange.\n\nIn the program, KDOT processes federal funds for counties with 90 percent reimbursement of expenditures.",
+      "content": "By Gloria Tucker / @gloria\\_dcglobe\n\nFord County tax rate will increase 2 mills for 2017 from a total tax rate of 43.020 in 2016 to 45.940.\n\nFord County Commission held its public hearing and approved the proposed budget with a budget authority of $17,520,451 in general expenditures at its meeting Tuesday.\n\nIn other business, the county commission approved a bridge inspection agreement for $16,626 and landfill truck for $23,490.\n\nAccording to county engineer Jon Halbgewachs, every 2 years inspections of bridges at least 20 ft in length throughout the county are required. The agreement will cover 163 bridges in Ford County by February 2017 and include photographs for Google Earth.\n\nThe commissioners also approved participation in Kansas Department of Transportation's Federal Fund Exchange.\n\nIn the program, KDOT processes federal funds for counties with 90 percent reimbursement of expenditures."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "020787f58d8c99105109383bf48238e1853049e615dfd6d1ac6984ea8551a9a9-2",
+        "idx": 2,
+        "hash": "fac2c8f2ddce1894f955fb377eb3d6274514078d7a41034ae5b01e74fe411a73"
+      },
+      "content_original": "If accepted on the board, Carr is eligible to serve as a trustee for a three year term beginning Jan. 1 2017. Carr said he considered joining the board because western Kansas needs representation.\n\nBills of $247,927 were paid.\n\nIn a special meeting in August, the commission approved bond refinancing for the Western State Bank Expo Center.\n\nThe county issued new bonds at a lower interest rate, lowered the debt payment without extending the maturity date and locked the interest rate at 2.22 percent.\n\n\"The final result was a savings of a minimum of $389,000,\" county administrator J.D. Gilbert said in a press release. \"Ford County will continue to be proactive in monitoring any outstanding debt and continue to look for opportunities to create savings through responsible financial management, such as refinancing options.\"\n\n*This article originally appeared on Dodge City Daily Globe: [County raises tax rate](https://www.dodgeglobe.com/story/news/local/2016/09/07/county-raises-tax-rate/25502432007/)*",
+      "content": "If accepted on the board, Carr is eligible to serve as a trustee for a three year term beginning Jan. 1 2017. Carr said he considered joining the board because western Kansas needs representation.\n\nBills of $247,927 were paid.\n\nIn a special meeting in August, the commission approved bond refinancing for the Western State Bank Expo Center.\n\nThe county issued new bonds at a lower interest rate, lowered the debt payment without extending the maturity date and locked the interest rate at 2.22 percent.\n\n\"The final result was a savings of a minimum of $389,000,\" county administrator J.D. Gilbert said in a press release. \"Ford County will continue to be proactive in monitoring any outstanding debt and continue to look for opportunities to create savings through responsible financial management, such as refinancing options.\"\n\n*This article originally appeared on Dodge City Daily Globe: [County raises tax rate](https://www.dodgeglobe.com/story/news/local/2016/09/07/county-raises-tax-rate/25502432007/)*"
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "fd68e8de-7efa-42f8-9929-180f7f3c341a",
+      "timestamp": "2025-10-25T14:17:07.746000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "17de1225-a28d-4b22-85f6-6de667ccb859",
+      "version": "2.3",
+      "date": "2025-10-25",
+      "chunking": {
+        "chunks_count": 3
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 3,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "020787f58d8c99105109383bf48238e1853049e615dfd6d1ac6984ea8551a9a9"
+    }
+  ],
+  "raw_content": "{\n  \"id\" : 65625,\n  \"date\" : \"2016-09-07T06:01:00\",\n  \"date_gmt\" : \"2016-09-07T12:01:00\",\n  \"modified_gmt\" : \"2016-09-07T12:01:00\",\n  \"link\" : \"https://www.dodgeglobe.com/county-raises-tax-rate/\",\n  \"title\" : {\n    \"rendered\" : \"County raises tax rate\"\n  },\n  \"content\" : {\n    \"rendered\" : \"<p class=\\\"author\\\">By Gloria Tucker / @gloria_dcglobe</p>\\n<p>Ford County tax rate will increase 2 mills for 2017 from a total tax rate of 43.020 in 2016 to 45.940.</p>\\n<p>Ford County Commission held its public hearing and approved the proposed budget with a budget authority of $17,520,451 in general expenditures at its meeting Tuesday.</p>\\n<p>In other business, the county commission approved a bridge inspection agreement for $16,626 and landfill truck for $23,490.</p>\\n<p>According to county engineer Jon Halbgewachs, every 2 years inspections of bridges at least 20 ft in length throughout the county are required. The agreement will cover 163 bridges in Ford County by February 2017 and include photographs for Google Earth.</p>\\n<p>The commissioners also approved participation in Kansas Department of Transportation&#039;s Federal Fund Exchange.</p>\\n<p>In the program, KDOT processes federal funds for counties with 90 percent reimbursement of expenditures.</p>\\n<p>&#034;It&#039;s for any road maintenance project,&#034; road and bridge supervisor Chris O&#039;Neal said. &#034;Even if a road grader goes out, I can turn that invoice into the state and we will be reimbursed 90 percent. We have $525,317 built up over the past 3 years. If we don&#039;t use the 2014 money, it will fall off.&#034;</p>\\n<p>Since the county has not accessed the funds, KDOT granted an extension to apply for 2014&#039;s funds, about $220,000.</p>\\n<p>In legal counsel, the commission passed a resolution declaring the Bull Thistle a noxious weed in Ford County.</p>\\n<p>&#034;The significance of that is the other statutes that apply in regard to control and eradication, those that deal with noxious weeds, will now apply to Bull Thistle,&#034; county counselor Glenn Kerbs said.</p>\\n<p>In other business, the commissioners approved flu vaccinations for Ford County employees to be charged to each department with approval from department head, nominating Sheriff Bill Carr to the Kansas County Association Multiline Pool Board of Trustees that handles the county&#039;s insurance and Sam Ragsdale as an additional signer on a county bank account.</p>\\n<p>If accepted on the board, Carr is eligible to serve as a trustee for a three year term beginning Jan. 1 2017. Carr said he considered joining the board because western Kansas needs representation.</p>\\n<p>Bills of $247,927 were paid.</p>\\n<p>In a special meeting in August, the commission approved bond refinancing for the Western State Bank Expo Center.</p>\\n<p>The county issued new bonds at a lower interest rate, lowered the debt payment without extending the maturity date and locked the interest rate at 2.22 percent.</p>\\n<p>&#034;The final result was a savings of a minimum of $389,000,&#034; county administrator J.D. Gilbert said in a press release. &#034;Ford County will continue to be proactive in monitoring any outstanding debt and continue to look for opportunities to create savings through responsible financial management, such as refinancing options.&#034;</p>\\n<p><em>This article originally appeared on Dodge City Daily Globe: <a href=\\\"https://www.dodgeglobe.com/story/news/local/2016/09/07/county-raises-tax-rate/25502432007/\\\">County raises tax rate</a></em></p>\\n\"\n  },\n  \"author\" : 5,\n  \"featured_media\" : 0,\n  \"class_list\" : [ \"post-65625\", \"post\", \"type-post\", \"status-publish\", \"format-standard\", \"hentry\", \"category-news\" ]\n}",
+  "markdown_content": "By Gloria Tucker / @gloria\\_dcglobe\n\nFord County tax rate will increase 2 mills for 2017 from a total tax rate of 43.020 in 2016 to 45.940.\n\nFord County Commission held its public hearing and approved the proposed budget with a budget authority of $17,520,451 in general expenditures at its meeting Tuesday.\n\nIn other business, the county commission approved a bridge inspection agreement for $16,626 and landfill truck for $23,490.\n\nAccording to county engineer Jon Halbgewachs, every 2 years inspections of bridges at least 20 ft in length throughout the county are required. The agreement will cover 163 bridges in Ford County by February 2017 and include photographs for Google Earth.\n\nThe commissioners also approved participation in Kansas Department of Transportation's Federal Fund Exchange.\n\nIn the program, KDOT processes federal funds for counties with 90 percent reimbursement of expenditures.\n\n\"It's for any road maintenance project,\" road and bridge supervisor Chris O'Neal said. \"Even if a road grader goes out, I can turn that invoice into the state and we will be reimbursed 90 percent. We have $525,317 built up over the past 3 years. If we don't use the 2014 money, it will fall off.\"\n\nSince the county has not accessed the funds, KDOT granted an extension to apply for 2014's funds, about $220,000.\n\nIn legal counsel, the commission passed a resolution declaring the Bull Thistle a noxious weed in Ford County.\n\n\"The significance of that is the other statutes that apply in regard to control and eradication, those that deal with noxious weeds, will now apply to Bull Thistle,\" county counselor Glenn Kerbs said.\n\nIn other business, the commissioners approved flu vaccinations for Ford County employees to be charged to each department with approval from department head, nominating Sheriff Bill Carr to the Kansas County Association Multiline Pool Board of Trustees that handles the county's insurance and Sam Ragsdale as an additional signer on a county bank account.\n\nIf accepted on the board, Carr is eligible to serve as a trustee for a three year term beginning Jan. 1 2017. Carr said he considered joining the board because western Kansas needs representation.\n\nBills of $247,927 were paid.\n\nIn a special meeting in August, the commission approved bond refinancing for the Western State Bank Expo Center.\n\nThe county issued new bonds at a lower interest rate, lowered the debt payment without extending the maturity date and locked the interest rate at 2.22 percent.\n\n\"The final result was a savings of a minimum of $389,000,\" county administrator J.D. Gilbert said in a press release. \"Ford County will continue to be proactive in monitoring any outstanding debt and continue to look for opportunities to create savings through responsible financial management, such as refinancing options.\"\n\n*This article originally appeared on Dodge City Daily Globe: [County raises tax rate](https://www.dodgeglobe.com/story/news/local/2016/09/07/county-raises-tax-rate/25502432007/)*"
+}

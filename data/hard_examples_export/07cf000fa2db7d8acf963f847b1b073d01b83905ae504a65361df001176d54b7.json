@@ -1,0 +1,219 @@
+{
+  "document_id": "07cf000fa2db7d8acf963f847b1b073d01b83905ae504a65361df001176d54b7",
+  "document_metadata": {
+    "id": "07cf000fa2db7d8acf963f847b1b073d01b83905ae504a65361df001176d54b7",
+    "date": 20140811,
+    "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "image": "https://images-prod.dazeddigital.com/1792/207-137-1792-1195/azure/dazed-prod/1080/5/1085942.jpg",
+    "date_year": 2014,
+    "date_month": 8,
+    "crawl_date": "2026-02-05T11:05:37.831570609Z",
+    "date_day": 11,
+    "title": "Soulland SS15",
+    "url": "https://www.dazeddigital.com/fashion/article/21214/1/soulland-ss15",
+    "url2": "https://www.dazeddigital.com/fashion/article/21214/1/soulland-ss15",
+    "domain": "www.dazeddigital.com",
+    "lang": "unknown",
+    "published_date": "2014-08-11T17:12:00Z",
+    "authors": [
+      "Stuart Brumfitt"
+    ],
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2026-02-05T11:05:37.831000",
+    "published_date_parsed": "2014-08-11T17:12:00",
+    "rawType": "xml",
+    "publisherId": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "documentId": "07cf000fa2db7d8acf963f847b1b073d01b83905ae504a65361df001176d54b7",
+    "rawcontent_created": "2026-02-05T11:06:54.238000",
+    "source": "Dazed",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=www.dazeddigital.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=www.dazeddigital.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=www.dazeddigital.com",
+    "first_words": "Soulland's designer duo put on a dinner party presentation at Copenhagen Fashion Week to showcase their art deco inspired collection",
+    "has_chunks": true,
+    "has_denoised_markdown": true
+  },
+  "publisher_metadata": {
+    "id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "group_id": "c64289fd-a8ce-4f8b-8375-f1d15bc04f6d",
+    "name": "Dazed",
+    "domain": "dazeddigital.com",
+    "location": "Global",
+    "country": "Global",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "Soulland SS15",
+    "document_authors_txt": [
+      "Stuart Brumfitt"
+    ],
+    "hash": "30d649dd1a2466e4b099a4a2f6a056c6189b1522631b38c45dae9a07315f85b3"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2026-02-05",
+    "chunking": {
+      "service": "PrtDocumentInference",
+      "chunkingStrategy": "llm_semantic_batch",
+      "llmPromptVersion": "v1.0.3",
+      "batchId": "a8e920c1-80d4-4960-953b-20540250f26c",
+      "chunkingRequestId": "4a009a30-a214-412a-ab37-cb50b084d136",
+      "totalChunks": 1,
+      "processingTime": 2854110,
+      "processingTimestamp": "2026-02-05T11:57:27.503366+00:00",
+      "tokenUsage": {
+        "total_tokens": 1148,
+        "prompt_tokens": 1120,
+        "completion_tokens": 28,
+        "model_version": "gemini-2.5-flash-lite"
+      },
+      "wasRepaired": false,
+      "repairMetadata": null,
+      "has_existing_chunks": true,
+      "chunks_count": 1
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "07cf000fa2db7d8acf963f847b1b073d01b83905ae504a65361df001176d54b7-0",
+        "idx": 0,
+        "hash": "300c961e3c5afdf3007f70bf4d1b5ad1929e1c965b8d4fe24d8a833b03b16e0d",
+        "sim_hash": "3123449890081411972"
+      },
+      "content_original": "Soulland's designer duo put on a dinner party presentation at Copenhagen Fashion Week to showcase their art deco inspired collection",
+      "content": "Soulland's designer duo put on a dinner party presentation at Copenhagen Fashion Week to showcase their art deco inspired collection"
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "3fc2740a-ef52-43e8-9cef-c36da3f37e0c",
+      "timestamp": "2026-02-05T11:07:04.917000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "strategy": "markdown",
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "07cf000fa2db7d8acf963f847b1b073d01b83905ae504a65361df001176d54b7"
+    },
+    {
+      "_id": "504bc58b-5cc8-4dd2-b8e7-55a067598b3b",
+      "timestamp": "2025-10-24T15:48:00.663000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2025-10-24",
+      "chunking": {
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "07cf000fa2db7d8acf963f847b1b073d01b83905ae504a65361df001176d54b7"
+    },
+    {
+      "_id": "f47e97c3-bbab-48f2-95e8-a75d312c4263",
+      "timestamp": "2026-02-05T11:57:34.211000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.3",
+        "batchId": "a8e920c1-80d4-4960-953b-20540250f26c",
+        "chunkingRequestId": "4a009a30-a214-412a-ab37-cb50b084d136",
+        "totalChunks": 1,
+        "processingTime": 2854110,
+        "processingTimestamp": "2026-02-05T11:57:27.503366+00:00",
+        "tokenUsage": {
+          "total_tokens": 1148,
+          "prompt_tokens": 1120,
+          "completion_tokens": 28,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "wasRepaired": false,
+        "repairMetadata": null,
+        "has_existing_chunks": true,
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "07cf000fa2db7d8acf963f847b1b073d01b83905ae504a65361df001176d54b7"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Dazed</title>\r\n    <link>https://dazeddigital.com/feed/rss/gist</link>\r\n    <description>Youth and pop culture provocateurs since 1991. Fearless fashion, music, art, film, politics and ideas from today's bleeding edge. Declare Independence.</description>\r\n    <item>\r\n      <title>Soulland SS15</title>\r\n      <link>https://www.dazeddigital.com/fashion/article/21214/1/soulland-ss15</link>\r\n      <description>Soulland's designer duo put on a dinner party presentation at Copenhagen Fashion Week to showcase their art deco inspired collection</description>\r\n      <pubDate>Mon, 11 Aug 2014 17:12:00 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">https://www.dazeddigital.com/fashion/article/21214/1/soulland-ss15</guid>\r\n      <dc:creator>Stuart Brumfitt</dc:creator>\r\n      <dc:date>2014-08-11T17:12:00Z</dc:date>\r\n      <media:credit scheme=\"urn:ebu\">Photography Abdellah Ihadian</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Abdellah Ihadian</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Abdellah Ihadian</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Abdellah Ihadian</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Abdellah Ihadian</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Abdellah Ihadian</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Abdellah Ihadian</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Abdellah Ihadian</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Abdellah Ihadian</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Abdellah Ihadian</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Abdellah Ihadian</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Abdellah Ihadian</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Abdellah Ihadian</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Abdellah Ihadian</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Abdellah Ihadian</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Abdellah Ihadian</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Abdellah Ihadian</media:credit>\r\n      <media:keywords>Copenhagen Fashion Week, Copenhagen</media:keywords>\r\n      <media:text type=\"html\">Soulland\u00a0sure has soul. Rather than a faceless fashion show, partners Silas Adler and Jacob Kamp-Berliner put on an intimate dinner party (after a private hat-making session and a kick-back boat trip) with the \u201cfamily\u201d to showcase their SS15\u00a0menswear collection.\r\nBetween courses at the Galerie Andersen Contemporary in Copenhagen, there were eight looks, all displaying the growing range of this sports-luxe brand. Classic jogging bottoms and college coats were still present, but the pair introduced denim for the first time and used goat leather and lamb suede on chic zip jackets (the cobalt blue really popped).\u00a0\r\nThe main seasonal influence was art deco, because the design period \u201cfrom the end of WWI to the beginning of WWII is seen as a venthole for the youth.\u201d Key buildings from that period are depicted throughout the collection, with collages on button-down Oxford shirts, both single-coloured and striped. And prints came courtesy of a collab with the duo\u2019s artist friend FOS (who also curated a selection of art for London\u2019s C\u00e9line\u00a0store) whose work is inspired by the 30s and 40s. They appeared on floral-camo male twinsets, the \u201cMiami, cocaine-inspired short-sleeve shirt\u201d and most impressively on the navy silk robe and pyjamas, which one famous Danish fashion director (who shall remain nameless) has already asked to borrow for his Grindr profile pic.\r\nMore broadly, Adler told us, \u201cThis is about Copenhagen. The city is small and at the end of the world \u2013 after this you have Norway, then the world ends. Maybe this is not essential Copenhagen [style wise], but this is something that Copenhagen can also be.\u201d</media:text>\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1792/207-137-1792-1195/azure/dazed-prod/1080/5/1085942.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1767/232-155-1767-1177/azure/dazed-prod/1080/5/1085944.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1999/0-0-1999-1333/azure/dazed-prod/1080/5/1085945.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1999/0-0-1999-1333/azure/dazed-prod/1080/5/1085946.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1999/0-0-1999-1333/azure/dazed-prod/1080/5/1085943.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1999/0-0-1999-1333/azure/dazed-prod/1080/5/1085947.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1999/0-0-1999-1333/azure/dazed-prod/1080/5/1085949.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1732/0-174-1732-1155/azure/dazed-prod/1080/5/1085950.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1732/0-267-1732-1155/azure/dazed-prod/1080/5/1085951.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1732/0-401-1732-1155/azure/dazed-prod/1080/5/1085952.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1732/0-390-1732-1155/azure/dazed-prod/1080/5/1085953.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1732/0-479-1732-1155/azure/dazed-prod/1080/5/1085954.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1732/0-334-1732-1155/azure/dazed-prod/1080/5/1085955.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1732/0-304-1732-1155/azure/dazed-prod/1080/5/1085956.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1732/0-319-1732-1155/azure/dazed-prod/1080/5/1085957.jpg\" />\r\n      <media:content type=\"image/jpeg\" isDefault=\"true\" url=\"https://images-prod.dazeddigital.com/1950/azure/dazed-prod/1080/5/1085960.jpeg\" />\r\n      <media:content type=\"image/jpeg\" url=\"https://images-prod.dazeddigital.com/1950/0-0-1950-1300/azure/dazed-prod/1080/5/1085961.jpeg\" />\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "Soulland's designer duo put on a dinner party presentation at Copenhagen Fashion Week to showcase their art deco inspired collection"
+}

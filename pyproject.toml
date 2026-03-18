@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "prt-label-data"
+version = "0.1.0"
+description = "Label data service for collecting and managing ground truth labels"
+authors = ["ProRata <engineering@prorata.ai>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = ">=0.104"
+uvicorn = ">=0.24"
+python-dotenv = ">=1.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0"
+pytest-asyncio = "^0.23"
+httpx = "^0.27"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

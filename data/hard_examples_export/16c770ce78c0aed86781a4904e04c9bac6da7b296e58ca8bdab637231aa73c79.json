@@ -1,0 +1,161 @@
+{
+  "document_id": "16c770ce78c0aed86781a4904e04c9bac6da7b296e58ca8bdab637231aa73c79",
+  "document_metadata": {
+    "id": "16c770ce78c0aed86781a4904e04c9bac6da7b296e58ca8bdab637231aa73c79",
+    "date": 20131205,
+    "publisher_id": "17de1225-a28d-4b22-85f6-6de667ccb859",
+    "date_year": 2013,
+    "date_month": 12,
+    "crawl_date": "2025-10-25T18:12:19.036693639Z",
+    "date_day": 5,
+    "title": "Helping those who would hurt themselves",
+    "url": "https://www.dodgeglobe.com/helping-those-who-would-hurt-themselves/",
+    "url2": "https://www.dodgeglobe.com/helping-those-who-would-hurt-themselves/",
+    "domain": "dodgeglobe.com",
+    "lang": "unknown",
+    "published_date": "2013-12-05T11:00:00Z",
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "17de1225-a28d-4b22-85f6-6de667ccb859",
+    "skip_servicebusmessage_for_ingestion": false,
+    "rawType": "json",
+    "publisherId": "17de1225-a28d-4b22-85f6-6de667ccb859",
+    "documentId": "16c770ce78c0aed86781a4904e04c9bac6da7b296e58ca8bdab637231aa73c79",
+    "rawcontent_created": "2025-10-25T18:12:19.308000",
+    "source": "Dodge City Daily Globe",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=dodgeglobe.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=dodgeglobe.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=dodgeglobe.com",
+    "first_words": "Within a few months in 2012, more people had killed themselves in Ford County than in several prior years combined. That year, more people died in the county by their own hands than by auto collisions. \"It was like a plague hit Dodge City. It was scary. It was scary to me that we couldn't do anything to get a grasp on it,\" said Elaine Hart, who organized a candlelight prayer vigil in the wake of the deaths. That vigil has grown into the Yellow Ribbon Project, a network of mental health providers, support groups and helpers with"
+  },
+  "publisher_metadata": {
+    "id": "17de1225-a28d-4b22-85f6-6de667ccb859",
+    "group_id": "a81cba48-89e1-4e2b-b6fd-753d6773d5a8",
+    "name": "Dodge City Daily Globe",
+    "domain": "dodgeglobe.com",
+    "location": "United States",
+    "country": "United States",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": [
+      "186d72ec-3dbe-4c75-97a5-578fb5e2fd06"
+    ]
+  },
+  "content_metadata": {
+    "document_title_txt": "Helping those who would hurt themselves",
+    "document_authors_txt": [],
+    "hash": "158d33fa65d317acbdf1540f7d46fd95865c1c9cc0a42246a31104901a2f22f5"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2025-10-25",
+    "chunking": {
+      "chunks_count": 5
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "16c770ce78c0aed86781a4904e04c9bac6da7b296e58ca8bdab637231aa73c79-0",
+        "idx": 0,
+        "hash": "44ba15b889722ea5c9399985235f31af3c44c3042b81fa5f069c0d77a33a5a9a"
+      },
+      "content_original": "By Christopher Guinn  \nDodge City Daily Globe\n\nWithin a few months in 2012, more people had killed themselves in Ford County than in several prior years combined. That year, more people died in the county by their own hands than by auto collisions.\n\n\"It was like a plague hit Dodge City. It was scary. It was scary to me that we couldn't do anything to get a grasp on it,\" said Elaine Hart, who organized a candlelight prayer vigil in the wake of the deaths.\n\nThat vigil has grown into the Yellow Ribbon Project, a network of mental health providers, support groups and helpers with the goals of preventing self-harm and attending to those left guilt-wracked and confused in the aftermath of a suicide.\n\nThis Saturday, Dec. 7, the group is hosting its first annual suicide prevention event at the Dodge City Civic Center. The day will start with a 5K run followed by speakers, presentations, booths by support groups and mental health providers and a performance by the band Ignite.\n\nAnyone can train to become a companion, a listener and friend for those who are thinking of hurting themselves, Hart said. The project will be offering this training at the Saturday event.",
+      "content": "By Christopher Guinn  \nDodge City Daily Globe\n\nWithin a few months in 2012, more people had killed themselves in Ford County than in several prior years combined. That year, more people died in the county by their own hands than by auto collisions.\n\n\"It was like a plague hit Dodge City. It was scary. It was scary to me that we couldn't do anything to get a grasp on it,\" said Elaine Hart, who organized a candlelight prayer vigil in the wake of the deaths.\n\nThat vigil has grown into the Yellow Ribbon Project, a network of mental health providers, support groups and helpers with the goals of preventing self-harm and attending to those left guilt-wracked and confused in the aftermath of a suicide.\n\nThis Saturday, Dec. 7, the group is hosting its first annual suicide prevention event at the Dodge City Civic Center. The day will start with a 5K run followed by speakers, presentations, booths by support groups and mental health providers and a performance by the band Ignite.\n\nAnyone can train to become a companion, a listener and friend for those who are thinking of hurting themselves, Hart said. The project will be offering this training at the Saturday event."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "16c770ce78c0aed86781a4904e04c9bac6da7b296e58ca8bdab637231aa73c79-1",
+        "idx": 1,
+        "hash": "2990d449e742db5250da98afba22f6d9b7b97badfeab74ba39b106e3447fa283"
+      },
+      "content_original": "Over the last year Hart has personally spoken to seven people and directed them to some of the free or reduced-cost mental health services the project has gathered.\n\n\"One night I was on the phone with a gentleman for more than two hours. I think he just needed someone to talk to. So we talked,\" Hart said.\n\n\"Don't ever be afraid to talk about it,\" she said. \"One of my mottos is that 'It's always OK to say you're not OK, and it's always OK to ask.' People think the word 'suicide' is going to put the idea of suicide in their head, but that can't be further from the truth. \u2026 If you don't ask, you don\u2019t know. Nobody walks around with a light over their head that says 'I'm thinking of hurting myself.'\"\n\nAt one support group, a mother of a suicide victim says, \"I never asked, I never asked,\" Hart said. \"And she lives with that guilt. Not that anyone should feel guilty of losing someone to suicide, but we do, it's something we can't overcome.\"",
+      "content": "Over the last year Hart has personally spoken to seven people and directed them to some of the free or reduced-cost mental health services the project has gathered.\n\n\"One night I was on the phone with a gentleman for more than two hours. I think he just needed someone to talk to. So we talked,\" Hart said.\n\n\"Don't ever be afraid to talk about it,\" she said. \"One of my mottos is that 'It's always OK to say you're not OK, and it's always OK to ask.' People think the word 'suicide' is going to put the idea of suicide in their head, but that can't be further from the truth. \u2026 If you don't ask, you don\u2019t know. Nobody walks around with a light over their head that says 'I'm thinking of hurting myself.'\"\n\nAt one support group, a mother of a suicide victim says, \"I never asked, I never asked,\" Hart said. \"And she lives with that guilt. Not that anyone should feel guilty of losing someone to suicide, but we do, it's something we can't overcome.\""
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "16c770ce78c0aed86781a4904e04c9bac6da7b296e58ca8bdab637231aa73c79-2",
+        "idx": 2,
+        "hash": "beb831a87c1c406a373eac9f87dcf8677ab7234e413b17f95f93bf691166d695"
+      },
+      "content_original": "On a white t-shirt pulled over her winter clothes is a black and white photo of a boy, her nephew. At the corner of the picture Hart has placed a yellow plastic pin shaped like ribbon. Below the picture is a pair of dates: 1993, 2008. He was 15.\n\nTimothy never met his father, Tim. Tim ended his life while his wife was pregnant.\n\n\"Suicide became such an everyday word in our family,\" Hart said. \"My sister, she's my hero. How she gets up every day with a smile, I have no idea.\"\n\nTimothy had attempted suicide when he was 9, Hart said. \"Due to the stigma, he was never treated normal\" by his peers as he grew older. \"It played a big part in his depression.\"\n\nTimothy enjoyed playing video games, and later they found out he had been bullied more than he let on. At first they liked having something to blame, some catalyst that could be pointed to for why he wasn't there anymore, Hart said.\n\n\u00a0But, \"the day he decided to complete suicide had nothing to do with school, just some way he felt that day,\" Hart said.",
+      "content": "On a white t-shirt pulled over her winter clothes is a black and white photo of a boy, her nephew. At the corner of the picture Hart has placed a yellow plastic pin shaped like ribbon. Below the picture is a pair of dates: 1993, 2008. He was 15.\n\nTimothy never met his father, Tim. Tim ended his life while his wife was pregnant.\n\n\"Suicide became such an everyday word in our family,\" Hart said. \"My sister, she's my hero. How she gets up every day with a smile, I have no idea.\"\n\nTimothy had attempted suicide when he was 9, Hart said. \"Due to the stigma, he was never treated normal\" by his peers as he grew older. \"It played a big part in his depression.\"\n\nTimothy enjoyed playing video games, and later they found out he had been bullied more than he let on. At first they liked having something to blame, some catalyst that could be pointed to for why he wasn't there anymore, Hart said.\n\n\u00a0But, \"the day he decided to complete suicide had nothing to do with school, just some way he felt that day,\" Hart said."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "16c770ce78c0aed86781a4904e04c9bac6da7b296e58ca8bdab637231aa73c79-3",
+        "idx": 3,
+        "hash": "db79356d96266316ecd721614f3f796ef30dc855cfe5b7abd882c0c0ac19cf5c"
+      },
+      "content_original": "Even if the bullying doesn't drive teenagers to suicide, it builds on the stigma attached to mental illness, Hart said, and it makes the victims of that bullying ashamed.\n\n\"There's nothing to be ashamed of,\" Hart said. \"The shame is in hiding it.\"\n\nThe number of suicides in Kansas increased by more than 30 percent, to 505, from 2011 to 2012, according to the state's report. For Kansans between the ages of 15 and 44, suicide was the second most common cause of death in 2012, after unintended injuries.\n\nMore than four-fifths of suicide victims are male, and the median age is in the mid-40s.\n\nIn 2012, Ford County had one of the highest suicide rates in the state, nearly doubling the average, according to the Department of Health and Environment 2012 vital statistics report. The 17th largest county by population in Kansas had 11 documented suicides, the seventh highest number in the state.\n\nWith every suicide is a web of destruction, Hart said. Through the Yellow Ribbon Project the group hopes to help those other victims of suicide.",
+      "content": "Even if the bullying doesn't drive teenagers to suicide, it builds on the stigma attached to mental illness, Hart said, and it makes the victims of that bullying ashamed.\n\n\"There's nothing to be ashamed of,\" Hart said. \"The shame is in hiding it.\"\n\nThe number of suicides in Kansas increased by more than 30 percent, to 505, from 2011 to 2012, according to the state's report. For Kansans between the ages of 15 and 44, suicide was the second most common cause of death in 2012, after unintended injuries.\n\nMore than four-fifths of suicide victims are male, and the median age is in the mid-40s.\n\nIn 2012, Ford County had one of the highest suicide rates in the state, nearly doubling the average, according to the Department of Health and Environment 2012 vital statistics report. The 17th largest county by population in Kansas had 11 documented suicides, the seventh highest number in the state.\n\nWith every suicide is a web of destruction, Hart said. Through the Yellow Ribbon Project the group hopes to help those other victims of suicide."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "16c770ce78c0aed86781a4904e04c9bac6da7b296e58ca8bdab637231aa73c79-4",
+        "idx": 4,
+        "hash": "bbb5f7d7076c1a54aaf6161d13b2a434996e023dbb2039bd6e97af29f58b8e68"
+      },
+      "content_original": "\"Survivors of suicide need more support from our community,\" Hart said. \"We need to form more support groups through churches, or whatever means possible. They have no one to turn to for support, no one to reach out to. When you're alone with your thoughts, it's a dark place to be.\"\n\nOn Saturday the group encourages those survivors to place a memento on the memorial wall. Afterward, the wall will be on display at the Carnegie Art Center.\n\n\"People don't need to say come and say anything. They can just put the mementos of their loved ones on the wall,\" Hart said.\n\nThe Yellow Ribbon Project is hoping to raise $2,500 at the event, which will go toward providing mental health care.\n\nFor more information on the Yellow Ribbon Project, or the event Saturday, contact Elaine Hart at 719-778-8892.\n\n*This article originally appeared on Dodge City Daily Globe: [Helping those who would hurt themselves](https://www.dodgeglobe.com/story/news/2013/12/05/helping-those-who-would-hurt/41653436007/)*",
+      "content": "\"Survivors of suicide need more support from our community,\" Hart said. \"We need to form more support groups through churches, or whatever means possible. They have no one to turn to for support, no one to reach out to. When you're alone with your thoughts, it's a dark place to be.\"\n\nOn Saturday the group encourages those survivors to place a memento on the memorial wall. Afterward, the wall will be on display at the Carnegie Art Center.\n\n\"People don't need to say come and say anything. They can just put the mementos of their loved ones on the wall,\" Hart said.\n\nThe Yellow Ribbon Project is hoping to raise $2,500 at the event, which will go toward providing mental health care.\n\nFor more information on the Yellow Ribbon Project, or the event Saturday, contact Elaine Hart at 719-778-8892.\n\n*This article originally appeared on Dodge City Daily Globe: [Helping those who would hurt themselves](https://www.dodgeglobe.com/story/news/2013/12/05/helping-those-who-would-hurt/41653436007/)*"
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "caddd307-ef41-4f1f-863a-01422677dcf2",
+      "timestamp": "2025-10-25T18:12:27.992000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "17de1225-a28d-4b22-85f6-6de667ccb859",
+      "version": "2.3",
+      "date": "2025-10-25",
+      "chunking": {
+        "chunks_count": 5
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 5,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "16c770ce78c0aed86781a4904e04c9bac6da7b296e58ca8bdab637231aa73c79"
+    }
+  ],
+  "raw_content": "{\n  \"id\" : 63561,\n  \"date\" : \"2013-12-05T11:00:00\",\n  \"date_gmt\" : \"2013-12-05T17:00:00\",\n  \"modified_gmt\" : \"2013-12-05T17:00:00\",\n  \"link\" : \"https://www.dodgeglobe.com/helping-those-who-would-hurt-themselves/\",\n  \"title\" : {\n    \"rendered\" : \"Helping those who would hurt themselves\"\n  },\n  \"content\" : {\n    \"rendered\" : \"<p class=\\\"author\\\">By Christopher Guinn<br />\\nDodge City Daily Globe</p>\\n<p>Within a few months in 2012, more people had killed themselves in Ford County than in several prior years combined. That year, more people died in the county by their own hands than by auto collisions.</p>\\n<p>&#034;It was like a plague hit Dodge City. It was scary. It was scary to me that we couldn&#039;t do anything to get a grasp on it,&#034; said Elaine Hart, who organized a candlelight prayer vigil in the wake of the deaths.</p>\\n<p>That vigil has grown into the Yellow Ribbon Project, a network of mental health providers, support groups and helpers with the goals of preventing self-harm and attending to those left guilt-wracked and confused in the aftermath of a suicide.</p>\\n<p>This Saturday, Dec. 7, the group is hosting its first annual suicide prevention event at the Dodge City Civic Center. The day will start with a 5K run followed by speakers, presentations, booths by support groups and mental health providers and a performance by the band Ignite.</p>\\n<p>Anyone can train to become a companion, a listener and friend for those who are thinking of hurting themselves, Hart said. The project will be offering this training at the Saturday event.</p>\\n<p>Over the last year Hart has personally spoken to seven people and directed them to some of the free or reduced-cost mental health services the project has gathered.</p>\\n<p>&#034;One night I was on the phone with a gentleman for more than two hours. I think he just needed someone to talk to. So we talked,&#034; Hart said.</p>\\n<p>&#034;Don&#039;t ever be afraid to talk about it,&#034; she said. &#034;One of my mottos is that &#039;It&#039;s always OK to say you&#039;re not OK, and it&#039;s always OK to ask.&#039; People think the word &#039;suicide&#039; is going to put the idea of suicide in their head, but that can&#039;t be further from the truth. &#8230; If you don&#039;t ask, you don\u2019t know. Nobody walks around with a light over their head that says &#039;I&#039;m thinking of hurting myself.&#039;&#034;</p>\\n<p>At one support group, a mother of a suicide victim says, &#034;I never asked, I never asked,&#034; Hart said. &#034;And she lives with that guilt. Not that anyone should feel guilty of losing someone to suicide, but we do, it&#039;s something we can&#039;t overcome.&#034;</p>\\n<p>On a white t-shirt pulled over her winter clothes is a black and white photo of a boy, her nephew. At the corner of the picture Hart has placed a yellow plastic pin shaped like ribbon. Below the picture is a pair of dates: 1993, 2008. He was 15.</p>\\n<p>Timothy never met his father, Tim. Tim ended his life while his wife was pregnant.</p>\\n<p>&#034;Suicide became such an everyday word in our family,&#034; Hart said. &#034;My sister, she&#039;s my hero. How she gets up every day with a smile, I have no idea.&#034;</p>\\n<p>Timothy had attempted suicide when he was 9, Hart said. &#034;Due to the stigma, he was never treated normal&#034; by his peers as he grew older. &#034;It played a big part in his depression.&#034;</p>\\n<p>Timothy enjoyed playing video games, and later they found out he had been bullied more than he let on. At first they liked having something to blame, some catalyst that could be pointed to for why he wasn&#039;t there anymore, Hart said.</p>\\n<p>\u00a0But, &#034;the day he decided to complete suicide had nothing to do with school, just some way he felt that day,&#034; Hart said.</p>\\n<p>Even if the bullying doesn&#039;t drive teenagers to suicide, it builds on the stigma attached to mental illness, Hart said, and it makes the victims of that bullying ashamed.</p>\\n<p>&#034;There&#039;s nothing to be ashamed of,&#034; Hart said. &#034;The shame is in hiding it.&#034;</p>\\n<p>The number of suicides in Kansas increased by more than 30 percent, to 505, from 2011 to 2012, according to the state&#039;s report. For Kansans between the ages of 15 and 44, suicide was the second most common cause of death in 2012, after unintended injuries.</p>\\n<p>More than four-fifths of suicide victims are male, and the median age is in the mid-40s.</p>\\n<p>In 2012, Ford County had one of the highest suicide rates in the state, nearly doubling the average, according to the Department of Health and Environment 2012 vital statistics report. The 17th largest county by population in Kansas had 11 documented suicides, the seventh highest number in the state.</p>\\n<p>With every suicide is a web of destruction, Hart said. Through the Yellow Ribbon Project the group hopes to help those other victims of suicide.</p>\\n<p>&#034;Survivors of suicide need more support from our community,&#034; Hart said. &#034;We need to form more support groups through churches, or whatever means possible. They have no one to turn to for support, no one to reach out to. When you&#039;re alone with your thoughts, it&#039;s a dark place to be.&#034;</p>\\n<p>On Saturday the group encourages those survivors to place a memento on the memorial wall. Afterward, the wall will be on display at the Carnegie Art Center.</p>\\n<p>&#034;People don&#039;t need to say come and say anything. They can just put the mementos of their loved ones on the wall,&#034; Hart said.</p>\\n<p>The Yellow Ribbon Project is hoping to raise $2,500 at the event, which will go toward providing mental health care.</p>\\n<p>For more information on the Yellow Ribbon Project, or the event Saturday, contact Elaine Hart at 719-778-8892.</p>\\n<p><em>This article originally appeared on Dodge City Daily Globe: <a href=\\\"https://www.dodgeglobe.com/story/news/2013/12/05/helping-those-who-would-hurt/41653436007/\\\">Helping those who would hurt themselves</a></em></p>\\n\"\n  },\n  \"author\" : 5,\n  \"featured_media\" : 0,\n  \"class_list\" : [ \"post-63561\", \"post\", \"type-post\", \"status-publish\", \"format-standard\", \"hentry\", \"category-news\" ]\n}",
+  "markdown_content": "By Christopher Guinn  \nDodge City Daily Globe\n\nWithin a few months in 2012, more people had killed themselves in Ford County than in several prior years combined. That year, more people died in the county by their own hands than by auto collisions.\n\n\"It was like a plague hit Dodge City. It was scary. It was scary to me that we couldn't do anything to get a grasp on it,\" said Elaine Hart, who organized a candlelight prayer vigil in the wake of the deaths.\n\nThat vigil has grown into the Yellow Ribbon Project, a network of mental health providers, support groups and helpers with the goals of preventing self-harm and attending to those left guilt-wracked and confused in the aftermath of a suicide.\n\nThis Saturday, Dec. 7, the group is hosting its first annual suicide prevention event at the Dodge City Civic Center. The day will start with a 5K run followed by speakers, presentations, booths by support groups and mental health providers and a performance by the band Ignite.\n\nAnyone can train to become a companion, a listener and friend for those who are thinking of hurting themselves, Hart said. The project will be offering this training at the Saturday event.\n\nOver the last year Hart has personally spoken to seven people and directed them to some of the free or reduced-cost mental health services the project has gathered.\n\n\"One night I was on the phone with a gentleman for more than two hours. I think he just needed someone to talk to. So we talked,\" Hart said.\n\n\"Don't ever be afraid to talk about it,\" she said. \"One of my mottos is that 'It's always OK to say you're not OK, and it's always OK to ask.' People think the word 'suicide' is going to put the idea of suicide in their head, but that can't be further from the truth. \u2026 If you don't ask, you don\u2019t know. Nobody walks around with a light over their head that says 'I'm thinking of hurting myself.'\"\n\nAt one support group, a mother of a suicide victim says, \"I never asked, I never asked,\" Hart said. \"And she lives with that guilt. Not that anyone should feel guilty of losing someone to suicide, but we do, it's something we can't overcome.\"\n\nOn a white t-shirt pulled over her winter clothes is a black and white photo of a boy, her nephew. At the corner of the picture Hart has placed a yellow plastic pin shaped like ribbon. Below the picture is a pair of dates: 1993, 2008. He was 15.\n\nTimothy never met his father, Tim. Tim ended his life while his wife was pregnant.\n\n\"Suicide became such an everyday word in our family,\" Hart said. \"My sister, she's my hero. How she gets up every day with a smile, I have no idea.\"\n\nTimothy had attempted suicide when he was 9, Hart said. \"Due to the stigma, he was never treated normal\" by his peers as he grew older. \"It played a big part in his depression.\"\n\nTimothy enjoyed playing video games, and later they found out he had been bullied more than he let on. At first they liked having something to blame, some catalyst that could be pointed to for why he wasn't there anymore, Hart said.\n\n\u00a0But, \"the day he decided to complete suicide had nothing to do with school, just some way he felt that day,\" Hart said.\n\nEven if the bullying doesn't drive teenagers to suicide, it builds on the stigma attached to mental illness, Hart said, and it makes the victims of that bullying ashamed.\n\n\"There's nothing to be ashamed of,\" Hart said. \"The shame is in hiding it.\"\n\nThe number of suicides in Kansas increased by more than 30 percent, to 505, from 2011 to 2012, according to the state's report. For Kansans between the ages of 15 and 44, suicide was the second most common cause of death in 2012, after unintended injuries.\n\nMore than four-fifths of suicide victims are male, and the median age is in the mid-40s.\n\nIn 2012, Ford County had one of the highest suicide rates in the state, nearly doubling the average, according to the Department of Health and Environment 2012 vital statistics report. The 17th largest county by population in Kansas had 11 documented suicides, the seventh highest number in the state.\n\nWith every suicide is a web of destruction, Hart said. Through the Yellow Ribbon Project the group hopes to help those other victims of suicide.\n\n\"Survivors of suicide need more support from our community,\" Hart said. \"We need to form more support groups through churches, or whatever means possible. They have no one to turn to for support, no one to reach out to. When you're alone with your thoughts, it's a dark place to be.\"\n\nOn Saturday the group encourages those survivors to place a memento on the memorial wall. Afterward, the wall will be on display at the Carnegie Art Center.\n\n\"People don't need to say come and say anything. They can just put the mementos of their loved ones on the wall,\" Hart said.\n\nThe Yellow Ribbon Project is hoping to raise $2,500 at the event, which will go toward providing mental health care.\n\nFor more information on the Yellow Ribbon Project, or the event Saturday, contact Elaine Hart at 719-778-8892.\n\n*This article originally appeared on Dodge City Daily Globe: [Helping those who would hurt themselves](https://www.dodgeglobe.com/story/news/2013/12/05/helping-those-who-would-hurt/41653436007/)*"
+}

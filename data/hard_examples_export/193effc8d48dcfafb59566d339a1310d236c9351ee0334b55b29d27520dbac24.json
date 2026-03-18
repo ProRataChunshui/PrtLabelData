@@ -1,0 +1,219 @@
+{
+  "document_id": "193effc8d48dcfafb59566d339a1310d236c9351ee0334b55b29d27520dbac24",
+  "document_metadata": {
+    "id": "193effc8d48dcfafb59566d339a1310d236c9351ee0334b55b29d27520dbac24",
+    "date": 20240422,
+    "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "image": "https://images-prod.dazeddigital.com/2048/azure/dazed-prod/1370/3/1373172.jpg",
+    "date_year": 2024,
+    "date_month": 4,
+    "crawl_date": "2026-02-05T09:55:01.693604467Z",
+    "date_day": 22,
+    "title": "I tried the world\u2019s first AI lucid dreaming experience",
+    "url": "https://www.dazeddigital.com/beauty/article/62436/1/worlds-first-ai-lucid-dreaming-experience-virtual-reality",
+    "url2": "https://www.dazeddigital.com/beauty/article/62436/1/worlds-first-ai-lucid-dreaming-experience-virtual-reality",
+    "domain": "www.dazeddigital.com",
+    "lang": "unknown",
+    "published_date": "2024-04-22T10:11:00Z",
+    "authors": [
+      "G\u00fcnseli Yalcinkaya"
+    ],
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2026-02-05T09:55:01.693000",
+    "published_date_parsed": "2024-04-22T10:11:00",
+    "source": "Dazed",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=www.dazeddigital.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=www.dazeddigital.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=www.dazeddigital.com",
+    "first_words": "From VR headsets to guided meditations, sleep tourism is fast becoming one of the biggest trends in the wellness industry",
+    "rawType": "xml",
+    "publisherId": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "documentId": "193effc8d48dcfafb59566d339a1310d236c9351ee0334b55b29d27520dbac24",
+    "rawcontent_created": "2026-02-05T09:55:31.363000",
+    "has_chunks": true,
+    "has_denoised_markdown": true
+  },
+  "publisher_metadata": {
+    "id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "group_id": "c64289fd-a8ce-4f8b-8375-f1d15bc04f6d",
+    "name": "Dazed",
+    "domain": "dazeddigital.com",
+    "location": "Global",
+    "country": "Global",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "I tried the world\u2019s first AI lucid dreaming experience",
+    "document_authors_txt": [
+      "G\u00fcnseli Yalcinkaya"
+    ],
+    "hash": "034f11bcb293ed1ff940235b4b9042f7a49548af2b4dec83f417d8528800fd1e"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2026-02-05",
+    "chunking": {
+      "service": "PrtDocumentInference",
+      "chunkingStrategy": "llm_semantic_batch",
+      "llmPromptVersion": "v1.0.3",
+      "batchId": "307d0a0f-261d-45db-99da-20bbf63d78b1",
+      "chunkingRequestId": "f4c9bbc4-c604-42da-a83b-2e02aadccc39",
+      "totalChunks": 1,
+      "processingTime": 2006443,
+      "processingTimestamp": "2026-02-05T10:29:10.408486+00:00",
+      "tokenUsage": {
+        "total_tokens": 1144,
+        "prompt_tokens": 1118,
+        "completion_tokens": 26,
+        "model_version": "gemini-2.5-flash-lite"
+      },
+      "wasRepaired": false,
+      "repairMetadata": null,
+      "has_existing_chunks": true,
+      "chunks_count": 1
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "193effc8d48dcfafb59566d339a1310d236c9351ee0334b55b29d27520dbac24-0",
+        "idx": 0,
+        "hash": "e48fc46eb2bd833e770e88af0c2d396a6dcd99d3ac91d821b6364a9304f372eb",
+        "sim_hash": "8417513335863709722"
+      },
+      "content_original": "From VR headsets to guided meditations, sleep tourism is fast becoming one of the biggest trends in the wellness industry",
+      "content": "From VR headsets to guided meditations, sleep tourism is fast becoming one of the biggest trends in the wellness industry"
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "9bd59b12-8d32-4983-9bdf-a8bf44988576",
+      "timestamp": "2026-02-05T10:29:13.676000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.3",
+        "batchId": "307d0a0f-261d-45db-99da-20bbf63d78b1",
+        "chunkingRequestId": "f4c9bbc4-c604-42da-a83b-2e02aadccc39",
+        "totalChunks": 1,
+        "processingTime": 2006443,
+        "processingTimestamp": "2026-02-05T10:29:10.408486+00:00",
+        "tokenUsage": {
+          "total_tokens": 1144,
+          "prompt_tokens": 1118,
+          "completion_tokens": 26,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "wasRepaired": false,
+        "repairMetadata": null,
+        "has_existing_chunks": true,
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "193effc8d48dcfafb59566d339a1310d236c9351ee0334b55b29d27520dbac24"
+    },
+    {
+      "_id": "9f462526-4480-402e-be19-6f82b65978a0",
+      "timestamp": "2025-10-24T14:44:34.368000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2025-10-24",
+      "chunking": {
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "193effc8d48dcfafb59566d339a1310d236c9351ee0334b55b29d27520dbac24"
+    },
+    {
+      "_id": "b49a553a-a672-47c8-a400-1ad416722061",
+      "timestamp": "2026-02-05T09:55:34.567000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "strategy": "markdown",
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "193effc8d48dcfafb59566d339a1310d236c9351ee0334b55b29d27520dbac24"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Dazed</title>\r\n    <link>https://dazeddigital.com/feed/rss/gist</link>\r\n    <description>Youth and pop culture provocateurs since 1991. Fearless fashion, music, art, film, politics and ideas from today's bleeding edge. Declare Independence.</description>\r\n    <item>\r\n      <title>I tried the world\u2019s first AI lucid dreaming experience</title>\r\n      <link>https://www.dazeddigital.com/beauty/article/62436/1/worlds-first-ai-lucid-dreaming-experience-virtual-reality</link>\r\n      <description>From VR headsets to guided meditations, sleep tourism is fast becoming one of the biggest trends in the wellness industry</description>\r\n      <pubDate>Mon, 22 Apr 2024 10:11:00 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">https://www.dazeddigital.com/beauty/article/62436/1/worlds-first-ai-lucid-dreaming-experience-virtual-reality</guid>\r\n      <dc:creator>G\u00fcnseli Yalcinkaya</dc:creator>\r\n      <dc:date>2024-04-22T10:11:00Z</dc:date>\r\n      <media:credit scheme=\"urn:ebu\">Eternal Sunshine of the Spotless Mind (2004)</media:credit>\r\n      <media:keywords>Sleep, Meditation, Artificial Intelligence</media:keywords>\r\n      <media:text type=\"html\">For decades, scientists have been trying to tap into the unconscious mind as a means to transcend reality. Some have experimented with mind-altering drugs like weed and psychedelics, while others have turned to methods such as transcendental meditation, hypnosis and hypnagogia. Anyone who\u2019s tripped their brains out on acid will tell you that it\u2019s a very different experience to, say, drifting gently in a floatation tank, but the sorts of altered states they seek to unlock are pretty much the same \u2013 the idea being that altering your mind can help to unlock the unconscious, and in doing so, help us to reconfigure our understanding of ourselves and the world around us.\u00a0\r\nBack in January, I began looking into lucid dreaming as a way to unlock the subconscious after reading about the development of a new device that allows users to control their dreams using AI. The idea that we might be able to soon hack our dreams felt like something out of a sci-fi novel, though not entirely an inconceivable possibility given the rapid development of AI in recent months. Prophetic AI\u2019s Halo has yet to successfully deliver a product, and other companies have also tried to induce lucidity through apps and devices that track REM sleep, though these too don\u2019t come with any guarantees. Then, last month, I received an email about a London hotel unveiling the world\u2019s first AI lucid dreaming experience, so obviously I had to give it a try.\u00a0\r\nThe Kimpton Fitzroy London\u2019s \u2018Room to Dream\u2019 experience promises to help guests activate lucid dreaming through the use of a VR headset and a combination of other meditative and relaxation techniques, including a calming tea spiked with mugwort tonic (a herb known for upping your chances of lucid dreaming) and a lavender spray to be spritzed onto the pillows before bed. \u201cSo much of lucid dreaming is dependent upon set and setting so the VR combined with the tea and the dream journal all help to prep the mind for lucidity,\u201d says Charlie Morley, the dreaming expert behind the experience. \u201cThe tech is designed to prime the mind for lucidity by guiding you into the hypnagogic state consciously. Most of the lucid dream techniques depend upon the ability to enter the hypnagogic consciously so the VR experience helps to teach this.\u201d</media:text>\r\n      <media:text type=\"html\">Putting the VR headset on, I take a moment to relax into the bed as a Siri-like voice guides me into the meditation. \u201cWelcome to the dream factory,\u201d it says. A myriad of abstract, AI-blurred shapes begin to float across the screen like clouds, the idea being to induce a feeling of weightlessness in the user. I take deep breaths as instructed and sink deeper into the cushions, letting my mind drift idly into a peaceful semi-dreamstate. \u201cYou are now entering a hypnagogic state,\u201d it continues.\r\nThe experience lasts only five minutes, which is relatively short when you consider the infinitude of dream world, and takes a hybrid approach to lucid dreaming, integrating elements of guided meditation into the virtual reality experience\u2019s peaceful combination of visual and sonic stimuli. Full disclosure, I don\u2019t experience any lucid dreams that night, though the dreams I do experience are particularly vivid. What strikes me most about the experience, however, is the extent wellness experts are tapping into the sleep market \u2013 sleep tourism is fast becoming one of the biggest trends in the tourism industry, with companies offering everything from sleeping remedies to weighted blankets and dream tech to increase your chances of a good night\u2019s rest.\u00a0\r\nGiven how digitally mediated our lives are, it\u2019s no surprise that companies are turning to emerging technologies like AI and VR to help induce a smoother dreamstate, though the reason we can\u2019t sleep is partly down to our screen time to begin with. It\u2019s also no coincidence that interest in lucid dreaming, or sleep more generally speaking, has peaked at a time when the digital world is getting trippier and there\u2019s an uptick in people wanting to track their wellbeing using tech \u2013 think digital wearables like the Oura ring allows users to track their sleep via an app, or even trends like the TikTok viral sleepy girl mocktail.\u00a0\u201cSleep is becoming cool,\u201d says Morley. \u201cThe days of \u2018sleep when you\u2019re dead\u2019 are over, people want to love their lives at maximum volume and to do that they need to sleep properly.\u201d</media:text>\r\n      <media:content type=\"image/jpeg\" isDefault=\"true\" url=\"https://images-prod.dazeddigital.com/2048/azure/dazed-prod/1370/3/1373172.jpg\" />\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "From VR headsets to guided meditations, sleep tourism is fast becoming one of the biggest trends in the wellness industry"
+}

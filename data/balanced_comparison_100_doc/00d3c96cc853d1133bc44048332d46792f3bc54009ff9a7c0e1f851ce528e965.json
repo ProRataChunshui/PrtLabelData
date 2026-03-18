@@ -1,0 +1,117 @@
+{
+  "document_id": "00d3c96cc853d1133bc44048332d46792f3bc54009ff9a7c0e1f851ce528e965",
+  "document_metadata": {
+    "id": "00d3c96cc853d1133bc44048332d46792f3bc54009ff9a7c0e1f851ce528e965",
+    "date": 20170914,
+    "publisher_id": "ad5050d1-db08-494d-8165-82096549e6b8",
+    "date_year": 2017,
+    "date_month": 9,
+    "crawl_date": "2025-11-04T06:25:02.830378160Z",
+    "date_day": 14,
+    "title": "Village of Bluffton holding special council meeting",
+    "url": "https://www.limaohio.com/uncategorized/2017/09/14/village-of-bluffton-holding-special-council-meeting-4/",
+    "url2": "https://www.limaohio.com/uncategorized/2017/09/14/village-of-bluffton-holding-special-council-meeting-4/",
+    "domain": "limaohio.com",
+    "lang": "unknown",
+    "published_date": "2017-09-14T13:38:04Z",
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "ad5050d1-db08-494d-8165-82096549e6b8",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2025-11-04T06:25:02.830000",
+    "published_date_parsed": "2017-09-14T13:38:04",
+    "rawType": "json",
+    "publisherId": "ad5050d1-db08-494d-8165-82096549e6b8",
+    "documentId": "00d3c96cc853d1133bc44048332d46792f3bc54009ff9a7c0e1f851ce528e965",
+    "rawcontent_created": "2025-11-04T06:25:03.017000",
+    "source": "LimaOhio.com",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=limaohio.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=limaohio.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=limaohio.com",
+    "first_words": "BLUFFTON \u2014 The Village of Bluffton is holding a special council meeting at 6:35 p.m. Thursday at Bluffton Town Hall, Third Floor, 154 N. Main St., Bluffton. The purpose for this special meeting is to discuss personnel changes. .neFileBlock { margin-bottom: 20px; } .neFileBlock p { margin: 0px 0px 0px 0px; } .neFileBlock .neFile { border-bottom: 1px dotted #aaa; padding-bottom: 5px; padding-top: 10px; } .neFileBlock .neCaption { font-size: 85%; }"
+  },
+  "publisher_metadata": {
+    "id": "ad5050d1-db08-494d-8165-82096549e6b8",
+    "group_id": "10e9f71f-be58-4112-b617-55a4d2bb60c6",
+    "name": "LimaOhio.com",
+    "domain": "limaohio.com",
+    "location": "United States",
+    "country": "United States",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "Village of Bluffton holding special council meeting",
+    "document_authors_txt": [],
+    "hash": "ad42eff1ac769f98e9a025c84f827e5b7edf52585981026af94c5deeee38bd75"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2025-11-04",
+    "chunking": {
+      "chunks_count": 1
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "00d3c96cc853d1133bc44048332d46792f3bc54009ff9a7c0e1f851ce528e965-0",
+        "idx": 0,
+        "hash": "ad42eff1ac769f98e9a025c84f827e5b7edf52585981026af94c5deeee38bd75"
+      },
+      "content_original": "BLUFFTON \u2014 The Village of Bluffton is holding a special council meeting at 6:35 p.m. Thursday at Bluffton Town Hall, Third Floor, 154 N. Main St., Bluffton.\n\nThe purpose for this special meeting is to discuss personnel changes.\n\n.neFileBlock {  \nmargin-bottom: 20px;  \n}  \n.neFileBlock p {  \nmargin: 0px 0px 0px 0px;  \n}  \n.neFileBlock .neFile {  \nborder-bottom: 1px dotted #aaa;  \npadding-bottom: 5px;  \npadding-top: 10px;  \n}  \n.neFileBlock .neCaption {  \nfont-size: 85%;  \n}\n\n![](http://www.limaohio.com/wp-content/uploads/sites/54/2017/09/web1_Bluffton-10.jpg)http://www.limaohio.com/wp-content/uploads/sites/54/2017/09/web1\\_Bluffton-10.jpgBluffton special council meeting, 6:35 p.m., Bluffton Town Hall, third floor, 154 N. Main St., Bluffton.",
+      "content": "BLUFFTON \u2014 The Village of Bluffton is holding a special council meeting at 6:35 p.m. Thursday at Bluffton Town Hall, Third Floor, 154 N. Main St., Bluffton.\n\nThe purpose for this special meeting is to discuss personnel changes.\n\n.neFileBlock {  \nmargin-bottom: 20px;  \n}  \n.neFileBlock p {  \nmargin: 0px 0px 0px 0px;  \n}  \n.neFileBlock .neFile {  \nborder-bottom: 1px dotted #aaa;  \npadding-bottom: 5px;  \npadding-top: 10px;  \n}  \n.neFileBlock .neCaption {  \nfont-size: 85%;  \n}\n\n![](http://www.limaohio.com/wp-content/uploads/sites/54/2017/09/web1_Bluffton-10.jpg)http://www.limaohio.com/wp-content/uploads/sites/54/2017/09/web1\\_Bluffton-10.jpgBluffton special council meeting, 6:35 p.m., Bluffton Town Hall, third floor, 154 N. Main St., Bluffton."
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "74d7af7d-bde9-4240-aef0-e42b2f7d6bcd",
+      "timestamp": "2025-11-04T06:25:11.199000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "ad5050d1-db08-494d-8165-82096549e6b8",
+      "version": "2.3",
+      "date": "2025-11-04",
+      "chunking": {
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "00d3c96cc853d1133bc44048332d46792f3bc54009ff9a7c0e1f851ce528e965"
+    }
+  ],
+  "raw_content": "{\n  \"id\" : 665237,\n  \"date\" : \"2017-09-14T13:38:04\",\n  \"date_gmt\" : \"2017-09-14T13:38:04\",\n  \"modified_gmt\" : \"2017-09-14T13:38:04\",\n  \"link\" : \"https://www.limaohio.com/uncategorized/2017/09/14/village-of-bluffton-holding-special-council-meeting-4/\",\n  \"title\" : {\n    \"rendered\" : \"Village of Bluffton holding special council meeting\"\n  },\n  \"content\" : {\n    \"rendered\" : \"<p>BLUFFTON &#8212; The Village of Bluffton is holding a special council meeting at 6:35 p.m. Thursday at Bluffton Town Hall, Third Floor, 154 N. Main St., Bluffton.</p>\\n<p>The purpose for this special meeting is to discuss personnel changes.</p>\\n<p>.neFileBlock {<br />\\n\\tmargin-bottom: 20px;<br />\\n}<br />\\n.neFileBlock p {<br />\\n\\tmargin: 0px 0px 0px 0px;<br />\\n}<br />\\n.neFileBlock .neFile {<br />\\n\\tborder-bottom: 1px dotted #aaa;<br />\\n\\tpadding-bottom: 5px;<br />\\n\\tpadding-top: 10px;<br />\\n}<br />\\n.neFileBlock .neCaption {<br />\\n\\tfont-size: 85%;<br />\\n}</p>\\n<div class='neFileBlock'>\\n<div class=\\\"neFile\\\"><img decoding=\\\"async\\\" class=\\\"neImage\\\" src=\\\"http://www.limaohio.com/wp-content/uploads/sites/54/2017/09/web1_Bluffton-10.jpg\\\"></p>\\n<div class=\\\"neCaption\\\"></div>\\n</div>\\n<div class=\\\"metaInfo\\\">http://www.limaohio.com/wp-content/uploads/sites/54/2017/09/web1_Bluffton-10.jpg</div>\\n</div>\\n<div class=\\\"metaInfo\\\">Bluffton special council meeting, 6:35 p.m., Bluffton Town Hall, third floor, 154 N. Main St., Bluffton.</div>\\n\"\n  },\n  \"excerpt\" : {\n    \"rendered\" : \"<p>BLUFFTON &#8212; The Village of Bluffton is holding a special council meeting at 6:35 p.m. Thursday at Bluffton Town Hall, Third Floor, 154 N. Main St., Bluffton. The purpose for this special meeting is to discuss personnel changes. .neFileBlock { margin-bottom: 20px; } .neFileBlock p { margin: 0px 0px 0px 0px; } .neFileBlock .neFile { [&hellip;]</p>\\n\"\n  },\n  \"author\" : 44,\n  \"featured_media\" : 0,\n  \"class_list\" : {\n    \"0\" : \"post-665237\",\n    \"1\" : \"post\",\n    \"2\" : \"type-post\",\n    \"3\" : \"status-publish\",\n    \"4\" : \"format-standard\",\n    \"6\" : \"category-uncategorized\"\n  }\n}",
+  "markdown_content": "BLUFFTON \u2014 The Village of Bluffton is holding a special council meeting at 6:35 p.m. Thursday at Bluffton Town Hall, Third Floor, 154 N. Main St., Bluffton.\n\nThe purpose for this special meeting is to discuss personnel changes.\n\n.neFileBlock {  \nmargin-bottom: 20px;  \n}  \n.neFileBlock p {  \nmargin: 0px 0px 0px 0px;  \n}  \n.neFileBlock .neFile {  \nborder-bottom: 1px dotted #aaa;  \npadding-bottom: 5px;  \npadding-top: 10px;  \n}  \n.neFileBlock .neCaption {  \nfont-size: 85%;  \n}\n\n![](http://www.limaohio.com/wp-content/uploads/sites/54/2017/09/web1_Bluffton-10.jpg)http://www.limaohio.com/wp-content/uploads/sites/54/2017/09/web1\\_Bluffton-10.jpgBluffton special council meeting, 6:35 p.m., Bluffton Town Hall, third floor, 154 N. Main St., Bluffton."
+}

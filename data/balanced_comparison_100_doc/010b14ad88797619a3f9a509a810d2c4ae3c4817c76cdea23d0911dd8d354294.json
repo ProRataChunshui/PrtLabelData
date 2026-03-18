@@ -1,0 +1,258 @@
+{
+  "document_id": "010b14ad88797619a3f9a509a810d2c4ae3c4817c76cdea23d0911dd8d354294",
+  "document_metadata": {
+    "id": "010b14ad88797619a3f9a509a810d2c4ae3c4817c76cdea23d0911dd8d354294",
+    "date": 20250828,
+    "publisher_id": "b1b97959-6ac7-4bc0-b9bd-83053d0742e9",
+    "image": "https://media.tegna-media.com/assets/CCT/images/c5d0d557-c7a7-4f7c-8de0-527189fdd961/c5d0d557-c7a7-4f7c-8de0-527189fdd961.jpg",
+    "date_year": 2025,
+    "date_month": 8,
+    "crawl_date": "2025-11-10T16:57:25.115939356Z",
+    "date_day": 28,
+    "title": "Powerball nears $1 billion: Winning numbers for Wednesday's jackpot",
+    "url": "https://www.wgrz.com/article/news/nation-world/powerball-nears-1-billion-winning-numbers-for-wednesdays-jackpot/507-bd5595a0-287c-451f-817f-e08bd60c26d8",
+    "url2": "https://www.wgrz.com/article/news/nation-world/powerball-nears-1-billion-winning-numbers-for-wednesdays-jackpot/507-bd5595a0-287c-451f-817f-e08bd60c26d8",
+    "domain": "www.wgrz.com",
+    "lang": "unknown",
+    "published_date": "2025-08-28T02:33:59Z",
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "b1b97959-6ac7-4bc0-b9bd-83053d0742e9",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2025-11-10T16:57:25.115000",
+    "published_date_parsed": "2025-08-28T02:33:59",
+    "rawType": "xml",
+    "publisherId": "b1b97959-6ac7-4bc0-b9bd-83053d0742e9",
+    "documentId": "010b14ad88797619a3f9a509a810d2c4ae3c4817c76cdea23d0911dd8d354294",
+    "rawcontent_created": "2025-11-10T16:59:25.886000",
+    "source": "WGRZ-TV",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=www.wgrz.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=www.wgrz.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=www.wgrz.com",
+    "first_words": "The Powerball jackpot has climbed again, nearing $1 billion dollars after the sixth-largest prize in game history remained unclaimed on Wednesday. Wednesday's drawing had an estimated grand prize of $861 million. But instead of a grand prize winner, the drawing produced half a dozen new millionaires. Tickets in Arizona, New York and Virginia all won $1 million off of the drawing, guessing all five white ball numbers correctly. Another three players, in Mississippi, Ohio and another in Virginia, did the same but bought the additional Power Play option to double their winnings - each winning $2 million.",
+    "has_chunks": true
+  },
+  "publisher_metadata": {
+    "id": "b1b97959-6ac7-4bc0-b9bd-83053d0742e9",
+    "group_id": "ac4bb5e9-4c41-4036-ab8e-6f8773d85edb",
+    "name": "WGRZ-TV",
+    "domain": "wgrz.com",
+    "location": "United States",
+    "country": "United States",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "Powerball nears $1 billion: Winning numbers for Wednesday's jackpot",
+    "document_authors_txt": [],
+    "hash": "3b5a35101a9bc6a4cd1f0fddba7f901881d095fc77a138d2dac813c55f193ef3"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2025-11-10",
+    "chunking": {
+      "service": "PrtDocumentInference",
+      "chunkingStrategy": "llm_semantic_batch",
+      "llmPromptVersion": "v1.0.1",
+      "batchId": "f3e058b9-3fb6-4519-93e9-579416839c79",
+      "chunkingRequestId": "b11d62a4-fb10-4669-bfb2-e59ead66481d",
+      "totalChunks": 5,
+      "processingTime": 15739663,
+      "processingTimestamp": "2025-11-10T21:20:48.348800+00:00",
+      "tokenUsage": {
+        "total_tokens": 2650,
+        "prompt_tokens": 1858,
+        "completion_tokens": 792,
+        "model_version": "gemini-2.5-flash-lite"
+      },
+      "has_existing_chunks": true,
+      "chunks_count": 5
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "010b14ad88797619a3f9a509a810d2c4ae3c4817c76cdea23d0911dd8d354294-3",
+        "idx": 3,
+        "hash": "22afe36c32da561059a70abd8eef00401806161a0328ed5a7606660013fea8a7",
+        "sim_hash": "3537840160531100440"
+      },
+      "content_original": "When is the Powerball drawing? The Powerball drawing takes place live at 10:59 p.m. ET every Monday, Wednesday and Saturday. Tickets, which cost $2 per play, are sold in 45 states, the District of Columbia, Puerto Rico and the U.S. Virgin Islands.",
+      "content": "When is the Powerball drawing? The Powerball drawing takes place live at 10:59 p.m. ET every Monday, Wednesday and Saturday. Tickets, which cost $2 per play, are sold in 45 states, the District of Columbia, Puerto Rico and the U.S. Virgin Islands."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "010b14ad88797619a3f9a509a810d2c4ae3c4817c76cdea23d0911dd8d354294-4",
+        "idx": 4,
+        "hash": "fc7810b6dd448e0f046b41dc0941418816f74b561dcdbe97a3583e01bc0e908e",
+        "sim_hash": "16573743509910762394"
+      },
+      "content_original": "What are the largest Powerball jackpots? While the eye-popping $700 million jackpot is certainly life-changing money, it still wouldn't crack the top 10 largest Powerball wins. 1. $2.04 Billion \u2013 Nov. 7, 2022 \u2013 CA 2. $1.765 Billion \u2013 Oct. 11, 2023 - CA 3. $1.586 Billion \u2013 Jan. 13, 2016 \u2013 CA, FL, TN 4. $1.326 Billion \u2013 April 6, 2024 - OR 5. $1.08 Billion \u2013 July 19, 2023 \u2013 CA 6. *$950 Million (estimated) \u2013 Aug. 30, 2025* 7. $842.4 Million \u2013 January 1, 2024 \u2013 MI 8. $768.4 Million \u2013 March 27, 2019 \u2013 WI 9. $758.7 Million \u2013 Aug. 23, 2017 \u2013 MA 10. $754.6 Million \u2013 Feb. 6, 2023 - WA",
+      "content": "What are the largest Powerball jackpots? While the eye-popping $700 million jackpot is certainly life-changing money, it still wouldn't crack the top 10 largest Powerball wins. 1. $2.04 Billion \u2013 Nov. 7, 2022 \u2013 CA 2. $1.765 Billion \u2013 Oct. 11, 2023 - CA 3. $1.586 Billion \u2013 Jan. 13, 2016 \u2013 CA, FL, TN 4. $1.326 Billion \u2013 April 6, 2024 - OR 5. $1.08 Billion \u2013 July 19, 2023 \u2013 CA 6. *$950 Million (estimated) \u2013 Aug. 30, 2025* 7. $842.4 Million \u2013 January 1, 2024 \u2013 MI 8. $768.4 Million \u2013 March 27, 2019 \u2013 WI 9. $758.7 Million \u2013 Aug. 23, 2017 \u2013 MA 10. $754.6 Million \u2013 Feb. 6, 2023 - WA"
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "010b14ad88797619a3f9a509a810d2c4ae3c4817c76cdea23d0911dd8d354294-0",
+        "idx": 0,
+        "hash": "482411ba5087e0233e4d1d496e1bedd352bbadf8228a5127a40e2dc8ea89a330",
+        "sim_hash": "18161306349786804714"
+      },
+      "content_original": "The Powerball jackpot has climbed again, nearing $1 billion dollars after the sixth-largest prize in game history remained unclaimed on Wednesday. Wednesday's drawing had an estimated grand prize of $861 million. But instead of a grand prize winner, the drawing produced half a dozen new millionaires. Tickets in Arizona, New York and Virginia all won $1 million off of the drawing, guessing all five white ball numbers correctly. Another three players, in Mississippi, Ohio and another in Virginia, did the same but bought the additional Power Play option to double their winnings - each winning $2 million. Wednesday\u2019s Powerball drawing was the 38th since the jackpot was last won in California on May 31, 2025. A winner on Wednesday would have had the option to take a $388.8 million lump sum cash prize if they matched all five numbers plus the Powerball. Now, ahead of Saturday's drawing, the Powerball has risen to $950 million with a lump sum option of $428.9 Million. Saturday's drawing will remain No. 6 on the list of highest Powerball drawings in history, but if nobody wins could easily climb to the top 5.",
+      "content": "The Powerball jackpot has climbed again, nearing $1 billion dollars after the sixth-largest prize in game history remained unclaimed on Wednesday. Wednesday's drawing had an estimated grand prize of $861 million. But instead of a grand prize winner, the drawing produced half a dozen new millionaires. Tickets in Arizona, New York and Virginia all won $1 million off of the drawing, guessing all five white ball numbers correctly. Another three players, in Mississippi, Ohio and another in Virginia, did the same but bought the additional Power Play option to double their winnings - each winning $2 million. Wednesday\u2019s Powerball drawing was the 38th since the jackpot was last won in California on May 31, 2025. A winner on Wednesday would have had the option to take a $388.8 million lump sum cash prize if they matched all five numbers plus the Powerball. Now, ahead of Saturday's drawing, the Powerball has risen to $950 million with a lump sum option of $428.9 Million. Saturday's drawing will remain No. 6 on the list of highest Powerball drawings in history, but if nobody wins could easily climb to the top 5."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "010b14ad88797619a3f9a509a810d2c4ae3c4817c76cdea23d0911dd8d354294-1",
+        "idx": 1,
+        "hash": "9b8d2f45c152b0b7267b29ddf580cb0e4f5150c7e82833184bbc6f41b2b111d2",
+        "sim_hash": "8974489771341656752"
+      },
+      "content_original": "Wednesday's winning numbers were 9-12-22-41-61 and Powerball 25. The Power Play multiplier was 4. If a winner matches all five numbers and the Powerball, they have the option to take the full jackpot paid out over 30 years, or a smaller cash payout. Winners almost always take the cash option. Even with the smaller lump sum payout, federal taxes will eat into those winnings, and some states also tax big lottery prizes.",
+      "content": "Wednesday's winning numbers were 9-12-22-41-61 and Powerball 25. The Power Play multiplier was 4. If a winner matches all five numbers and the Powerball, they have the option to take the full jackpot paid out over 30 years, or a smaller cash payout. Winners almost always take the cash option. Even with the smaller lump sum payout, federal taxes will eat into those winnings, and some states also tax big lottery prizes."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "010b14ad88797619a3f9a509a810d2c4ae3c4817c76cdea23d0911dd8d354294-2",
+        "idx": 2,
+        "hash": "8fd660d8b14fc28867937337fe46698d05b4b5f7f296156aa1fff0e51a636d35",
+        "sim_hash": "16432433158514028952"
+      },
+      "content_original": "What are the odds of winning the Powerball? The odds of winning the Powerball jackpot are one in 292.2 million. The odds of matching all five white balls and winning the $1 million prize are 1 in 11,688,053. The overall odds of winning a prize are 1 in 24.87.",
+      "content": "What are the odds of winning the Powerball? The odds of winning the Powerball jackpot are one in 292.2 million. The odds of matching all five white balls and winning the $1 million prize are 1 in 11,688,053. The overall odds of winning a prize are 1 in 24.87."
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "1e40b246-9025-4088-b473-a5939985d6ae",
+      "timestamp": "2025-11-10T16:58:13.761000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "b1b97959-6ac7-4bc0-b9bd-83053d0742e9",
+      "version": "2.3",
+      "date": "2025-11-10",
+      "chunking": {
+        "strategy": "simple",
+        "chunks_count": 3
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "none",
+        "model": "none",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 3,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "010b14ad88797619a3f9a509a810d2c4ae3c4817c76cdea23d0911dd8d354294"
+    },
+    {
+      "_id": "9ef663b3-fcb6-4522-bd50-3cce2079f2e3",
+      "timestamp": "2025-11-10T21:25:57.707000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "b1b97959-6ac7-4bc0-b9bd-83053d0742e9",
+      "version": "2.3",
+      "date": "2025-11-10",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.1",
+        "batchId": "f3e058b9-3fb6-4519-93e9-579416839c79",
+        "chunkingRequestId": "b11d62a4-fb10-4669-bfb2-e59ead66481d",
+        "totalChunks": 5,
+        "processingTime": 15739663,
+        "processingTimestamp": "2025-11-10T21:20:48.348800+00:00",
+        "tokenUsage": {
+          "total_tokens": 2650,
+          "prompt_tokens": 1858,
+          "completion_tokens": 792,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "has_existing_chunks": true,
+        "chunks_count": 5
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 5,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "010b14ad88797619a3f9a509a810d2c4ae3c4817c76cdea23d0911dd8d354294"
+    },
+    {
+      "_id": "ad516b5d-bce6-41bc-b2b9-4ee6baeb0582",
+      "timestamp": "2025-11-10T16:59:31.966000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "b1b97959-6ac7-4bc0-b9bd-83053d0742e9",
+      "version": "2.3",
+      "date": "2025-11-10",
+      "chunking": {
+        "strategy": "simple",
+        "chunks_count": 3
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "none",
+        "model": "none",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 3,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "010b14ad88797619a3f9a509a810d2c4ae3c4817c76cdea23d0911dd8d354294"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Standardized Rss</title>\r\n    <link>https://www.wgrz.com/</link>\r\n    <description>WGRZ Standardized Rss Feed</description>\r\n    <item>\r\n      <title>Powerball nears $1 billion: Winning numbers for Wednesday's jackpot</title>\r\n      <link>https://www.wgrz.com/article/news/nation-world/powerball-nears-1-billion-winning-numbers-for-wednesdays-jackpot/507-bd5595a0-287c-451f-817f-e08bd60c26d8</link>\r\n      <description>Wednesday's $861 million jackpot would have been the sixth-largest win in Powerball history.</description>\r\n      <guid isPermaLink=\"false\">bd5595a0-287c-451f-817f-e08bd60c26d8</guid>\r\n      <content:encoded><![CDATA[<p>The <a href=\"/article/news/nation-world/powerball-winning-numbers-saturday-august-23-2025/507-3064d6f2-6989-4ec0-876d-a39097dc276d\" target=\"_blank\" rel=\"noopener noreferrer\">Powerball jackpot</a> has climbed again, nearing $1 billion dollars after the sixth-largest prize in game history remained unclaimed on Wednesday.&nbsp;</p><p>Wednesday's drawing had an estimated grand prize of $861 million.</p><p>But instead of a grand prize winner, the drawing produced half a dozen new millionaires.&nbsp;</p><p>Tickets in Arizona, New York and Virginia all won $1 million off of the drawing, guessing all five white ball numbers correctly. Another three players, in Mississippi, Ohio and another in Virginia, did the same but bought the additional Power Play option to double their winnings - each winning $2 million.&nbsp;</p><p>Wednesday\u2019s Powerball drawing was the 38th since the jackpot was last won in California on May 31, 2025.&nbsp;</p><p>A winner on Wednesday would have had the option to take a $388.8 million lump sum cash prize if they matched all five numbers plus the Powerball.&nbsp;</p><p>Now, ahead of Saturday's drawing, the Powerball has risen to $950 million with a lump sum option of $428.9 Million. Saturday's drawing will remain No. 6 on the list of highest Powerball drawings in history, but if nobody wins could easily climb to the top 5.&nbsp;</p><h3>Winning Powerball Numbers for Wednesday, Aug. 27</h3><p>Wednesday's winning numbers were 9-12-22-41-61 and Powerball 25. The Power Play multiplier was 4.&nbsp;</p><p>If a winner matches all five numbers and the Powerball, they have the option to take the full jackpot paid out over 30 years, or a smaller cash payout. Winners almost always take the cash option.</p><p>Even with the smaller lump sum payout, federal taxes will eat into those winnings, and some states also tax big lottery prizes.&nbsp;</p><h2>What are the odds of winning the Powerball?</h2><p>The odds of winning the Powerball jackpot are one in 292.2 million. The odds of matching all five white balls and winning the $1 million prize are 1 in 11,688,053. The overall odds of winning a prize are 1 in 24.87.</p><h2>When is the Powerball drawing?</h2><p>The Powerball drawing takes place live at 10:59 p.m. ET every Monday, Wednesday and Saturday. Tickets, which cost $2 per play, are sold in 45 states, the District of Columbia, Puerto Rico and the U.S. Virgin Islands.</p><h2>What are the largest Powerball jackpots?&nbsp;</h2><p>While the eye-popping $700 million jackpot is certainly life-changing money, it still wouldn't crack the top 10 largest Powerball wins.</p><ol><li>$2.04 Billion \u2013 Nov. 7, 2022 \u2013 CA</li><li>$1.765 Billion \u2013 Oct. 11, 2023 - CA</li><li>$1.586 Billion \u2013 Jan. 13, 2016 \u2013 CA, FL, TN</li><li>$1.326 Billion \u2013 April 6, 2024 - OR</li><li>$1.08 Billion \u2013 July 19, 2023 \u2013 CA</li><li id=\"isPasted\" style=\"font-style: italic;\"><em>$950 Million (estimated) \u2013 Aug. 30, 2025</em></li><li>$842.4 Million \u2013 January 1, 2024 \u2013 MI</li><li>$768.4 Million \u2013 March 27, 2019 \u2013 WI</li><li>$758.7 Million \u2013 Aug. 23, 2017 \u2013 MA</li><li>$754.6 Million \u2013 Feb. 6, 2023 - WA</li></ol>]]></content:encoded>\r\n      <media:thumbnail url=\"https://media.tegna-media.com/assets/CCT/images/c5d0d557-c7a7-4f7c-8de0-527189fdd961/c5d0d557-c7a7-4f7c-8de0-527189fdd961.jpg\" />\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "The [Powerball jackpot](/article/news/nation-world/powerball-winning-numbers-saturday-august-23-2025/507-3064d6f2-6989-4ec0-876d-a39097dc276d) has climbed again, nearing $1 billion dollars after the sixth-largest prize in game history remained unclaimed on Wednesday.\n\nWednesday's drawing had an estimated grand prize of $861 million.\n\nBut instead of a grand prize winner, the drawing produced half a dozen new millionaires.\n\nTickets in Arizona, New York and Virginia all won $1 million off of the drawing, guessing all five white ball numbers correctly. Another three players, in Mississippi, Ohio and another in Virginia, did the same but bought the additional Power Play option to double their winnings - each winning $2 million.\n\nWednesday\u2019s Powerball drawing was the 38th since the jackpot was last won in California on May 31, 2025.\n\nA winner on Wednesday would have had the option to take a $388.8 million lump sum cash prize if they matched all five numbers plus the Powerball.\n\nNow, ahead of Saturday's drawing, the Powerball has risen to $950 million with a lump sum option of $428.9 Million. Saturday's drawing will remain No. 6 on the list of highest Powerball drawings in history, but if nobody wins could easily climb to the top 5.\n\n### Winning Powerball Numbers for Wednesday, Aug. 27\n\nWednesday's winning numbers were 9-12-22-41-61 and Powerball 25. The Power Play multiplier was 4.\n\nIf a winner matches all five numbers and the Powerball, they have the option to take the full jackpot paid out over 30 years, or a smaller cash payout. Winners almost always take the cash option.\n\nEven with the smaller lump sum payout, federal taxes will eat into those winnings, and some states also tax big lottery prizes.\n\n## What are the odds of winning the Powerball?\n\nThe odds of winning the Powerball jackpot are one in 292.2 million. The odds of matching all five white balls and winning the $1 million prize are 1 in 11,688,053. The overall odds of winning a prize are 1 in 24.87.\n\n## When is the Powerball drawing?\n\nThe Powerball drawing takes place live at 10:59 p.m. ET every Monday, Wednesday and Saturday. Tickets, which cost $2 per play, are sold in 45 states, the District of Columbia, Puerto Rico and the U.S. Virgin Islands.\n\n## What are the largest Powerball jackpots?\n\nWhile the eye-popping $700 million jackpot is certainly life-changing money, it still wouldn't crack the top 10 largest Powerball wins.\n\n1. $2.04 Billion \u2013 Nov. 7, 2022 \u2013 CA\n2. $1.765 Billion \u2013 Oct. 11, 2023 - CA\n3. $1.586 Billion \u2013 Jan. 13, 2016 \u2013 CA, FL, TN\n4. $1.326 Billion \u2013 April 6, 2024 - OR\n5. $1.08 Billion \u2013 July 19, 2023 \u2013 CA\n6. *$950 Million (estimated) \u2013 Aug. 30, 2025*\n7. $842.4 Million \u2013 January 1, 2024 \u2013 MI\n8. $768.4 Million \u2013 March 27, 2019 \u2013 WI\n9. $758.7 Million \u2013 Aug. 23, 2017 \u2013 MA\n10. $754.6 Million \u2013 Feb. 6, 2023 - WA"
+}

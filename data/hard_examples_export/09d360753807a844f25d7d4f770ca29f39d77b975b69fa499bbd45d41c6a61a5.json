@@ -1,0 +1,265 @@
+{
+  "document_id": "09d360753807a844f25d7d4f770ca29f39d77b975b69fa499bbd45d41c6a61a5",
+  "document_metadata": {
+    "id": "09d360753807a844f25d7d4f770ca29f39d77b975b69fa499bbd45d41c6a61a5",
+    "date": 20230208,
+    "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "image": "https://images-prod.dazeddigital.com/1044/0-108-1044-696/azure/dazed-prod/1330/8/1338452.jpeg",
+    "date_year": 2023,
+    "date_month": 2,
+    "crawl_date": "2026-02-05T09:57:56.848851155Z",
+    "date_day": 8,
+    "title": "Farm boys do it better: Quil Lemons drops his first ever fashion collection",
+    "url": "https://www.dazeddigital.com/fashion/article/58141/1/farm-boys-do-it-better-quil-lemons-sky-high-workwear-faahion-collab",
+    "url2": "https://www.dazeddigital.com/fashion/article/58141/1/farm-boys-do-it-better-quil-lemons-sky-high-workwear-faahion-collab",
+    "domain": "www.dazeddigital.com",
+    "lang": "unknown",
+    "published_date": "2023-02-08T19:17:00Z",
+    "authors": [
+      "Hannah Bertolino"
+    ],
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2026-02-05T09:57:56.848000",
+    "published_date_parsed": "2023-02-08T19:17:00",
+    "rawType": "xml",
+    "publisherId": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "documentId": "09d360753807a844f25d7d4f770ca29f39d77b975b69fa499bbd45d41c6a61a5",
+    "rawcontent_created": "2026-02-05T09:59:44.540000",
+    "source": "Dazed",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=www.dazeddigital.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=www.dazeddigital.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=www.dazeddigital.com",
+    "first_words": "Stepping out from behind the camera, the photographer has teamed up with Sky High Farm Workwear to design his dream capsule collection",
+    "has_chunks": true,
+    "has_denoised_markdown": true
+  },
+  "publisher_metadata": {
+    "id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "group_id": "c64289fd-a8ce-4f8b-8375-f1d15bc04f6d",
+    "name": "Dazed",
+    "domain": "dazeddigital.com",
+    "location": "Global",
+    "country": "Global",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "Farm boys do it better: Quil Lemons drops his first ever fashion collection",
+    "document_authors_txt": [
+      "Hannah Bertolino"
+    ],
+    "hash": "85fbc76679b6420369e9ef356fd497e7555cc81d6a5aa5c81c8b13b9deeef662"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2026-02-05",
+    "chunking": {
+      "service": "PrtDocumentInference",
+      "chunkingStrategy": "llm_semantic_batch",
+      "llmPromptVersion": "v1.0.3",
+      "batchId": "c2ecafe1-aac0-42ab-afa8-1dfec4b8951b",
+      "chunkingRequestId": "2cb9d749-5f43-4f71-840e-92a482f5eb30",
+      "totalChunks": 1,
+      "processingTime": 2038616,
+      "processingTimestamp": "2026-02-05T10:33:46.752367+00:00",
+      "tokenUsage": {
+        "total_tokens": 1152,
+        "prompt_tokens": 1122,
+        "completion_tokens": 30,
+        "model_version": "gemini-2.5-flash-lite"
+      },
+      "wasRepaired": false,
+      "repairMetadata": null,
+      "has_existing_chunks": true,
+      "chunks_count": 1
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "09d360753807a844f25d7d4f770ca29f39d77b975b69fa499bbd45d41c6a61a5-0",
+        "idx": 0,
+        "hash": "9c2e4f491033c4aab0acf7d66c6b5956fc56b6dec91f44a724788242fc71ec49",
+        "sim_hash": "8577582411186188790"
+      },
+      "content_original": "Stepping out from behind the camera, the photographer has teamed up with Sky High Farm Workwear to design his dream capsule collection",
+      "content": "Stepping out from behind the camera, the photographer has teamed up with Sky High Farm Workwear to design his dream capsule collection"
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "b72e8b47-6d36-48b4-9fd4-b334c5de6289",
+      "timestamp": "2026-02-05T10:42:29.689000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.3",
+        "batchId": "c2ecafe1-aac0-42ab-afa8-1dfec4b8951b",
+        "chunkingRequestId": "2cb9d749-5f43-4f71-840e-92a482f5eb30",
+        "totalChunks": 1,
+        "processingTime": 2038616,
+        "processingTimestamp": "2026-02-05T10:33:46.752367+00:00",
+        "tokenUsage": {
+          "total_tokens": 1152,
+          "prompt_tokens": 1122,
+          "completion_tokens": 30,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "wasRepaired": false,
+        "repairMetadata": null,
+        "has_existing_chunks": true,
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "09d360753807a844f25d7d4f770ca29f39d77b975b69fa499bbd45d41c6a61a5"
+    },
+    {
+      "_id": "bfa2a7cb-0eeb-4f23-9d9e-1bb7adda01b9",
+      "timestamp": "2025-10-24T14:49:21.985000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2025-10-24",
+      "chunking": {
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "09d360753807a844f25d7d4f770ca29f39d77b975b69fa499bbd45d41c6a61a5"
+    },
+    {
+      "_id": "d35ba2df-22d8-45a3-8ceb-8fa142e2b8b0",
+      "timestamp": "2026-02-05T10:43:44.434000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.3",
+        "batchId": "c2ecafe1-aac0-42ab-afa8-1dfec4b8951b",
+        "chunkingRequestId": "2cb9d749-5f43-4f71-840e-92a482f5eb30",
+        "totalChunks": 1,
+        "processingTime": 2038616,
+        "processingTimestamp": "2026-02-05T10:33:46.752367+00:00",
+        "tokenUsage": {
+          "total_tokens": 1152,
+          "prompt_tokens": 1122,
+          "completion_tokens": 30,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "wasRepaired": false,
+        "repairMetadata": null,
+        "has_existing_chunks": true,
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "09d360753807a844f25d7d4f770ca29f39d77b975b69fa499bbd45d41c6a61a5"
+    },
+    {
+      "_id": "fd13f506-75b5-45d1-87b7-278751011b93",
+      "timestamp": "2026-02-05T09:59:50.679000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "strategy": "markdown",
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "09d360753807a844f25d7d4f770ca29f39d77b975b69fa499bbd45d41c6a61a5"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Dazed</title>\r\n    <link>https://dazeddigital.com/feed/rss/gist</link>\r\n    <description>Youth and pop culture provocateurs since 1991. Fearless fashion, music, art, film, politics and ideas from today's bleeding edge. Declare Independence.</description>\r\n    <item>\r\n      <title>Farm boys do it better: Quil Lemons drops his first ever fashion collection</title>\r\n      <link>https://www.dazeddigital.com/fashion/article/58141/1/farm-boys-do-it-better-quil-lemons-sky-high-workwear-faahion-collab</link>\r\n      <description>Stepping out from behind the camera, the photographer has teamed up with Sky High Farm Workwear to design his dream capsule collection</description>\r\n      <pubDate>Wed, 08 Feb 2023 19:17:00 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">https://www.dazeddigital.com/fashion/article/58141/1/farm-boys-do-it-better-quil-lemons-sky-high-workwear-faahion-collab</guid>\r\n      <dc:creator>Hannah Bertolino</dc:creator>\r\n      <dc:date>2023-02-08T19:17:00Z</dc:date>\r\n      <media:credit scheme=\"urn:ebu\">Photography Quil Lemons</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Quil Lemons</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Quil Lemons</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Quil Lemons</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Quil Lemons</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Quil Lemons</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Quil Lemons</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Quil Lemons</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Quil Lemons</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Quil Lemons</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Quil Lemons</media:credit>\r\n      <media:keywords>Quil Lemons, Comme des Gar\u00e7ons</media:keywords>\r\n      <media:text type=\"html\">It\u2019s been a whirlwind few years for photographer Quil Lemons. Since cementing himself as one to watch in 2019, the Philadelphia-raised, New York-based artist has lensed some of the biggest names in the industry, from Billie Eilish to Oliver Sim, Telfar Clemens, Spike Lee, and more; led campaigns for brands like Gucci, Valentino, and Coach; made his IRL museum debut at New York\u2019s International Center of Photography; and established his photography as a space to celebrate Black joy.\u00a0\r\nNow, for his latest endeavour, Lemons is extending his artistry into the design world via his first ever fashion collection for Sky High Farm Workwear. The label \u2013\u00a0supported by Dover Street Market \u2013 helps raise funds for Sky High Farm, a non-profit farm in the Hudson Valley of NY which makes nutritious food grown with regenerative farming methods accessible to communities in need. With a portion of Sky High Farm Workwear\u2019s profits going back to the farm, the brand aims to create a new, ethical model for fundraising. So far, its collaborators have spanned from Comme Des Gar\u00e7ons SHIRT to Balenciaga, Supreme, and more.</media:text>\r\n      <media:text type=\"html\">\u201cIt's where fashion should be,\u201d Lemons tells us just days before his own collection under the label, titled Farm Boys Do It\u00a0Better, drops. From \u201cfarm\u201d logo crop tops mimicking old-school Ford logos to lime green fuzzy cardigans, and low-rise jeans bearing pockets stamped with Lemons\u2019 own portraits, the offering feeds from Lemons\u2019 own personal style and artistry \u2013 especially drawing inspiration from his 2021 photo-series \u201cDaydreams\u201d. \u201cThese are my dream clothes,\u201d says the artist.\r\nTo celebrate the launch, Lemons \u2013\u00a0who\u2019s also taken on the title of Contributing Art Director at Sky High Farm Workwear for 2023 \u2013 shot a series of campaign images and a short film, showcasing the collection with references to re-connection and a cathartic return to clubbing post-pandemic. \u201cIf you couldn\u2019t dance, what would you do?\u201d a voice asks, opening up the film before models dance in the clothing under flashing lights. Here, we catch up with Lemons mid-shoot day to discuss the collection, his wavey farm-day music recommendations, dream blunt rotation, and more.</media:text>\r\n      <media:text type=\"html\">Hey Quil! Can you please describe Sky High Farm Workwear in your own words?\u00a0\r\nQuil Lemons: The first word that comes to mind is \u201ceasy\u201d, and not in the sense that this wasn\u2019t difficult or thought out, it was just a really easy process and really organic from the start. It\u2019s just been another way to stretch my brain and really push photography, push myself to a new place, then just keep exploring this idea of being a photographer, but also just being an artist.\u00a0\r\nWhy does this project feel important to you?\r\nQuil Lemons: Fashion sometimes struggles to figure out how to do something more. It\u2019s a human challenge to really give back to underserved communities, but the mission Sky High Farm Workwear has is one that I think a lot of people in fashion should follow when it comes to donations, reworking clothing, recycling, and working towards every good cause. Their ethics and morals are exactly how we should be thinking about (fashion) right now, especially with things like climate change.\r\nIt\u2019s a mindfulness that I wish more people had \u2013\u00a0even myself \u2013 and I think that this project made me even more aware of the stakes that we are at. I don\u2019t think many people are as aware of how we really do need to start rethinking how we are living and interacting with the world of fashion, but also just the world in itself.\r\n\r\n\u201cIt\u2019s a mindfulness that I wish more people had \u2013 even myself \u2013 and I think that this project made me even more aware of the stakes that we are at\u201d - Quil Lemons\r\n\r\nCan you please tell us a bit more about your collection?\u00a0\r\nQuil Lemons: I feel like the collection is really just a manifestation of my closeted self and personhood, like the colours for each of the sweaters and (designs) printed onto the clothes come from the photos that I took from my museum debut with the ICP (International Center of Photography). I think that you get to just walk away literally wearing pieces of myself, but also my art, but also my photographs, all at the same time.\u00a0\r\nWhat\u2019s one piece that you feel summarises the collection, and why?\u00a0\r\nQuil Lemons: It\u2019s a tie between the sweaters and the jeans, but they both do the same thing where the images get extended into wearable items. I think that\u2019s what the goal of it was for me.</media:text>\r\n      <media:text type=\"html\">Can you guide us through your design process for the collection? Was it similar or different to how you approach photography?\u00a0\u00a0\r\nQuil Lemons: The first party was really similar \u2013\u00a0I was pulling so many different references and pulling in my own work. The sourcing was a really similar process, like, \u201cI like this shape,\u201d or, \u201cI like these things.\u201d But, it became a little bit more collaborative and involved, which was so nice to be able to lean on a team that has made clothes before. When it came to silhouettes and things that were sellable, learning from the team was such a fun part of the process.\u00a0\r\nThe first conversation was like, \u201cI want you to make a piece of clothing that is uniquely yours and that you want to wear everyday.\u201d Now, the whole collection is that\u2026 things that I\u2019ll literally be wearing every day.\r\nWhat inspired you while you were sourcing for the collection?\u00a0\r\nQuil Lemons: It\u2019s a little narcissistic to say, but I really love my own fashion sensibility. I felt like if I was going to make a collection, I couldn\u2019t make it without a crop top, and I couldn\u2019t make it without a\u00a0 fuzzy sweater, and I couldn\u2019t make it without low rise jeans. Things that just felt like a part of me that I needed to put into a capsule collection. If I was putting my name on it, it needed to be all my favourites.\r\n\r\n\u201cThe first conversation was like, \u2018I want you to make a piece of clothing that is uniquely yours.\u2019 Now, the whole collection is that\u2026 things that I\u2019ll literally be wearing every day\u201d - Quil Lemons\r\n\r\nHow did this inspiration tie into the imagery for the collection?\u00a0\r\nQuil Lemons: For the imagery, I just wanted it to be really fun. After the pandemic, I felt like a lot of the projects I was taking on were kind of rigid. I love dancing, and I wanted to bring an upbeat energy to fashion that I felt like it was missing. I wanted to bring a closeness and togetherness that only comes when you\u2019re moshing. So, I wanted those feelings to come across. It was kind of sad, not being able to go out of the house for two years and not being able to be in a club being sweaty without being fearful. Right now, I feel like we get the first chance to really be on the other side of the pandemic without as many hesitations, so I wanted the imagery to feel like that. This is what we\u2019re getting back to.\r\nIf you were a farm animal, what would you be?\r\nQuil Lemons: I thought I\u2019d be a piglet, but honestly, I think I\u2019d probably be a goat.</media:text>\r\n      <media:text type=\"html\">If you were spending a day on the farm, which album\u2019s playing on repeat?\u00a0\r\nQuil Lemons: It\u2019d probably be something by Steve Lacy. One of my favourite albums by him is Apollo XXI, and I think that one is so free. If I\u2019m on the farm, I\u2019m probably laying back smoking weed, maybe dabbling in psychedelics, and I feel like it\u2019s the perfect album to listen to for that.\r\nSpeaking of, what\u2019s your dream blunt rotation?\r\nQuil Lemons: There\u2019s a model pack forming: Akon Changkou, Dede Mansro, Anok Yai, Maty Fal, Ajok Daing, Nyagua Rhea, Am\u00e9rica Gonz\u00e1lez, Jordan Daniels, Quinn Mora. It\u2019s a bunch of girls, and they\u2019re always having a really good time. I ran into them at a club in Paris, and I was like, \u201cI would love to just do nothing, but smoke a blunt with you.\u201d\u00a0\r\nMaybe that\u2019s your next campaign for the collection\u2026\r\nQuil Lemons: I\u2019m speaking it into existence!\u00a0\r\nIf you were a cartoon character, what would your outfit be?\u00a0\r\nQuil Lemons:\u00a0 I would be Cajun Fox from Courage the Cowardly Dog. He wore nothing but sunglasses, and he was so cunt. One of my friends pulled up a picture, and said it reminds them of me, and now I can\u2019t unsee it.</media:text>\r\n      <media:text type=\"html\">What\u2019s your weirdest, wildest internet obsession right now?\u00a0\r\nQuil Lemons: It\u2019s Citi Bike Boyz. It\u2019s a bunch of skaters that get Citi Bikes and do crazy BMX tricks. It just feels new. I feel like the internet can get a little stale and content gets repetitive\u2026 I love Citi Biking, and it feels so New York.\r\nWho do you want to see wearing Sky High Farm Workwear?\u00a0\r\nQuil Lemons: It\u2019s a toss-up between Anok Yai and Ice Spice, and either one will kill it.\r\nYou have to photograph someone on the farm, who would it be?\u00a0\r\nQuil Lemons: Give me Naomi!\u00a0\r\nWhat\u2019s the title of your Dazed cover?\u00a0\r\nQuil Lemons: Either \u201cGet Sky High\u201d or \u201cGet Back to your Roots\u201d.\r\n\u201cFarm Boys Do it Better\u201d launches online at SkyHighFarmWorkwear.com, Dover Street Market Global E-Shops and retail locations, and with the brand\u2019s global retail community at 10:00am EST February 15.</media:text>\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1044/0-108-1044-696/azure/dazed-prod/1330/8/1338452.jpeg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1278/0-111-1278-852/azure/dazed-prod/1330/8/1338453.jpeg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1044/0-171-1044-696/azure/dazed-prod/1330/8/1338454.jpeg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1035/0-171-1035-690/azure/dazed-prod/1330/8/1338455.jpeg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1044/0-99-1044-696/azure/dazed-prod/1330/8/1338456.jpeg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1278/0-28-1278-852/azure/dazed-prod/1330/8/1338457.jpeg\" />\r\n      <media:content type=\"image/jpeg\" isDefault=\"true\" url=\"https://images-prod.dazeddigital.com/1037/azure/dazed-prod/1330/8/1338455.jpeg\" />\r\n      <media:content type=\"image/jpeg\" url=\"https://images-prod.dazeddigital.com/1278/0-111-1278-852/azure/dazed-prod/1330/8/1338453.jpeg\" />\r\n      <media:content type=\"image/jpeg\" url=\"https://images-prod.dazeddigital.com/1044/0-108-1044-696/azure/dazed-prod/1330/8/1338452.jpeg\" />\r\n      <media:content type=\"image/jpeg\" url=\"https://images-prod.dazeddigital.com/1278/0-28-1278-852/azure/dazed-prod/1330/8/1338457.jpeg\" />\r\n      <media:content type=\"image/jpeg\" url=\"https://images-prod.dazeddigital.com/1044/0-99-1044-696/azure/dazed-prod/1330/8/1338456.jpeg\" />\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "Stepping out from behind the camera, the photographer has teamed up with Sky High Farm Workwear to design his dream capsule collection"
+}

@@ -1,0 +1,250 @@
+{
+  "document_id": "10132413124b6d3ed5224c38f9ce32bdc8bc589b5b922dcc9a6e623aa5012d8a",
+  "document_metadata": {
+    "id": "10132413124b6d3ed5224c38f9ce32bdc8bc589b5b922dcc9a6e623aa5012d8a",
+    "date": 20251124,
+    "publisher_id": "5f4ee9bc-88b6-4a5e-8189-f7b48434331e",
+    "image": "https://static.independent.co.uk/2025/11/24/14/10/GettyImages-2208587691.jpeg?width=1200&auto=webp&trim=0%2C38%2C0%2C38",
+    "date_year": 2025,
+    "date_month": 11,
+    "crawl_date": "2025-11-24T15:07:08.265829811Z",
+    "date_day": 24,
+    "title": "Middlesbrough appoint new head coach after Rob Edwards defection",
+    "url": "https://www.independent.co.uk/sport/football/middlesbrough-new-manager-wolves-rob-edwards-b2871331.html",
+    "url2": "https://www.independent.co.uk/sport/football/middlesbrough-new-manager-wolves-rob-edwards-b2871331.html",
+    "domain": "www.independent.co.uk",
+    "lang": "unknown",
+    "published_date": "2025-11-24T14:39:06Z",
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "5f4ee9bc-88b6-4a5e-8189-f7b48434331e",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2025-11-24T15:07:08.265000",
+    "published_date_parsed": "2025-11-24T14:39:06",
+    "rawType": "xml",
+    "publisherId": "5f4ee9bc-88b6-4a5e-8189-f7b48434331e",
+    "documentId": "10132413124b6d3ed5224c38f9ce32bdc8bc589b5b922dcc9a6e623aa5012d8a",
+    "rawcontent_created": "2025-11-24T15:07:09.326000",
+    "source": "The Independent (UK)",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=www.independent.co.uk",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=www.independent.co.uk",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=www.independent.co.uk",
+    "first_words": "Middlesbrough have appointed Kim Hellberg as their new head coach, replacing Rob Edwards following his decision to jump ship to Wolves. The 37-year-old arrives on Teesside from Swedish side Hammarby and takes the reins on a permanent basis from ex-Boro boss Edwards, who joined the Premier League\u2019s rock-bottom side earlier this month. Hellberg is set to formally take charge later in the week, with interim manager Adi Viveash overseeing Tuesday's Championship clash at home to Coventry. Hellberg told the Middlesbrough website: \"I'm delighted to have been appointed as Boro's head coach and I'm very proud to be",
+    "has_chunks": true
+  },
+  "publisher_metadata": {
+    "id": "5f4ee9bc-88b6-4a5e-8189-f7b48434331e",
+    "group_id": "b01f689e-470f-4ab0-a5f3-0417afdc9aa9",
+    "name": "The Independent (UK)",
+    "domain": "independent.co.uk",
+    "location": "United Kingdom",
+    "country": "United Kingdom",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": [
+      "186d72ec-3dbe-4c75-97a5-578fb5e2fd06"
+    ]
+  },
+  "content_metadata": {
+    "document_title_txt": "Middlesbrough appoint new head coach after Rob Edwards defection",
+    "document_authors_txt": [],
+    "hash": "31fb88be6587cba645e53e6f56340f9ac5b8387dc0210e180b8a846c0bb94331"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2025-11-24",
+    "chunking": {
+      "service": "PrtDocumentInference",
+      "chunkingStrategy": "llm_semantic_batch",
+      "llmPromptVersion": "v1.0.1",
+      "batchId": "150cbb2d-a5d7-44db-b333-053be269142a",
+      "chunkingRequestId": "992c9f97-e9fc-4e2b-84fd-7f332c38fd01",
+      "totalChunks": 1,
+      "processingTime": 1288315,
+      "processingTimestamp": "2025-11-24T15:28:41.633512+00:00",
+      "tokenUsage": {
+        "total_tokens": 1751,
+        "prompt_tokens": 1453,
+        "completion_tokens": 298,
+        "model_version": "gemini-2.5-flash-lite"
+      },
+      "has_existing_chunks": true,
+      "chunks_count": 1
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "10132413124b6d3ed5224c38f9ce32bdc8bc589b5b922dcc9a6e623aa5012d8a-0",
+        "idx": 0,
+        "hash": "8bdc90be04a094fcb5ac7804557ad6c454fddd6cfe6cca35bf9ed517a79ab8e2",
+        "sim_hash": "18287827908578805494"
+      },
+      "content_original": "Middlesbrough have appointed Kim Hellberg as their new head coach, replacing Rob Edwards following his decision to jump ship to Wolves. The 37-year-old arrives on Teesside from Swedish side Hammarby and takes the reins on a permanent basis from ex-Boro boss Edwards, who joined the Premier League\u2019s rock-bottom side earlier this month. Hellberg is set to formally take charge later in the week, with interim manager Adi Viveash overseeing Tuesday's Championship clash at home to Coventry. Hellberg told the Middlesbrough website: \u201cI'm delighted to have been appointed as Boro's head coach and I'm very proud to be here. A lot of things make Boro the perfect choice for me. I want us to play quick and aggressive football and to try to win the ball as quickly as possible if we don't have it. I want us to be quick on goal and create a lot of chances. I've been very impressed with the players and how they've worked so far this season and I'm looking forward to getting to work with them.\u201c Middlesbrough failed to win their first game since Edwards\u2019 departure on the weekend, being held to a 1-1 draw by Oxford United. While falling seven points adrift of Frank Lampard\u2019s free-scoring Coventry in first, Hellberg joins with the side still in the top two, three points ahead of Stoke City in the play-offs.",
+      "content": "Middlesbrough have appointed Kim Hellberg as their new head coach, replacing Rob Edwards following his decision to jump ship to Wolves. The 37-year-old arrives on Teesside from Swedish side Hammarby and takes the reins on a permanent basis from ex-Boro boss Edwards, who joined the Premier League\u2019s rock-bottom side earlier this month. Hellberg is set to formally take charge later in the week, with interim manager Adi Viveash overseeing Tuesday's Championship clash at home to Coventry. Hellberg told the Middlesbrough website: \u201cI'm delighted to have been appointed as Boro's head coach and I'm very proud to be here. A lot of things make Boro the perfect choice for me. I want us to play quick and aggressive football and to try to win the ball as quickly as possible if we don't have it. I want us to be quick on goal and create a lot of chances. I've been very impressed with the players and how they've worked so far this season and I'm looking forward to getting to work with them.\u201c Middlesbrough failed to win their first game since Edwards\u2019 departure on the weekend, being held to a 1-1 draw by Oxford United. While falling seven points adrift of Frank Lampard\u2019s free-scoring Coventry in first, Hellberg joins with the side still in the top two, three points ahead of Stoke City in the play-offs."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "10132413124b6d3ed5224c38f9ce32bdc8bc589b5b922dcc9a6e623aa5012d8a-0",
+        "idx": 0,
+        "hash": "8bdc90be04a094fcb5ac7804557ad6c454fddd6cfe6cca35bf9ed517a79ab8e2",
+        "sim_hash": "18287827908578805494"
+      },
+      "content_original": "Middlesbrough have appointed Kim Hellberg as their new head coach, replacing Rob Edwards following his decision to jump ship to Wolves. The 37-year-old arrives on Teesside from Swedish side Hammarby and takes the reins on a permanent basis from ex-Boro boss Edwards, who joined the Premier League\u2019s rock-bottom side earlier this month. Hellberg is set to formally take charge later in the week, with interim manager Adi Viveash overseeing Tuesday's Championship clash at home to Coventry. Hellberg told the Middlesbrough website: \u201cI'm delighted to have been appointed as Boro's head coach and I'm very proud to be here. A lot of things make Boro the perfect choice for me. I want us to play quick and aggressive football and to try to win the ball as quickly as possible if we don't have it. I want us to be quick on goal and create a lot of chances. I've been very impressed with the players and how they've worked so far this season and I'm looking forward to getting to work with them.\u201c Middlesbrough failed to win their first game since Edwards\u2019 departure on the weekend, being held to a 1-1 draw by Oxford United. While falling seven points adrift of Frank Lampard\u2019s free-scoring Coventry in first, Hellberg joins with the side still in the top two, three points ahead of Stoke City in the play-offs.",
+      "content": "Middlesbrough have appointed Kim Hellberg as their new head coach, replacing Rob Edwards following his decision to jump ship to Wolves. The 37-year-old arrives on Teesside from Swedish side Hammarby and takes the reins on a permanent basis from ex-Boro boss Edwards, who joined the Premier League\u2019s rock-bottom side earlier this month. Hellberg is set to formally take charge later in the week, with interim manager Adi Viveash overseeing Tuesday's Championship clash at home to Coventry. Hellberg told the Middlesbrough website: \u201cI'm delighted to have been appointed as Boro's head coach and I'm very proud to be here. A lot of things make Boro the perfect choice for me. I want us to play quick and aggressive football and to try to win the ball as quickly as possible if we don't have it. I want us to be quick on goal and create a lot of chances. I've been very impressed with the players and how they've worked so far this season and I'm looking forward to getting to work with them.\u201c Middlesbrough failed to win their first game since Edwards\u2019 departure on the weekend, being held to a 1-1 draw by Oxford United. While falling seven points adrift of Frank Lampard\u2019s free-scoring Coventry in first, Hellberg joins with the side still in the top two, three points ahead of Stoke City in the play-offs."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "10132413124b6d3ed5224c38f9ce32bdc8bc589b5b922dcc9a6e623aa5012d8a-0",
+        "idx": 0,
+        "hash": "8bdc90be04a094fcb5ac7804557ad6c454fddd6cfe6cca35bf9ed517a79ab8e2",
+        "sim_hash": "18287827908578805494"
+      },
+      "content_original": "Middlesbrough have appointed Kim Hellberg as their new head coach, replacing Rob Edwards following his decision to jump ship to Wolves. The 37-year-old arrives on Teesside from Swedish side Hammarby and takes the reins on a permanent basis from ex-Boro boss Edwards, who joined the Premier League\u2019s rock-bottom side earlier this month. Hellberg is set to formally take charge later in the week, with interim manager Adi Viveash overseeing Tuesday's Championship clash at home to Coventry. Hellberg told the Middlesbrough website: \u201cI'm delighted to have been appointed as Boro's head coach and I'm very proud to be here. A lot of things make Boro the perfect choice for me. I want us to play quick and aggressive football and to try to win the ball as quickly as possible if we don't have it. I want us to be quick on goal and create a lot of chances. I've been very impressed with the players and how they've worked so far this season and I'm looking forward to getting to work with them.\u201c Middlesbrough failed to win their first game since Edwards\u2019 departure on the weekend, being held to a 1-1 draw by Oxford United. While falling seven points adrift of Frank Lampard\u2019s free-scoring Coventry in first, Hellberg joins with the side still in the top two, three points ahead of Stoke City in the play-offs.",
+      "content": "Middlesbrough have appointed Kim Hellberg as their new head coach, replacing Rob Edwards following his decision to jump ship to Wolves. The 37-year-old arrives on Teesside from Swedish side Hammarby and takes the reins on a permanent basis from ex-Boro boss Edwards, who joined the Premier League\u2019s rock-bottom side earlier this month. Hellberg is set to formally take charge later in the week, with interim manager Adi Viveash overseeing Tuesday's Championship clash at home to Coventry. Hellberg told the Middlesbrough website: \u201cI'm delighted to have been appointed as Boro's head coach and I'm very proud to be here. A lot of things make Boro the perfect choice for me. I want us to play quick and aggressive football and to try to win the ball as quickly as possible if we don't have it. I want us to be quick on goal and create a lot of chances. I've been very impressed with the players and how they've worked so far this season and I'm looking forward to getting to work with them.\u201c Middlesbrough failed to win their first game since Edwards\u2019 departure on the weekend, being held to a 1-1 draw by Oxford United. While falling seven points adrift of Frank Lampard\u2019s free-scoring Coventry in first, Hellberg joins with the side still in the top two, three points ahead of Stoke City in the play-offs."
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "386d42f4-ae28-41c6-82ae-fdb34d2e4b5e",
+      "timestamp": "2025-11-24T15:33:19.912000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "5f4ee9bc-88b6-4a5e-8189-f7b48434331e",
+      "version": "2.3",
+      "date": "2025-11-24",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.1",
+        "batchId": "150cbb2d-a5d7-44db-b333-053be269142a",
+        "chunkingRequestId": "992c9f97-e9fc-4e2b-84fd-7f332c38fd01",
+        "totalChunks": 1,
+        "processingTime": 1288315,
+        "processingTimestamp": "2025-11-24T15:28:41.633512+00:00",
+        "tokenUsage": {
+          "total_tokens": 1751,
+          "prompt_tokens": 1453,
+          "completion_tokens": 298,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "has_existing_chunks": true,
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "10132413124b6d3ed5224c38f9ce32bdc8bc589b5b922dcc9a6e623aa5012d8a"
+    },
+    {
+      "_id": "5e497ea4-7b44-4615-9768-993318e9dfd5",
+      "timestamp": "2025-11-24T15:33:19.912000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "5f4ee9bc-88b6-4a5e-8189-f7b48434331e",
+      "version": "2.3",
+      "date": "2025-11-24",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.1",
+        "batchId": "150cbb2d-a5d7-44db-b333-053be269142a",
+        "chunkingRequestId": "992c9f97-e9fc-4e2b-84fd-7f332c38fd01",
+        "totalChunks": 1,
+        "processingTime": 1288315,
+        "processingTimestamp": "2025-11-24T15:28:41.633512+00:00",
+        "tokenUsage": {
+          "total_tokens": 1751,
+          "prompt_tokens": 1453,
+          "completion_tokens": 298,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "has_existing_chunks": true,
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "10132413124b6d3ed5224c38f9ce32bdc8bc589b5b922dcc9a6e623aa5012d8a"
+    },
+    {
+      "_id": "a06fde38-9ba7-4c6e-9939-90bf1b49d0a2",
+      "timestamp": "2025-11-24T15:07:14.557000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "5f4ee9bc-88b6-4a5e-8189-f7b48434331e",
+      "version": "2.3",
+      "date": "2025-11-24",
+      "chunking": {
+        "strategy": "simple",
+        "chunks_count": 3
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "none",
+        "model": "none",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 3,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "10132413124b6d3ed5224c38f9ce32bdc8bc589b5b922dcc9a6e623aa5012d8a"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\">\r\n  <channel>\r\n    <title>The Independent Independent</title>\r\n    <link>https://www.independent.co.uk</link>\r\n    <description>The Independent Independent feed</description>\r\n    <item>\r\n      <title>Middlesbrough appoint new head coach after Rob Edwards defection</title>\r\n      <link>https://www.independent.co.uk/sport/football/middlesbrough-new-manager-wolves-rob-edwards-b2871331.html</link>\r\n      <dcterms:alternative xmlns:dcterms=\"http://purl.org/dc/terms/\">Middlesbrough have confirmed their new manager after Edwards jumped ship to Wolves</dcterms:alternative>\r\n      <description>&lt;p&gt;&lt;a href=\"https://www.independent.co.uk/topic/middlesbrough\"&gt;Middlesbrough&lt;/a&gt; have appointed Kim Hellberg as their new head coach, replacing Rob Edwards following his decision to jump ship to &lt;a href=\"https://www.independent.co.uk/topic/wolves\"&gt;Wolves&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;The 37-year-old arrives on Teesside from Swedish side Hammarby and takes the reins on a permanent basis from ex-Boro boss Edwards, who joined the &lt;a href=\"https://www.independent.co.uk/topic/premier-league\"&gt;Premier League&lt;/a&gt;\u2019s rock-bottom side earlier this month.&lt;/p&gt;&lt;p&gt;Hellberg is set to formally take charge later in the week, with interim manager Adi Viveash overseeing Tuesday's &lt;a href=\"https://www.independent.co.uk/topic/championship\"&gt;Championship&lt;/a&gt; clash at home to &lt;a href=\"https://www.independent.co.uk/topic/coventry\"&gt;Coventry&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Hellberg told the Middlesbrough website: \"I'm delighted to have been appointed as Boro's head coach and I'm very proud to be here. A lot of things make Boro the perfect choice for me.&lt;/p&gt;&lt;img src=\"https://static.independent.co.uk/2025/11/12/14/98a0ca71c974a350775aef00d1bafd09Y29udGVudHNlYXJjaGFwaSwxNzYzMDM1OTA1-2.82149097.jpg\" alt=\"Rob Edwards signed a three-year deal with Middlesbrough in June before leaving earlier this month (Steve Welsh/PA) (PA Wire)\" /&gt;&lt;p&gt;\"I want us to play quick and aggressive football and to try to win the ball as quickly as possible if we don't have it. I want us to be quick on goal and create a lot of chances.&lt;/p&gt;&lt;p&gt;\"I've been very impressed with the players and how they've worked so far this season and I'm looking forward to getting to work with them.\"&lt;/p&gt;&lt;p&gt;Middlesbrough failed to win their first game since Edwards\u2019 departure on the weekend, being held to a 1-1 draw by Oxford United.&lt;/p&gt;&lt;p&gt;While falling seven points adrift of &lt;a href=\"https://www.independent.co.uk/topic/frank-lampard\"&gt;Frank Lampard&lt;/a&gt;\u2019s free-scoring Coventry in first, Hellberg joins with the side still in the top two, three points ahead of &lt;a href=\"https://www.independent.co.uk/topic/stoke-city\"&gt;Stoke City&lt;/a&gt; in the play-offs.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Additional reporting from PA&lt;/em&gt;&lt;/p&gt;&lt;div&gt;      &lt;div&gt;Read More&lt;/div&gt;      &lt;div&gt;         &lt;p&gt;&lt;a href=\"https://www.independent.co.uk/sport/football/pep-guardiola-premier-league-sport-city-gianluigi-donnarumma-b2871347.html\"&gt;Pep Guardiola \u2019embarrassed and ashamed\u2019 of cameraman confrontation at Newcastle&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=\"https://www.independent.co.uk/bulletin/sport/chelsea-cole-palmer-back-soon-freak-accident-b2871272.html\"&gt;Chelsea talisman Cole Palmer will be back \u2018soon\u2019 after freak accident at home&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=\"https://www.independent.co.uk/sport/football/arsenal-spurs-paris-st-germain-thomas-frank-emirates-stadium-b2871261.html\"&gt;Joao Palhinha apologises after derby loss to Arsenal and promises \u2018big reaction\u2019&lt;/a&gt;&lt;/p&gt;      &lt;/div&gt;&lt;/div&gt;</description>\r\n      <category>Football</category>\r\n      <category>Sport</category>\r\n      <pubDate>Mon, 24 Nov 2025 14:39:06 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">b2871331</guid>\r\n      <dc:creator>Will Castle</dc:creator>\r\n      <dc:date>2025-11-24T14:39:06Z</dc:date>\r\n      <media:keywords>Championship, Middlesbrough, Wolves, Premier League</media:keywords>\r\n      <media:content medium=\"image\" type=\"image/jpeg\" url=\"https://static.independent.co.uk/2025/11/24/14/10/GettyImages-2208587691.jpeg?width=1200&amp;auto=webp&amp;trim=0%2C38%2C0%2C38\">\r\n        <media:credit scheme=\"urn:ebu\">Getty Images</media:credit>\r\n        <media:text>Middlesbrough have appointed a new manager -  (Getty Images)</media:text>\r\n      </media:content>\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "[Middlesbrough](https://www.independent.co.uk/topic/middlesbrough) have appointed Kim Hellberg as their new head coach, replacing Rob Edwards following his decision to jump ship to [Wolves](https://www.independent.co.uk/topic/wolves).\n\nThe 37-year-old arrives on Teesside from Swedish side Hammarby and takes the reins on a permanent basis from ex-Boro boss Edwards, who joined the [Premier League](https://www.independent.co.uk/topic/premier-league)\u2019s rock-bottom side earlier this month.\n\nHellberg is set to formally take charge later in the week, with interim manager Adi Viveash overseeing Tuesday's [Championship](https://www.independent.co.uk/topic/championship) clash at home to [Coventry](https://www.independent.co.uk/topic/coventry).\n\nHellberg told the Middlesbrough website: \"I'm delighted to have been appointed as Boro's head coach and I'm very proud to be here. A lot of things make Boro the perfect choice for me.\n\n![Rob Edwards signed a three-year deal with Middlesbrough in June before leaving earlier this month (Steve Welsh/PA) (PA Wire)](https://static.independent.co.uk/2025/11/12/14/98a0ca71c974a350775aef00d1bafd09Y29udGVudHNlYXJjaGFwaSwxNzYzMDM1OTA1-2.82149097.jpg)\n\n\"I want us to play quick and aggressive football and to try to win the ball as quickly as possible if we don't have it. I want us to be quick on goal and create a lot of chances.\n\n\"I've been very impressed with the players and how they've worked so far this season and I'm looking forward to getting to work with them.\"\n\nMiddlesbrough failed to win their first game since Edwards\u2019 departure on the weekend, being held to a 1-1 draw by Oxford United.\n\nWhile falling seven points adrift of [Frank Lampard](https://www.independent.co.uk/topic/frank-lampard)\u2019s free-scoring Coventry in first, Hellberg joins with the side still in the top two, three points ahead of [Stoke City](https://www.independent.co.uk/topic/stoke-city) in the play-offs.\n\n*Additional reporting from PA*\n\nRead More\n\n[Pep Guardiola \u2019embarrassed and ashamed\u2019 of cameraman confrontation at Newcastle](https://www.independent.co.uk/sport/football/pep-guardiola-premier-league-sport-city-gianluigi-donnarumma-b2871347.html)\n\n[Chelsea talisman Cole Palmer will be back \u2018soon\u2019 after freak accident at home](https://www.independent.co.uk/bulletin/sport/chelsea-cole-palmer-back-soon-freak-accident-b2871272.html)\n\n[Joao Palhinha apologises after derby loss to Arsenal and promises \u2018big reaction\u2019](https://www.independent.co.uk/sport/football/arsenal-spurs-paris-st-germain-thomas-frank-emirates-stadium-b2871261.html)\n\nMiddlesbrough have confirmed their new manager after Edwards jumped ship to Wolves"
+}

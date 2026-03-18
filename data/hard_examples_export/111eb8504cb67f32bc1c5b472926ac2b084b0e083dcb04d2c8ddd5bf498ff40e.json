@@ -1,0 +1,265 @@
+{
+  "document_id": "111eb8504cb67f32bc1c5b472926ac2b084b0e083dcb04d2c8ddd5bf498ff40e",
+  "document_metadata": {
+    "id": "111eb8504cb67f32bc1c5b472926ac2b084b0e083dcb04d2c8ddd5bf498ff40e",
+    "date": 20250808,
+    "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "image": "https://images-prod.dazeddigital.com/1995/3-340-1995-1330/azure/dazed-prod/1410/9/1419318.JPG",
+    "date_year": 2025,
+    "date_month": 8,
+    "crawl_date": "2026-02-05T09:50:40.412323881Z",
+    "date_day": 8,
+    "title": "What went down when Dazed Club and HEYDUDE partied in Glasgow",
+    "url": "https://www.dazeddigital.com/fashion/article/68376/1/what-went-down-when-dazed-club-and-heydude-partied-in-glasgow",
+    "url2": "https://www.dazeddigital.com/fashion/article/68376/1/what-went-down-when-dazed-club-and-heydude-partied-in-glasgow",
+    "domain": "www.dazeddigital.com",
+    "lang": "unknown",
+    "published_date": "2025-08-08T13:56:00Z",
+    "authors": [
+      "Dazed Digital"
+    ],
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2026-02-05T09:50:40.412000",
+    "published_date_parsed": "2025-08-08T13:56:00",
+    "rawType": "xml",
+    "publisherId": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "documentId": "111eb8504cb67f32bc1c5b472926ac2b084b0e083dcb04d2c8ddd5bf498ff40e",
+    "rawcontent_created": "2026-02-05T09:50:51.953000",
+    "source": "Dazed",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=www.dazeddigital.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=www.dazeddigital.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=www.dazeddigital.com",
+    "first_words": "The brand headed to Lewis Capaldi\u2019s hometown to celebrate the singer\u2019s starring role in its latest campaign",
+    "has_chunks": true,
+    "has_denoised_markdown": true
+  },
+  "publisher_metadata": {
+    "id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "group_id": "c64289fd-a8ce-4f8b-8375-f1d15bc04f6d",
+    "name": "Dazed",
+    "domain": "dazeddigital.com",
+    "location": "Global",
+    "country": "Global",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "What went down when Dazed Club and HEYDUDE partied in Glasgow",
+    "document_authors_txt": [
+      "Dazed Digital"
+    ],
+    "hash": "552b3b27ffff514ce8c1e79fce82964abad9a0769d349bb2f50b76b1cea1a0e6"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2026-02-05",
+    "chunking": {
+      "service": "PrtDocumentInference",
+      "chunkingStrategy": "llm_semantic_batch",
+      "llmPromptVersion": "v1.0.3",
+      "batchId": "c2ecafe1-aac0-42ab-afa8-1dfec4b8951b",
+      "chunkingRequestId": "8d86e3f9-749b-4e90-bcde-050c8153f659",
+      "totalChunks": 1,
+      "processingTime": 2178342,
+      "processingTimestamp": "2026-02-05T10:27:18.902880+00:00",
+      "tokenUsage": {
+        "total_tokens": 1146,
+        "prompt_tokens": 1119,
+        "completion_tokens": 27,
+        "model_version": "gemini-2.5-flash-lite"
+      },
+      "wasRepaired": false,
+      "repairMetadata": null,
+      "has_existing_chunks": true,
+      "chunks_count": 1
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "111eb8504cb67f32bc1c5b472926ac2b084b0e083dcb04d2c8ddd5bf498ff40e-0",
+        "idx": 0,
+        "hash": "2e11b8585ae472a4591c6e5f912c6c35a0a8928f4ffe9688327641f325e8c5fd",
+        "sim_hash": "9172827033660950355"
+      },
+      "content_original": "The brand headed to Lewis Capaldi\u2019s hometown to celebrate the singer\u2019s starring role in its latest campaign",
+      "content": "The brand headed to Lewis Capaldi\u2019s hometown to celebrate the singer\u2019s starring role in its latest campaign"
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "35114de2-afec-4278-af9d-d555853356a0",
+      "timestamp": "2025-10-24T14:40:03.588000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2025-10-24",
+      "chunking": {
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "111eb8504cb67f32bc1c5b472926ac2b084b0e083dcb04d2c8ddd5bf498ff40e"
+    },
+    {
+      "_id": "a2babebc-a92b-4b91-800f-8b4cb0ce2678",
+      "timestamp": "2026-02-05T09:50:59.708000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "strategy": "markdown",
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "111eb8504cb67f32bc1c5b472926ac2b084b0e083dcb04d2c8ddd5bf498ff40e"
+    },
+    {
+      "_id": "c3e7ad68-276c-4cd6-aa43-a7c33762b547",
+      "timestamp": "2026-02-05T10:27:25.701000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.3",
+        "batchId": "c2ecafe1-aac0-42ab-afa8-1dfec4b8951b",
+        "chunkingRequestId": "8d86e3f9-749b-4e90-bcde-050c8153f659",
+        "totalChunks": 1,
+        "processingTime": 2178342,
+        "processingTimestamp": "2026-02-05T10:27:18.902880+00:00",
+        "tokenUsage": {
+          "total_tokens": 1146,
+          "prompt_tokens": 1119,
+          "completion_tokens": 27,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "wasRepaired": false,
+        "repairMetadata": null,
+        "has_existing_chunks": true,
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "111eb8504cb67f32bc1c5b472926ac2b084b0e083dcb04d2c8ddd5bf498ff40e"
+    },
+    {
+      "_id": "fbc8ca46-78d1-4039-9154-49df06883a81",
+      "timestamp": "2026-02-05T10:07:18.959000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.3",
+        "batchId": "391b281d-8bcd-4095-8d60-00e030a1be7b",
+        "chunkingRequestId": "9e643000-52d3-4aa1-8288-49e17a491050",
+        "totalChunks": 1,
+        "processingTime": 977611,
+        "processingTimestamp": "2026-02-05T10:07:15.769586+00:00",
+        "tokenUsage": {
+          "total_tokens": 1146,
+          "prompt_tokens": 1119,
+          "completion_tokens": 27,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "wasRepaired": false,
+        "repairMetadata": null,
+        "has_existing_chunks": true,
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "111eb8504cb67f32bc1c5b472926ac2b084b0e083dcb04d2c8ddd5bf498ff40e"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Dazed</title>\r\n    <link>https://dazeddigital.com/feed/rss/gist</link>\r\n    <description>Youth and pop culture provocateurs since 1991. Fearless fashion, music, art, film, politics and ideas from today's bleeding edge. Declare Independence.</description>\r\n    <item>\r\n      <title>What went down when Dazed Club and HEYDUDE partied in Glasgow</title>\r\n      <link>https://www.dazeddigital.com/fashion/article/68376/1/what-went-down-when-dazed-club-and-heydude-partied-in-glasgow</link>\r\n      <description>The brand headed to Lewis Capaldi\u2019s hometown to celebrate the singer\u2019s starring role in its latest campaign</description>\r\n      <pubDate>Fri, 08 Aug 2025 13:56:00 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">https://www.dazeddigital.com/fashion/article/68376/1/what-went-down-when-dazed-club-and-heydude-partied-in-glasgow</guid>\r\n      <dc:creator>Dazed Digital</dc:creator>\r\n      <dc:date>2025-08-08T13:56:00Z</dc:date>\r\n      <media:credit scheme=\"urn:ebu\">Photography Spit Turner</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Spit Turner</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Spit Turner</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Spit Turner</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Spit Turner</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Spit Turner</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Dazed Club</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Dazed Club</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Spit Turner</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Spit Turner</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Spit Turner</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Spit Turner</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Spit Turner</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Spit Turner</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Spit Turner</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Dazed Club</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Spit Turner</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Spit Turner</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Spit Turner</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Spit Turner</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Spit Turner</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Spit Turner</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Dazed Club</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Spit Turner</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Spit Turner</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Spit Turner</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Spit Turner</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Spit Turner</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Spit Turner</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Spit Turner</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Spit Turner</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Dazed Club</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Dazed Club</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Dazed Club</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Dazed Club</media:credit>\r\n      <media:text type=\"html\">After landing in the UK last year, footwear brand HEYDUDE has been making a case for laid-back, affordable, and comfortable style. \u201c[HEYDUDE] are all about feeling right in yourself,\u201d as campaign star Lewis Capaldi recently told Dazed, drawing a comparison to his own creative process. \u201cMaking music is something that brings me a lot of comfort. You have to make music for you, and then you hope that people find some of themselves in it.\u201d\r\nWhat else can bring you comfort \u2013\u00a0partying with friends? Table football? That was the idea last week, when Dazed Club and HEYDUDE brought a one-night-only party to Glasgow, to celebrate its latest campaign. If you didn\u2019t manage to make it along, you can read about everything that went down below.</media:text>\r\n      <media:text type=\"html\">HEYDUDE HEADED TO LEWIS CAPALDI\u2019S HOMETOWN</media:text>\r\n      <media:text type=\"html\">Where better to celebrate the new campaign starring the singer than Wunderbar, a local and down-to-earth favourite in his home city, and host to the best of its culture? Music, retro arcade games, a pop-up crazy golf course, and more were on offer at the venue, which sits right at Glasgow\u2019s heart.\r\nSPEAKING OF THE MUSIC...</media:text>\r\n      <media:text type=\"html\">A hand-picked line-up of emerging artists soundtracked the night, keeping it true to Capaldi\u2019s musical roots. Spanning a range of genres, the crowd enjoyed sets from Laura Jade, rising Scottish pop artist Emilie Leslie, Glaswegian singer Pat Hamilton, and Middlesbrough\u2019s Finn Forster. To top things off, Woody Cook also took to the stage to wrap up the night with an energetic headline DJ set.\r\nAND AT THE CAPALDI BAR...</media:text>\r\n      <media:text type=\"html\">Yes, you heard it right: a custom-built Capaldi bar was serving up mixes based on the singer\u2019s own go-to favourites. On the food side of things, the pizza spot Frank\u2019s \u2013 another local icon \u2013 served up some fun and limited-edition slices, including \u2018Before You Dough\u2019 and \u2018The Wee Spicy One\u2019.\r\nHEYDUDE\u2019S SHOES WERE ALSO VERY MUCH IN ATTENDANCE</media:text>\r\n      <media:text type=\"html\">After all, that\u2019s what everyone was there for... Every guest came away with a pair of HEYDUDE\u2019s signature shoes, customised live by the illustrator Josh Parkin, who was tasked with turning each into a work of wearable art.\u00a0\r\nICYMI, HEYDUDE shoes are already well on the way to becoming a go-to for easy, everyday style, designed to be worn everywhere from the day-to-day to festival season. In the brand\u2019s latest short film, Capaldi wears the Wally Stretch Sox, from the brand\u2019s much-loved Wally and Wendy range. Take a look below.</media:text>\r\n      <media:embed url=\"https://instagram.com/p/DMaMR_Xuc4i/\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1995/3-340-1995-1330/azure/dazed-prod/1410/9/1419318.JPG\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1998/0-275-1998-1332/azure/dazed-prod/1410/9/1419322.JPG\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1998/0-483-1998-1332/azure/dazed-prod/1410/9/1419347.JPG\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/2000/0-0-2000-1333/azure/dazed-prod/1410/9/1419342.JPG\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1998/0-386-1998-1332/azure/dazed-prod/1410/9/1419340.JPG\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1998/0-159-1998-1332/azure/dazed-prod/1410/9/1419333.JPG\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1998/0-416-1998-1332/azure/dazed-prod/1410/9/1419327.JPG\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1998/0-330-1998-1332/azure/dazed-prod/1410/9/1419326.JPG\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1998/0-379-1998-1332/azure/dazed-prod/1410/9/1419325.JPG\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1998/0-706-1998-1332/azure/dazed-prod/1410/9/1419319.JPG\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1998/0-542-1998-1332/azure/dazed-prod/1410/9/1419320.JPG\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1998/0-546-1998-1332/azure/dazed-prod/1410/9/1419321.JPG\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1998/0-394-1998-1332/azure/dazed-prod/1410/9/1419323.JPG\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1998/0-494-1998-1332/azure/dazed-prod/1410/9/1419324.JPG\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1998/0-338-1998-1332/azure/dazed-prod/1410/9/1419328.JPG\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1998/0-568-1998-1332/azure/dazed-prod/1410/9/1419329.JPG\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1998/0-550-1998-1332/azure/dazed-prod/1410/9/1419330.JPG\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1998/0-174-1998-1332/azure/dazed-prod/1410/9/1419331.JPG\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1995/0-304-1995-1330/azure/dazed-prod/1410/9/1419332.JPG\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1998/0-724-1998-1332/azure/dazed-prod/1410/9/1419334.JPG\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/2000/0-0-2000-1333/azure/dazed-prod/1410/9/1419335.JPG\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1998/0-229-1998-1332/azure/dazed-prod/1410/9/1419336.JPG\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/2000/0-0-2000-1333/azure/dazed-prod/1410/9/1419337.JPG\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1998/0-397-1998-1332/azure/dazed-prod/1410/9/1419338.JPG\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1998/0-342-1998-1332/azure/dazed-prod/1410/9/1419339.JPG\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/3000/azure/dazed-prod/1410/9/1419341.JPG\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1998/0-260-1998-1332/azure/dazed-prod/1410/9/1419343.JPG\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/2000/0-0-2000-1333/azure/dazed-prod/1410/9/1419344.JPG\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1998/0-245-1998-1332/azure/dazed-prod/1410/9/1419345.JPG\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1998/0-104-1998-1332/azure/dazed-prod/1410/9/1419346.JPG\" />\r\n      <media:content type=\"image/jpeg\" isDefault=\"true\" url=\"https://images-prod.dazeddigital.com/2000/azure/dazed-prod/1410/9/1419346.JPG\" />\r\n      <media:content type=\"image/jpeg\" url=\"https://images-prod.dazeddigital.com/1998/0-338-1998-1332/azure/dazed-prod/1410/9/1419328.JPG\" />\r\n      <media:content type=\"image/jpeg\" url=\"https://images-prod.dazeddigital.com/1998/0-159-1998-1332/azure/dazed-prod/1410/9/1419333.JPG\" />\r\n      <media:content type=\"image/jpeg\" url=\"https://images-prod.dazeddigital.com/1998/0-416-1998-1332/azure/dazed-prod/1410/9/1419327.JPG\" />\r\n      <media:content type=\"image/jpeg\" url=\"https://images-prod.dazeddigital.com/1998/0-229-1998-1332/azure/dazed-prod/1410/9/1419336.JPG\" />\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "The brand headed to Lewis Capaldi\u2019s hometown to celebrate the singer\u2019s starring role in its latest campaign"
+}

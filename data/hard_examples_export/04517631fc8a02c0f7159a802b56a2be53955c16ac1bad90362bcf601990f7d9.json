@@ -1,0 +1,295 @@
+{
+  "document_id": "04517631fc8a02c0f7159a802b56a2be53955c16ac1bad90362bcf601990f7d9",
+  "document_metadata": {
+    "id": "04517631fc8a02c0f7159a802b56a2be53955c16ac1bad90362bcf601990f7d9",
+    "date": 20160524,
+    "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "image": "https://images-prod.dazeddigital.com/846/azure/dazed-prod/1170/3/1173471.jpg",
+    "date_year": 2016,
+    "date_month": 5,
+    "crawl_date": "2026-02-05T10:40:53.671553302Z",
+    "date_day": 24,
+    "title": "Facebook apologises for banning plus size model ad",
+    "url": "https://www.dazeddigital.com/artsandculture/article/31235/1/facebook-apologises-for-banning-plus-size-model-ad",
+    "url2": "https://www.dazeddigital.com/artsandculture/article/31235/1/facebook-apologises-for-banning-plus-size-model-ad",
+    "domain": "www.dazeddigital.com",
+    "lang": "unknown",
+    "published_date": "2016-05-24T08:00:00Z",
+    "authors": [
+      "Anna Cafolla"
+    ],
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2026-02-05T10:40:53.671000",
+    "published_date_parsed": "2016-05-24T08:00:00",
+    "rawType": "xml",
+    "publisherId": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "documentId": "04517631fc8a02c0f7159a802b56a2be53955c16ac1bad90362bcf601990f7d9",
+    "rawcontent_created": "2026-02-05T10:42:41.134000",
+    "source": "Dazed",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=www.dazeddigital.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=www.dazeddigital.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=www.dazeddigital.com",
+    "first_words": "The advert for a feminist panel event featured model Tess Holliday in a bikini, which FB originally said depicted \u201cbody parts in an undesirable manner\u201d",
+    "has_chunks": true,
+    "has_denoised_markdown": true
+  },
+  "publisher_metadata": {
+    "id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "group_id": "c64289fd-a8ce-4f8b-8375-f1d15bc04f6d",
+    "name": "Dazed",
+    "domain": "dazeddigital.com",
+    "location": "Global",
+    "country": "Global",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "Facebook apologises for banning plus size model ad",
+    "document_authors_txt": [
+      "Anna Cafolla"
+    ],
+    "hash": "2913e83f26bbe3d4b7e7ef78b826541cd42e307a23515535e27fa962c3e882aa"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2026-02-05",
+    "chunking": {
+      "service": "PrtDocumentInference",
+      "chunkingStrategy": "llm_semantic_batch",
+      "llmPromptVersion": "v1.0.3",
+      "batchId": "dd725d56-8586-4d28-94a8-66f1b5a88b99",
+      "chunkingRequestId": "c72b926e-3ed7-49d2-8608-6605bab53f75",
+      "totalChunks": 1,
+      "processingTime": 2030825,
+      "processingTimestamp": "2026-02-05T11:17:16.652318+00:00",
+      "tokenUsage": {
+        "total_tokens": 1158,
+        "prompt_tokens": 1125,
+        "completion_tokens": 33,
+        "model_version": "gemini-2.5-flash-lite"
+      },
+      "wasRepaired": false,
+      "repairMetadata": null,
+      "has_existing_chunks": true,
+      "chunks_count": 1
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "04517631fc8a02c0f7159a802b56a2be53955c16ac1bad90362bcf601990f7d9-0",
+        "idx": 0,
+        "hash": "58c7be37e831e389c8f75e28c2d9462acc28d100b8d32a3358efe2bf2a14f3c9",
+        "sim_hash": "18212595103874525196"
+      },
+      "content_original": "The advert for a feminist panel event featured model Tess Holliday in a bikini, which FB originally said depicted \u201cbody parts in an undesirable manner\u201d",
+      "content": "The advert for a feminist panel event featured model Tess Holliday in a bikini, which FB originally said depicted \u201cbody parts in an undesirable manner\u201d"
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "1cbbf494-b256-489c-b2c9-70299336b691",
+      "timestamp": "2025-10-24T15:35:17.005000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2025-10-24",
+      "chunking": {
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "04517631fc8a02c0f7159a802b56a2be53955c16ac1bad90362bcf601990f7d9"
+    },
+    {
+      "_id": "1be2fcc7-90b6-4ddb-8cff-af0194676fbb",
+      "timestamp": "2026-02-05T11:11:55.888000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.3",
+        "batchId": "70564f9c-d351-46d4-88b7-5e935b878d31",
+        "chunkingRequestId": "35506039-ce96-4afc-8914-91185506d4ae",
+        "totalChunks": 1,
+        "processingTime": 1701448,
+        "processingTimestamp": "2026-02-05T11:11:49.122212+00:00",
+        "tokenUsage": {
+          "total_tokens": 1158,
+          "prompt_tokens": 1125,
+          "completion_tokens": 33,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "wasRepaired": false,
+        "repairMetadata": null,
+        "has_existing_chunks": true,
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "04517631fc8a02c0f7159a802b56a2be53955c16ac1bad90362bcf601990f7d9"
+    },
+    {
+      "_id": "2a5cdfb4-91f0-46d8-af74-db59c8cdbffe",
+      "timestamp": "2026-02-05T10:52:19.745000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "strategy": "markdown",
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "04517631fc8a02c0f7159a802b56a2be53955c16ac1bad90362bcf601990f7d9"
+    },
+    {
+      "_id": "8175dcfe-9b84-40b7-8560-1469ef2a45af",
+      "timestamp": "2026-02-05T11:17:23.998000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.3",
+        "batchId": "dd725d56-8586-4d28-94a8-66f1b5a88b99",
+        "chunkingRequestId": "c72b926e-3ed7-49d2-8608-6605bab53f75",
+        "totalChunks": 1,
+        "processingTime": 2030825,
+        "processingTimestamp": "2026-02-05T11:17:16.652318+00:00",
+        "tokenUsage": {
+          "total_tokens": 1158,
+          "prompt_tokens": 1125,
+          "completion_tokens": 33,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "wasRepaired": false,
+        "repairMetadata": null,
+        "has_existing_chunks": true,
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "04517631fc8a02c0f7159a802b56a2be53955c16ac1bad90362bcf601990f7d9"
+    },
+    {
+      "_id": "af7a088f-c16f-40eb-9c54-60a093015144",
+      "timestamp": "2026-02-05T10:47:57.882000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "strategy": "markdown",
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "04517631fc8a02c0f7159a802b56a2be53955c16ac1bad90362bcf601990f7d9"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Dazed</title>\r\n    <link>https://dazeddigital.com/feed/rss/gist</link>\r\n    <description>Youth and pop culture provocateurs since 1991. Fearless fashion, music, art, film, politics and ideas from today's bleeding edge. Declare Independence.</description>\r\n    <item>\r\n      <title>Facebook apologises for banning plus size model ad</title>\r\n      <link>https://www.dazeddigital.com/artsandculture/article/31235/1/facebook-apologises-for-banning-plus-size-model-ad</link>\r\n      <description>The advert for a feminist panel event featured model Tess Holliday in a bikini, which FB originally said depicted \u201cbody parts in an undesirable manner\u201d</description>\r\n      <pubDate>Tue, 24 May 2016 08:00:00 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">https://www.dazeddigital.com/artsandculture/article/31235/1/facebook-apologises-for-banning-plus-size-model-ad</guid>\r\n      <dc:creator>Anna Cafolla</dc:creator>\r\n      <dc:date>2016-05-24T08:00:00Z</dc:date>\r\n      <media:credit scheme=\"urn:ebu\">via Facebook (Cherchez La Femme)</media:credit>\r\n      <media:keywords>Feminism, Plus-size, Plus size fashion, Tess Holliday</media:keywords>\r\n      <media:text type=\"html\">Facebook has apologised for banning an ad that contained an image of a plus-size model and for telling a feminist group that it depicted \u201cbody parts in an undesirable manner\u201d.\r\nThe advertisement was fronted by model Tess Holliday in a bikini. Australian feminist group Cherchez la Femme, which runs a regular talk show and events with an \u201cunapologetically feminist angle\u201d, initially wanted to promote the advert for a \u2018Feminism and Fat\u2019 panel discussion. Facebook then banned the image because it apparently didn\u2019t comply with\u00a0Health and Fitness Policy\u00a0and \u201cad guidelines\u201d.\r\nWhile the advert was allowed to stay on the event page, the social platform refused to approve the ad, which would have boosted its digital visibility, giving it more reach.\r\nCherchez la Femme then appealed against Facebook\u2019s decision, to which the social media giant responded: \u201cAds may not depict a state of health or body weight as being perfect or extremely undesirable,\u201d Facebook wrote. \u201cAds like these are not allowed since they make viewers feel bad about themselves. Instead, we recommend using an image of a relevant activity, such as running or riding a bike.\u201d\r\nThe group took to their FB page to call out the body shaming actions.\r\n\u201cFacebook has ignored the fact that our event is going to be discussing body positivity (which comes in all shapes and sizes, but in the particular case of our event, fat bodies), and has instead come to the conclusion that we\u2019ve set out to make women feel bad about themselves by posting an image of a wonderful plus sized woman,\u201d the group\u00a0said in Facebook post. \u201cWe\u2019re raging pretty hard over here.\u201d\r\nA statement from Facebook was then released to rectify what they acknowledged as a mistake. It read: \u201cOur team processes millions of advertising images each week, and in some instances we incorrectly prohibit ads. This image does not violate our ad policies. We apologise for the error and have let the advertiser know we are approving their ad.\u201d\r\nJessamy Gleeson, a member of the feminist group, told the Guardian that they wouldn\u2019t be satisfied with the apology until its policies surrounding women\u2019s bodies were addressed.\r\n\u201cQuite simply they need to understand we can use images of fat women to promote women being happy,\u201d she observed. \u201cWhat about all the cases that don\u2019t receive this media attention? They\u2019ve been wrong in many other thousands of cases, I\u2019m sure.\u201d</media:text>\r\n      <media:content type=\"image/jpeg\" isDefault=\"true\" url=\"https://images-prod.dazeddigital.com/846/azure/dazed-prod/1170/3/1173471.jpg\" />\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "The advert for a feminist panel event featured model Tess Holliday in a bikini, which FB originally said depicted \u201cbody parts in an undesirable manner\u201d"
+}

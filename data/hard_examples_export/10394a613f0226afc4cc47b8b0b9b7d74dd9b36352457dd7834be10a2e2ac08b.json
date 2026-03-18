@@ -1,0 +1,117 @@
+{
+  "document_id": "10394a613f0226afc4cc47b8b0b9b7d74dd9b36352457dd7834be10a2e2ac08b",
+  "document_metadata": {
+    "id": "10394a613f0226afc4cc47b8b0b9b7d74dd9b36352457dd7834be10a2e2ac08b",
+    "date": 20140516,
+    "publisher_id": "601c8901-d241-42b0-8c86-73d4702299d9",
+    "date_year": 2014,
+    "date_month": 5,
+    "crawl_date": "2025-10-28T10:48:55.576177126Z",
+    "date_day": 16,
+    "title": "How they see Modi",
+    "url": "http://scroll.in/article/664531/how-they-see-modi?utm_source=rss&utm_medium=prorata",
+    "url2": "http://scroll.in/article/664531/how-they-see-modi?utm_source=rss&utm_medium=prorata",
+    "domain": "scroll.in",
+    "lang": "unknown",
+    "published_date": "2014-05-16T01:15:11Z",
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "601c8901-d241-42b0-8c86-73d4702299d9",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2025-10-28T10:48:55.576000",
+    "published_date_parsed": "2014-05-16T01:15:11",
+    "rawType": "xml",
+    "publisherId": "601c8901-d241-42b0-8c86-73d4702299d9",
+    "documentId": "10394a613f0226afc4cc47b8b0b9b7d74dd9b36352457dd7834be10a2e2ac08b",
+    "rawcontent_created": "2025-10-28T10:48:57.525000",
+    "source": "Scroll.in",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=scroll.in",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=scroll.in",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=scroll.in",
+    "first_words": ""
+  },
+  "publisher_metadata": {
+    "id": "601c8901-d241-42b0-8c86-73d4702299d9",
+    "group_id": "b6965a2b-55e9-4742-b9a0-bd11b92c8643",
+    "name": "Scroll.in",
+    "domain": "api.scroll.in",
+    "location": "Global",
+    "country": "Global",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "How they see Modi",
+    "document_authors_txt": [],
+    "hash": "c98c9d54b0176f2b1c86d54a452146c56addbcda8a1c524a717093f2294c8a8b"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2025-10-28",
+    "chunking": {
+      "chunks_count": 1
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "10394a613f0226afc4cc47b8b0b9b7d74dd9b36352457dd7834be10a2e2ac08b-0",
+        "idx": 0,
+        "hash": "c98c9d54b0176f2b1c86d54a452146c56addbcda8a1c524a717093f2294c8a8b"
+      },
+      "content_original": "![](https://sc0.blr1.digitaloceanspaces.com/large/664531-177d81a5-eeb1-4cba-8e6b-32d647a64731.jpg)\n\n![](https://s3-ap-southeast-1.amazonaws.com/scrollstorage/1400163199-385_modi-meme-final.jpg)",
+      "content": "![](https://sc0.blr1.digitaloceanspaces.com/large/664531-177d81a5-eeb1-4cba-8e6b-32d647a64731.jpg)\n\n![](https://s3-ap-southeast-1.amazonaws.com/scrollstorage/1400163199-385_modi-meme-final.jpg)"
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "1723cf59-14f3-4c1c-8883-0f04fa5c8d71",
+      "timestamp": "2025-10-28T10:49:05.138000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "601c8901-d241-42b0-8c86-73d4702299d9",
+      "version": "2.3",
+      "date": "2025-10-28",
+      "chunking": {
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "10394a613f0226afc4cc47b8b0b9b7d74dd9b36352457dd7834be10a2e2ac08b"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Scroll.in</title>\r\n    <link>https://scroll.in</link>\r\n    <description>A digital daily of things that matter.</description>\r\n    <docs>http://www.rssboard.org/rss-specification</docs>\r\n    <generator>python-feedgen</generator>\r\n    <image>\r\n      <title>Scroll.in</title>\r\n      <url>http://s3-ap-southeast-1.amazonaws.com/scroll-feeds/scroll_logo_small.png</url>\r\n      <link>https://scroll.in</link>\r\n      <width>-1</width>\r\n      <height>-1</height>\r\n    </image>\r\n    <item>\r\n      <title>How they see Modi</title>\r\n      <link>http://scroll.in/article/664531/how-they-see-modi?utm_source=rss&amp;utm_medium=prorata</link>\r\n      <description>Who is the real NaMo?</description>\r\n      <enclosure url=\"https://sc0.blr1.digitaloceanspaces.com/large/664531-177d81a5-eeb1-4cba-8e6b-32d647a64731.jpg\" length=\"0\" type=\"image/jpeg\" />\r\n      <pubDate>Fri, 16 May 2014 01:15:11 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">http://scroll.in/article/664531/how-they-see-modi?utm_source=rss&amp;utm_medium=prorata</guid>\r\n      <dc:creator>Scroll Staff</dc:creator>\r\n      <dc:date>2014-05-16T01:15:11Z</dc:date>\r\n      <content:encoded><![CDATA[<p><figure><img src=\"https://sc0.blr1.digitaloceanspaces.com/large/664531-177d81a5-eeb1-4cba-8e6b-32d647a64731.jpg\" /></figure></p><p style=\"text-align: center;\"><img src=\"https://s3-ap-southeast-1.amazonaws.com/scrollstorage/1400163199-385_modi-meme-final.jpg\"/></p>]]></content:encoded>\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "![](https://sc0.blr1.digitaloceanspaces.com/large/664531-177d81a5-eeb1-4cba-8e6b-32d647a64731.jpg)\n\n![](https://s3-ap-southeast-1.amazonaws.com/scrollstorage/1400163199-385_modi-meme-final.jpg)"
+}

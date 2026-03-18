@@ -1,0 +1,265 @@
+{
+  "document_id": "12b94e62a5c2a42eabb5777f9af9d58d551d4c57eb567284f6adee3156c1a46b",
+  "document_metadata": {
+    "id": "12b94e62a5c2a42eabb5777f9af9d58d551d4c57eb567284f6adee3156c1a46b",
+    "date": 20180622,
+    "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "image": "https://images-prod.dazeddigital.com/1200/0-129-1200-800/azure/dazed-prod/1240/3/1243582.jpg",
+    "date_year": 2018,
+    "date_month": 6,
+    "crawl_date": "2026-02-05T10:21:07.259529729Z",
+    "date_day": 22,
+    "title": "Junya Watanabe Man SS19",
+    "url": "https://www.dazeddigital.com/fashion/gallery/25357/0/junya-watanabe-man-ss19",
+    "url2": "https://www.dazeddigital.com/fashion/gallery/25357/0/junya-watanabe-man-ss19",
+    "domain": "www.dazeddigital.com",
+    "lang": "unknown",
+    "published_date": "2018-06-22T12:28:00Z",
+    "authors": [
+      "Christina Fragkou"
+    ],
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2026-02-05T10:21:07.259000",
+    "published_date_parsed": "2018-06-22T12:28:00",
+    "rawType": "xml",
+    "publisherId": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "documentId": "12b94e62a5c2a42eabb5777f9af9d58d551d4c57eb567284f6adee3156c1a46b",
+    "rawcontent_created": "2026-02-05T10:23:16.842000",
+    "source": "Dazed",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=www.dazeddigital.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=www.dazeddigital.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=www.dazeddigital.com",
+    "first_words": "For SS19, the designer looked to rework camo and utility belts in the high-tech style he\u2019s become known for",
+    "has_chunks": true,
+    "has_denoised_markdown": true
+  },
+  "publisher_metadata": {
+    "id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+    "group_id": "c64289fd-a8ce-4f8b-8375-f1d15bc04f6d",
+    "name": "Dazed",
+    "domain": "dazeddigital.com",
+    "location": "Global",
+    "country": "Global",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "Junya Watanabe Man SS19",
+    "document_authors_txt": [
+      "Christina Fragkou"
+    ],
+    "hash": "bddcb507ea632c36aae69793b05fc49758bfaa9e76d0a10ed0cba157224eb39c"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2026-02-05",
+    "chunking": {
+      "service": "PrtDocumentInference",
+      "chunkingStrategy": "llm_semantic_batch",
+      "llmPromptVersion": "v1.0.3",
+      "batchId": "56bd0161-310c-4180-9f66-37ac37df4883",
+      "chunkingRequestId": "2abbddf0-5a52-4f71-98f5-46ca3ea1fa8b",
+      "totalChunks": 1,
+      "processingTime": 1797894,
+      "processingTimestamp": "2026-02-05T10:53:22.135128+00:00",
+      "tokenUsage": {
+        "total_tokens": 1154,
+        "prompt_tokens": 1123,
+        "completion_tokens": 31,
+        "model_version": "gemini-2.5-flash-lite"
+      },
+      "wasRepaired": false,
+      "repairMetadata": null,
+      "has_existing_chunks": true,
+      "chunks_count": 1
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "12b94e62a5c2a42eabb5777f9af9d58d551d4c57eb567284f6adee3156c1a46b-0",
+        "idx": 0,
+        "hash": "133513e9d62fad6fdd8852a2283fdf4e37975a3e3f8f71eb46b5160574694738",
+        "sim_hash": "10722643392851161664"
+      },
+      "content_original": "For SS19, the designer looked to rework camo and utility belts in the high-tech style he\u2019s become known for",
+      "content": "For SS19, the designer looked to rework camo and utility belts in the high-tech style he\u2019s become known for"
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "3ccbe874-465d-44e6-9aa9-f51e21a00e47",
+      "timestamp": "2025-10-24T15:17:37.416000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2025-10-24",
+      "chunking": {
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "12b94e62a5c2a42eabb5777f9af9d58d551d4c57eb567284f6adee3156c1a46b"
+    },
+    {
+      "_id": "6f6fd9ee-f8ea-49f6-868d-5a2d95c5f931",
+      "timestamp": "2026-02-05T11:01:10.980000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.3",
+        "batchId": "56bd0161-310c-4180-9f66-37ac37df4883",
+        "chunkingRequestId": "2abbddf0-5a52-4f71-98f5-46ca3ea1fa8b",
+        "totalChunks": 1,
+        "processingTime": 1797894,
+        "processingTimestamp": "2026-02-05T10:53:22.135128+00:00",
+        "tokenUsage": {
+          "total_tokens": 1154,
+          "prompt_tokens": 1123,
+          "completion_tokens": 31,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "wasRepaired": false,
+        "repairMetadata": null,
+        "has_existing_chunks": true,
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "12b94e62a5c2a42eabb5777f9af9d58d551d4c57eb567284f6adee3156c1a46b"
+    },
+    {
+      "_id": "9852bc4c-468a-43a9-a962-ddb1cc495bae",
+      "timestamp": "2026-02-05T11:02:19.203000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.3",
+        "batchId": "56bd0161-310c-4180-9f66-37ac37df4883",
+        "chunkingRequestId": "2abbddf0-5a52-4f71-98f5-46ca3ea1fa8b",
+        "totalChunks": 1,
+        "processingTime": 1797894,
+        "processingTimestamp": "2026-02-05T10:53:22.135128+00:00",
+        "tokenUsage": {
+          "total_tokens": 1154,
+          "prompt_tokens": 1123,
+          "completion_tokens": 31,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "wasRepaired": false,
+        "repairMetadata": null,
+        "has_existing_chunks": true,
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "12b94e62a5c2a42eabb5777f9af9d58d551d4c57eb567284f6adee3156c1a46b"
+    },
+    {
+      "_id": "bb4219fc-06cd-42db-8305-13c0463e0745",
+      "timestamp": "2026-02-05T10:23:18.766000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "cbeb8692-211f-4129-b466-5e9b7f58734f",
+      "version": "2.3",
+      "date": "2026-02-05",
+      "chunking": {
+        "strategy": "markdown",
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "12b94e62a5c2a42eabb5777f9af9d58d551d4c57eb567284f6adee3156c1a46b"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Dazed</title>\r\n    <link>https://dazeddigital.com/feed/rss/gist</link>\r\n    <description>Youth and pop culture provocateurs since 1991. Fearless fashion, music, art, film, politics and ideas from today's bleeding edge. Declare Independence.</description>\r\n    <item>\r\n      <title>Junya Watanabe Man SS19</title>\r\n      <link>https://www.dazeddigital.com/fashion/gallery/25357/0/junya-watanabe-man-ss19</link>\r\n      <description>For SS19, the designer looked to rework camo and utility belts in the high-tech style he\u2019s become known for</description>\r\n      <pubDate>Fri, 22 Jun 2018 12:28:00 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">https://www.dazeddigital.com/fashion/gallery/25357/0/junya-watanabe-man-ss19</guid>\r\n      <dc:creator>Christina Fragkou</dc:creator>\r\n      <dc:date>2018-06-22T12:28:00Z</dc:date>\r\n      <media:credit scheme=\"urn:ebu\">Photography Christina Fragkou</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Christina Fragkou</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Christina Fragkou</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Christina Fragkou</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Christina Fragkou</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Christina Fragkou</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Christina Fragkou</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Christina Fragkou</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Christina Fragkou</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Christina Fragkou</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Christina Fragkou</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Christina Fragkou</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Christina Fragkou</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Christina Fragkou</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Christina Fragkou</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Christina Fragkou</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Christina Fragkou</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Christina Fragkou</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Christina Fragkou</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Christina Fragkou</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Christina Fragkou</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Christina Fragkou</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Christina Fragkou</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Christina Fragkou</media:credit>\r\n      <media:credit scheme=\"urn:ebu\">Photography Christina Fragkou</media:credit>\r\n      <media:keywords>Junya Watanabe Man, Junya Watanabe, Paris, Paris Fashion Week</media:keywords>\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1200/0-129-1200-800/azure/dazed-prod/1240/3/1243582.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1200/0-401-1200-800/azure/dazed-prod/1240/3/1243586.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1200/0-289-1200-800/azure/dazed-prod/1240/3/1243595.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1800/azure/dazed-prod/1240/3/1243599.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1200/0-448-1200-800/azure/dazed-prod/1240/3/1243593.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1800/azure/dazed-prod/1240/3/1243597.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1200/0-459-1200-800/azure/dazed-prod/1240/3/1243585.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1800/azure/dazed-prod/1240/3/1243584.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1200/0-399-1200-800/azure/dazed-prod/1240/3/1243590.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1800/azure/dazed-prod/1240/3/1243598.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1800/azure/dazed-prod/1240/3/1243603.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1200/0-466-1200-800/azure/dazed-prod/1240/3/1243601.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1200/0-133-1200-800/azure/dazed-prod/1240/3/1243596.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1800/azure/dazed-prod/1240/3/1243587.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1200/0-392-1200-800/azure/dazed-prod/1240/3/1243588.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1800/azure/dazed-prod/1240/3/1243591.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1200/0-225-1200-800/azure/dazed-prod/1240/3/1243608.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1800/azure/dazed-prod/1240/3/1243604.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1800/azure/dazed-prod/1240/3/1243592.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1800/azure/dazed-prod/1240/3/1243610.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/915/20-202-915-610/azure/dazed-prod/1240/3/1243609.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1200/0-327-1200-800/azure/dazed-prod/1240/3/1243611.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1200/0-138-1200-800/azure/dazed-prod/1240/3/1243583.jpg\" />\r\n      <media:thumbnail url=\"https://images-prod.dazeddigital.com/1200/0-0-1200-800/azure/dazed-prod/1240/3/1243606.jpg\" />\r\n      <media:content type=\"image/jpeg\" isDefault=\"true\" url=\"https://images-prod.dazeddigital.com/1200/azure/dazed-prod/1240/3/1243609.jpg\" />\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "For SS19, the designer looked to rework camo and utility belts in the high-tech style he\u2019s become known for"
+}

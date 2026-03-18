@@ -1,0 +1,180 @@
+{
+  "document_id": "019d7566c4bece9ec37521df513b3c81f0d41464d30876b9e254e00f4699e6a5",
+  "document_metadata": {
+    "id": "019d7566c4bece9ec37521df513b3c81f0d41464d30876b9e254e00f4699e6a5",
+    "date": 20251015,
+    "publisher_id": "81298621-7321-4a54-a714-702517035b21",
+    "image": "www.thestar.com/content/tncms/assets/v3/editorial/0/3d/03dc75d8-d35d-56c6-9d77-75789069780f/68efab297d695.image.jpg",
+    "date_year": 2025,
+    "date_month": 10,
+    "crawl_date": "2025-11-07T11:48:45.871994027Z",
+    "date_day": 15,
+    "title": "Don Valley Parkway off-ramp at Richmond closed today for at least next 5 months due to 'critical' work",
+    "url": "https://www.thestar.com/news/gta/don-valley-parkway-off-ramp-at-richmond-closed-today-for-at-least-next-5-months/article_2d937e5b-98f9-4486-a5ef-2bfc81186c5f.html",
+    "url2": "https://www.thestar.com/news/gta/don-valley-parkway-off-ramp-at-richmond-closed-today-for-at-least-next-5-months/article_2d937e5b-98f9-4486-a5ef-2bfc81186c5f.html",
+    "domain": "thestar.com",
+    "lang": "unknown",
+    "published_date": "2025-10-15T00:00:00-05:00",
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "81298621-7321-4a54-a714-702517035b21",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2025-11-07T11:48:45.871000",
+    "published_date_parsed": "2025-10-15T05:00:00",
+    "rawType": "xml",
+    "publisherId": "81298621-7321-4a54-a714-702517035b21",
+    "documentId": "019d7566c4bece9ec37521df513b3c81f0d41464d30876b9e254e00f4699e6a5",
+    "rawcontent_created": "2025-11-07T11:48:46.072000",
+    "source": "Toronto Star",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=thestar.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=thestar.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=thestar.com",
+    "first_words": "Part of the Don Valley Parkway will be closed starting Wednesday until the spring for \"critical\" rehabilitation work. The closure, which will affect the southbound off-ramp of the DVP to Richmond Street, is a part of the \"critical state-of-good-repair work\" the city is taking on in the area of Eastern Avenue and Adelaide Street East, according to an Oct. 7 news release from the city. To keep traffic moving, the city will adjust traffic signal timing based on \"real-time conditions,\" stop non-emergency construction work on key roads, temporarily restrict some turning lanes, and have traffic agents at key",
+    "has_chunks": true
+  },
+  "publisher_metadata": {
+    "id": "81298621-7321-4a54-a714-702517035b21",
+    "group_id": "f6341f30-c93f-4d91-927d-86b95220c173",
+    "name": "Toronto Star",
+    "domain": "thestar.com",
+    "location": "Canada",
+    "country": "Canada",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "Don Valley Parkway off-ramp at Richmond closed today for at least next 5 months due to 'critical' work",
+    "document_authors_txt": [],
+    "hash": "389213de798440347cd997f28c71a927f315c19159f94f5b8f134d09c6c6c103"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2025-11-07",
+    "chunking": {
+      "service": "PrtDocumentInference",
+      "chunkingStrategy": "llm_semantic_batch",
+      "llmPromptVersion": "v1.0.1",
+      "batchId": "73ac6ee6-83a3-41a0-8a97-0c188c355d3b",
+      "chunkingRequestId": "9241060c-99f6-4d29-a96d-da261be4f72c",
+      "totalChunks": 1,
+      "processingTime": 1216042,
+      "processingTimestamp": "2025-11-07T12:09:14.364130+00:00",
+      "tokenUsage": {
+        "total_tokens": 1676,
+        "prompt_tokens": 1361,
+        "completion_tokens": 315,
+        "model_version": "gemini-2.5-flash-lite"
+      },
+      "has_existing_chunks": true,
+      "chunks_count": 1
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "019d7566c4bece9ec37521df513b3c81f0d41464d30876b9e254e00f4699e6a5-0",
+        "idx": 0,
+        "hash": "ccdfb2dd34fae3f1dcd72583e2fcf2c586a669d8a22d223cbd65ea0daebb0e5a",
+        "sim_hash": "7213636193093007292"
+      },
+      "content_original": "Part of the Don Valley Parkway will be closed starting Wednesday until the spring for \u201ccritical\u201c rehabilitation work. The closure, which will affect the southbound off-ramp of the DVP to Richmond Street, is a part of the \u201ccritical state-of-good-repair work\u201c the city is taking on in the area of Eastern Avenue and Adelaide Street East, according to an Oct. 7 news release from the city. To keep traffic moving, the city will adjust traffic signal timing based on \u201creal-time conditions,\u201c stop non-emergency construction work on key roads, temporarily restrict some turning lanes, and have traffic agents at key intersections. The city has accelerated the project schedule through measures like winter construction, more crews and a 24/7 work schedule to speed up the project schedule as the FIFA World Cup and its expected high traffic volumes grows nearer. As a part of the renewal, there will also be intermittent overnight lane closures on the DVP, one eastbound lane on will also be closed on Eastern Avenue and Richmond Street will be reduced to one westbound lane at Eastern Avenue, the city said. The Richmond Street off-ramp will be closed, but drivers can make it downtown by taking Lake Shore Boulevard at Don Roadway, the westbound Gardiner off-ramp at Sherbourne Street or the westbound Gardiner off-ramp at Yonge Street. The DVP project is funded by the provincial government as part of the Ontario-Toronto New Deal, while the rehabilitation of the other routes in the project is funded by the city.",
+      "content": "Part of the Don Valley Parkway will be closed starting Wednesday until the spring for \u201ccritical\u201c rehabilitation work. The closure, which will affect the southbound off-ramp of the DVP to Richmond Street, is a part of the \u201ccritical state-of-good-repair work\u201c the city is taking on in the area of Eastern Avenue and Adelaide Street East, according to an Oct. 7 news release from the city. To keep traffic moving, the city will adjust traffic signal timing based on \u201creal-time conditions,\u201c stop non-emergency construction work on key roads, temporarily restrict some turning lanes, and have traffic agents at key intersections. The city has accelerated the project schedule through measures like winter construction, more crews and a 24/7 work schedule to speed up the project schedule as the FIFA World Cup and its expected high traffic volumes grows nearer. As a part of the renewal, there will also be intermittent overnight lane closures on the DVP, one eastbound lane on will also be closed on Eastern Avenue and Richmond Street will be reduced to one westbound lane at Eastern Avenue, the city said. The Richmond Street off-ramp will be closed, but drivers can make it downtown by taking Lake Shore Boulevard at Don Roadway, the westbound Gardiner off-ramp at Sherbourne Street or the westbound Gardiner off-ramp at Yonge Street. The DVP project is funded by the provincial government as part of the Ontario-Toronto New Deal, while the rehabilitation of the other routes in the project is funded by the city."
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "22a51c2a-f976-41a2-80b9-530ca8858269",
+      "timestamp": "2025-11-07T11:48:50.222000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "81298621-7321-4a54-a714-702517035b21",
+      "version": "2.3",
+      "date": "2025-11-07",
+      "chunking": {
+        "strategy": "simple",
+        "chunks_count": 2
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "none",
+        "model": "none",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 2,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "019d7566c4bece9ec37521df513b3c81f0d41464d30876b9e254e00f4699e6a5"
+    },
+    {
+      "_id": "726acf43-f661-4174-9de9-1b0fd0b546fa",
+      "timestamp": "2025-11-07T12:13:39.803000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "81298621-7321-4a54-a714-702517035b21",
+      "version": "2.3",
+      "date": "2025-11-07",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.1",
+        "batchId": "73ac6ee6-83a3-41a0-8a97-0c188c355d3b",
+        "chunkingRequestId": "9241060c-99f6-4d29-a96d-da261be4f72c",
+        "totalChunks": 1,
+        "processingTime": 1216042,
+        "processingTimestamp": "2025-11-07T12:09:14.364130+00:00",
+        "tokenUsage": {
+          "total_tokens": 1676,
+          "prompt_tokens": 1361,
+          "completion_tokens": 315,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "has_existing_chunks": true,
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "019d7566c4bece9ec37521df513b3c81f0d41464d30876b9e254e00f4699e6a5"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<nitf>\n   <head>\n      <title>Don Valley Parkway off-ramp at Richmond closed today for at least next 5 months due to 'critical' work</title>\n      <docdata>\n         <doc-id id-string=\"20251015-76974050\" regsrc=\"thestar\"/>\n         <du-key generation=\"1\"\n                 key=\"2d937e5b-98f9-4486-a5ef-2bfc81186c5f\"\n                 version=\"3\"/>\n         <date.issue norm=\"20251015T000000-0500\"/>\n         <doc.copyright holder=\"thestar\" year=\"2025\"/>\n         <identified-content>\n            <classifier idsrc=\"thestar\" type=\"Column\"/>\n            <classifier idsrc=\"thestar\" type=\"\"/>\n         </identified-content>\n      </docdata>\n      <pubdata date.publication=\"20251015\"\n               edition.name=\"Final\"\n               ex-ref=\"https://www.thestar.com/news/gta/don-valley-parkway-off-ramp-at-richmond-closed-today-for-at-least-next-5-months/article_2d937e5b-98f9-4486-a5ef-2bfc81186c5f.html\"\n               item-length=\"255\"\n               name=\"thestar\"\n               position.section=\"news/gta\"\n               position.sequence=\"1\"\n               type=\"web\"\n               unit-of-measure=\"word\"\n               volume=\"2025101576974050\"/>\n   </head>\n   <body>\n      <body.head>\n         <hedline>\n            <hl1>\nDon Valley Parkway off-ramp at Richmond closed today for at least next 5 months due to 'critical' work\n</hl1>\n            <hl2>\n\n</hl2>\n         </hedline>\n         <byline>\n            <person>\nMaia Tustonic\n</person>\n            <byttl>\nwww.thestar.com\n</byttl>\n         </byline>\n         <dateline>\n            <location>\n20251015\n</location>\n         </dateline>\n      </body.head>\n      <body.content>\n         <block>\n            <classifier>Lead</classifier>\n            <p>\n\n</p>\n         </block>\n         <block>\n            <classifier>Text</classifier>\n            <p>\nPart of the Don Valley Parkway will be closed starting Wednesday until the spring for \"critical\" rehabilitation work.\n</p>\n            <p>The closure, which will affect the southbound off-ramp of the DVP to Richmond Street, is a part of the \"critical state-of-good-repair work\" the city is taking on in the area of Eastern Avenue and Adelaide Street East, according to an Oct. 7 news release from the city.\n</p>\n            <p>To keep traffic moving, the city will adjust traffic signal timing based on \"real-time conditions,\" stop non-emergency construction work on key roads, temporarily restrict some turning lanes, and have traffic agents at key intersections.\n</p>\n            <p>The city has accelerated the project schedule through measures like winter construction, more crews and a 24/7 work schedule to speed up the project schedule as the FIFA World Cup and its expected high traffic volumes grows nearer.\n</p>\n            <p>As a part of the renewal, there will also be intermittent overnight lane closures on the DVP, one eastbound lane on will also be closed on Eastern Avenue and Richmond Street will be reduced to one westbound lane at Eastern Avenue, the city said.\n</p>\n            <p>The Richmond Street off-ramp will be closed, but drivers can make it downtown by taking Lake Shore Boulevard at Don Roadway, the westbound Gardiner off-ramp at Sherbourne Street or the westbound Gardiner off-ramp at Yonge Street.</p>\n            <p>The DVP project is funded by the provincial government as part of the Ontario-Toronto New Deal, while the rehabilitation of the other routes in the project is funded by the city.\n</p>\n         </block>\n         <block>\n            <classifier>Note</classifier>\n            <p>\n\n</p>\n         </block>\n         <block>\n            <copyrite> Copyright 2025. Toronto Star Newspapers Limited. Reproduced with permission of the copyright owner. Further reproduction or distribution is prohibited without permission.  All Rights Reserved.</copyrite>\n         </block>\n         <media media-type=\"image\" style=\"align:right\">\n            <media-reference mime-type=\"image/jpeg\">\nwww.thestar.com/content/tncms/assets/v3/editorial/0/3d/03dc75d8-d35d-56c6-9d77-75789069780f/68efab297d695.image.jpg\n</media-reference>\n            <media-caption>\nTo keep traffic moving, the city will adjust traffic signal timing based on \"real-time conditions,\" stop non-emergency construction work on key roads, temporarily restrict some turning lanes, and have traffic agents at critical intersections.\n</media-caption>\n         </media>\n      </body.content>\n   </body>\n</nitf>\n",
+  "markdown_content": "Part of the Don Valley Parkway will be closed starting Wednesday until the spring for \"critical\" rehabilitation work.\n\nThe closure, which will affect the southbound off-ramp of the DVP to Richmond Street, is a part of the \"critical state-of-good-repair work\" the city is taking on in the area of Eastern Avenue and Adelaide Street East, according to an Oct. 7 news release from the city.\n\nTo keep traffic moving, the city will adjust traffic signal timing based on \"real-time conditions,\" stop non-emergency construction work on key roads, temporarily restrict some turning lanes, and have traffic agents at key intersections.\n\nThe city has accelerated the project schedule through measures like winter construction, more crews and a 24/7 work schedule to speed up the project schedule as the FIFA World Cup and its expected high traffic volumes grows nearer.\n\nAs a part of the renewal, there will also be intermittent overnight lane closures on the DVP, one eastbound lane on will also be closed on Eastern Avenue and Richmond Street will be reduced to one westbound lane at Eastern Avenue, the city said.\n\nThe Richmond Street off-ramp will be closed, but drivers can make it downtown by taking Lake Shore Boulevard at Don Roadway, the westbound Gardiner off-ramp at Sherbourne Street or the westbound Gardiner off-ramp at Yonge Street.\n\nThe DVP project is funded by the provincial government as part of the Ontario-Toronto New Deal, while the rehabilitation of the other routes in the project is funded by the city."
+}

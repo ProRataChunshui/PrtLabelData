@@ -1,0 +1,194 @@
+{
+  "document_id": "12ca70dbcbdf137bba09bbafaddaf0cdb9ad3dd8a24b5ae1c95f7086caa959b2",
+  "document_metadata": {
+    "id": "12ca70dbcbdf137bba09bbafaddaf0cdb9ad3dd8a24b5ae1c95f7086caa959b2",
+    "date": 20250403,
+    "publisher_id": "63995855-5e75-4e94-9076-e0d14d600aa8",
+    "date_year": 2025,
+    "date_month": 4,
+    "crawl_date": "2025-06-09T08:56:38.415578927Z",
+    "date_day": 3,
+    "modified_date": "2025-05-20T14:13:25Z",
+    "title": "Codebreakers attack on Bank Sepah",
+    "url": "https://en.wikipedia.org/wiki/Codebreakers_attack_on_Bank_Sepah",
+    "raw_type": "html",
+    "url2": "https://en.wikipedia.org/wiki/Codebreakers_attack_on_Bank_Sepah",
+    "domain": "wikipedia.org",
+    "lang": "unknown",
+    "published_date": "2025-04-03T11:15:22Z",
+    "raw_path": "crawl_20250609085636.html",
+    "dir": "63995855-5e75-4e94-9076-e0d14d600aa8",
+    "contentType": "web",
+    "metadataVersion": 1,
+    "source": "Wikipedia",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=wikipedia.org",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=wikipedia.org",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=wikipedia.org",
+    "first_words": "The Codebreakers attack on Iranian Bank Sepah was a major cyber intrusion publicly disclosed in March 2025. A hacker collective known as \"Codebreakers\" claimed responsibility for breaching Sepah Bank, one of Iran's oldest and most strategically significant financial institutions. The group alleged it had accessed over 42 million customer records, including sensitive financial data. The incident followed the IRLeaks attack in 2024, and the cyber attack on the Melli Bank in 2021, and as a result the vulnerabilities of Iran's financial infrastructure were exposed, causing widespread criticism against the bank and its affluent customers from the military and government sectors.",
+    "updateVersion": "06212025_run1_title",
+    "reason": "update_content_metadata_v2",
+    "has_markdown": true,
+    "markdown_input_text_type": "processedText",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_chunks": true
+  },
+  "publisher_metadata": {
+    "id": "63995855-5e75-4e94-9076-e0d14d600aa8",
+    "group_id": "b43e259b-ef94-4894-890e-c7064d6e0685",
+    "name": "Wikipedia",
+    "domain": "wikipedia.org",
+    "location": "Global",
+    "country": "Global",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": "wikipedia_index_v2",
+    "network_ids": [
+      "186d72ec-3dbe-4c75-97a5-578fb5e2fd06"
+    ]
+  },
+  "content_metadata": {
+    "document_title_txt": "Codebreakers attack on Bank Sepah",
+    "document_authors_txt": [],
+    "hash": "b90817ef1b5f86d22b75f74fe2d06154d4ef31cacae2b1428d3a459cba233d5a"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2025-10-10",
+    "chunking": {
+      "service": "PrtDocumentInference",
+      "chunkingStrategy": "llm_semantic_batch",
+      "llmPromptVersion": "v1.0.1",
+      "batchId": "d1442677-d225-465a-8036-42dc2d6e4fd1",
+      "chunkingRequestId": "3b711075-6688-4c3e-8a3c-751ad54b44e6",
+      "totalChunks": 5,
+      "processingTime": 3151001,
+      "processingTimestamp": "2025-10-10T21:33:34.087166+00:00",
+      "tokenUsage": {
+        "total_tokens": 3622,
+        "prompt_tokens": 2315,
+        "completion_tokens": 1307,
+        "model_version": "gemini-2.5-flash-lite"
+      },
+      "has_existing_chunks": true,
+      "chunks_count": 5
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "12ca70dbcbdf137bba09bbafaddaf0cdb9ad3dd8a24b5ae1c95f7086caa959b2-3",
+        "idx": 3,
+        "hash": "7b034f335d64fca679710eb2808bc67e317c90e51486ffd679bcfcc88dd8a50d"
+      },
+      "content_original": "Initially Sepah Bank denied all claims that its security systems had been breached, as head of the Bank\u2019s Public Relations Department Reza Hamedanchi stated that the bank's systems worked on closed networks with no connection to the internet, and that \u201cSepah Bank\u2019s systems are unhackable and impenetrable\u201d. However, the bank warned media and citizens against republishing the information obtained by the hackers and threatened with legal action against those who did. The threats were issued due to the bank's \u201cposition with the armed forces \u201c and the importance of \u201cconfidentiality of information related to the country's military and security institutions\u201c. In response to the bank's denial and its \u201cindifference to the security breach\u201c, the Codebreakers group released images of the banking data belonging to head of public relations at Bank Sepah, Reza Hamedanchi, as well as the private banking data of 20 thousand individuals, including high-profile civilian and military customers.",
+      "content": "Initially Sepah Bank denied all claims that its security systems had been breached, as head of the Bank\u2019s Public Relations Department Reza Hamedanchi stated that the bank's systems worked on closed networks with no connection to the internet, and that \u201cSepah Bank\u2019s systems are unhackable and impenetrable\u201d. However, the bank warned media and citizens against republishing the information obtained by the hackers and threatened with legal action against those who did. The threats were issued due to the bank's \u201cposition with the armed forces \u201c and the importance of \u201cconfidentiality of information related to the country's military and security institutions\u201c. In response to the bank's denial and its \u201cindifference to the security breach\u201c, the Codebreakers group released images of the banking data belonging to head of public relations at Bank Sepah, Reza Hamedanchi, as well as the private banking data of 20 thousand individuals, including high-profile civilian and military customers."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "12ca70dbcbdf137bba09bbafaddaf0cdb9ad3dd8a24b5ae1c95f7086caa959b2-1",
+        "idx": 1,
+        "hash": "1701fa37d2f3bbb31db0b98ea9a18fef8a583ae449ebc2c880a3fc1f6401f429"
+      },
+      "content_original": "Bank Sepah, established in 1925, is Iran's oldest national bank still in operation and is the fourth largest state-owned bank in the country. It has over 1700 branches in Iran and three additional branches in Rome, Paris and Frankfurt, and a wholly owned subsidiary in London. Bank Sepah was originally founded to provide financial services to military personnel, and in 2020 a number of military banks were merged into it as part of a broader restructuring program to consolidate all military financial institutions under one state-run entity. It has long played a central role in financing military and defense-related projects, particularly Iran's pursuit of missiles and weapons of mass destruction, facilitating numerous transactions for the procurement of missile components from China and from Korea Mining and Development Trading Corporation (KOMID), North Korea's primary ballistic missile exporter. As a result, the bank has been under US, EU, and UN sanctions due to its involvement in proliferating weapons of mass destruction technologies, including support to entities such as Iran's Aerospace Industries Organization (AIO) which oversees all of Iran's missile industries, Shahid Hemmat Industrial Group (SHIG), responsible for Iran's ballistic missile program and Shahid Bakeri Industries Group (SBIG) involved in the development of missile systems capable of carrying chemical warheads.",
+      "content": "Bank Sepah, established in 1925, is Iran's oldest national bank still in operation and is the fourth largest state-owned bank in the country. It has over 1700 branches in Iran and three additional branches in Rome, Paris and Frankfurt, and a wholly owned subsidiary in London. Bank Sepah was originally founded to provide financial services to military personnel, and in 2020 a number of military banks were merged into it as part of a broader restructuring program to consolidate all military financial institutions under one state-run entity. It has long played a central role in financing military and defense-related projects, particularly Iran's pursuit of missiles and weapons of mass destruction, facilitating numerous transactions for the procurement of missile components from China and from Korea Mining and Development Trading Corporation (KOMID), North Korea's primary ballistic missile exporter. As a result, the bank has been under US, EU, and UN sanctions due to its involvement in proliferating weapons of mass destruction technologies, including support to entities such as Iran's Aerospace Industries Organization (AIO) which oversees all of Iran's missile industries, Shahid Hemmat Industrial Group (SHIG), responsible for Iran's ballistic missile program and Shahid Bakeri Industries Group (SBIG) involved in the development of missile systems capable of carrying chemical warheads."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "12ca70dbcbdf137bba09bbafaddaf0cdb9ad3dd8a24b5ae1c95f7086caa959b2-4",
+        "idx": 4,
+        "hash": "39c52e5f3ef31d2e507aa225c7ab071f5e1843305f8258ee440e7f8a4608de39"
+      },
+      "content_original": "Among those whose private information and account details were exposed are Abbas Golmohammadi, former deputy director of exploration at the Geological and Mineral Exploration Organization of the country and deputy director of planning and development of the Sangan Iron Ore Complex, with an account of 768 billion Tomans, General Hassan Palarak, former senior commander of the Revolutionary Guards Quds force, a supporter of pro-Islamic Republic militias in the region and a close associate of Qassem Soleimani, with a value of 634 billion tomans ($6.12M at the open market rate), Alireza Arash, a member of the board of directors of Henkel Pakwash, a subsidiary of the German multinational chemical company Henkel, with an account of 408 billion Tomans. Other notable individuals whose details were exposed are Mohammad Baradaran, a board member of Ghadir Investment Company, Kazem Ghalamchi, founder of Ghalamchi Educational Institute and Rasoul Sirati, CEO of Tik, a military affiliate company reportedly involved in missile and drone technology. The leaked information and the bank's response to the attack triggered a wave of criticism online, with Iranian citizens raising questions on how such large sums of money can be held by only a few individuals, while the general public struggles with financial difficulties. Ali Sharifizarchi, an academic with a large following on Twitter/X, focussed particularly on Palarak, questioning how his wealth is justified in light of the widespread economic crisis. Investigative journalist Yashar Soltani stated that the exposed data explains why Iranian citizens support the sanctions against Iran and demand financial transparency. Conservative journalist Ali Gholhaki, as well as other users of social media, have mocked the bank for threatening legal action while simultaneously denying there had been any data breach.",
+      "content": "Among those whose private information and account details were exposed are Abbas Golmohammadi, former deputy director of exploration at the Geological and Mineral Exploration Organization of the country and deputy director of planning and development of the Sangan Iron Ore Complex, with an account of 768 billion Tomans, General Hassan Palarak, former senior commander of the Revolutionary Guards Quds force, a supporter of pro-Islamic Republic militias in the region and a close associate of Qassem Soleimani, with a value of 634 billion tomans ($6.12M at the open market rate), Alireza Arash, a member of the board of directors of Henkel Pakwash, a subsidiary of the German multinational chemical company Henkel, with an account of 408 billion Tomans. Other notable individuals whose details were exposed are Mohammad Baradaran, a board member of Ghadir Investment Company, Kazem Ghalamchi, founder of Ghalamchi Educational Institute and Rasoul Sirati, CEO of Tik, a military affiliate company reportedly involved in missile and drone technology. The leaked information and the bank's response to the attack triggered a wave of criticism online, with Iranian citizens raising questions on how such large sums of money can be held by only a few individuals, while the general public struggles with financial difficulties. Ali Sharifizarchi, an academic with a large following on Twitter/X, focussed particularly on Palarak, questioning how his wealth is justified in light of the widespread economic crisis. Investigative journalist Yashar Soltani stated that the exposed data explains why Iranian citizens support the sanctions against Iran and demand financial transparency. Conservative journalist Ali Gholhaki, as well as other users of social media, have mocked the bank for threatening legal action while simultaneously denying there had been any data breach."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "12ca70dbcbdf137bba09bbafaddaf0cdb9ad3dd8a24b5ae1c95f7086caa959b2-0",
+        "idx": 0,
+        "hash": "5c1d897f0edea6e708307dbb20ee31946dd911fc1e0b3d05ed7e91f3bb85b310"
+      },
+      "content_original": "The Codebreakers attack on Iranian Bank Sepah was a major cyber intrusion publicly disclosed in March 2025. A hacker collective known as \u201cCodebreakers\u201c claimed responsibility for breaching Sepah Bank, one of Iran's oldest and most strategically significant financial institutions. The group alleged it had accessed over 42 million customer records, including sensitive financial data. The incident followed the IRLeaks attack in 2024, and the cyber attack on the Melli Bank in 2021, and as a result the vulnerabilities of Iran's financial infrastructure were exposed, causing widespread criticism against the bank and its affluent customers from the military and government sectors. The bank initially responded with a complete denial of the breach, while simultaneously issuing warnings to local media against publishing the leaked data and threatening with legal prosecution. The hacker group responded with partial exposure of the leaked information, including the financial data of senior Iranian officials and IRGC officers with billions of Iranian Tomans in their accounts. Contrasted with the rampant poverty in Iran, the incident triggered widespread criticism in social media against the officials and the regime, and the manner in which the bank addressed the incident was mocked.",
+      "content": "The Codebreakers attack on Iranian Bank Sepah was a major cyber intrusion publicly disclosed in March 2025. A hacker collective known as \u201cCodebreakers\u201c claimed responsibility for breaching Sepah Bank, one of Iran's oldest and most strategically significant financial institutions. The group alleged it had accessed over 42 million customer records, including sensitive financial data. The incident followed the IRLeaks attack in 2024, and the cyber attack on the Melli Bank in 2021, and as a result the vulnerabilities of Iran's financial infrastructure were exposed, causing widespread criticism against the bank and its affluent customers from the military and government sectors. The bank initially responded with a complete denial of the breach, while simultaneously issuing warnings to local media against publishing the leaked data and threatening with legal prosecution. The hacker group responded with partial exposure of the leaked information, including the financial data of senior Iranian officials and IRGC officers with billions of Iranian Tomans in their accounts. Contrasted with the rampant poverty in Iran, the incident triggered widespread criticism in social media against the officials and the regime, and the manner in which the bank addressed the incident was mocked."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "12ca70dbcbdf137bba09bbafaddaf0cdb9ad3dd8a24b5ae1c95f7086caa959b2-2",
+        "idx": 2,
+        "hash": "e229ea4f6b953c21d2556a128e1daf21028d7e3e36dfb2b4ba4ba72ee8bbffca"
+      },
+      "content_original": "The 2025 cyber attack on the Bank Sepah follows other similar attacks, such as the 2024 IRLeaks attack, for which the Iranian government paid millions of dollars in ransom to prevent the release of customer data, and the 2021 attack on Melli Bank which resulted in the failure to prevent data exposure. In early March 2025, the hacker group Codebreakers posted a message on Telegram and other social platforms claiming they had infiltrated Bank Sepah's systems and extracted vast amounts of data. They alleged access to more than 12 terabytes of confidential data belonging to more than 42 million individuals, including account numbers, passwords, mobile phone numbers, residential addresses, bank transaction histories, and information related to military personnel. The group stated that they had offered the bank a 72-hour window for negotiations to prevent the disclosure of the information, with the demand of $42 million in Bitcoin, which the bank refused to pay.",
+      "content": "The 2025 cyber attack on the Bank Sepah follows other similar attacks, such as the 2024 IRLeaks attack, for which the Iranian government paid millions of dollars in ransom to prevent the release of customer data, and the 2021 attack on Melli Bank which resulted in the failure to prevent data exposure. In early March 2025, the hacker group Codebreakers posted a message on Telegram and other social platforms claiming they had infiltrated Bank Sepah's systems and extracted vast amounts of data. They alleged access to more than 12 terabytes of confidential data belonging to more than 42 million individuals, including account numbers, passwords, mobile phone numbers, residential addresses, bank transaction histories, and information related to military personnel. The group stated that they had offered the bank a 72-hour window for negotiations to prevent the disclosure of the information, with the demand of $42 million in Bitcoin, which the bank refused to pay."
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "05105412-4179-4dee-9396-c9a49674310b",
+      "timestamp": "2025-10-10T21:33:40.120000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "63995855-5e75-4e94-9076-e0d14d600aa8",
+      "version": "2.3",
+      "date": "2025-10-10",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.1",
+        "batchId": "d1442677-d225-465a-8036-42dc2d6e4fd1",
+        "chunkingRequestId": "3b711075-6688-4c3e-8a3c-751ad54b44e6",
+        "totalChunks": 5,
+        "processingTime": 3151001,
+        "processingTimestamp": "2025-10-10T21:33:34.087166+00:00",
+        "tokenUsage": {
+          "total_tokens": 3622,
+          "prompt_tokens": 2315,
+          "completion_tokens": 1307,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "has_existing_chunks": true,
+        "chunks_count": 5
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 5,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "wikipedia_index_v2"
+        ]
+      },
+      "document_id": "12ca70dbcbdf137bba09bbafaddaf0cdb9ad3dd8a24b5ae1c95f7086caa959b2"
+    }
+  ],
+  "raw_content": null,
+  "markdown_content": "The Codebreakers attack on Iranian Bank Sepah was a major cyber intrusion publicly disclosed in March 2025. A hacker collective known as \"Codebreakers\" claimed responsibility for breaching Sepah Bank, one of Iran's oldest and most strategically significant financial institutions. The group alleged it had accessed over 42 million customer records, including sensitive financial data. The incident followed the IRLeaks attack in 2024, and the cyber attack on the Melli Bank in 2021, and as a result the vulnerabilities of Iran's financial infrastructure were exposed, causing widespread criticism against the bank and its affluent customers from the military and government sectors. The bank initially responded with a complete denial of the breach, while simultaneously issuing warnings to local media against publishing the leaked data and threatening with legal prosecution. The hacker group responded with partial exposure of the leaked information, including the financial data of senior Iranian officials and IRGC officers with billions of Iranian Tomans in their accounts. Contrasted with the rampant poverty in Iran, the incident triggered widespread criticism in social media against the officials and the regime, and the manner in which the bank addressed the incident was mocked. Bank Sepah, established in 1925, is Iran's oldest national bank still in operation and is the fourth largest state-owned bank in the country. It has over 1700 branches in Iran and three additional branches in Rome, Paris and Frankfurt, and a wholly owned subsidiary in London. Bank Sepah was originally founded to provide financial services to military personnel, and in 2020 a number of military banks were merged into it as part of a broader restructuring program to consolidate all military financial institutions under one state-run entity. It has long played a central role in financing military and defense-related projects, particularly Iran's pursuit of missiles and weapons of mass destruction, facilitating numerous transactions for the procurement of missile components from China and from Korea Mining and Development Trading Corporation (KOMID), North Korea's primary ballistic missile exporter. As a result, the bank has been under US, EU, and UN sanctions due to its involvement in proliferating weapons of mass destruction technologies, including support to entities such as Iran's Aerospace Industries Organization (AIO) which oversees all of Iran's missile industries, Shahid Hemmat Industrial Group (SHIG), responsible for Iran's ballistic missile program and Shahid Bakeri Industries Group (SBIG) involved in the development of missile systems capable of carrying chemical warheads. The 2025 cyber attack on the Bank Sepah follows other similar attacks, such as the 2024 IRLeaks attack, for which the Iranian government paid millions of dollars in ransom to prevent the release of customer data, and the 2021 attack on Melli Bank which resulted in the failure to prevent data exposure. In early March 2025, the hacker group Codebreakers posted a message on Telegram and other social platforms claiming they had infiltrated Bank Sepah's systems and extracted vast amounts of data. They alleged access to more than 12 terabytes of confidential data belonging to more than 42 million individuals, including account numbers, passwords, mobile phone numbers, residential addresses, bank transaction histories, and information related to military personnel. The group stated that they had offered the bank a 72-hour window for negotiations to prevent the disclosure of the information, with the demand of \\$42 million in Bitcoin, which the bank refused to pay. Initially Sepah Bank denied all claims that its security systems had been breached, as head of the Bank\u2019s Public Relations Department Reza Hamedanchi stated that the bank's systems worked on closed networks with no connection to the internet, and that \"Sepah Bank\u2019s systems are unhackable and impenetrable\u201d. However, the bank warned media and citizens against republishing the information obtained by the hackers and threatened with legal action against those who did. The threats were issued due to the bank's \"position with the armed forces \" and the importance of \"confidentiality of information related to the country's military and security institutions\". In response to the bank's denial and its \"indifference to the security breach\", the Codebreakers group released images of the banking data belonging to head of public relations at Bank Sepah, Reza Hamedanchi, as well as the private banking data of 20 thousand individuals, including high-profile civilian and military customers. Among those whose private information and account details were exposed are Abbas Golmohammadi, former deputy director of exploration at the Geological and Mineral Exploration Organization of the country and deputy director of planning and development of the Sangan Iron Ore Complex, with an account of 768 billion Tomans, General Hassan Palarak, former senior commander of the Revolutionary Guards Quds force, a supporter of pro-Islamic Republic militias in the region and a close associate of Qassem Soleimani, with a value of 634 billion tomans (\\$6.12M at the open market rate), Alireza Arash, a member of the board of directors of Henkel Pakwash, a subsidiary of the German multinational chemical company Henkel, with an account of 408 billion Tomans. Other notable individuals whose details were exposed are Mohammad Baradaran, a board member of Ghadir Investment Company, Kazem Ghalamchi, founder of Ghalamchi Educational Institute and Rasoul Sirati, CEO of Tik, a military affiliate company reportedly involved in missile and drone technology. The leaked information and the bank's response to the attack triggered a wave of criticism online, with Iranian citizens raising questions on how such large sums of money can be held by only a few individuals, while the general public struggles with financial difficulties. Ali Sharifizarchi, an academic with a large following on Twitter/X, focussed particularly on Palarak, questioning how his wealth is justified in light of the widespread economic crisis. Investigative journalist Yashar Soltani stated that the exposed data explains why Iranian citizens support the sanctions against Iran and demand financial transparency. Conservative journalist Ali Gholhaki, as well as other users of social media, have mocked the bank for threatening legal action while simultaneously denying there had been any data breach.",
+  "errors": {
+    "raw_content": "404 Client Error: Not Found for url: http://localhost:8893/v1/rawcontent/12ca70dbcbdf137bba09bbafaddaf0cdb9ad3dd8a24b5ae1c95f7086caa959b2/text"
+  }
+}

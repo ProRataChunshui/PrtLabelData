@@ -1,0 +1,117 @@
+{
+  "document_id": "078d0d050570815703bd6bc83a2892fd6f67befcb41f206935d92a96ae07a9eb",
+  "document_metadata": {
+    "id": "078d0d050570815703bd6bc83a2892fd6f67befcb41f206935d92a96ae07a9eb",
+    "date": 20201014,
+    "publisher_id": "601c8901-d241-42b0-8c86-73d4702299d9",
+    "date_year": 2020,
+    "date_month": 10,
+    "crawl_date": "2025-10-28T04:39:02.095737597Z",
+    "date_day": 14,
+    "title": "Watch: Meet Hassan al-Tourky, the man who collects and restores old telephones in Egypt",
+    "url": "https://scroll.in/video/975768/watch-meet-hassan-al-tourky-the-man-who-collects-and-restores-old-telephones-in-egypt?utm_source=rss&utm_medium=prorata",
+    "url2": "https://scroll.in/video/975768/watch-meet-hassan-al-tourky-the-man-who-collects-and-restores-old-telephones-in-egypt?utm_source=rss&utm_medium=prorata",
+    "domain": "scroll.in",
+    "lang": "unknown",
+    "published_date": "2020-10-14T09:14:38Z",
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "601c8901-d241-42b0-8c86-73d4702299d9",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2025-10-28T04:39:02.095000",
+    "published_date_parsed": "2020-10-14T09:14:38",
+    "rawType": "xml",
+    "publisherId": "601c8901-d241-42b0-8c86-73d4702299d9",
+    "documentId": "078d0d050570815703bd6bc83a2892fd6f67befcb41f206935d92a96ae07a9eb",
+    "rawcontent_created": "2025-10-28T04:39:09.955000",
+    "source": "Scroll.in",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=scroll.in",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=scroll.in",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=scroll.in",
+    "first_words": "WATCH: Meet Egypt\u2019s vintage telephone collector, who collects and restores old telephones pic.twitter.com/br8GpLkItU\u2014 Reuters India (@ReutersIndia) October 13, 2020 WATCH: Meet Egypt\u2019s vintage telephone collector, who collects and restores old telephones pic.twitter.com/br8GpLkItU"
+  },
+  "publisher_metadata": {
+    "id": "601c8901-d241-42b0-8c86-73d4702299d9",
+    "group_id": "b6965a2b-55e9-4742-b9a0-bd11b92c8643",
+    "name": "Scroll.in",
+    "domain": "api.scroll.in",
+    "location": "Global",
+    "country": "Global",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "Watch: Meet Hassan al-Tourky, the man who collects and restores old telephones in Egypt",
+    "document_authors_txt": [],
+    "hash": "cf78a38ed58291244bc2e3846e17f8971b53efffa45c62987721402540af1833"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2025-10-28",
+    "chunking": {
+      "chunks_count": 1
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "078d0d050570815703bd6bc83a2892fd6f67befcb41f206935d92a96ae07a9eb-0",
+        "idx": 0,
+        "hash": "cf78a38ed58291244bc2e3846e17f8971b53efffa45c62987721402540af1833"
+      },
+      "content_original": "![](https://sc0.blr1.cdn.digitaloceanspaces.com/article/149161-aqgwsetkuo-1602663030.jpeg)\n\n> WATCH: Meet Egypt\u2019s vintage telephone collector, who collects and restores old telephones [pic.twitter.com/br8GpLkItU](https://t.co/br8GpLkItU)\n>\n> \u2014 Reuters India (@ReutersIndia) [October 13, 2020](https://twitter.com/ReutersIndia/status/1315940340029960193?ref_src=twsrc%5Etfw)",
+      "content": "![](https://sc0.blr1.cdn.digitaloceanspaces.com/article/149161-aqgwsetkuo-1602663030.jpeg)\n\n> WATCH: Meet Egypt\u2019s vintage telephone collector, who collects and restores old telephones [pic.twitter.com/br8GpLkItU](https://t.co/br8GpLkItU)\n>\n> \u2014 Reuters India (@ReutersIndia) [October 13, 2020](https://twitter.com/ReutersIndia/status/1315940340029960193?ref_src=twsrc%5Etfw)"
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "09e8313d-6399-48df-99a7-f06d15c6463d",
+      "timestamp": "2025-10-28T04:39:15.824000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "601c8901-d241-42b0-8c86-73d4702299d9",
+      "version": "2.3",
+      "date": "2025-10-28",
+      "chunking": {
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "078d0d050570815703bd6bc83a2892fd6f67befcb41f206935d92a96ae07a9eb"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Scroll.in</title>\r\n    <link>https://scroll.in</link>\r\n    <description>A digital daily of things that matter.</description>\r\n    <docs>http://www.rssboard.org/rss-specification</docs>\r\n    <generator>python-feedgen</generator>\r\n    <image>\r\n      <title>Scroll.in</title>\r\n      <url>http://s3-ap-southeast-1.amazonaws.com/scroll-feeds/scroll_logo_small.png</url>\r\n      <link>https://scroll.in</link>\r\n      <width>-1</width>\r\n      <height>-1</height>\r\n    </image>\r\n    <item>\r\n      <title>Watch: Meet Hassan al-Tourky, the man who collects and restores old telephones in Egypt</title>\r\n      <link>https://scroll.in/video/975768/watch-meet-hassan-al-tourky-the-man-who-collects-and-restores-old-telephones-in-egypt?utm_source=rss&amp;utm_medium=prorata</link>\r\n      <description>The 65-year-old vintage telephone collector even has telephones dating back to the 19th century.</description>\r\n      <enclosure url=\"https://sc0.blr1.cdn.digitaloceanspaces.com/article/149161-aqgwsetkuo-1602663030.jpeg\" length=\"0\" type=\"image/jpeg\" />\r\n      <pubDate>Wed, 14 Oct 2020 09:14:38 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">https://scroll.in/video/975768/watch-meet-hassan-al-tourky-the-man-who-collects-and-restores-old-telephones-in-egypt?utm_source=rss&amp;utm_medium=prorata</guid>\r\n      <dc:creator>Scroll Staff</dc:creator>\r\n      <dc:date>2020-10-14T09:14:38Z</dc:date>\r\n      <content:encoded><![CDATA[<p><figure><img src=\"https://sc0.blr1.cdn.digitaloceanspaces.com/article/149161-aqgwsetkuo-1602663030.jpeg\" /></figure></p><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">WATCH: Meet Egypt\u2019s vintage telephone collector, who collects and restores old telephones <a href=\"https://t.co/br8GpLkItU\">pic.twitter.com/br8GpLkItU</a></p>&mdash; Reuters India (@ReutersIndia) <a href=\"https://twitter.com/ReutersIndia/status/1315940340029960193?ref_src=twsrc%5Etfw\">October 13, 2020</a></blockquote>]]></content:encoded>\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "![](https://sc0.blr1.cdn.digitaloceanspaces.com/article/149161-aqgwsetkuo-1602663030.jpeg)\n\n> WATCH: Meet Egypt\u2019s vintage telephone collector, who collects and restores old telephones [pic.twitter.com/br8GpLkItU](https://t.co/br8GpLkItU)\n>\n> \u2014 Reuters India (@ReutersIndia) [October 13, 2020](https://twitter.com/ReutersIndia/status/1315940340029960193?ref_src=twsrc%5Etfw)"
+}

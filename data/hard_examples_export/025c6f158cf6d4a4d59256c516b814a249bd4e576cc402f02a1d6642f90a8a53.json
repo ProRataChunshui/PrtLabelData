@@ -1,0 +1,121 @@
+{
+  "document_id": "025c6f158cf6d4a4d59256c516b814a249bd4e576cc402f02a1d6642f90a8a53",
+  "document_metadata": {
+    "id": "025c6f158cf6d4a4d59256c516b814a249bd4e576cc402f02a1d6642f90a8a53",
+    "date": 20250925,
+    "publisher_id": "8a551fe9-445e-409a-8022-a9a942b6fa8b",
+    "image": "https://media.tegna-media.com/assets/KENS/images/7708a352-1049-44eb-85f1-11e41a82dbba/20250925T162713/7708a352-1049-44eb-85f1-11e41a82dbba.jpg",
+    "date_year": 2025,
+    "date_month": 9,
+    "crawl_date": "2025-11-10T17:23:11.800136828Z",
+    "date_day": 25,
+    "title": "Get Crafty with Kid Create | Great Day SA",
+    "url": "https://www.kens5.com/article/entertainment/television/great-day-sa/get-crafty-with-kid-create-great-day-sa/273-4dbd02d9-097b-4205-b9dd-b933702cc4ea",
+    "url2": "https://www.kens5.com/article/entertainment/television/great-day-sa/get-crafty-with-kid-create-great-day-sa/273-4dbd02d9-097b-4205-b9dd-b933702cc4ea",
+    "domain": "www.kens5.com",
+    "lang": "unknown",
+    "published_date": "2025-09-25T17:49:43Z",
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "8a551fe9-445e-409a-8022-a9a942b6fa8b",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2025-11-10T17:23:11.800000",
+    "published_date_parsed": "2025-09-25T17:49:43",
+    "rawType": "xml",
+    "publisherId": "8a551fe9-445e-409a-8022-a9a942b6fa8b",
+    "documentId": "025c6f158cf6d4a4d59256c516b814a249bd4e576cc402f02a1d6642f90a8a53",
+    "rawcontent_created": "2025-11-10T17:23:32.864000",
+    "source": "KENS-TV",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=www.kens5.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=www.kens5.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=www.kens5.com",
+    "first_words": "Kid Create Studios offers classes, camps, and even parties to fill all of your kiddo's creative needs! For more information visit: kidcreate.com/san-antonio"
+  },
+  "publisher_metadata": {
+    "id": "8a551fe9-445e-409a-8022-a9a942b6fa8b",
+    "group_id": "ac4bb5e9-4c41-4036-ab8e-6f8773d85edb",
+    "name": "KENS-TV",
+    "domain": "kens5.com",
+    "location": "United States",
+    "country": "United States",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "Get Crafty with Kid Create | Great Day SA",
+    "document_authors_txt": [],
+    "hash": "c5261ec5036bb24d0c2cfcbf361927a75c400f7e3c8e6c6dcd9c3e83359e8f6e"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2025-11-10",
+    "chunking": {
+      "strategy": "simple",
+      "chunks_count": 1
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "none",
+      "model": "none",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "025c6f158cf6d4a4d59256c516b814a249bd4e576cc402f02a1d6642f90a8a53-0",
+        "idx": 0,
+        "hash": "c5261ec5036bb24d0c2cfcbf361927a75c400f7e3c8e6c6dcd9c3e83359e8f6e",
+        "sim_hash": "15860099625240276666"
+      },
+      "content_original": "Kid Create Studios offers classes, camps, and even parties to fill all of your kiddo's creative needs! For more information visit:\n\nkidcreate.com/san-antonio",
+      "content": "Kid Create Studios offers classes, camps, and even parties to fill all of your kiddo's creative needs! For more information visit:\n\nkidcreate.com/san-antonio"
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "6a4a0c84-803f-4ee4-81d0-2a55be6b56b3",
+      "timestamp": "2025-11-10T17:23:35.270000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "8a551fe9-445e-409a-8022-a9a942b6fa8b",
+      "version": "2.3",
+      "date": "2025-11-10",
+      "chunking": {
+        "strategy": "simple",
+        "chunks_count": 1
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "none",
+        "model": "none",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 1,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "025c6f158cf6d4a4d59256c516b814a249bd4e576cc402f02a1d6642f90a8a53"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Standardized Rss</title>\r\n    <link>https://www.kens5.com/</link>\r\n    <description>KENS Standardized Rss Feed</description>\r\n    <item>\r\n      <title>Get Crafty with Kid Create | Great Day SA</title>\r\n      <link>https://www.kens5.com/article/entertainment/television/great-day-sa/get-crafty-with-kid-create-great-day-sa/273-4dbd02d9-097b-4205-b9dd-b933702cc4ea</link>\r\n      <description>Art projects to celebrate the Fall season!</description>\r\n      <guid isPermaLink=\"false\">4dbd02d9-097b-4205-b9dd-b933702cc4ea</guid>\r\n      <content:encoded><![CDATA[<p>Kid Create Studios offers classes, camps, and even parties to fill all of your kiddo's creative needs! For more information visit:</p><p>kidcreate.com/san-antonio</p>]]></content:encoded>\r\n      <media:thumbnail url=\"https://media.tegna-media.com/assets/KENS/images/7708a352-1049-44eb-85f1-11e41a82dbba/20250925T162713/7708a352-1049-44eb-85f1-11e41a82dbba.jpg\" />\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "Kid Create Studios offers classes, camps, and even parties to fill all of your kiddo's creative needs! For more information visit:\n\nkidcreate.com/san-antonio"
+}

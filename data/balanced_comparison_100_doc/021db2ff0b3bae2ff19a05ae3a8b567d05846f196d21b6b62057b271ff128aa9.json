@@ -1,0 +1,161 @@
+{
+  "document_id": "021db2ff0b3bae2ff19a05ae3a8b567d05846f196d21b6b62057b271ff128aa9",
+  "document_metadata": {
+    "id": "021db2ff0b3bae2ff19a05ae3a8b567d05846f196d21b6b62057b271ff128aa9",
+    "date": 20201025,
+    "publisher_id": "601c8901-d241-42b0-8c86-73d4702299d9",
+    "date_year": 2020,
+    "date_month": 10,
+    "crawl_date": "2025-10-28T04:37:34.833053840Z",
+    "date_day": 25,
+    "title": "Premier League wrap: Liverpool fightback to beat Sheffield; Chelsea hold Manchester United at home",
+    "url": "https://scroll.in/field/976681/premier-league-wrap-liverpool-fightback-to-beat-sheffield-chelsea-hold-manchester-united-at-home?utm_source=rss&utm_medium=prorata",
+    "url2": "https://scroll.in/field/976681/premier-league-wrap-liverpool-fightback-to-beat-sheffield-chelsea-hold-manchester-united-at-home?utm_source=rss&utm_medium=prorata",
+    "domain": "scroll.in",
+    "lang": "unknown",
+    "published_date": "2020-10-25T04:15:43Z",
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "601c8901-d241-42b0-8c86-73d4702299d9",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2025-10-28T04:37:34.833000",
+    "published_date_parsed": "2020-10-25T04:15:43",
+    "rawType": "xml",
+    "publisherId": "601c8901-d241-42b0-8c86-73d4702299d9",
+    "documentId": "021db2ff0b3bae2ff19a05ae3a8b567d05846f196d21b6b62057b271ff128aa9",
+    "rawcontent_created": "2025-10-28T04:37:37.762000",
+    "source": "Scroll.in",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=scroll.in",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=scroll.in",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=scroll.in",
+    "first_words": "Liverpool came from behind to beat struggling Sheffield United 2-1 and join Everton at the top of the Premier League table on Saturday after Manchester City squandered more points in the topsy-turvy English top-flight. Earlier, Manchester United and Chelsea played out a soggy stalemate at Old Trafford, leaving Ole Gunnar Solskjaer\u2019s men languishing 15th in the table and without a home win this season. Jurgen Klopp\u2019s champions, without injured defensive talisman Virgil van Dijk, are now unbeaten in 62 Premier League home games at Anfield but had to dig deep after falling behind to an early penalty scored"
+  },
+  "publisher_metadata": {
+    "id": "601c8901-d241-42b0-8c86-73d4702299d9",
+    "group_id": "b6965a2b-55e9-4742-b9a0-bd11b92c8643",
+    "name": "Scroll.in",
+    "domain": "api.scroll.in",
+    "location": "Global",
+    "country": "Global",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "Premier League wrap: Liverpool fightback to beat Sheffield; Chelsea hold Manchester United at home",
+    "document_authors_txt": [],
+    "hash": "8cf54afb55a347badb5d63a512fed0dc98c1fcfff3931c1f6798d2cd1baa0366"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2025-10-28",
+    "chunking": {
+      "chunks_count": 5
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "021db2ff0b3bae2ff19a05ae3a8b567d05846f196d21b6b62057b271ff128aa9-2",
+        "idx": 2,
+        "hash": "be1197649683823f8667a0554e19a0a98cccf50dc6196c457869d6460416bca6"
+      },
+      "content_original": "Injury-hit City, without Fernandinho, Aymeric Laporte, Nathan Ake and Gabriel Jesus, dominated possession but rarely found top gear against West Ham.\n\nThey are already five points behind Everton, who play Southampton on Sunday, and look more vulnerable than at any time since Guardiola\u2019s first season in charge.\n\nWest Ham went ahead against the run of play in the first half through Michail Antonio\u2019s superb overhead kick from Vladimir Coufal\u2019s cross.\n\nFoden, who came on at half-time, restored parity minutes later, coolly controlling Joao Cancelo\u2019s cross before slotting home.\n\nBut the visitors could not turn their dominance into goals, with West Ham indebted to Lukasz Fabianski, who produced some vital late saves.\n\nA frustrated Guardiola, whose side are 12th in the table, said City were struggling with injuries and a hectic schedule.\n\n\u201cI would prefer to have results but we have to analyse where we are,\u201d he said. \u201cMany injuries, a lack of preparation, no recovery time, and tough games we\u2019ve played so far.\n\n\u201cBut the players gave everything on the pitch. Now we recover and think about the next game.\u201d",
+      "content": "Injury-hit City, without Fernandinho, Aymeric Laporte, Nathan Ake and Gabriel Jesus, dominated possession but rarely found top gear against West Ham.\n\nThey are already five points behind Everton, who play Southampton on Sunday, and look more vulnerable than at any time since Guardiola\u2019s first season in charge.\n\nWest Ham went ahead against the run of play in the first half through Michail Antonio\u2019s superb overhead kick from Vladimir Coufal\u2019s cross.\n\nFoden, who came on at half-time, restored parity minutes later, coolly controlling Joao Cancelo\u2019s cross before slotting home.\n\nBut the visitors could not turn their dominance into goals, with West Ham indebted to Lukasz Fabianski, who produced some vital late saves.\n\nA frustrated Guardiola, whose side are 12th in the table, said City were struggling with injuries and a hectic schedule.\n\n\u201cI would prefer to have results but we have to analyse where we are,\u201d he said. \u201cMany injuries, a lack of preparation, no recovery time, and tough games we\u2019ve played so far.\n\n\u201cBut the players gave everything on the pitch. Now we recover and think about the next game.\u201d"
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "021db2ff0b3bae2ff19a05ae3a8b567d05846f196d21b6b62057b271ff128aa9-1",
+        "idx": 1,
+        "hash": "56e74841ef08f6aab2b3441ee1b4e27d1ba88fda5f8fbf78e82ff9252a7fd7e7"
+      },
+      "content_original": "Roberto Firmino hauled them level shortly before half-time and the home side overcame the disappointment of seeing an audacious Mohamed Salah goal ruled out for offside to score the winner through a Diogo Jota header.\n\nThe victory at Anfield means the champions have 13 points, level with neighbours Everton, who still lead the table on goal difference, with a game in hand.\n\n\u201cI\u2019m not surprised at all \u2013 you always have to work hard against Sheffield United,\u201d said Klopp. \u201cIt\u2019s hard to take for (manager) Chris Wilder. The penalty was not even a foul. During a season there are so many different periods, we have had an injustice and we have had to go again.\n\n\u201cI love these games, as you earn all of the rest. You earn the easier games when it all goes your way on nights like this.\u201d\n\n## City held\n\nIn the day\u2019s opening match, Phil Foden rescued a 1-1 draw for City at the London Stadium but the disappointing result means Pep Guardiola\u2019s team have taken just five points from their past four matches.",
+      "content": "Roberto Firmino hauled them level shortly before half-time and the home side overcame the disappointment of seeing an audacious Mohamed Salah goal ruled out for offside to score the winner through a Diogo Jota header.\n\nThe victory at Anfield means the champions have 13 points, level with neighbours Everton, who still lead the table on goal difference, with a game in hand.\n\n\u201cI\u2019m not surprised at all \u2013 you always have to work hard against Sheffield United,\u201d said Klopp. \u201cIt\u2019s hard to take for (manager) Chris Wilder. The penalty was not even a foul. During a season there are so many different periods, we have had an injustice and we have had to go again.\n\n\u201cI love these games, as you earn all of the rest. You earn the easier games when it all goes your way on nights like this.\u201d\n\n## City held\n\nIn the day\u2019s opening match, Phil Foden rescued a 1-1 draw for City at the London Stadium but the disappointing result means Pep Guardiola\u2019s team have taken just five points from their past four matches."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "021db2ff0b3bae2ff19a05ae3a8b567d05846f196d21b6b62057b271ff128aa9-3",
+        "idx": 3,
+        "hash": "1198d64cd5b35f9df2012c4868450dc91c8d9b2b6c35374c37d7159dfd2f5b8d"
+      },
+      "content_original": "\u201cBut the players gave everything on the pitch. Now we recover and think about the next game.\u201d\n\nThere could be more grim injury news for Guardiola, who said Argentine forward Sergio Aguero, who only last week returned after a long lay-off, had picked up a suspected hamstring injury.\n\n## Cavani debut\n\nEdinson Cavani made his debut for Manchester United against big-spending Chelsea but the teams cancelled each other out in a 0-0 draw on a night of torrential rain at Old Trafford.\n\nUnited\u2019s previous two Premier League home games this season resulted in a 9-2 aggregate scoreline against them in defeats by Crystal Palace and Tottenham.\n\nMarcus Rashford came close to breaking the deadlock but Cesar Azpilicueta had a strong penalty appeal rejected when Harry Maguire wrestled him down at a Chelsea set-piece.\n\nThe result means United have failed to win any of their opening three home league games in a season for the first time since the 1972/73 season.\n\n\u201cWe miss the fans, I must say,\u201d Solskjaer told Sky Sports. \u201cIt is the same for all teams but I think everyone agrees that the edge has gone and I can\u2019t wait to get the fans back.",
+      "content": "\u201cBut the players gave everything on the pitch. Now we recover and think about the next game.\u201d\n\nThere could be more grim injury news for Guardiola, who said Argentine forward Sergio Aguero, who only last week returned after a long lay-off, had picked up a suspected hamstring injury.\n\n## Cavani debut\n\nEdinson Cavani made his debut for Manchester United against big-spending Chelsea but the teams cancelled each other out in a 0-0 draw on a night of torrential rain at Old Trafford.\n\nUnited\u2019s previous two Premier League home games this season resulted in a 9-2 aggregate scoreline against them in defeats by Crystal Palace and Tottenham.\n\nMarcus Rashford came close to breaking the deadlock but Cesar Azpilicueta had a strong penalty appeal rejected when Harry Maguire wrestled him down at a Chelsea set-piece.\n\nThe result means United have failed to win any of their opening three home league games in a season for the first time since the 1972/73 season.\n\n\u201cWe miss the fans, I must say,\u201d Solskjaer told Sky Sports. \u201cIt is the same for all teams but I think everyone agrees that the edge has gone and I can\u2019t wait to get the fans back."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "021db2ff0b3bae2ff19a05ae3a8b567d05846f196d21b6b62057b271ff128aa9-0",
+        "idx": 0,
+        "hash": "ded6a6582b4a7a9738e9d69ca3aacb9efda3463a14740deb10272fc50abaa5ae"
+      },
+      "content_original": "![](https://sc0.blr1.cdn.digitaloceanspaces.com/article/149625-gnkbqhesyz-1603599251.jpg)\n\nLiverpool came from behind to beat struggling Sheffield United 2-1 and join Everton at the top of the Premier League table on Saturday after [Manchester City squandered more points](https://scroll.in/field/976671/premier-league-foden-rescues-a-draw-for-man-city-against-west-ham-as-concerns-mount-for-guardiola) in the topsy-turvy English top-flight.\n\nEarlier, Manchester United and Chelsea played out a soggy stalemate at Old Trafford, leaving Ole Gunnar Solskjaer\u2019s men languishing 15th in the table and without a home win this season.\n\nJurgen Klopp\u2019s champions, without injured defensive talisman Virgil van Dijk, are now unbeaten in 62 Premier League home games at Anfield but had to dig deep after falling behind to an early penalty scored by Sander Berge.",
+      "content": "![](https://sc0.blr1.cdn.digitaloceanspaces.com/article/149625-gnkbqhesyz-1603599251.jpg)\n\nLiverpool came from behind to beat struggling Sheffield United 2-1 and join Everton at the top of the Premier League table on Saturday after [Manchester City squandered more points](https://scroll.in/field/976671/premier-league-foden-rescues-a-draw-for-man-city-against-west-ham-as-concerns-mount-for-guardiola) in the topsy-turvy English top-flight.\n\nEarlier, Manchester United and Chelsea played out a soggy stalemate at Old Trafford, leaving Ole Gunnar Solskjaer\u2019s men languishing 15th in the table and without a home win this season.\n\nJurgen Klopp\u2019s champions, without injured defensive talisman Virgil van Dijk, are now unbeaten in 62 Premier League home games at Anfield but had to dig deep after falling behind to an early penalty scored by Sander Berge."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "021db2ff0b3bae2ff19a05ae3a8b567d05846f196d21b6b62057b271ff128aa9-4",
+        "idx": 4,
+        "hash": "4b6044925dfd0da044a286d4a9caf418fddcb2122fd4363d186a1afead7aeb74"
+      },
+      "content_original": "\u201cBut I thought we were closest to winning the game, we kept a clean sheet and we have stopped the run of home defeats.\u201d\n\nChelsea boss Frank Lampard felt his side had been denied a clear penalty, adding: \u201cMaguire got Azpilicueta in a headlock.\u201d\n\nElsewhere, goals from Jairo Riedewald and Wilfried Zaha in a 2-1 win for Crystal Palace condemned promoted Fulham to their fifth defeat in six matches.",
+      "content": "\u201cBut I thought we were closest to winning the game, we kept a clean sheet and we have stopped the run of home defeats.\u201d\n\nChelsea boss Frank Lampard felt his side had been denied a clear penalty, adding: \u201cMaguire got Azpilicueta in a headlock.\u201d\n\nElsewhere, goals from Jairo Riedewald and Wilfried Zaha in a 2-1 win for Crystal Palace condemned promoted Fulham to their fifth defeat in six matches."
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "89a68432-8e10-43f4-b8c4-e6202832667d",
+      "timestamp": "2025-10-28T04:37:42.568000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "601c8901-d241-42b0-8c86-73d4702299d9",
+      "version": "2.3",
+      "date": "2025-10-28",
+      "chunking": {
+        "chunks_count": 5
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 5,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "021db2ff0b3bae2ff19a05ae3a8b567d05846f196d21b6b62057b271ff128aa9"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Scroll.in</title>\r\n    <link>https://scroll.in</link>\r\n    <description>A digital daily of things that matter.</description>\r\n    <docs>http://www.rssboard.org/rss-specification</docs>\r\n    <generator>python-feedgen</generator>\r\n    <image>\r\n      <title>Scroll.in</title>\r\n      <url>http://s3-ap-southeast-1.amazonaws.com/scroll-feeds/scroll_logo_small.png</url>\r\n      <link>https://scroll.in</link>\r\n      <width>-1</width>\r\n      <height>-1</height>\r\n    </image>\r\n    <item>\r\n      <title>Premier League wrap: Liverpool fightback to beat Sheffield; Chelsea hold Manchester United at home</title>\r\n      <link>https://scroll.in/field/976681/premier-league-wrap-liverpool-fightback-to-beat-sheffield-chelsea-hold-manchester-united-at-home?utm_source=rss&amp;utm_medium=prorata</link>\r\n      <description>In the day\u2019s opening match, Manchester City squandered more points in the topsy-turvy English top-flight with a 1-1 draw at West Ham.</description>\r\n      <enclosure url=\"https://sc0.blr1.cdn.digitaloceanspaces.com/article/149625-gnkbqhesyz-1603599251.jpg\" length=\"0\" type=\"image/jpeg\" />\r\n      <pubDate>Sun, 25 Oct 2020 04:15:43 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">https://scroll.in/field/976681/premier-league-wrap-liverpool-fightback-to-beat-sheffield-chelsea-hold-manchester-united-at-home?utm_source=rss&amp;utm_medium=prorata</guid>\r\n      <dc:creator>AFP</dc:creator>\r\n      <dc:date>2020-10-25T04:15:43Z</dc:date>\r\n      <content:encoded><![CDATA[<p><figure><img src=\"https://sc0.blr1.cdn.digitaloceanspaces.com/article/149625-gnkbqhesyz-1603599251.jpg\" /></figure></p><p>Liverpool came from behind to beat struggling Sheffield United 2-1 and join Everton at the top of the Premier League table on Saturday after <a href=\"https://scroll.in/field/976671/premier-league-foden-rescues-a-draw-for-man-city-against-west-ham-as-concerns-mount-for-guardiola\">Manchester City squandered more points</a> in the topsy-turvy English top-flight.</p><p>Earlier, Manchester United and Chelsea played out a soggy stalemate at Old Trafford, leaving Ole Gunnar Solskjaer\u2019s men languishing 15th in the table and without a home win this season.</p><p>Jurgen Klopp\u2019s champions, without injured defensive talisman Virgil van Dijk, are now unbeaten in 62 Premier League home games at Anfield but had to dig deep after falling behind to an early penalty scored by Sander Berge.</p><p>Roberto Firmino hauled them level shortly before half-time and the home side overcame the disappointment of seeing an audacious Mohamed Salah goal ruled out for offside to score the winner through a Diogo Jota header.</p><p>The victory at Anfield means the champions have 13 points, level with neighbours Everton, who still lead the table on goal difference, with a game in hand.</p><p>\u201cI\u2019m not surprised at all \u2013 you always have to work hard against Sheffield United,\u201d said Klopp. \u201cIt\u2019s hard to take for (manager) Chris Wilder. The penalty was not even a foul. During a season there are so many different periods, we have had an injustice and we have had to go again. </p><p>\u201cI love these games, as you earn all of the rest. You earn the easier games when it all goes your way on nights like this.\u201d</p><h2>City held</h2><p>In the day\u2019s opening match, Phil Foden rescued a 1-1 draw for City at the London Stadium but the disappointing result means Pep Guardiola\u2019s team have taken just five points from their past four matches.</p><p>Injury-hit City, without Fernandinho, Aymeric Laporte, Nathan Ake and Gabriel Jesus, dominated possession but rarely found top gear against West Ham.</p><p>They are already five points behind Everton, who play Southampton on Sunday, and look more vulnerable than at any time since Guardiola\u2019s first season in charge.</p><p>West Ham went ahead against the run of play in the first half through Michail Antonio\u2019s superb overhead kick from Vladimir Coufal\u2019s cross. </p><p>Foden, who came on at half-time, restored parity minutes later, coolly controlling Joao Cancelo\u2019s cross before slotting home.</p><p>But the visitors could not turn their dominance into goals, with West Ham indebted to Lukasz Fabianski, who produced some vital late saves.</p><p>A frustrated Guardiola, whose side are 12th in the table, said City were struggling with injuries and a hectic schedule.</p><p>\u201cI would prefer to have results but we have to analyse where we are,\u201d he said. \u201cMany injuries, a lack of preparation, no recovery time, and tough games we\u2019ve played so far.</p><p>\u201cBut the players gave everything on the pitch. Now we recover and think about the next game.\u201d</p><p>There could be more grim injury news for Guardiola, who said Argentine forward Sergio Aguero, who only last week returned after a long lay-off, had picked up a suspected hamstring injury.</p><h2>Cavani debut</h2><p>Edinson Cavani made his debut for Manchester United against big-spending Chelsea but the teams cancelled each other out in a 0-0 draw on a night of torrential rain at Old Trafford.</p><p>United\u2019s previous two Premier League home games this season resulted in a 9-2 aggregate scoreline against them in defeats by Crystal Palace and Tottenham.</p><p>Marcus Rashford came close to breaking the deadlock but Cesar Azpilicueta had a strong penalty appeal rejected when Harry Maguire wrestled him down at a Chelsea set-piece.</p><p>The result means United have failed to win any of their opening three home league games in a season for the first time since the 1972/73 season.</p><p>\u201cWe miss the fans, I must say,\u201d Solskjaer told Sky Sports. \u201cIt is the same for all teams but I think everyone agrees that the edge has gone and I can\u2019t wait to get the fans back.</p><p>\u201cBut I thought we were closest to winning the game, we kept a clean sheet and we have stopped the run of home defeats.\u201d</p><p>Chelsea boss Frank Lampard felt his side had been denied a clear penalty, adding: \u201cMaguire got Azpilicueta in a headlock.\u201d</p><p>Elsewhere, goals from Jairo Riedewald and Wilfried Zaha in a 2-1 win for Crystal Palace condemned promoted Fulham to their fifth defeat in six matches.</p>]]></content:encoded>\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "![](https://sc0.blr1.cdn.digitaloceanspaces.com/article/149625-gnkbqhesyz-1603599251.jpg)\n\nLiverpool came from behind to beat struggling Sheffield United 2-1 and join Everton at the top of the Premier League table on Saturday after [Manchester City squandered more points](https://scroll.in/field/976671/premier-league-foden-rescues-a-draw-for-man-city-against-west-ham-as-concerns-mount-for-guardiola) in the topsy-turvy English top-flight.\n\nEarlier, Manchester United and Chelsea played out a soggy stalemate at Old Trafford, leaving Ole Gunnar Solskjaer\u2019s men languishing 15th in the table and without a home win this season.\n\nJurgen Klopp\u2019s champions, without injured defensive talisman Virgil van Dijk, are now unbeaten in 62 Premier League home games at Anfield but had to dig deep after falling behind to an early penalty scored by Sander Berge.\n\nRoberto Firmino hauled them level shortly before half-time and the home side overcame the disappointment of seeing an audacious Mohamed Salah goal ruled out for offside to score the winner through a Diogo Jota header.\n\nThe victory at Anfield means the champions have 13 points, level with neighbours Everton, who still lead the table on goal difference, with a game in hand.\n\n\u201cI\u2019m not surprised at all \u2013 you always have to work hard against Sheffield United,\u201d said Klopp. \u201cIt\u2019s hard to take for (manager) Chris Wilder. The penalty was not even a foul. During a season there are so many different periods, we have had an injustice and we have had to go again.\n\n\u201cI love these games, as you earn all of the rest. You earn the easier games when it all goes your way on nights like this.\u201d\n\n## City held\n\nIn the day\u2019s opening match, Phil Foden rescued a 1-1 draw for City at the London Stadium but the disappointing result means Pep Guardiola\u2019s team have taken just five points from their past four matches.\n\nInjury-hit City, without Fernandinho, Aymeric Laporte, Nathan Ake and Gabriel Jesus, dominated possession but rarely found top gear against West Ham.\n\nThey are already five points behind Everton, who play Southampton on Sunday, and look more vulnerable than at any time since Guardiola\u2019s first season in charge.\n\nWest Ham went ahead against the run of play in the first half through Michail Antonio\u2019s superb overhead kick from Vladimir Coufal\u2019s cross.\n\nFoden, who came on at half-time, restored parity minutes later, coolly controlling Joao Cancelo\u2019s cross before slotting home.\n\nBut the visitors could not turn their dominance into goals, with West Ham indebted to Lukasz Fabianski, who produced some vital late saves.\n\nA frustrated Guardiola, whose side are 12th in the table, said City were struggling with injuries and a hectic schedule.\n\n\u201cI would prefer to have results but we have to analyse where we are,\u201d he said. \u201cMany injuries, a lack of preparation, no recovery time, and tough games we\u2019ve played so far.\n\n\u201cBut the players gave everything on the pitch. Now we recover and think about the next game.\u201d\n\nThere could be more grim injury news for Guardiola, who said Argentine forward Sergio Aguero, who only last week returned after a long lay-off, had picked up a suspected hamstring injury.\n\n## Cavani debut\n\nEdinson Cavani made his debut for Manchester United against big-spending Chelsea but the teams cancelled each other out in a 0-0 draw on a night of torrential rain at Old Trafford.\n\nUnited\u2019s previous two Premier League home games this season resulted in a 9-2 aggregate scoreline against them in defeats by Crystal Palace and Tottenham.\n\nMarcus Rashford came close to breaking the deadlock but Cesar Azpilicueta had a strong penalty appeal rejected when Harry Maguire wrestled him down at a Chelsea set-piece.\n\nThe result means United have failed to win any of their opening three home league games in a season for the first time since the 1972/73 season.\n\n\u201cWe miss the fans, I must say,\u201d Solskjaer told Sky Sports. \u201cIt is the same for all teams but I think everyone agrees that the edge has gone and I can\u2019t wait to get the fans back.\n\n\u201cBut I thought we were closest to winning the game, we kept a clean sheet and we have stopped the run of home defeats.\u201d\n\nChelsea boss Frank Lampard felt his side had been denied a clear penalty, adding: \u201cMaguire got Azpilicueta in a headlock.\u201d\n\nElsewhere, goals from Jairo Riedewald and Wilfried Zaha in a 2-1 win for Crystal Palace condemned promoted Fulham to their fifth defeat in six matches."
+}

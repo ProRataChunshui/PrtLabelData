@@ -1,0 +1,232 @@
+{
+  "document_id": "01fa5b9be89d717c4b894e3e20cc330702c9a093f7449a4e20dbea8b0d5a19bd",
+  "document_metadata": {
+    "id": "01fa5b9be89d717c4b894e3e20cc330702c9a093f7449a4e20dbea8b0d5a19bd",
+    "date": 20260102,
+    "publisher_id": "2d5d0101-211e-45e1-8195-70fc0686d70d",
+    "image": "https://media.tegna-media.com/assets/WFAA/images/fec09d5c-8236-4a44-82b7-0fdee28a82fa/20250220T035836/fec09d5c-8236-4a44-82b7-0fdee28a82fa.jpg",
+    "date_year": 2026,
+    "date_month": 1,
+    "crawl_date": "2026-01-02T04:02:43.602516980Z",
+    "date_day": 2,
+    "title": "Dallas City Council to debate new emergency winter shelter plan for unhoused population",
+    "url": "https://www.wfaa.com/article/news/local/dallas-city-council-to-debate-new-emergency-winter-shelter-plan-for-unhoused-population/287-cf5ceba8-eee3-4512-aab3-439cf2456311",
+    "url2": "https://www.wfaa.com/article/news/local/dallas-city-council-to-debate-new-emergency-winter-shelter-plan-for-unhoused-population/287-cf5ceba8-eee3-4512-aab3-439cf2456311",
+    "domain": "www.wfaa.com",
+    "lang": "unknown",
+    "published_date": "2026-01-02T03:34:47Z",
+    "has_markdown": true,
+    "markdown_input_text_type": "Unknown",
+    "markdown_converter_type": "markdownify-with-preprocessing",
+    "has_processed_text": true,
+    "contentType": "web",
+    "metadataVersion": 1,
+    "dir": "2d5d0101-211e-45e1-8195-70fc0686d70d",
+    "skip_servicebusmessage_for_ingestion": false,
+    "crawl_date_parsed": "2026-01-02T04:02:43.602000",
+    "published_date_parsed": "2026-01-02T03:34:47",
+    "rawType": "xml",
+    "publisherId": "2d5d0101-211e-45e1-8195-70fc0686d70d",
+    "documentId": "01fa5b9be89d717c4b894e3e20cc330702c9a093f7449a4e20dbea8b0d5a19bd",
+    "rawcontent_created": "2026-01-02T04:02:44.018000",
+    "source": "WFAA-TV",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=www.wfaa.com",
+    "favicon40": "https://www.google.com/s2/favicons?sz=40&domain=www.wfaa.com",
+    "favicon24": "https://www.google.com/s2/favicons?sz=24&domain=www.wfaa.com",
+    "first_words": "It\u2019s hard to look past. \u201cIf you have eyes to see and ears to hear, you can see the problem,\u201d said Pastor Wayne Walker, OurCalling CEO. For Walker, it\u2019s even harder to ignore. \u201cWe have about 8.5 million people in the metroplex now, and we need more spaces,\u201d Walker said. Many are especially reminded of this during inclement weather, so the city of Dallas has been considering changing its policy. \u201cIf we think about this as your own family member stuck out in the cold or your own family member out under a bridge, it",
+    "has_chunks": true
+  },
+  "publisher_metadata": {
+    "id": "2d5d0101-211e-45e1-8195-70fc0686d70d",
+    "group_id": "ac4bb5e9-4c41-4036-ab8e-6f8773d85edb",
+    "name": "WFAA-TV",
+    "domain": "wfaa.com",
+    "location": "United States",
+    "country": "United States",
+    "location1": null,
+    "location2": null,
+    "category": null,
+    "index_name": null,
+    "network_ids": []
+  },
+  "content_metadata": {
+    "document_title_txt": "Dallas City Council to debate new emergency winter shelter plan for unhoused population",
+    "document_authors_txt": [],
+    "hash": "f93fc615d9c5adafba96e5382f768e9568938d79773771408381a29c3031be28"
+  },
+  "ingest_metadata_from_chunks": {
+    "version": "2.3",
+    "date": "2026-01-14",
+    "chunking": {
+      "service": "PrtDocumentInference",
+      "chunkingStrategy": "llm_semantic_batch",
+      "llmPromptVersion": "v1.0.3",
+      "batchId": "7931aa3c-edaa-4525-b054-49e74f76c5f1",
+      "chunkingRequestId": "cfa85a6b-8db5-4984-a844-a00d45603607",
+      "totalChunks": 2,
+      "processingTime": 1051132659,
+      "processingTimestamp": "2026-01-14T08:02:01.217021+00:00",
+      "tokenUsage": {
+        "total_tokens": 2150,
+        "prompt_tokens": 1633,
+        "completion_tokens": 517,
+        "model_version": "gemini-2.5-flash-lite"
+      },
+      "wasRepaired": false,
+      "repairMetadata": null,
+      "has_existing_chunks": true,
+      "chunks_count": 2
+    },
+    "context_generating": {
+      "strategy": "none"
+    },
+    "embedding": {
+      "provider": "voyage",
+      "model": "voyage-3-large",
+      "dimension": 2048,
+      "data_type": "binary"
+    }
+  },
+  "chunks": [
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "01fa5b9be89d717c4b894e3e20cc330702c9a093f7449a4e20dbea8b0d5a19bd-0",
+        "idx": 0,
+        "hash": "cd637cabc06aabe8b1a7a2454d19bb38600b3c4cf589bde20a47d90ee80402b3",
+        "sim_hash": "17738882829734288634"
+      },
+      "content_original": "\u201cIf you have eyes to see and ears to hear, you can see the problem,\u201d said Pastor Wayne Walker, OurCalling CEO. For Walker, it\u2019s even harder to ignore. \u201cWe have about 8.5 million people in the metroplex now, and we need more spaces,\u201d Walker said. Many are especially reminded of this during inclement weather, so the city of Dallas has been considering changing its policy. \u201cIf we think about this as your own family member stuck out in the cold or your own family member out under a bridge, it really changes the conversation to how do we care for people and not how do we cage them or move them or shift them or get them out of sight, out of mind,\u201c he said. Walker runs OurCalling which helps unhoused populations in Dallas County. As it currently stands, Fair Park is the primary location to shelter individuals during inclement weather. The Austin Street Center is used as an overflow. They have the capacity to serve about 1,300 people at a time. In winter 2023-2024, the cost to serve hit $2.9 million. That\u2019s more than triple what the city expected in its budget.",
+      "content": "\u201cIf you have eyes to see and ears to hear, you can see the problem,\u201d said Pastor Wayne Walker, OurCalling CEO. For Walker, it\u2019s even harder to ignore. \u201cWe have about 8.5 million people in the metroplex now, and we need more spaces,\u201d Walker said. Many are especially reminded of this during inclement weather, so the city of Dallas has been considering changing its policy. \u201cIf we think about this as your own family member stuck out in the cold or your own family member out under a bridge, it really changes the conversation to how do we care for people and not how do we cage them or move them or shift them or get them out of sight, out of mind,\u201c he said. Walker runs OurCalling which helps unhoused populations in Dallas County. As it currently stands, Fair Park is the primary location to shelter individuals during inclement weather. The Austin Street Center is used as an overflow. They have the capacity to serve about 1,300 people at a time. In winter 2023-2024, the cost to serve hit $2.9 million. That\u2019s more than triple what the city expected in its budget."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "01fa5b9be89d717c4b894e3e20cc330702c9a093f7449a4e20dbea8b0d5a19bd-1",
+        "idx": 1,
+        "hash": "dc84846914d2dceaa9332b2ecf3c03bfc94db452f0030d54fdfb972a179205c6",
+        "sim_hash": "3214069866780202650"
+      },
+      "content_original": "\u201cThe problem is even at Fair Park, as great as it is, it doesn't have showers, it doesn't have a commercial kitchen,\u201d Walker said. In December, the city\u2019s office of emergency management & crisis response proposed a two-level approach: one for short-term warming operation and another for extended sheltering. Both would make more use of city-contracted and permitted warming locations such as OurCalling. Walker said the city is also looking at temperature requirements and how long. \u201cInstead of it being freezing, it's going to be below freezing, and instead of it being for three hours, it's got to be four hours,\u201d Walker said. \u201cWe've been doing it where we serve hot meals, three meals a day, but it looks like it might be moving to where they're not serving meals at all.\u201d Dallas City Council is expected to discuss the plan this January. The proposal outlines better budgeting, less demand for on-duty city staff, and avoids using recreation centers as overnight warming locations. Meanwhile, Walker said one large facility would work best, but until then, they plan to continue the service they currently provide. \u201cWe are committed to making sure our neighbors have a safe place to go, regardless of what the city does,\u201d Walker said.",
+      "content": "\u201cThe problem is even at Fair Park, as great as it is, it doesn't have showers, it doesn't have a commercial kitchen,\u201d Walker said. In December, the city\u2019s office of emergency management & crisis response proposed a two-level approach: one for short-term warming operation and another for extended sheltering. Both would make more use of city-contracted and permitted warming locations such as OurCalling. Walker said the city is also looking at temperature requirements and how long. \u201cInstead of it being freezing, it's going to be below freezing, and instead of it being for three hours, it's got to be four hours,\u201d Walker said. \u201cWe've been doing it where we serve hot meals, three meals a day, but it looks like it might be moving to where they're not serving meals at all.\u201d Dallas City Council is expected to discuss the plan this January. The proposal outlines better budgeting, less demand for on-duty city staff, and avoids using recreation centers as overnight warming locations. Meanwhile, Walker said one large facility would work best, but until then, they plan to continue the service they currently provide. \u201cWe are committed to making sure our neighbors have a safe place to go, regardless of what the city does,\u201d Walker said."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "01fa5b9be89d717c4b894e3e20cc330702c9a093f7449a4e20dbea8b0d5a19bd-1",
+        "idx": 1,
+        "hash": "dc84846914d2dceaa9332b2ecf3c03bfc94db452f0030d54fdfb972a179205c6",
+        "sim_hash": "3214069866780202650"
+      },
+      "content_original": "\u201cThe problem is even at Fair Park, as great as it is, it doesn't have showers, it doesn't have a commercial kitchen,\u201d Walker said. In December, the city\u2019s office of emergency management & crisis response proposed a two-level approach: one for short-term warming operation and another for extended sheltering. Both would make more use of city-contracted and permitted warming locations such as OurCalling. Walker said the city is also looking at temperature requirements and how long. \u201cInstead of it being freezing, it's going to be below freezing, and instead of it being for three hours, it's got to be four hours,\u201d Walker said. \u201cWe've been doing it where we serve hot meals, three meals a day, but it looks like it might be moving to where they're not serving meals at all.\u201d Dallas City Council is expected to discuss the plan this January. The proposal outlines better budgeting, less demand for on-duty city staff, and avoids using recreation centers as overnight warming locations. Meanwhile, Walker said one large facility would work best, but until then, they plan to continue the service they currently provide. \u201cWe are committed to making sure our neighbors have a safe place to go, regardless of what the city does,\u201d Walker said.",
+      "content": "\u201cThe problem is even at Fair Park, as great as it is, it doesn't have showers, it doesn't have a commercial kitchen,\u201d Walker said. In December, the city\u2019s office of emergency management & crisis response proposed a two-level approach: one for short-term warming operation and another for extended sheltering. Both would make more use of city-contracted and permitted warming locations such as OurCalling. Walker said the city is also looking at temperature requirements and how long. \u201cInstead of it being freezing, it's going to be below freezing, and instead of it being for three hours, it's got to be four hours,\u201d Walker said. \u201cWe've been doing it where we serve hot meals, three meals a day, but it looks like it might be moving to where they're not serving meals at all.\u201d Dallas City Council is expected to discuss the plan this January. The proposal outlines better budgeting, less demand for on-duty city staff, and avoids using recreation centers as overnight warming locations. Meanwhile, Walker said one large facility would work best, but until then, they plan to continue the service they currently provide. \u201cWe are committed to making sure our neighbors have a safe place to go, regardless of what the city does,\u201d Walker said."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "01fa5b9be89d717c4b894e3e20cc330702c9a093f7449a4e20dbea8b0d5a19bd-0",
+        "idx": 0,
+        "hash": "cd637cabc06aabe8b1a7a2454d19bb38600b3c4cf589bde20a47d90ee80402b3",
+        "sim_hash": "17738882829734288634"
+      },
+      "content_original": "\u201cIf you have eyes to see and ears to hear, you can see the problem,\u201d said Pastor Wayne Walker, OurCalling CEO. For Walker, it\u2019s even harder to ignore. \u201cWe have about 8.5 million people in the metroplex now, and we need more spaces,\u201d Walker said. Many are especially reminded of this during inclement weather, so the city of Dallas has been considering changing its policy. \u201cIf we think about this as your own family member stuck out in the cold or your own family member out under a bridge, it really changes the conversation to how do we care for people and not how do we cage them or move them or shift them or get them out of sight, out of mind,\u201c he said. Walker runs OurCalling which helps unhoused populations in Dallas County. As it currently stands, Fair Park is the primary location to shelter individuals during inclement weather. The Austin Street Center is used as an overflow. They have the capacity to serve about 1,300 people at a time. In winter 2023-2024, the cost to serve hit $2.9 million. That\u2019s more than triple what the city expected in its budget.",
+      "content": "\u201cIf you have eyes to see and ears to hear, you can see the problem,\u201d said Pastor Wayne Walker, OurCalling CEO. For Walker, it\u2019s even harder to ignore. \u201cWe have about 8.5 million people in the metroplex now, and we need more spaces,\u201d Walker said. Many are especially reminded of this during inclement weather, so the city of Dallas has been considering changing its policy. \u201cIf we think about this as your own family member stuck out in the cold or your own family member out under a bridge, it really changes the conversation to how do we care for people and not how do we cage them or move them or shift them or get them out of sight, out of mind,\u201c he said. Walker runs OurCalling which helps unhoused populations in Dallas County. As it currently stands, Fair Park is the primary location to shelter individuals during inclement weather. The Austin Street Center is used as an overflow. They have the capacity to serve about 1,300 people at a time. In winter 2023-2024, the cost to serve hit $2.9 million. That\u2019s more than triple what the city expected in its budget."
+    },
+    {
+      "include": true,
+      "schema_version": "2.0",
+      "chunk_metadata": {
+        "id": "01fa5b9be89d717c4b894e3e20cc330702c9a093f7449a4e20dbea8b0d5a19bd-0",
+        "idx": 0,
+        "hash": "cd637cabc06aabe8b1a7a2454d19bb38600b3c4cf589bde20a47d90ee80402b3",
+        "sim_hash": "17738882829734288634"
+      },
+      "content_original": "\u201cIf you have eyes to see and ears to hear, you can see the problem,\u201d said Pastor Wayne Walker, OurCalling CEO. For Walker, it\u2019s even harder to ignore. \u201cWe have about 8.5 million people in the metroplex now, and we need more spaces,\u201d Walker said. Many are especially reminded of this during inclement weather, so the city of Dallas has been considering changing its policy. \u201cIf we think about this as your own family member stuck out in the cold or your own family member out under a bridge, it really changes the conversation to how do we care for people and not how do we cage them or move them or shift them or get them out of sight, out of mind,\u201c he said. Walker runs OurCalling which helps unhoused populations in Dallas County. As it currently stands, Fair Park is the primary location to shelter individuals during inclement weather. The Austin Street Center is used as an overflow. They have the capacity to serve about 1,300 people at a time. In winter 2023-2024, the cost to serve hit $2.9 million. That\u2019s more than triple what the city expected in its budget.",
+      "content": "\u201cIf you have eyes to see and ears to hear, you can see the problem,\u201d said Pastor Wayne Walker, OurCalling CEO. For Walker, it\u2019s even harder to ignore. \u201cWe have about 8.5 million people in the metroplex now, and we need more spaces,\u201d Walker said. Many are especially reminded of this during inclement weather, so the city of Dallas has been considering changing its policy. \u201cIf we think about this as your own family member stuck out in the cold or your own family member out under a bridge, it really changes the conversation to how do we care for people and not how do we cage them or move them or shift them or get them out of sight, out of mind,\u201c he said. Walker runs OurCalling which helps unhoused populations in Dallas County. As it currently stands, Fair Park is the primary location to shelter individuals during inclement weather. The Austin Street Center is used as an overflow. They have the capacity to serve about 1,300 people at a time. In winter 2023-2024, the cost to serve hit $2.9 million. That\u2019s more than triple what the city expected in its budget."
+    }
+  ],
+  "ingest_metadata": [
+    {
+      "_id": "3f8d4bd7-b9f5-4c67-bc46-318fdb336453",
+      "timestamp": "2026-01-02T04:02:54.877000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "2d5d0101-211e-45e1-8195-70fc0686d70d",
+      "version": "2.3",
+      "date": "2026-01-02",
+      "chunking": {
+        "strategy": "simple",
+        "chunks_count": 3
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "none",
+        "model": "none",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 3,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "01fa5b9be89d717c4b894e3e20cc330702c9a093f7449a4e20dbea8b0d5a19bd"
+    },
+    {
+      "_id": "d30845bf-5d08-4cc5-a609-94172c2bd669",
+      "timestamp": "2026-01-14T08:02:06.790000",
+      "success": true,
+      "failure_reason": null,
+      "publisher_id": "2d5d0101-211e-45e1-8195-70fc0686d70d",
+      "version": "2.3",
+      "date": "2026-01-14",
+      "chunking": {
+        "service": "PrtDocumentInference",
+        "chunkingStrategy": "llm_semantic_batch",
+        "llmPromptVersion": "v1.0.3",
+        "batchId": "7931aa3c-edaa-4525-b054-49e74f76c5f1",
+        "chunkingRequestId": "cfa85a6b-8db5-4984-a844-a00d45603607",
+        "totalChunks": 2,
+        "processingTime": 1051132659,
+        "processingTimestamp": "2026-01-14T08:02:01.217021+00:00",
+        "tokenUsage": {
+          "total_tokens": 2150,
+          "prompt_tokens": 1633,
+          "completion_tokens": 517,
+          "model_version": "gemini-2.5-flash-lite"
+        },
+        "wasRepaired": false,
+        "repairMetadata": null,
+        "has_existing_chunks": true,
+        "chunks_count": 2
+      },
+      "context_generating": {
+        "strategy": "none"
+      },
+      "embedding": {
+        "provider": "voyage",
+        "model": "voyage-3-large",
+        "dimension": 2048,
+        "data_type": "binary"
+      },
+      "indexing": {
+        "chunks_success_count": 2,
+        "chunks_failed_count": 0,
+        "index_names": [
+          "publishers_index_v2"
+        ]
+      },
+      "document_id": "01fa5b9be89d717c4b894e3e20cc330702c9a093f7449a4e20dbea8b0d5a19bd"
+    }
+  ],
+  "raw_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\">\r\n  <channel>\r\n    <title>Standardized Rss</title>\r\n    <link>https://www.wfaa.com/</link>\r\n    <description>WFAA Standardized Rss Feed</description>\r\n    <item>\r\n      <title>Dallas City Council to debate new emergency winter shelter plan for unhoused population</title>\r\n      <link>https://www.wfaa.com/article/news/local/dallas-city-council-to-debate-new-emergency-winter-shelter-plan-for-unhoused-population/287-cf5ceba8-eee3-4512-aab3-439cf2456311</link>\r\n      <description>The proposal outlines better budgeting, less demand for on-duty city staff and avoids using recreation centers as overnight warming locations.</description>\r\n      <guid isPermaLink=\"false\">cf5ceba8-eee3-4512-aab3-439cf2456311</guid>\r\n      <content:encoded><![CDATA[<p>It\u2019s hard to look past.&nbsp;</p><p>\u201cIf you have eyes to see and ears to hear, you can see the problem,\u201d said Pastor Wayne Walker, <a href=\"https://www.ourcalling.org/\" target=\"_blank\" rel=\"noopener noreferrer\">OurCalling</a> CEO.</p><p>For Walker, it\u2019s even harder to ignore.&nbsp;</p><p>\u201cWe have about 8.5 million people in the metroplex now, and we need more spaces,\u201d Walker said.</p><p>Many are especially reminded of this <a href=\"/article/news/local/dallas-county/outreach-centers-opening-warm-refuges-help-dallas-homeless-people-dropping-temperatures/287-118e3867-f8e9-4f57-a134-89b70de76180\" target=\"_blank\" rel=\"noopener noreferrer\">during inclement weather</a>, so the city of Dallas has been considering changing its policy.</p><p>\u201cIf we think about this as your own family member stuck out in the cold or your own family member out under a bridge, it really changes the conversation to how do we care for people and not how do we cage them or move them or shift them or get them out of sight, out of mind,\" he said.</p><p>Walker runs OurCalling which helps unhoused populations in Dallas County.</p><p>As it currently stands, Fair Park is the primary location to shelter individuals during inclement weather. The <a href=\"https://austinstreet.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Austin Street Center</a> is used as an overflow.</p><p>They have the capacity to serve about 1,300 people at a time.</p><p>In winter 2023-2024, the cost to serve hit $2.9 million. That\u2019s more than triple what the city expected in its budget.</p><p>\u201cThe problem is even at <a href=\"https://www.fairpark.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Fair Park</a>, as great as it is, it doesn't have showers, it doesn't have a commercial kitchen,\u201d Walker said.</p><p>In December, the city\u2019s <a href=\"https://dallascityhall.com/departments/officeemergencymanagement/Pages/default.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">office of emergency management &amp; crisis response</a> proposed a two-level approach: one for short-term warming operation and another for extended sheltering.</p><p>Both would make more use of city-contracted and permitted warming locations such as OurCalling.</p><p>Walker said the city is also looking at temperature requirements and how long.</p><p>\u201cInstead of it being freezing, it's going to be below freezing, and instead of it being for three hours, it's got to be four hours,\u201d Walker said. \u201cWe've been doing it where we serve hot meals, three meals a day, but it looks like it might be moving to where they're not serving meals at all.\u201d</p><p>Dallas City Council is expected to discuss the plan this January. The proposal outlines better budgeting, less demand for on-duty city staff, and avoids using recreation centers as overnight warming locations.</p><p>Meanwhile, Walker said one large facility would work best, but until then, they plan to continue the service they currently provide.&nbsp;</p><p>\u201cWe are committed to making sure our neighbors have a safe place to go, regardless of what the city does,\u201d Walker said.</p><p>&nbsp;</p>]]></content:encoded>\r\n      <media:thumbnail url=\"https://media.tegna-media.com/assets/WFAA/images/fec09d5c-8236-4a44-82b7-0fdee28a82fa/20250220T035836/fec09d5c-8236-4a44-82b7-0fdee28a82fa.jpg\" />\r\n    </item>\r\n  </channel>\r\n</rss>\r\n",
+  "markdown_content": "It\u2019s hard to look past.\n\n\u201cIf you have eyes to see and ears to hear, you can see the problem,\u201d said Pastor Wayne Walker, [OurCalling](https://www.ourcalling.org/) CEO.\n\nFor Walker, it\u2019s even harder to ignore.\n\n\u201cWe have about 8.5 million people in the metroplex now, and we need more spaces,\u201d Walker said.\n\nMany are especially reminded of this [during inclement weather](/article/news/local/dallas-county/outreach-centers-opening-warm-refuges-help-dallas-homeless-people-dropping-temperatures/287-118e3867-f8e9-4f57-a134-89b70de76180), so the city of Dallas has been considering changing its policy.\n\n\u201cIf we think about this as your own family member stuck out in the cold or your own family member out under a bridge, it really changes the conversation to how do we care for people and not how do we cage them or move them or shift them or get them out of sight, out of mind,\" he said.\n\nWalker runs OurCalling which helps unhoused populations in Dallas County.\n\nAs it currently stands, Fair Park is the primary location to shelter individuals during inclement weather. The [Austin Street Center](https://austinstreet.org/) is used as an overflow.\n\nThey have the capacity to serve about 1,300 people at a time.\n\nIn winter 2023-2024, the cost to serve hit $2.9 million. That\u2019s more than triple what the city expected in its budget.\n\n\u201cThe problem is even at [Fair Park](https://www.fairpark.org/), as great as it is, it doesn't have showers, it doesn't have a commercial kitchen,\u201d Walker said.\n\nIn December, the city\u2019s [office of emergency management & crisis response](https://dallascityhall.com/departments/officeemergencymanagement/Pages/default.aspx) proposed a two-level approach: one for short-term warming operation and another for extended sheltering.\n\nBoth would make more use of city-contracted and permitted warming locations such as OurCalling.\n\nWalker said the city is also looking at temperature requirements and how long.\n\n\u201cInstead of it being freezing, it's going to be below freezing, and instead of it being for three hours, it's got to be four hours,\u201d Walker said. \u201cWe've been doing it where we serve hot meals, three meals a day, but it looks like it might be moving to where they're not serving meals at all.\u201d\n\nDallas City Council is expected to discuss the plan this January. The proposal outlines better budgeting, less demand for on-duty city staff, and avoids using recreation centers as overnight warming locations.\n\nMeanwhile, Walker said one large facility would work best, but until then, they plan to continue the service they currently provide.\n\n\u201cWe are committed to making sure our neighbors have a safe place to go, regardless of what the city does,\u201d Walker said."
+}
